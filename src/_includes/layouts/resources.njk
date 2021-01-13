@@ -1,6 +1,6 @@
 {% extends "layouts/base.njk" %}
 
-{% set bodyClass = "posts" %}
+{% set bodyClass = "resources" %}
 
 {% block pageHeader %}
 <header>
@@ -9,8 +9,8 @@
 {% endblock %}
 
 {% block content %}
-{% if posts.length %}
-    {% for item in posts %}
+{% if resources.length %}
+    {% for item in resources %}
         <article class="entry">
             <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
             <p class="metadata"><time datetime="{{ item.data.date | isoDate }}" class="dt-published">{{ item.data.date | formatDate }}</time></p>

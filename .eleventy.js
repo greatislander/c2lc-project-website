@@ -23,9 +23,6 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlMinTransform = require("./src/transforms/html-min-transform.js");
 const parseTransform = require("./src/transforms/parse-transform.js");
 
-// Import data files
-const site = require("./src/_data/site.json");
-
 module.exports = function (config) {
     config.setUseGitIgnore(false);
 
@@ -41,17 +38,11 @@ module.exports = function (config) {
     const now = new Date();
 
     // Custom collections
-    const livePosts = post => post.date <= now && !post.data.draft;
-    config.addCollection("posts", collection => {
+    const liveResources = resource => resource.date <= now && !resource.data.draft;
+    config.addCollection("resources", collection => {
         return [
-            ...collection.getFilteredByGlob("./src/posts/*.md").filter(livePosts)
+            ...collection.getFilteredByGlob("./src/resources/*.md").filter(liveResources)
         ];
-    });
-    // The following collection is used to distribute posts into different pages. However, the default pagination has not been set in fluidproject.org and all posts are shown on single page
-    config.addCollection("postFeed", collection => {
-        return [...collection.getFilteredByGlob("./src/posts/*.md").filter(livePosts)]
-            .reverse()
-            .slice(0, site.maxPostsPerPage);
     });
 
     // Plugins
