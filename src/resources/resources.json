@@ -1,3 +1,4 @@
 {
-    "layout": "layouts/resource"
+    "layout": "layouts/resource",
+    "permalink": "/learn/resources/{{ title | slug }}/"
 }

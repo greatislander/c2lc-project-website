@@ -1,0 +1,42 @@
+
+backend:
+  name: git-gateway
+  branch: main
+publish_mode: editorial_workflow
+site_url: "https://c2lc-project.netlify.app"
+media_folder: "src/assets/images"
+public_folder: "/assets/images"
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: "src/pages"
+    slug: "{{slug}}"
+    preview_path: "{{slug}}"
+    create: true
+    filter: {field: "editable", value: true}
+    fields:
+      - {label: "Editable", name: "editable", widget: hidden, default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
+      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: resources
+    label: Accessible Coding Resources
+    label_singular: Accessible Coding Resource
+    folder: "src/resources"
+    slug: "{{slug}}"
+    preview_path: "/learn/resources/{{slug}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", timeFormat: false}
+      - {label: "Author", name: "author", widget: "string", required: false, default: "IDRC Team"}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
+      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}

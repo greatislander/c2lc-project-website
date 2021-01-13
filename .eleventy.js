@@ -34,6 +34,8 @@ module.exports = function (config) {
     config.addPassthroughCopy({"src/assets/icons": "/"});
     config.addPassthroughCopy({"src/assets/images": "assets/images"});
     config.addPassthroughCopy({"src/posts/images": "posts/images"});
+    config.addPassthroughCopy("src/admin/config.yml");
+    config.addPassthroughCopy("src/admin/*.js");
 
     const now = new Date();
 
