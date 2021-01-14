@@ -52,7 +52,6 @@ collections:
     preview_path: "/learn/activities/{{slug}}"
     editor:
       preview: false
-    preview: false
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -80,7 +79,6 @@ collections:
     preview_path: "/learn/lesson-plans/{{slug}}"
     editor:
       preview: false
-    preview: false
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -108,3 +106,19 @@ collections:
         fields:
         - {label: "Label", name: "label", widget: "string"}
         - {label: "File", name: "file", widget: "file"}
+  - name: events
+    label: Events
+    label_singular: Event
+    folder: "src/events"
+    preview_path: "/community/events/"
+    editor:
+      preview: false
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", timeFormat: false}
+      - {label: "Category", name: "category", widget: "select", options: ["Conferences", "Workshops", "Talks", "Camps"]}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
+      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}

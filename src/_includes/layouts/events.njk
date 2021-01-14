@@ -1,0 +1,27 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "events" %}
+
+{% block pageHeader %}
+<header>
+    <h1>{{ title }}</h1>
+    {% if subtitle %}
+    <p class="subtitle">{{ subtitle | safe }}</p>
+    {% endif %}
+</header>
+{% endblock %}
+
+{% block content %}
+{% if events.length %}
+    {% for item in events | reverse %}
+        <article class="entry">
+            <h2>{{ item.data.title }}</h2>
+            <p class="metadata"><span class="category">{{ item.data.category }}</span> &middot; <span class="date" itemprop="startDate" content="{{ item.data.date | isoDate }}">{{ item.data.date | formatDate }}</meta></p>
+            {% if item.data.description %}
+            <p>{{ item.data.description | safe }}</p>
+            {% endif %}
+            <p><a href="{{ item.data.link }}">Visit website<span class="visually-hidden"> for &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
+        </article>
+    {% endfor %}
+{% endif %}
+{% endblock %}

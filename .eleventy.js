@@ -59,6 +59,12 @@ module.exports = function (config) {
         ];
     });
 
+    config.addCollection("events", collection => {
+        return [
+            ...collection.getFilteredByGlob("./src/events/*.md")
+        ];
+    });
+
     // Plugins
     config.addPlugin(fluidPlugin);
     config.addPlugin(navigationPlugin);
