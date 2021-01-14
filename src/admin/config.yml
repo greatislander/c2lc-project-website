@@ -4,8 +4,8 @@ backend:
   branch: main
 publish_mode: editorial_workflow
 site_url: "https://c2lc-project.netlify.app"
-media_folder: "src/assets/images"
-public_folder: "/assets/images"
+media_folder: "src/assets/media"
+public_folder: "/assets/media"
 collections:
   - name: pages
     label: Pages
@@ -13,6 +13,8 @@ collections:
     folder: "src/pages"
     slug: "{{slug}}"
     preview_path: "{{slug}}"
+    editor:
+      preview: false
     create: true
     filter: {field: "editable", value: true}
     fields:
@@ -25,11 +27,13 @@ collections:
       - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: resources
-    label: Accessible Coding Resources
-    label_singular: Accessible Coding Resource
+    label: Coding Resources
+    label_singular: Coding Resource
     folder: "src/resources"
     slug: "{{slug}}"
     preview_path: "/learn/resources/{{slug}}"
+    editor:
+      preview: false
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -46,6 +50,8 @@ collections:
     folder: "src/activities"
     slug: "{{slug}}"
     preview_path: "/learn/activities/{{slug}}"
+    editor:
+      preview: false
     preview: false
     create: true
     fields:
@@ -58,11 +64,47 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "string", required: false}
       - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
       - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-        default: "## Description\n\n## Steps\n\n## Tips\n\n## Skill Development\n\n## Level Up!\n\n"
       - label: "What You Need"
         name: "whatYouNeed"
         widget: "markdown"
         default: "### Tools\n\n### Skills\n\n### Environment\n\n### Support\n\n"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        default: "## Description\n\n## Steps\n\n## Tips\n\n## Skill Development\n\n## Level Up!\n\n"
+  - name: lessonPlans
+    label: Lesson Plans
+    label_singular: Lesson Plan
+    folder: "src/lesson-plans"
+    slug: "{{slug}}"
+    preview_path: "/learn/lesson-plans/{{slug}}"
+    editor:
+      preview: false
+    preview: false
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Robot", name: "robot", widget: "select", options: ["Cubetto", "Dash & Dot", "Cubeletes"]}
+      - {label: "Coding Experience Level", name: "experience", widget: "select", options: ["No Coding Experience", "Unplugged Coding Experience", "Blockly Coding Experience"]}
+      - {label: "Topic", name: "topic", widget: "select", options: ["Sequencing", "Repeating Patterns", "Loops", "Debugging", "Conditions"]}
+      - {label: "Related Lesson Plans", name: "relatedLessonPlans", widget: "relation", collection: "lessonPlans", search_fields: ["title"], value_field: "title", display_fields: "title", multiple: true, required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
+      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
+      - label: "What You Need"
+        name: "whatYouNeed"
+        widget: "markdown"
+        default: "### Tools\n\n### Skills\n\n### Environment\n\n### Support\n\n"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        default: "## Lesson Objectives\n\n## Description\n\n## Steps\n\n## Curriculum Connections\n\n## Accessibility Considerations\n\n## Skill Development"
+      - label: "Supportive Material"
+        name: "supportiveMaterial"
+        widget: "list"
+        summary: "{{fields.label}}"
+        required: false
+        fields:
+        - {label: "Label", name: "label", widget: "string"}
+        - {label: "File", name: "file", widget: "file"}

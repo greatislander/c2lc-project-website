@@ -33,7 +33,7 @@ module.exports = function (config) {
     // Passthrough copy
     config.addPassthroughCopy({"src/assets/icons": "/"});
     config.addPassthroughCopy({"src/assets/images": "assets/images"});
-    config.addPassthroughCopy({"src/posts/images": "posts/images"});
+    config.addPassthroughCopy({"src/assets/media": "assets/media"});
     config.addPassthroughCopy("src/admin/config.yml");
     config.addPassthroughCopy("src/admin/*.js");
 
@@ -50,6 +50,12 @@ module.exports = function (config) {
     config.addCollection("activities", collection => {
         return [
             ...collection.getFilteredByGlob("./src/activities/*.md")
+        ];
+    });
+
+    config.addCollection("lessonPlans", collection => {
+        return [
+            ...collection.getFilteredByGlob("./src/lesson-plans/*.md")
         ];
     });
 

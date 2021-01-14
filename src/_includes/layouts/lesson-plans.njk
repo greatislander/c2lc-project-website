@@ -1,0 +1,23 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "lesson-plans" %}
+
+{% block pageHeader %}
+<header>
+    <h1>{{ title }}</h1>
+</header>
+{% endblock %}
+
+{% block content %}
+{% if lessonPlans.length %}
+    {% for item in lessonPlans %}
+        <article class="entry">
+            <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+            <p class="metadata">{{ item.data.robot }} &middot; {{ item.data.experience }} &middot; {{ item.data.topic }}</p>
+            {% if item.data.description %}
+            <p>{{ item.data.description | safe }}</p>
+            {% endif %}
+        </article>
+    {% endfor %}
+{% endif %}
+{% endblock %}

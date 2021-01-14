@@ -15,3 +15,10 @@ coding education.
 ## Activities Library
 
 [Check out activities](/learn/activities/)
+
+## Lesson Plans
+
+This collection of lesson plans are created with the K-12 coding curriculum in mind. These aim to support educators to
+teach basic concepts of coding to learners with unique needs.
+
+[Check out lesson plans](/learn/lesson-plans/)

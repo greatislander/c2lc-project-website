@@ -1,0 +1,50 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "lesson-plan" %}
+
+{% block pageHeader %}
+<header>
+    <h1>{{ title }}</h1>
+    <p class="tags">
+        <span class="tag">{{ robot }}</span> &middot; <span class="tag">{{ experience }}</span> &middot; <span class="tag">{{ topic }}</span>
+    </p>
+</header>
+{% endblock %}
+
+{% block sidebar %}
+<div class="sidebar">
+    <h2>What you need</h2>
+    {{ whatYouNeed | markdown | safe }}
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="content">
+    {{ content | safe }}
+    {% if supportiveMaterial %}
+    <h2>Supportive Materials</h2>
+    {% for item in supportiveMaterial %}
+    <p>{{ item.label }} &middot; <a href="{{ item.file }}">Download File<span class="visually-hidden"> &ldquo;{{ item.label }}&rdquo;</span></a></p>
+    {% endfor %}
+    {% endif %}
+    {% if relatedLessonPlans %}
+    <div class="related-activities">
+        <h2>You may like this:</h2>
+        {% for relatedLessonPlan in relatedLessonPlans %}
+            {% for lessonPlan in collections.lessonPlans %}
+                {% if lessonPlan.data.title == relatedLessonPlan %}
+                    {% set item = lessonPlan %}
+                    <article class="entry">
+                        <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+                        <p class="metadata">{{ item.data.robot }} &middot; {{ item.data.experience }} &middot; {{ item.data.topic }}</p>
+                        {% if item.data.description %}
+                        <p>{{ item.data.description | safe }}</p>
+                        {% endif %}
+                    </article>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
