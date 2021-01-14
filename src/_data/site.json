@@ -1,9 +1,8 @@
 {
-    "name": "Fluid Project",
-    "shortDesc": "Fluid is an open, collaborative project to improve the user experience and inclusiveness of open source software.",
-    "url": "https://www.fluidproject.org",
+    "name": "Coding to Learn and Create",
+    "shortDesc": "This toolkit aims to provide teachers with a broad range of resources to support their students’ individual needs and preferences. We encourage the education community to contribute to the content of this toolkit and share their strategies, techniques and activities here to build a rich resource that can address diverse needs.",
+    "url": "https://resources.codelearncreate.org",
     "authorName": "OCAD University",
     "authorWebsite": "https://www.ocadu.ca/",
-    "faviconPath": "{{ '/' | url }}files/images/favicon.ico",
-    "title": "Fluid Project - The Open Source Software community"
+    "title": "Coding to Learn and Create Educator's Toolkit"
 }

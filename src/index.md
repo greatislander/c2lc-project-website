@@ -1,6 +1,6 @@
 ---
 layout: layouts/base
-title: Fluidic Eleventy
+title: Coding to Learn and Create
 eleventyNavigation:
     key: Home
     order: 0

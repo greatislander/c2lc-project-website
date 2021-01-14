@@ -47,6 +47,12 @@ module.exports = function (config) {
         ];
     });
 
+    config.addCollection("activities", collection => {
+        return [
+            ...collection.getFilteredByGlob("./src/activities/*.md")
+        ];
+    });
+
     // Plugins
     config.addPlugin(fluidPlugin);
     config.addPlugin(navigationPlugin);

@@ -11,3 +11,7 @@ Here you can find a collection of techniques and strategies to help create and s
 coding education.
 
 [Check out resources](/learn/resources/)
+
+## Activities Library
+
+[Check out activities](/learn/activities/)

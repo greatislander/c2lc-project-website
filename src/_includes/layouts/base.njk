@@ -20,6 +20,8 @@
                 </header>
                 {% endblock %}
                 <nav class="flc-toc-tocContainer"></nav>
+                {% block sidebar %}
+                {% endblock %}
                 {% block content %}
                 <div class="content">
                 {{ content | safe }}

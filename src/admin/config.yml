@@ -40,3 +40,29 @@ collections:
       - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
       - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: activities
+    label: Activities
+    label_singular: Activity
+    folder: "src/activities"
+    slug: "{{slug}}"
+    preview_path: "/learn/activities/{{slug}}"
+    preview: false
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Type", name: "type", widget: "select", options: ["Unplugged", "On-Screen", "Hybrid"]}
+      - {label: "Coding Experience Level", name: "experience", widget: "select", options: ["No Coding Experience", "Unplugged Coding Experience", "Blockly Coding Experience"]}
+      - {label: "Subject", name: "subject", widget: "select", options: ["Drawings", "Music", "Games", "Stories"]}
+      - {label: "Related Activities", name: "relatedActivities", widget: "relation", collection: "activities", search_fields: ["title"], value_field: "title", display_fields: "title", multiple: true, required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
+      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        default: "## Description\n\n## Steps\n\n## Tips\n\n## Skill Development\n\n## Level Up!\n\n"
+      - label: "What You Need"
+        name: "whatYouNeed"
+        widget: "markdown"
+        default: "### Tools\n\n### Skills\n\n### Environment\n\n### Support\n\n"

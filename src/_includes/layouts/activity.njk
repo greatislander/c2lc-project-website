@@ -1,0 +1,44 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "activity" %}
+
+{% block pageHeader %}
+<header>
+    <h1>{{ title }}</h1>
+    <p class="tags">
+        <span class="tag">{{ type }} Activity</span> &middot; <span class="tag">{{ experience }}</span> &middot; <span class="tag">{{ subject }}</span>
+    </p>
+</header>
+{% endblock %}
+
+{% block sidebar %}
+<div class="sidebar">
+    <h2>What you need</h2>
+    {{ whatYouNeed | markdown | safe }}
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="content">
+    {{ content | safe }}
+    {% if relatedActivities %}
+    <div class="related-activities">
+        <h2>You may like this:</h2>
+        {% for relatedActivity in relatedActivities %}
+            {% for activity in collections.activities %}
+                {% if activity.data.title == relatedActivity %}
+                    {% set item = activity %}
+                    <article class="entry">
+                        <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+                        <p class="metadata">{{ item.data.type }} &middot; {{ item.data.experience }} &middot; {{ item.data.subject }}</p>
+                        {% if item.data.description %}
+                        <p>{{ item.data.description | safe }}</p>
+                        {% endif %}
+                    </article>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
