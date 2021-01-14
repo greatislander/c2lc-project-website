@@ -1,6 +1,6 @@
 {% extends "layouts/base.njk" %}
 
-{% set bodyClass = "events" %}
+{% set bodyClass = "projects" %}
 
 {% block pageHeader %}
 <header>
@@ -12,11 +12,11 @@
 {% endblock %}
 
 {% block content %}
-{% if events.length %}
-    {% for item in events | reverse %}
+{% if projects.length %}
+    {% for item in projects %}
         <article class="entry">
             <h2>{{ item.data.title }}</h2>
-            <p class="metadata"><span class="category">{{ item.data.category }}</span> &middot; <span class="date" itemprop="startDate" content="{{ item.data.date | isoDate }}">{{ item.data.date | formatDate }}</span></p>
+            <p class="metadata"><span class="category">{{ item.data.category }}</span></p>
             {% if item.data.description %}
             <p>{{ item.data.description | safe }}</p>
             {% endif %}

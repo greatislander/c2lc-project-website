@@ -65,6 +65,12 @@ module.exports = function (config) {
         ];
     });
 
+    config.addCollection("projects", collection => {
+        return [
+            ...collection.getFilteredByGlob("./src/projects/*.md")
+        ];
+    });
+
     // Plugins
     config.addPlugin(fluidPlugin);
     config.addPlugin(navigationPlugin);

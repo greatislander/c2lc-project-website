@@ -8,3 +8,7 @@ eleventyNavigation:
 ## Latest Events
 
 [See more events](/community/events/)
+
+## Related Projects
+
+[See all projects](/community/projects/)
