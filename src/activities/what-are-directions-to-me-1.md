@@ -1,9 +1,9 @@
 ---
-title: What are directions to me
+title: 'Beginning, middle, and end'
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: 'In this activity, players learn and practice directions. '
+description: 'In this activity, players understand and practice sequencing'
 whatYouNeed: |-
   ### Tools
 
@@ -15,27 +15,27 @@ whatYouNeed: |-
 
   ### Environment
 
+  Any
+
   ### Support
 
   Adult moderator and one or more players
 ---
 ## Description
 
-This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Players will use their body to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding. Thus, try to use any available examples around the learner before moving to a virtual space.
+This activity engages learners to recognize events in a story and practice sequencing. Children's stories include simple sequences with which most kids are familiar. Understanding the logical order of events in a story helps learners to recognize sequences. Sequencing is an abstract concept and it takes a lot of practice to master. Developing this skill helps build the foundation for block coding.
 
 ## Steps
 
-* Review through the vocabulary of directions
-* Ask the learner to point in the direction that matches each vocabulary item
-* Ask the learner to identify which arm is right and left
-* Encourage learners to move according to each vocabulary item
+* Pick a story with which the learner is familiar
+* Show the pictures of events for the story and engage the learner to describe what can be noticed or what is happening
+* Ask the learner how they think the story would occur and order the pictures accordingly
 
 ## Tips
 
-* If a learner struggles with identifying the correct direction, let the learner say the incorrect answer and then provide the correction. On subsequent attempts, try to provide verbal or physical prompts to engage participation.
-* Use colored bracelets or stickers to support left and right to be remembered. Red and yellow are good choices for individuals with CVI.
-* Repetition is key for learning directions with physical movement. Try to reinforce with other activities with directions.
+* Try another story that would be funny or engaging for the learner
+* In situations in which the learner does not recognize the missed or misplaced step, perform the activity again in the correct order and explain the correct sequence of actions and events
 
 ## Skill Development
 
-* Directions
+* Sequencing (e.g. putting plot into correct order)
