@@ -20,6 +20,10 @@ whatYouNeed: |-
   ### Support
 
   Adult moderator and one or more players
+books:
+  - title: 'We’re Boing on a Bear Hunt '
+    author: 'Michael Rosen, Helen Oxenbury'
+    coverImage: /assets/media/we-re-going-on-a-bear-hunt.jpg
 ---
 ## Description
 
