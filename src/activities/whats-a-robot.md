@@ -35,7 +35,7 @@ To introduce them to robots you can use available videos on YouTube or read a pi
 
 * Show the introductory video
 * Talk with learners about the main characteristic of robots
-* Use this card deck to provide each learner with two options to choose the one that is a robot
+* Use this [card deck](https://drive.google.com/file/d/1VcOVXDzhnh6ybTqe7nRcTpBR5nf_g5mD/view?usp=sharing) to provide each learner with two options to choose the one that is a robot
 * Talk to them about their choices
 * Ask each learner to look around in their immediate environment and try to find anything that could be a robot and describe their reasons
 * If there is a robot available, demonstrate building a simple program and making the robot move based on your program
