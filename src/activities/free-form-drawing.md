@@ -20,6 +20,10 @@ whatYouNeed: |-
   ### Support
 
   Depends on the learner, could be independent or require assistance
+books:
+  - title: Little Red Riding Hood
+    author: Mary Alperin
+    coverImage: /assets/media/little-red-riding-hood.jpg
 ---
 ## Objectives
 
