@@ -42,6 +42,8 @@ In this activity, learners use the C2LC’s drawing canvas to create a drawing. 
 
 ## Skill Development
 
+* Drawing
+
 ## Level Up!
 
 * Ask learners to re-open their custom block and change different qualities, such as color, size, position, or line thickness
