@@ -4,8 +4,8 @@ type: On-Screen
 experience: Unplugged Coding Experience
 subject: Games
 description: >-
-  In this activity, players will build a sequence of different actions to
-  complete a mission.
+  This multi-level activity challenges players to build a sequence to complete a
+  mission.
 whatYouNeed: >-
   ### Tools
 
