@@ -63,6 +63,6 @@
         "stylus": "0.54.8",
         "stylus-loader": "4.3.2",
         "svelte": "3.31.2",
-        "svelte-loader": "2.13.6"
+        "svelte-loader": "3.0.0"
     }
 }
