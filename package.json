@@ -61,7 +61,7 @@
         "standard-version": "9.1.0",
         "stylus": "0.54.8",
         "stylus-loader": "4.3.3",
-        "svelte": "3.31.2",
+        "svelte": "3.32.1",
         "svelte-loader": "3.0.0"
     }
 }
