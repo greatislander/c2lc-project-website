@@ -1,0 +1,23 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "product" %}
+
+{% block pageHeader %}
+    <h1>{{ title }}</h1>
+    <p class="[ metadata ]">By <span class="[ manufacturer ]"><a href="{{ manufacturerLink }}" rel="external">{{ manufacturer }}</a></span> &middot; <span class="[ category ]">{{ category }}</span></p>
+{% endblock %}
+
+{% block content %}
+    <div class="[ prose ]">
+        {% if description %}
+        {{ description | markdown | safe }}
+        {% endif %}
+        <h2>Available Learning Resources</h2>
+        {% for resource in resources %}
+        <p class="[ learning-resource ]">
+            <span class="[ resource-description ]">{{ resource.description }}</span>
+            <span class="[ resource-link ]"><a href="{{ resource.link }}" rel="external">Visit website</a></span>
+        </p>
+        {% endfor %}
+    </div>
+{% endblock %}

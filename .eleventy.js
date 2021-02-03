@@ -143,9 +143,9 @@ module.exports = function (config) {
         ];
     });
 
-    config.addCollection("manufacturers", collection => {
+    config.addCollection("products", collection => {
         return [
-            ...collection.getFilteredByGlob("./src/manufacturers/*.md")
+            ...collection.getFilteredByGlob("./src/products/*.md")
         ];
     });
 

@@ -64,21 +64,21 @@ eleventyNavigation:
         <p><a href="/community/organizations/">See More Organizations</a></p>
     </div>
     <div class="[ flow ]">
-        <h3 aria-level="2">Manufacturers</h3>
+        <h3 aria-level="2">Products</h3>
         <div class="[ switcher ]">
             <div>
-                {% for item in collections.manufacturers | limit(3) %}
+                {% for item in collections.products | limit(3) %}
                 <div class="[ flow ]">
                     {% svgPlaceholder "680", "425" %}
                     <h2 aria-level="3">{{ item.data.title }}</h2>
                     {% if item.data.description %}
                     <p>{{ item.data.description | safe }}</p>
                     {% endif %}
-                    <p><a href="{{ item.data.link }}" rel="external">Learn more<span class="[ visually-hidden ]"> about &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
+                    <p><a href="{{ item.url }}">Learn more<span class="[ visually-hidden ]"> about &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
                 </div>
                 {% endfor %}
             </div>
         </div>
-        <p><a href="/community/manufacturers/">See More Manufacturers</a></p>
+        <p><a href="/community/products/">See More Products</a></p>
     </div>
 </div>
