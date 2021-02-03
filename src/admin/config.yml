@@ -127,6 +127,21 @@ collections:
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
       - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
+  - name: organizations
+    label: Organizations
+    label_singular: Organization
+    folder: "src/organizations"
+    preview_path: "/community/organizations/"
+    editor:
+      preview: false
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options: ["Accessible Education", "Coding Education"]}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
+      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
   - name: products
     label: Products
     label_singular: Product
