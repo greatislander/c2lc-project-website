@@ -45,7 +45,7 @@ In this activity, learners are introduced to the foundational concepts of direct
 
 * Emphasize that Cubetto can only travel in the direction it's facing
 * Ask learners to act out how Cubetto moves like a car
-* Place toys or any other interesting object on the Cubetto map and ask players to build a program to take Cubetto to that particular item.
+* Place toys or any other interesting object on the Cubetto map and ask players to build a program to take Cubetto to that particular item
 
 ## Curriculum Connections
 
