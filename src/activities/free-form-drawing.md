@@ -28,7 +28,7 @@ books: []
 
 ## Description
 
-In this activity, learners use the C2LC’s drawing canvas to create a drawing. They will have a set of basic tools to change their drawings. Learners are able to use touch or their AT to draw on this virtual canvas. Then, they can save their drawings as a custom action block and use it anywhere in their program. Learners are able to reopen these blocks and change their drawings later on**.**
+In this activity, learners use the C2LC’s drawing canvas to create a drawing. They will have a set of basic tools to change their drawings. Learners are able to use touch or their AT to draw on this virtual canvas. Then, they can save their drawings as a custom action block and use it anywhere in their program. Learners are able to reopen these blocks and change their drawings later on.
 
 ## Steps
 
