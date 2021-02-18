@@ -24,6 +24,7 @@ jobs:
           npm run lint
         env:
           CI: true
-      - name: Build with Docker
-        run: docker build .
+      - name: Build site
+        run: |
+          npm run build
 
