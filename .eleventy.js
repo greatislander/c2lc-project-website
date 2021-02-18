@@ -125,27 +125,9 @@ module.exports = function (config) {
         ];
     });
 
-    config.addCollection("events", collection => {
-        return [
-            ...collection.getFilteredByGlob("./src/events/*.md")
-        ];
-    });
-
     config.addCollection("projects", collection => {
         return [
             ...collection.getFilteredByGlob("./src/projects/*.md")
-        ];
-    });
-
-    config.addCollection("organizations", collection => {
-        return [
-            ...collection.getFilteredByGlob("./src/organizations/*.md")
-        ];
-    });
-
-    config.addCollection("products", collection => {
-        return [
-            ...collection.getFilteredByGlob("./src/products/*.md")
         ];
     });
 

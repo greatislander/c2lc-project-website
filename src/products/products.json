@@ -1,4 +1,0 @@
-{
-    "permalink": "/community/products/{{ title | slug }}/",
-    "layout": "layouts/product"
-}

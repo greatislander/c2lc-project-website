@@ -9,25 +9,6 @@ eleventyNavigation:
 ---
 <div class="[ flow ] [ flow-lg md:flow-xl ]">
     <div class="[ flow ]">
-        <h3 aria-level="2">Latest Events</h3>
-        {% for item in collections.events | limit(2) %}
-        <div class="[ three:two ]">
-            <div class="[ three:two__three ]">
-                {% svgPlaceholder "680", "425" %}
-            </div>
-            <div class="[ three:two__two ] [ flow ]">
-                <h1 aria-level="3">{{ item.data.title }}</h1>
-                <p class="[ metadata ]"><span class="[ category ]">{{ item.data.category }}</span> &middot; <span class="[ date ]" itemprop="startDate" content="{{ item.data.date | isoDate }}">{{ item.data.date | formatDate }}</span></p>
-                {% if item.data.description %}
-                <p>{{ item.data.description | safe }}</p>
-                {% endif %}
-                <p><a href="{{ item.data.link }}" rel="external">Read more<span class="[ visually-hidden ]"> about &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
-            </div>
-        </div>
-        {% endfor %}
-        <p><a href="/community/events/">See More Events</a></p>
-    </div>
-    <div class="[ flow ]">
         <h3 aria-level="2">Related Projects</h3>
         <div class="[ switcher ]">
             <div>
@@ -44,41 +25,5 @@ eleventyNavigation:
             </div>
         </div>
         <p><a href="/community/projects/">See More Projects</a></p>
-    </div>
-    <div class="[ flow ]">
-        <h3 aria-level="2">Organizations</h3>
-        <div class="[ switcher ]">
-            <div>
-                {% for item in collections.organizations | limit(3) %}
-                <div class="[ flow ]">
-                    {% svgPlaceholder "680", "425" %}
-                    <h2 aria-level="3">{{ item.data.title }}</h2>
-                    {% if item.data.description %}
-                    <p>{{ item.data.description | safe }}</p>
-                    {% endif %}
-                    <p><a href="{{ item.data.link }}" rel="external">Learn more<span class="[ visually-hidden ]"> about &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-        <p><a href="/community/organizations/">See More Organizations</a></p>
-    </div>
-    <div class="[ flow ]">
-        <h3 aria-level="2">Products</h3>
-        <div class="[ switcher ]">
-            <div>
-                {% for item in collections.products | limit(3) %}
-                <div class="[ flow ]">
-                    {% svgPlaceholder "680", "425" %}
-                    <h2 aria-level="3">{{ item.data.title }}</h2>
-                    {% if item.data.description %}
-                    <p>{{ item.data.description | safe }}</p>
-                    {% endif %}
-                    <p><a href="{{ item.url }}">Learn more<span class="[ visually-hidden ]"> about &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-        <p><a href="/community/products/">See More Products</a></p>
     </div>
 </div>
