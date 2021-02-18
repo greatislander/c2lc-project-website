@@ -3,7 +3,50 @@
 {% set bodyClass = "activities" %}
 
 {% block content %}
-<div id="activities"></div>
+<div id="activities">
+    <div class="[ flow-lg ]">
+        <filter-container class="[ filter ] [ flow ]" data-oninit>
+            <h2>Filter Activities</h2>
+            <form class="[ filters ]">
+                <label class="[ label ]" for="type">
+                    Type: 
+                    <select class="[ select ]" name="type" id="type" data-filter-bind="type">
+                        <option value="">Any Type</option>
+                        {% for type in activityTypes %}
+                        <option value="{{ type }}" data-slug="{{ type | slug }}">{{ type }}</option>
+                        {% endfor %}
+                    </select>
+                </label>
+                <label class="[ label ]" for="experience">
+                    Experience:        
+                    <select class="[ select ]" name="experience" id="experience" data-filter-bind="experience">
+                        <option value="">Any Level</option>
+                        {% for level in experienceLevels %}
+                        <option value="{{ level }}">{{ level }}</option>
+                        {% endfor %}
+                    </select>
+                </label>
+                <label class="[ label ]" for="subject">
+                    Subject:
+                    <select class="[ select ]" name="subject" id="subject" data-filter-bind="subject">
+                        <option value="">Any Subject</option>
+                        {% for subject in activitySubjects %}
+                        <option value="{{ subject }}">{{ subject }}</option>
+                        {% endfor %}
+                    </select>
+                </label>
+            </form>
+            <div class="[ alert ] [ alert--info ]" role="alert" aria-live="polite">
+            <p>Showing <strong data-filter-results="activity/activities">{{ collections.activities.length }} activities</strong>.</p>
+            </div>
+            <div class="[ grid ]">
+            {% for item in collections.activities %}
+                {% include "partials/components/card--activity.njk" %}
+            {% endfor %}
+            </div>
+        </filter-container>
+    </div>
+</div>
 <noscript class="[ flow-lg md:flow-xl ]">
     <div class="[ flow-md ]">
         <h2 id="unplugged">Unplugged Activities</h2>
@@ -45,5 +88,11 @@
         {% endif %}
     </div>
 </noscript>
-<script type="module" src="/assets/scripts/activities.module.js"></script>
+<script>
+let hash = window.location.hash.replace('#', '');
+let type = document.querySelector(`option[data-slug="${hash}"]`);
+if (type) {
+    type.selected = 'selected';
+}
+</script>
 {% endblock %}

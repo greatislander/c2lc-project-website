@@ -61,12 +61,13 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Author", name: "author", widget: "string"}
         - {label: "Cover Image", name: "coverImage", widget: "image"}
-  - name: lessonPlans
-    label: Lesson Plans
-    label_singular: Lesson Plan
-    folder: "src/lesson-plans"
+        - {label: "Link", name: "link", widget: "string"}
+  - name: robotActivities
+    label: Activities with Robots
+    label_singular: Activity
+    folder: "src/robot-activities"
     slug: "{{slug}}"
-    preview_path: "/learn/lesson-plans/{{slug}}"
+    preview_path: "/learn/robot-activities/{{slug}}"
     editor:
       preview: false
     create: true
@@ -88,6 +89,16 @@ collections:
         name: "body"
         widget: "markdown"
         default: "## Lesson Objectives\n\n## Description\n\n## Steps\n\n## Curriculum Connections\n\n## Accessibility Considerations\n\n## Skill Development"
+      - label: "Book suggestions"
+        name: "books"
+        widget: "list"
+        summary: "{{fields.title}}"
+        required: false
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Author", name: "author", widget: "string"}
+        - {label: "Cover Image", name: "coverImage", widget: "image"}
+        - {label: "Link", name: "link", widget: "string"}
       - label: "Supportive Material"
         name: "supportiveMaterial"
         widget: "list"
@@ -106,6 +117,7 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Type", name: "type", widget: "select", options: ["Research", "Applications"], required: false}
       - {label: "Category", name: "category", widget: "select", options: ["Coding", "Robotics", "Computational Thinking"]}
       - {label: "Link", name: "link", widget: "string"}
       - {label: "Description", name: "description", widget: "text", required: false}

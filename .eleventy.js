@@ -41,7 +41,7 @@ module.exports = function (config) {
 
     // Custom collections
     const sortByLevel = (a, b) => {
-        const levels = require("./src/_data/levels.json");
+        const levels = require("./src/_data/experienceLevels.json");
 
         if (a.data.experience !== b.data.experience) {
             if (levels.indexOf(a.data.experience) < levels.indexOf(b.data.experience)) {
@@ -117,10 +117,54 @@ module.exports = function (config) {
         ];
     });
 
-    config.addCollection("lessonPlans", collection => {
+    config.addCollection("cubeletesActivities", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/lesson-plans/*.md")
+                .getFilteredByGlob("./src/robot-activities/*.md")
+                .filter(
+                    function (activity) {
+                        return activity.data.robot === "Cubeletes";
+                    }
+                )
+                .sort(sortByLevel)
+        ];
+    });
+
+    config.addCollection("cubettoActivities", collection => {
+        return [
+            ...collection
+                .getFilteredByGlob("./src/robot-activities/*.md")
+                .filter(
+                    function (activity) {
+                        return activity.data.robot === "Cubetto";
+                    }
+                )
+                .sort(sortByLevel)
+        ];
+    });
+
+    config.addCollection("dashAndDotActivities", collection => {
+        return [
+            ...collection
+                .getFilteredByGlob("./src/robot-activities/*.md")
+                .filter(
+                    function (activity) {
+                        return activity.data.robot === "Dash & Dot";
+                    }
+                )
+                .sort(sortByLevel)
+        ];
+    });
+
+    config.addCollection("spheroActivities", collection => {
+        return [
+            ...collection
+                .getFilteredByGlob("./src/robot-activities/*.md")
+                .filter(
+                    function (activity) {
+                        return activity.data.robot === "Sphero";
+                    }
+                )
                 .sort(sortByLevel)
         ];
     });

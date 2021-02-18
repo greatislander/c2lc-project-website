@@ -1,4 +1,0 @@
-{
-    "layout": "layouts/lesson-plan",
-    "permalink": "/learn/lesson-plans/{{ title | slug }}/"
-}

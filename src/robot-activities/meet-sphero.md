@@ -1,6 +1,6 @@
 ---
 title: Meet Sphero
-robot: Cubetto
+robot: Sphero
 experience: Blockly Coding Experience
 topic: Debugging
 description: This activity explores control settings for Sphero

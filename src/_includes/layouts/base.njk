@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-ca" dir="ltr">
+<html lang="en-ca" dir="ltr" class="no-js">
     <head>
         <title>{% if title %} {{ title }} {% else %} {{ site.title }} {% endif %}</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -7,6 +7,7 @@
         <link type="image/x-icon" href="{{ '/' | url }}assets/images/favicon.ico" rel="shortcut icon"/>
         {% include "partials/global/scripts.njk" %}
         {% include "partials/global/stylesheets.njk" %}
+        <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
         {% block headerScripts %}
         {% endblock %}
     </head>

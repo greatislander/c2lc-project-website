@@ -10,6 +10,4 @@ You may obtain a copy of the New BSD License at
 https://github.com/fluid-project/fluidic-11ty/raw/master/LICENSE.md.
 */
 
-"use strict";
-
-// If your website needs custom JavaScript, put it here.
+import "@zachleat/filter-container";

@@ -9,8 +9,24 @@
     margin-top: 1rem;
 }
 
+.activities .filter-experience--hide {
+    display: none;
+}
+
+.activities .filter-subject--hide {
+    display: none;
+}
+
+.activities .filter-type--hide {
+    display: none;
+}
+
 .activity .book img[role="decoration"] {
     max-width: 10rem;
+}
+
+.no-js .activities #activities {
+    display: none;
 }
 
 @media (min-width: 1024px) {

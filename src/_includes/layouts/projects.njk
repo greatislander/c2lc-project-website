@@ -3,23 +3,36 @@
 {% set bodyClass = "projects" %}
 
 {% block content %}
-<div id="projects"></div>
+<div id="projects">
+    <div class="[ flow-lg ]">
+        <filter-container class="[ filter ] [ flow ]">
+            <h2>Filter Projects</h2>
+            <form class="[ filters ]">
+                <label class="[ label ]" for="category">
+                    Category:        
+                    <select class="[ select ]" name="category" id="category" data-filter-bind="category">
+                        <option value="">Any Category</option>
+                        {% for category in projectCategories %}
+                            <option value="{{ category }}">{{ category }}</option>
+                        {% endfor %}
+                    </select>
+                </label>
+            </form>
+            <div class="[ alert ] [ alert--info ]" role="alert" aria-live="polite">
+            <p>Showing <strong data-filter-results="project/projects">{{ collections.projects.length }} projects</strong>.</p>
+            </div>
+            <div class="[ flow ] [ flow-md ]">
+            {% for item in collections.projects %}
+                {% include "partials/components/card--project.njk" %}
+            {% endfor %}
+            </div> 
+        </filter-container>
+    </div>
+</div>
 <noscript class="[ flow ] [ flow-md ]">
 {% if projects.length %}
     {% for item in projects %}
-        <article class="[ project ] [ two:three ]">
-            <div class="[ three:two__three ]">
-                {% svgPlaceholder "570", "380" %}
-            </div>
-            <div class="[ three:two__two ] [ flow ]">
-            <h2>{{ item.data.title }}</h2>
-                <p class="[ metadata ]"><span class="[ category ]">{{ item.data.category }}</span></p>
-                {% if item.data.description %}
-                <p>{{ item.data.description | safe }}</p>
-                {% endif %}
-                <p><a href="{{ item.data.link }}" rel="external">Visit website<span class="[ visually-hidden ]"> for &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
-            </div>
-        </article>
+        {% include "partials/components/card--project.njk" %}
     {% endfor %}
     {% if pagination.pages.length > 1 %}
     {% include "partials/components/pagination.njk" %}

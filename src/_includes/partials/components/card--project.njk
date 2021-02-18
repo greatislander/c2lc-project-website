@@ -1,0 +1,13 @@
+                <article class="[ project ] [ two:three ]" data-filter-category="{{ item.data.category }}">
+                    <div class="[ three:two__three ]">
+                        {% svgPlaceholder "570", "380" %}
+                    </div>
+                    <div class="[ three:two__two ] [ flow ]">
+                    <h2>{{ item.data.title }}</h2>
+                        <p class="[ metadata ]"><span class="[ category ]">{{ item.data.category }}</span></p>
+                        {% if item.data.description %}
+                        <p>{{ item.data.description | safe }}</p>
+                        {% endif %}
+                        <p><a href="{{ item.data.link }}" rel="external">Visit website<span class="[ visually-hidden ]"> for &ldquo;{{ item.data.title }}&rdquo;</span></a></p>
+                    </div>
+                </article>

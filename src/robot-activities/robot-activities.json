@@ -1,0 +1,4 @@
+{
+    "layout": "layouts/robot-activity",
+    "permalink": "/learn/robots/{{ robot | slug }}/{{ title | slug }}/"
+}

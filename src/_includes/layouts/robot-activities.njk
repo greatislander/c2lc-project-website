@@ -1,0 +1,53 @@
+{% extends "layouts/base.njk" %}
+
+{% set bodyClass = "robot-activities" %}
+
+{% block content %}
+<div id="robot-activities">
+    <div class="[ flow-lg ]">
+        <filter-container class="[ filter ] [ flow ]" data-oninit>
+            <h2>Filter Activities</h2>
+            <form class="[ filters ]">
+                <label class="[ label ]" for="experience">
+                    Experience:        
+                    <select class="[ select ]" bind:value={selectedExperience} name="experience" id="experience" data-filter-bind="experience">
+                        <option value="">Any Level</option>
+                        {% for level in experienceLevels %}
+                            <option value="{{ level }}">{{ level }}</option>
+                        {% endfor %}
+                    </select>
+                </label>
+                <label class="[ label ]" for="topic">
+                    Topic:
+                    <select class="[ select ]" bind:value={selectedTopic} name="topic" id="topic" data-filter-bind="topic">
+                        <option value="">Any Topic</option>
+                        {% for topic in robotTopics %}
+                            <option value="{{ topic }}">{{ topic }}</option>
+                        {% endfor %}
+                    </select>
+                </label>
+            </form>
+            <div class="[ alert ] [ alert--info ]" role="alert" aria-live="polite">
+            <p>Showing <strong data-filter-results="activity/activities">{{ robotActivities.length }} activities</strong>.</p>
+            </div>
+            <div class="[ grid ]">
+            {% for item in robotActivities %}
+                {% include "partials/components/card--robot-activity.njk" %}
+            {% endfor %}
+            </div>
+        </filter-container>
+    </div>
+</div>
+<noscript class="[ flow-lg md:flow-xl ]">
+{% if robotActivities.length %}
+    <div class="[ grid ]">
+    {% for item in robotActivities %}
+        {% include "partials/components/card--robot-activity.njk" %}
+    {% endfor %}
+    </div>
+    {% if pagination.pages.length > 1 %}
+    {% include "partials/components/pagination.njk" %}
+    {% endif %}
+{% endif %}
+</noscript>
+{% endblock %}

@@ -1,6 +1,6 @@
 ---
 layout: layouts/activities
-title: Activities Library
+title: Activities at Home
 subtitle: Explore a mix of un-plugged, on-screen or hybrid activities to make music, create games, and tell stories
 eleventyNavigation:
   parent: Learn

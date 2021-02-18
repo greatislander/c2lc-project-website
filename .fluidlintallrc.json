@@ -13,7 +13,7 @@
                 "*.png",
                 "*.webp",
                 "./src/activities/*.md",
-                "./src/lesson-plans/*.md",
+                "./src/robot-activities/*.md",
                 "./src/projects/*.md",
                 "./src/resources/*.md",
                 "./CHANGELOG.md"
@@ -23,7 +23,7 @@
     "markdownlint": {
         "excludes": [
             "./src/activities/*.md",
-            "./src/lesson-plans/*.md",
+            "./src/robot-activities/*.md",
             "./src/projects/*.md",
             "./src/resources/*.md",
             "./CHANGELOG.md"
