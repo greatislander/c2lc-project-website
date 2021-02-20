@@ -11,5 +11,11 @@
     "Loops",
     "Debugging",
     "Conditions"
+  ],
+  "robots": [
+    "Cubelets",
+    "Cubetto",
+    "Dash & Dot",
+    "Sphero"
   ]
 }
