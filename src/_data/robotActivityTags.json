@@ -1,1 +1,15 @@
-{}
+{
+  "experience": [
+    "No Coding Experience",
+    "Unplugged Coding Experience",
+    "Blockly Coding Experience"
+  ],
+  "topics": [
+    "Introduction",
+    "Sequencing",
+    "Repeating Patterns",
+    "Loops",
+    "Debugging",
+    "Conditions"
+  ]
+}
