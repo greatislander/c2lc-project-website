@@ -3,16 +3,14 @@ title: Meet Dash and Dot
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Debugging
-description: >-
-  This activity explores visual, audio, and animation control settings for Dash
-  and Dot
+topic: Introduction
+description: This activity explores visual, audio, and animation control
+  settings for Dash and Dot
 whatYouNeed: >-
   ### Tools
 
 
-  A device to access the “C2LC Coding Environment” and/or Blockly, and Dash and
-  Dot
+  A device to access the “C2LC Coding Environment” and/or Blockly, and Dash and Dot
 
 
   ### Skills
@@ -30,8 +28,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Depends on the learner, could be independent/group or require
-  supervision/facilitation as necessary
+  Depends on the learner, could be independent/group or require supervision/facilitation as necessary
 ---
 ## Description
 
