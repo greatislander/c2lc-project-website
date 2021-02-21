@@ -54,8 +54,6 @@ In this activity, learners can explore different movements and visual and audio 
 
 * Complete this activity with at least one selection of each explored parameter
 
-## Curriculum Connections
-
 ## Accessibility Considerations
 
 * Lighting and contrast for low vision
