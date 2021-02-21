@@ -43,10 +43,6 @@ In this activity, learners can explore different movements and visual and audio 
 * Adjust the parameters for your selected blocks, such as changing colour or sound
 * Run your sequence to see how Dash or Dot is performing your program
 
-## Curriculum Connections
-
-## Accessibility Considerations
-
 ## Skill Development
 
 * Planning and building a sequence
