@@ -3,7 +3,7 @@ title: Meet Sphero
 tags:
   - Sphero
 experience: Blockly Coding Experience
-topic: Debugging
+topic: Introduction
 description: This activity explores control settings for Sphero
 whatYouNeed: >-
   ### Tools
@@ -21,15 +21,13 @@ whatYouNeed: >-
   ### Environment
 
 
-  Quiet indoor/outdoor environment with flat surface and adjustable lighting to
-  allow for light to be seen
+  Quiet indoor/outdoor environment with flat surface and adjustable lighting to allow for light to be seen
 
 
   ### Support
 
 
-  Depends on the learner, could be independent/group or require
-  supervision/facilitation as necessary
+  Depends on the learner, could be independent/group or require supervision/facilitation as necessary
 ---
 ## Description
 
