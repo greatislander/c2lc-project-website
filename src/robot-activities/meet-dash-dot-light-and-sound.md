@@ -1,9 +1,9 @@
 ---
-title: 'Meet Dash & Dot: light and sound'
+title: "Meet Dash & Dot: light and sound"
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Debugging
+topic: Introduction
 description: This activity explores visual and audio control settings for Dash & Dot.
 whatYouNeed: >-
   ### Tools
@@ -21,15 +21,13 @@ whatYouNeed: >-
   ### Environment
 
 
-  Quiet indoor environment with adjustable lighting to allow for light to be
-  seen and sound to be heard
+  Quiet indoor environment with adjustable lighting to allow for light to be seen and sound to be heard
 
 
   ### Support
 
 
-  Depends on the learner, could be independent/group or require
-  supervision/facilitation as necessary
+  Depends on the learner, could be independent/group or require supervision/facilitation as necessary
 ---
 ## Description
 
@@ -54,10 +52,6 @@ In this activity, learners can explore different visual and audio options for a 
 
 ## Level Up
 
-* Create a sound recording as an audio option for Dash and Dot to play.
-
-## Curriculum Connections
-
-## Accessibility Considerations
+* Create a sound recording as an audio option for Dash and Dot to play
 
 ## Skill Development
