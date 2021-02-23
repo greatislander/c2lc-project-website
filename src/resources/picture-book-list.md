@@ -12,7 +12,7 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 \*\* Many of these books can be found as read-aloud on YouTube. Search for your favorite picture books.
 
-## **Functional Concepts**
+## Functional Concepts
 
 * Robots, Robots Everywhere By Sue Fliess
 * Have You Seen My Monster By Steve Light
@@ -26,7 +26,7 @@ The list has been organized based on the scope and sequence followed in the Weav
 * Algorithms: Solve a Problem By Blake Hoena
 * Robot Rumpus By Sean Taylor
 
-## **Sequencing**
+## Sequencing
 
 * The Very Hungry Caterpillar By Eric Carle
 * Rosie’s Walk By Pat Hutchins
@@ -44,13 +44,13 @@ The list has been organized based on the scope and sequence followed in the Weav
 * Mix it Up By Herve Tullet
 * I Ain’t Gonna Pain No More By Karen Beaumont
 
-## **Debugging**
+## Debugging
 
 * I Have a Little Problem, Said the Bear By Heinz Janisch
 * Stuck By Oliver Jeffers
 * Debugging: You Can Fix it Up By Patricia M. Stockland
 
-## **Loops**
+## Loops
 
 * Adi’s Perfect Patterns and Loops By Caroline Karanja
 * The Water Princess By Susan Verde
@@ -60,19 +60,19 @@ The list has been organized based on the scope and sequence followed in the Weav
 * The Boy Who Cried Wolf Re-told by B.G. Hennessy
 * Loops: Repeat, Repeat By Patricia M. Stockland
 
-## **Events**
+## Events
 
 * Please, Mr. Panda By Steve Antony
 * Rufus Goes to Sea By Tim Griswell
 * The Legend of Rock, Paper, Scissors By Drew Daywalt
 * The Fox and the Crow Retold by Mairi Mackinnon
 
-## **Conditionals**
+## Conditionals
 
 * Gabi’s If/Then Garden By Caroline Karanja
 * If you Give a Mouse a Cookie By Laura Joffe Numeroff
 * Alexander and the Terrible, Horrible, No Good, Very Bad Day By Judith Viorst, Ray Cruz
 
-## **Functions**
+## Functions
 
 * Gabi’s Fabulous Functions By Caroline Karnaja
