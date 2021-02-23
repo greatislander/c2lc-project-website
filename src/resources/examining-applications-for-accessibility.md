@@ -1,5 +1,5 @@
 ---
-title: Examining Applications for Accessibility
+title: CExamining Coding Applications for Accessibility
 date: 2021-02-23T18:28:01.926Z
 author: Weavly Team
 description: "This framework is intended to support educators as they explore
