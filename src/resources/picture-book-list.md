@@ -12,8 +12,6 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 \*\* Many of these books can be found as read-aloud on YouTube. Search for your favorite picture books.
 
-
-
 **Functional Concepts**
 
 * Robots, Robots Everywhere By Sue Fliess
@@ -27,3 +25,54 @@ The list has been organized based on the scope and sequence followed in the Weav
 * Help Find Frank By Anne Bollman
 * Algorithms: Solve a Problem By Blake Hoena
 * Robot Rumpus By Sean Taylor
+
+**Sequencing**
+
+* The Very Hungry Caterpillar By Eric Carle
+* Rosie’s Walk By Pat Hutchins
+* Sequences: Order Matters By Nadia Higgins
+* We’re Going on a Bear Hunt By Michael Rosen, Helen Oxenbury
+* Boxitects By Kim Smith
+* Little Red Riding Hood By Mary Alperin
+* How to Catch a Unicorn By Adam Wallace
+* Knuffle Bunny: A Cautionary Tale By Mo Williams
+* Love, Z By Jessie Sima
+* Say Something By Peter H. Reynolds
+* All Are Welcome By Alexandra Penfold, Suzanne Kaufman
+* Claymates By Devorah Petty, Lauren Eldridge
+* Can You Find My Robot’s Arm? By Chihiro Takeuchi
+* Mix it Up By Herve Tullet
+* I Ain’t Gonna Pain No More By Karen Beaumont
+
+**Debugging**
+
+* I Have a Little Problem, Said the Bear By Heinz Janisch
+* Stuck By Oliver Jeffers
+* Debugging: You Can Fix it Up By Patricia M. Stockland
+
+**Loops**
+
+* Adi’s Perfect Patterns and Loops By Caroline Karanja
+* The Water Princess By Susan Verde
+* When’s My Birthday? By Julie Fogliano
+* We Planted a Tree By Diane Muldrow
+* Round the Garden By Omri Glaser
+* The Boy Who Cried Wolf Re-told by B.G. Hennessy
+* Loops: Repeat, Repeat By Patricia M. Stockland
+
+**Events and Concurrent Events**
+
+* Please, Mr. Panda By Steve Antony
+* Rufus Goes to Sea By Tim Griswell
+* The Legend of Rock, Paper, Scissors By Drew Daywalt
+* The Fox and the Crow Retold by Mairi Mackinnon
+
+**Conditionals**
+
+* Gabi’s If/Then Garden By Caroline Karanja
+* If you Give a Mouse a Cookie By Laura Joffe Numeroff
+* Alexander and the Terrible, Horrible, No Good, Very Bad Day By Judith Viorst, Ray Cruz
+
+**Functions**
+
+* Gabi’s Fabulous Functions By Caroline Karnaja
