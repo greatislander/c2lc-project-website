@@ -42,10 +42,10 @@ In this activity, learners plan and build a sequence of movements to trace simpl
 
 ## **Tips**
 
-* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling.
-* If you don’t have access to a printer, you can draw or use masking tape to build a shape on the large sheet of paper.
-* Make sure the marker tips can touch the paper.
-* Traced lines may not be straight and accurate as markers may move in different directions.
+* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling
+* If you don’t have access to a printer, you can draw or use masking tape to build a shape on the large sheet of paper
+* Make sure the marker tips can touch the paper
+* Traced lines may not be straight and accurate as markers may move in different directions
 
 ## Change it up
 
