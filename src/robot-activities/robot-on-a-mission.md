@@ -5,7 +5,7 @@ tags:
 experience: Blockly Coding Experience
 topic: Sequencing
 description: This activity challenges learners move past barrier to reach the moon.
-whatYouNeed: |+
+whatYouNeed: |
   ### Tools
 
   ### Skills
@@ -16,7 +16,7 @@ whatYouNeed: |+
 ---
 ## Description
 
-In this activity, learners plan and build a path to direct Dash to move to a specific object on a grid map
+In this activity, learners plan and build a path to direct Dash to move to a specific object on a grid map.
 
 ## Steps
 
