@@ -80,7 +80,7 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Robot", name: "tags", widget: "list", max: 1, min: 1}
+      - {label: "Robot", name: "tags", widget: "relation", multiple: true, collection: "siteData", file: "robotActivityTags", value_field: robots.*, displayFields: [robots.*], search_fields: [robots.*]}
       - {label: "Coding Experience Level", name: "experience", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: experience.*, displayFields: [experience.*], search_fields: [experience.*]}
       - {label: "Topic", name: "topic", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: topics.*, displayFields: [topics.*], search_fields: [topics.*]}
       - {label: "Related Activities with Robots", name: "relatedRobotActivities", widget: "relation", collection: "robotActivities", search_fields: ["title"], value_field: "title", display_fields: ["title"], multiple: true, required: false}
