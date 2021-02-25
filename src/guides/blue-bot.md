@@ -1,6 +1,6 @@
 ---
 title: Blue-Bot
-robot: Cubetto
+robot: Blue-Bot
 manufacturer: TTS
 manufacturerLink: https://www.tts-international.com/blue-bot-bluetooth-programmable-floor-robot/1015269.html
 metaImage: /assets/media/bluebot.jpg
