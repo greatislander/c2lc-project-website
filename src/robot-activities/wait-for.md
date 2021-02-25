@@ -27,7 +27,7 @@ whatYouNeed: >-
   ### Support
 
 
-   Independent. Depends on the learner, assistance may be required to guide or facilitate
+  Independent. Depends on the learner, assistance may be required to guide or facilitate
 supportiveMaterial:
   - file: /assets/media/dash_and_dot-lesson_09-wait_for.pdf
     label: Wait For Lesson Plan
