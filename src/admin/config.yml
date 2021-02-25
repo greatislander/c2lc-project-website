@@ -25,6 +25,14 @@ collections:
       - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
       - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Supportive Material"
+        name: "supportiveMaterial"
+        widget: "list"
+        summary: "{{fields.label}}"
+        required: false
+        fields:
+        - {label: "Label", name: "label", widget: "string"}
+        - {label: "File", name: "file", widget: "file"}
   - name: activities
     label: Activities at Home
     label_singular: Home Activity
