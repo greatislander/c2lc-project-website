@@ -70,9 +70,11 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Debugging
 
-* I Have a Little Problem, Said the Bear By Heinz Janisch
-* Stuck By Oliver Jeffers
-* Debugging: You Can Fix it Up By Patricia M. Stockland
+![Book cover](/assets/media/ihavealittleproblem-saidthebear.jpg "I Have a Little Problem, Said the Bear By Heinz Janisch")
+
+![Book cover](/assets/media/stuck.jpg "Stuck By Oliver Jeffers")
+
+![Book cover](/assets/media/debugging-you-can-fix-it-up-by-patricia-m.-stockland.jpg "Debugging: You Can Fix it Up By Patricia M. Stockland")
 
 ## Loops
 
