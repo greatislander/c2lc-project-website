@@ -5,8 +5,12 @@ author: Weavly Team
 description: "This framework is intended to support educators as they explore
   and consider appropriate activities for coding instruction with their students
   who experience learning challenges. "
+supportiveMaterial:
+  - label: Examining Applications for Accessibility - A Guide of Considerations for
+      Educators
+    file: /assets/media/examinig-applications-for-accessibility.pdf
 ---
-The considerations outlined below include those that should be considered within the design interface as well as instructional supports, such as pre-teaching, scaffolded instruction, and adapted resources to support explicit and accessible instruction.
+The considerations outlined below include those that should be considered within the design interface as well as instructional supports, such as pre-teaching, scaffolded instruction and adapted resources.
 
 ## General Information
 
@@ -30,12 +34,11 @@ Think about each of the following potential barriers and how inaccessible they m
 
 * There are text instructions that require reading (i.e. are not presented auditorily or supported by images).
 * Text is used to label/categorize and is not accessible auditorily or supported by images.
-* There is challenging vocabulary used that is not explained.
+* There is challenging vocabulary that is not explained.
 * There are tooltips/hints that require reading (i.e. are not presented auditorily or supported by images).
 
 ### Writing Potential Barriers
 
-* Students are required to type correctly spelled commands in order to carry out tasks.
 * Students are required to type correctly spelled commands in order to carry out tasks.
 
 ### Cognitive Potential Barriers
@@ -106,8 +109,6 @@ Think about each of the following potential barriers and how inaccessible they m
 * Use of external alternate access devices
 * Partner assisted scanning
 * Modification/adaptation of concrete manipulatives
-
-
 
 **NOTE**: Be sure to check the compatibility of a student’s current support products with the coding application(s) being considered. Also, consider whether the use of the products requires instruction prior to expecting them to support coding instruction.
 
