@@ -56,17 +56,17 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ![Book cover](/assets/media/love-z-by-jessie-sima.jpg "Love, Z By Jessie Sima")
 
-Say Something By Peter H. Reynolds
+![Book cover](/assets/media/say-something-by-peter-h.-reynolds.jpg "Say Something By Peter H. Reynolds")
 
-All Are Welcome By Alexandra Penfold, Suzanne Kaufman
+![Book cover](/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg "All Are Welcome By Alexandra Penfold, Suzanne Kaufman")
 
-Claymates By Devorah Petty, Lauren Eldridge
+![Book cover](/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg "Claymates By Devorah Petty, Lauren Eldridge")
 
-Can You Find My Robot’s Arm? By Chihiro Takeuchi
+![Book cover](/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg "Can You Find My Robot’s Arm? By Chihiro Takeuchi")
 
-Mix it Up By Herve Tullet
+![Book cover](/assets/media/mix-it-up-by-herve-tullet.jpg "Mix it Up By Herve Tullet")
 
-I Ain’t Gonna Pain No More By Karen Beaumont
+![Book cover](/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif "I Ain’t Gonna Pain No More By Karen Beaumont")
 
 ## Debugging
 
