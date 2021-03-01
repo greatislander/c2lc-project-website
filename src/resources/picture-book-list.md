@@ -94,13 +94,13 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Events
 
-Please, Mr. Panda By Steve Antony
+![Book cover](/assets/media/please-mr.-panda-by-steve-antony.webp "Please, Mr. Panda By Steve Antony")
 
-Rufus Goes to Sea By Tim Griswell
+![Book cover](/assets/media/rufus-goes-to-sea-by-tim-griswell.jpg "Rufus Goes to Sea By Tim Griswell")
 
-The Legend of Rock, Paper, Scissors By Drew Daywalt
+![Book cover](/assets/media/the-legend-of-rock-paper-scissors-by-drew-daywalt.jpg "The Legend of Rock, Paper, Scissors By Drew Daywalt")
 
-The Fox and the Crow Retold by Mairi Mackinnon
+![Book cover](/assets/media/the-fox-and-the-crow-retold-by-mairi-mackinnon.jpg "The Fox and the Crow Retold by Mairi Mackinnon")
 
 ## Conditionals
 
