@@ -5,8 +5,8 @@ author: Weavly Team
 description: Activities that involve learning to code and coding to learn and
   create, offer opportunities to develop important teamwork skills that prepare
   students for further learning, work, and life.
-metaImage: ""
-metaImageAlt: ""
+metaImage: /assets/media/img_1166-1.jpg
+metaImageAlt: Two kids working together to build and analog program
 ---
 ![Two educators are working with a young kid to show him how to use a coding environment to control a robot.](/assets/media/20190726_095446_hu0254f67d82f35e43a998c478f1615761_1190091_1000x0_resize_q75_box.jpg "Modelling an activity")
 
