@@ -1,9 +1,12 @@
 ---
-title: 'Directions anywhere, anytime'
+title: Directions anywhere, anytime
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: ' In this activity, learners explore and practice directions.'
+relatedActivities:
+  - What are directions to me
+  - Dancing to the beat
+description: " In this activity, learners explore and practice directions."
 whatYouNeed: |-
   ### Tools
 
