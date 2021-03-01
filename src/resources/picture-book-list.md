@@ -38,21 +38,35 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Sequencing
 
-* The Very Hungry Caterpillar By Eric Carle
-* Rosie’s Walk By Pat Hutchins
-* Sequences: Order Matters By Nadia Higgins
-* We’re Going on a Bear Hunt By Michael Rosen, Helen Oxenbury
-* Boxitects By Kim Smith
-* Little Red Riding Hood By Mary Alperin
-* How to Catch a Unicorn By Adam Wallace
-* Knuffle Bunny: A Cautionary Tale By Mo Williams
-* Love, Z By Jessie Sima
-* Say Something By Peter H. Reynolds
-* All Are Welcome By Alexandra Penfold, Suzanne Kaufman
-* Claymates By Devorah Petty, Lauren Eldridge
-* Can You Find My Robot’s Arm? By Chihiro Takeuchi
-* Mix it Up By Herve Tullet
-* I Ain’t Gonna Pain No More By Karen Beaumont
+![Book cover](/assets/media/the-very-hungry-caterpillar.webp "The Very Hungry Caterpillar By Eric Carle")
+
+![Book cover](/assets/media/rosie’s-walk-by-pat-hutchins.jpg "Rosie’s Walk By Pat Hutchins")
+
+![Book cover](/assets/media/sequences-order-matters-by-nadia-higgins.jpg "Sequences: Order Matters By Nadia Higgins")
+
+![Book cover](/assets/media/we-re-going-on-a-bear-hunt.jpg "We’re Going on a Bear Hunt By Michael Rosen, Helen Oxenbury")
+
+![Book cover](/assets/media/boxitects-by-kim-smith.gif "Boxitects By Kim Smith")
+
+![Book cover](/assets/media/little-red-riding-hood.jpg "Little Red Riding Hood By Mary Alperin")
+
+![Book cover](/assets/media/how-to-catch-a-unicorn.jpg "How to Catch a Unicorn By Adam Wallace")
+
+![Book cover](/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg "Knuffle Bunny: A Cautionary Tale By Mo Williams")
+
+![Book cover](/assets/media/love-z-by-jessie-sima.jpg "Love, Z By Jessie Sima")
+
+Say Something By Peter H. Reynolds
+
+All Are Welcome By Alexandra Penfold, Suzanne Kaufman
+
+Claymates By Devorah Petty, Lauren Eldridge
+
+Can You Find My Robot’s Arm? By Chihiro Takeuchi
+
+Mix it Up By Herve Tullet
+
+I Ain’t Gonna Pain No More By Karen Beaumont
 
 ## Debugging
 
@@ -85,4 +99,4 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Functions
 
-* Gabi’s Fabulous Functions By Caroline Karnaja
+Gabi’s Fabulous Functions By Caroline Karnaja
