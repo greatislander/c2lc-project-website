@@ -3,7 +3,10 @@ title: Fixing a sequence
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: 'This activity helps learners to identify and change patterns. '
+relatedActivities:
+  - Beginning, middle, and end
+  - Sequencing in daily activities
+description: "This activity helps learners to identify and change patterns. "
 whatYouNeed: |-
   ### Tools
 
@@ -21,13 +24,14 @@ whatYouNeed: |-
 
   Adult moderator and one or more players
 books:
-  - title: 'I Have a Little Problem, Said the Bear'
+  - title: I Have a Little Problem, Said the Bear
     author: Heinz Janisch
     coverImage: /assets/media/ihavealittleproblem-saidthebear.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-In this simple and interactive game, moderators and players work together to find the correct order of events. The moderator will perform a daily routine, such as making a jelly sandwich in an incorrect order or skipping the main step. Now, this is the learner’s turn to save the day and tell the moderator how to correct the order of the events to complete the task.
+In this simple and interactive game, moderators and players work together to find the correct order of events. The moderator will perform a daily routine, such as making a jelly sandwich in an incorrect order or skipping the main steps. Now, this is the learner’s turn to save the day and tell the moderator how to correct the order of the events to complete the task.
 
 ## Steps
 
@@ -44,6 +48,7 @@ In this simple and interactive game, moderators and players work together to fin
 
 * Sorting
 * Pattern recognition
+* Sequencing
 
 ## Level Up!
 
