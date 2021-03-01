@@ -3,9 +3,10 @@ title: Goal based sequences
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Games
-description: >-
-  This multi-level activity challenges players to build a sequence to complete a
-  mission.
+relatedActivities:
+  - Jungle safari / farm visit
+description: This multi-level activity challenges players to build a sequence to
+  complete a mission.
 whatYouNeed: >-
   ### Tools
 
@@ -16,14 +17,13 @@ whatYouNeed: >-
   ### Skills
 
 
-  Basic understanding of sequencing vocabulary, directions, and understanding of
-  the selected coding environment
+  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
 
 
   ### Environment
 
 
-  Any
+  Weavly coding environment
 
 
   ### Support
@@ -32,8 +32,9 @@ whatYouNeed: >-
   Adult moderator and one or more players
 books:
   - title: How To Code a Sandcastle
-    author: ' Josh Funk'
+    author: " Josh Funk"
     coverImage: /assets/media/how-to-code-a-sandcastle.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -54,6 +55,9 @@ This is a multi-level activity that starts simple and builds in complexity. The 
 * Learners can leave the pen down feature enabled to draw a line as they move between the steps.
 
 ## Skill Development
+
+* Sequencing
+* Debugging
 
 ## Level Up!
 
