@@ -104,12 +104,12 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Conditionals
 
-Gabi’s If/Then Garden By Caroline Karanja
+![Book cover](/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg "Gabi’s If/Then Garden By Caroline Karanja")
 
-If you Give a Mouse a Cookie By Laura Joffe Numeroff
+![Book cover](/assets/media/if-you-give-a-mouse-a-cookie-by-laura-joffe-numeroff.jpg "If you Give a Mouse a Cookie By Laura Joffe Numeroff")
 
-Alexander and the Terrible, Horrible, No Good, Very Bad Day By Judith Viorst, Ray Cruz
+![Book cover](/assets/media/alexander-and-the-terrible-horrible-no-good-very-bad-day-by-judith-viorst-ray-cruz.jpg "Alexander and the Terrible, Horrible, No Good, Very Bad Day By Judith Viorst, Ray Cruz")
 
 ## Functions
 
-Gabi’s Fabulous Functions By Caroline Karnaja
+![Book cover](/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg "Gabi’s Fabulous Functions By Caroline Karnaja")
