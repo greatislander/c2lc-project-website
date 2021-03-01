@@ -6,7 +6,7 @@ subject: Games
 relatedActivities:
   - Directions anywhere, anytime
   - Human robots
-description: "This moving activity help learners practice directions. "
+description: "This moving activity helps learners practice directions. "
 whatYouNeed: >-
   ### Tools
 
