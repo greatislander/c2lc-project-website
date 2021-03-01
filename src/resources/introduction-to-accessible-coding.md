@@ -12,7 +12,7 @@ It is an activity that is recognized as supportive to the development of:
 
 * digital literacy
 * critical
-* creative thinking and
+* creative thinking
 * collaborative skills
 
 All of these developments are prerequisite skills for participation in the new knowledge economy. Though it is difficult to predict what the specific nature of employment positions will be in the future, the accelerated pace of change in today’s market increasingly requires workers to be highly skilled in:
