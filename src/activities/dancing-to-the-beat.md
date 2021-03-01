@@ -3,6 +3,9 @@ title: Dancing to the beat
 type: Hybrid
 experience: No Coding Experience
 subject: Games
+relatedActivities:
+  - Directions anywhere, anytime
+  - Human robots
 description: "This moving activity help learners practice directions. "
 whatYouNeed: >-
   ### Tools
@@ -26,7 +29,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Adult moderator and minimum of one player
+  Adult moderator and a minimum of one player
 books:
   - title: How to Code a Rollarcoaster
     author: Josh Funk
@@ -41,13 +44,13 @@ As a starter, you can try
 
 For younger children:
 
-* \[URL to C2LC program]
-* <https://www.youtube.com/watch?v=iwKS4b9aUeI>
+* [Wealy Pre-built Program](https://build.codelearncreate.org/?v=0.5&p=1Bb1bB1Bb1Bb1&c=e0b00a0a0b0b0c0c0d0d0e0) 
+* [Dance music](https://www.youtube.com/watch?v=iwKS4b9aUeI)
 
 For youth
 
-* \[URL to C2LC program]
-* <https://www.youtube.com/watch?v=niUaRPODJRs>
+* [Weavly Pre-built Program](https://build.codelearncreate.org/?v=0.5&p=ADad1B1b1B1b1dD&c=00b)
+* [](https://www.youtube.com/watch?v=niUaRPODJRs)[Dance music](https://www.youtube.com/watch?v=niUaRPODJRs)
 
 ## Steps
 
