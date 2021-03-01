@@ -3,19 +3,18 @@ title: Dancing to the beat
 type: Hybrid
 experience: No Coding Experience
 subject: Games
-description: 'This moving activity help learners practice directions. '
+description: "This moving activity help learners practice directions. "
 whatYouNeed: >-
   ### Tools
 
 
-  Music speakers
+  Something to play music with
 
 
   ### Skills
 
 
-  Basic understanding of directions (i.e. move forward, backwards, turning
-  right, and turning left)
+  Basic understanding of directions (for example move forward, backward, turning right, and turning left)
 
 
   ### Environment
@@ -32,12 +31,13 @@ books:
   - title: How to Code a Rollarcoaster
     author: Josh Funk
     coverImage: /assets/media/how-to-code-a-rollarcoaster.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
 You can use any coding environment to do this activity. This is a fun and interactive way of learning about directions. Any type of movement counts as dancing in this activity whether it is stepping, jumping, wheeling, blinking, head movements, or hitting a single switch.
 
-As a starter you can try
+As a starter, you can try
 
 For younger children:
 
@@ -52,7 +52,7 @@ For youth
 ## Steps
 
 * Select a short song or music your players like
-* Use the coding environment to build a sequence of actions
+* Use Weavly to build a sequence of actions
 * Line up your players
 * Ask them to follow each step of the program that is announced
 * Play the music and your program at once and let the fun begin
