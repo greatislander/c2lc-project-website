@@ -5,6 +5,9 @@ author: Weavly Team
 description: Coding education is becoming an increasingly common and important
   part of the curriculum in elementary schools around the world. However, coding
   education is not accessible to many kids.
+metaImage: /assets/media/design-activity_hua7f35ba46080e3314a834735ed95f389_2828843_1000x0_resize_q75_box.jpg
+metaImageAlt: "Young boy sitting on the floor and using a coding environment on
+  his laptop to control a robot on the floor. "
 ---
 Coding education is becoming an increasingly common and important part of the curriculum in elementary schools around the world.
 
