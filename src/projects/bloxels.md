@@ -3,9 +3,8 @@ title: Bloxels
 type: Applications
 category: Coding
 link: https://playbloxels.com/
-description: "With Bloxels, kids can create their own video games with eight
-  simple blocks. They can build art, animations, and backgrounds to design their
-  game world and play in it. "
+description: With Bloxels, kids can create their own video game worlds with
+  eight simple blocks and play in them.
 metaImage: /assets/media/bloxels.webp
 metaImageAlt: Video game environemnt showing a pirate cove
 ---
