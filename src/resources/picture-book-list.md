@@ -20,21 +20,21 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ![Book cover](/assets/media/have-you-seen-my-dragon-by-steve-light.jpg "Have you Seen My Dragon By Steve Light")
 
+![Book cover](/assets/media/how-to-code-a-sandcastle-by-josh-funk.jpg "How To Code a Sandcastle By Josh Funk")
 
+![Book cover](/assets/media/how-to-code-a-roller-coaster-by-josh-funk.jpg "How to Code a Roller Coaster By Josh Funk")
 
-How to Code a Roller Coaster By Josh Funk
+![Book cover](/assets/media/peg-cat-the-penguin-problem-by-jennifer-oxley-billy-aronson.jpg "Peg + Cat: The Penguin Problem By Jennifer Oxley, Billy Aronson")
 
-Peg + Cat: The Penguin Problem By Jennifer Oxley, Billy Aronson
+![Book cover](/assets/media/inside-outside-by-lizi-boyd.gif "Inside Outside By Lizi Boyd")
 
-Inside Outside By Lizi Boyd
+![Book cover](/assets/media/doll-e-1.0-by-shanda-mccloskey.jpg "Doll-E 1.0 By Shanda McCloskey")
 
-Doll-E 1.0 By Shanda McCloskey
+![Book cover](/assets/media/help-find-frank by-anne-bollman.jpg "Help Find Frank By Anne Bollman")
 
-Help Find Frank By Anne Bollman
+![Book cover](/assets/media/algorithms-solve-a-problem-by-blake-hoena.jpg "Algorithms: Solve a Problem By Blake Hoena")
 
-Algorithms: Solve a Problem By Blake Hoena
-
-Robot Rumpus By Sean Taylor
+![Book cover](/assets/media/robot-rumpus-by-sean-taylor.jpg "Robot Rumpus By Sean Taylor")
 
 ## Sequencing
 
