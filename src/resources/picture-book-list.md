@@ -78,26 +78,37 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Loops
 
-* Adi’s Perfect Patterns and Loops By Caroline Karanja
-* The Water Princess By Susan Verde
-* When’s My Birthday? By Julie Fogliano
-* We Planted a Tree By Diane Muldrow
-* Round the Garden By Omri Glaser
-* The Boy Who Cried Wolf Re-told by B.G. Hennessy
-* Loops: Repeat, Repeat By Patricia M. Stockland
+![Book cover](/assets/media/adi-s-perfect-patterns-and-loops.jpg "Adi’s Perfect Patterns and Loops By Caroline Karanja")
+
+![Book cover](/assets/media/the-water-princess-by-susan-verde.jpg "The Water Princess By Susan Verde")
+
+![Book cover](/assets/media/when’s-my-birthday-by-julie-fogliano.jpg "When’s My Birthday? By Julie Fogliano")
+
+![Book cover](/assets/media/we-planted-a-tree by-diane-muldrow.jpg "We Planted a Tree By Diane Muldrow")
+
+![Book cover](/assets/media/round-the-garden-by-omri-glaser.jpg "Round the Garden By Omri Glaser")
+
+![Book cover](/assets/media/the-boy-who-cried-wolf-re-told-by-b.g.-hennessy.jpg "The Boy Who Cried Wolf Re-told by B.G. Hennessy")
+
+![Book cover](/assets/media/loops-repeat-repeat-by-patricia-m.-stockland.jpg "Loops: Repeat, Repeat By Patricia M. Stockland")
 
 ## Events
 
-* Please, Mr. Panda By Steve Antony
-* Rufus Goes to Sea By Tim Griswell
-* The Legend of Rock, Paper, Scissors By Drew Daywalt
-* The Fox and the Crow Retold by Mairi Mackinnon
+Please, Mr. Panda By Steve Antony
+
+Rufus Goes to Sea By Tim Griswell
+
+The Legend of Rock, Paper, Scissors By Drew Daywalt
+
+The Fox and the Crow Retold by Mairi Mackinnon
 
 ## Conditionals
 
-* Gabi’s If/Then Garden By Caroline Karanja
-* If you Give a Mouse a Cookie By Laura Joffe Numeroff
-* Alexander and the Terrible, Horrible, No Good, Very Bad Day By Judith Viorst, Ray Cruz
+Gabi’s If/Then Garden By Caroline Karanja
+
+If you Give a Mouse a Cookie By Laura Joffe Numeroff
+
+Alexander and the Terrible, Horrible, No Good, Very Bad Day By Judith Viorst, Ray Cruz
 
 ## Functions
 
