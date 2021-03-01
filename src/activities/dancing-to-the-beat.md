@@ -1,6 +1,6 @@
 ---
 title: Dancing to the beat
-type: Hybrid
+type: Unplugged
 experience: No Coding Experience
 subject: Games
 relatedActivities:
@@ -29,7 +29,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Adult moderator and a minimum of one player
+  Adult moderator and one or more players
 books:
   - title: How to Code a Rollarcoaster
     author: Josh Funk
