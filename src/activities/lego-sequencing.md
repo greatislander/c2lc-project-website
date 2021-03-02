@@ -1,11 +1,13 @@
 ---
-title: 'Lego sequencing '
+title: "Lego sequencing "
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: >-
-  This activity provides learners with practice using block-based coding and
-  sequencing
+relatedActivities:
+  - Fixing a sequence
+  - Sequencing in daily activities
+description: In this activity, learners can practice using an analog version of
+  block-based coding and sequencing.
 whatYouNeed: |-
   ### Tools
 
@@ -17,19 +19,20 @@ whatYouNeed: |-
 
   ### Environment
 
-  Indoor, small area
+  Any
 
   ### Support
 
   Adult moderator and one or more players
 books:
-  - title: Rosie's walk
-    author: Pat Hutchins
-    coverImage: /assets/media/rosie-s-walk.jpg
+  - title: "Sequences: Order Matters"
+    author: Nadia Higgins
+    coverImage: /assets/media/sequences-order-matters.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-This activity will help learners to build the basic foundation for using any block-based coding environments, such as C2LC. Learners can use Lego blocks to build a sequence of actions and then use a toy to run those actions in their physical environment.
+This activity will help learners to build the basic foundation for using any block-based coding environments, such as Weavly. Learners can use Lego blocks to build a sequence of actions and then use a toy to run those actions in their physical environment.
 
 ## Steps
 
@@ -48,8 +51,9 @@ This activity will help learners to build the basic foundation for using any blo
 
 ## Skill Development
 
+* Directions
 * Sequencing 
 
 ## Level Up!
 
-* Give learners a few plain Lego blocks and encourage them to draw an action or add a sticker on the block and add them to their sequence. Adding actions, such as jump, dance, spin, say hooray, etc. will prompt their creativity and lead to exploring different combinations of actions in a sequence
+Give learners a few plain Lego blocks and encourage them to draw an action or add a sticker on the block and add them to their sequence. Adding actions, such as jump, dance, spin, say hooray, etc. will prompt their creativity and lead to exploring different combinations of actions in a sequence
