@@ -1,37 +1,44 @@
 ---
-title: Travelling to the moon
+title: "Mission: Travelling to the moon"
 type: On-Screen
-experience: No Coding Experience
-subject: Drawings
-description: This activities challenges learners to build a sequence to reach the moon.
-whatYouNeed: |-
+experience: Unplugged Coding Experience
+subject: Games
+relatedActivities:
+  - "Mission: Visiting Animals"
+  - "Mission: Hunting the sunken treasure"
+description: This activity challenges learners to build a sequence to complete a mission.
+whatYouNeed: >-
   ### Tools
+
 
   Computer with internet
 
+
   ### Skills
 
-  N/A
+
+  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
+
 
   ### Environment
 
-  Any
+
+  Weavly coding environment
+
 
   ### Support
 
-  Depends on the learner, could be independent or require assistance
+
+  Adult moderator and one or more players
 books:
   - title: How to Catch a Unicorn
     author: Adam Wallace
     coverImage: /assets/media/how-to-catch-a-unicorn.jpg
+    link: /learn/resources/picture-book-list/
 ---
-## Objectives
-
-* Building a sequence to achieve a goal
-
 ## Description
 
-In this activity, learners try to build a simple sequence to move on a straight path between point A and point B. This activity will help learners to explore the C2LC coding environment and try different action blocks.
+In this activity, learners try to build a simple sequence to move on a straight path between point A and point B. This activity will help learners to explore the Weavly coding environment and try different action blocks.
 
 Activity: \[link]
 
@@ -44,7 +51,7 @@ Activity: \[link]
 * Now you need to add a few more steps to the program to bring the spacecraft back to earth
 * This time you will need to use a turn block to go back to earth
 * Once your spacecraft is pointing towards earth, add forward blocks to take it back to earth
-* Select the “Play” button and watch how the spacecraft travels between the earth and moon
+* Select the “Play” button and watch how the spacecraft travels between the earth and the moon
 
 ## Tips
 
@@ -55,7 +62,8 @@ Activity: \[link]
 
 * Directions
 * Sequencing
+* Debugging
 
 ## Level Up!
 
-* Moderators or learners can adjust the placement of the moon, earth, and the spacecraft to encourage building different program combinations
+Moderators or learners can adjust the placement of the moon, earth, and the spacecraft to encourage building different program combinations.
