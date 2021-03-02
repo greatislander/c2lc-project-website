@@ -2,26 +2,26 @@
 title: Meet Sphero
 tags:
   - Sphero
-experience: Blockly Coding Experience
+experience: No Coding Experience
 topic: Introduction
-description: This activity explores control settings for Sphero
+description: This activity explores control settings for Sphero.
 whatYouNeed: >-
   ### Tools
 
 
-  A device to access the “C2LC Coding Environment” and/or SpheroEdu, and Sphero
+  A device to access SpheroEdu, and Sphero
 
 
   ### Skills
 
 
-  N/A
+  Basic understanding of web-based coding environments
 
 
   ### Environment
 
 
-  Quiet indoor/outdoor environment with flat surface and adjustable lighting to allow for light to be seen
+  Quiet indoor/outdoor environment with a flat surface and adjustable lighting to allow for light to be seen
 
 
   ### Support
@@ -35,30 +35,25 @@ In this activity, learners can explore different movements and visual and audio 
 
 ## Steps
 
-* Open SpheroEdu and connect with Sphero robot
-* Explore how Sphero moves
-* Explore different distances
-* Explore light colours
-* Explore different types of lines (e.g. straight vs curved)
+* Open SpheroEdu
+* Connect with Sphero robot
+* Open the movement settings
+* Try different distances and speed options
+* Open the light color settings
+* Try different light colors
+* Try different types of lines (e.g. straight vs curved)
 
 ## Tips
 
-* Ensure batteries are charged and Sphero is operational prior to activity
+* Ensure batteries are charged and Sphero is operational prior to the activity
 * Set up a space with dim light and a relatively quiet environment to detect visual changes
-
-## Change it up:
-
-* Complete this activity again with different setting options that were not chosen before, if any remain
-
-## Level Up
-
-* Complete this activity with at least one selection of each explored parameter
-
-## Accessibility Considerations
-
-* Lighting and contrast for low vision
 
 ## Skill Development
 
-* Learning about directions
-* Planning and building a sequence
+* Directions
+* Sequencing
+* Parameters
+
+## Level Up
+
+Complete this activity again with different setting options that were not chosen before, if any remains
