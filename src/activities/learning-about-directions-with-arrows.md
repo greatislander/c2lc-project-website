@@ -3,7 +3,10 @@ title: Learning about directions with arrows
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: 'In this activity, players practice using arrows to learn directions.'
+relatedActivities:
+  - Directions anywhere, anytime
+  - What are directions to me
+description: In this activity, players practice using arrows to learn about directions.
 whatYouNeed: |-
   ### Tools
 
@@ -20,6 +23,11 @@ whatYouNeed: |-
   ### Support
 
   Adult moderator and one or more players
+books:
+  - link: /learn/resources/picture-book-list/
+    coverImage: /assets/media/rosie’s-walk-by-pat-hutchins.jpg
+    title: Rosie’s Walk
+    author: Pat Hutchins
 ---
 ## Description
 
@@ -33,7 +41,7 @@ This interactive and playful activity helps learners practice their directions. 
 ## Tips
 
 * It will be helpful to also draw a small grid within which to move. This helps with the crucial understanding that with forward movement one leaves the current spot and lands in a different spot, whereas turning happens on the original spot
-* Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands. This supports learners in being more independent with right and left
+* Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands). This supports learners in being more independent with right and left
 * It will add to the excitement and engagement of learners if you include a hidden goal/treat and direct the players towards them
 
 ## Skill Development
