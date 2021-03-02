@@ -36,6 +36,8 @@ whatYouNeed: >-
 
 In this activity, learners try different aspects of Dash through play and exploration.
 
+Watch the activity video: [Video Link](https://www.youtube.com/watch?v=PfgcanzYuVQ&feature=youtu.be)
+
 ## Steps
 
 * Place a large sheet of paper on a hard and flat surface and tape its edges.
