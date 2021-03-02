@@ -3,11 +3,15 @@ title: What are directions to me
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: 'In this activity, players learn and practice directions. '
+relatedActivities:
+  - Learning about directions with arrows
+  - Directions anywhere, anytime
+description: "In this activity, players learn about directions in relation to
+  their bodies and practice them in their immediate environment. "
 whatYouNeed: |-
   ### Tools
 
-  Children’s storybooks
+  None
 
   ### Skills
 
@@ -15,19 +19,28 @@ whatYouNeed: |-
 
   ### Environment
 
+  Any
+
   ### Support
 
   Adult moderator and one or more players
+books:
+  - author: Pat Hutchins
+    title: Rosie’s Walk
+    coverImage: /assets/media/rosie’s-walk-by-pat-hutchins.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Players will use their body to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding. Thus, try to use any available examples around the learner before moving to a virtual space.
+This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Players will use their bodies to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding. Thus, try to use any available examples around the learner before moving to a virtual space.
 
 ## Steps
 
-* Review through the vocabulary of directions
+* Review through the vocabulary of directions: Move Forward, Move Backward, Turn Right, and Turn Left
 * Ask the learner to point in the direction that matches each vocabulary item
-* Ask the learner to identify which arm is right and left
+* Ask the learner to identify which arm/eye/ear/leg is right and left
+* Ask the learner to identify the items in front of them 
+* Ask the learner to identify the items behind them 
 * Encourage learners to move according to each vocabulary item
 
 ## Tips
