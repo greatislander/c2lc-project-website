@@ -1,32 +1,42 @@
 ---
-title: Rescue Mission
+title: "Mission: Rescue "
 type: On-Screen
-experience: No Coding Experience
+experience: Unplugged Coding Experience
 subject: Games
-description: This activity involves building a sequence to reach a goal.
-whatYouNeed: |-
+relatedActivities:
+  - "Mission: Visiting Animals"
+  - "Mission: Hunting the sunken treasure"
+description: This multi-level activity challenges players to build a sequence to
+  complete a mission.
+whatYouNeed: >-
   ### Tools
+
 
   Computer with internet access
 
+
   ### Skills
 
-  N/A
+
+  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
+
 
   ### Environment
 
-  Any
+
+  Weavly coding environment
+
 
   ### Support
 
-  Depends on the learner, could be independent or require assistance
+
+  Adult moderator and one or more players
 books:
   - title: Have You Seen My Dragon
     author: Steve Light
     coverImage: /assets/media/have-you-seen-my-dragon.jpg
+    link: /learn/resources/picture-book-list/
 ---
-## Objectives
-
 ## Description
 
 These are a series of activities that add to the complexity of building a program. In the initial missions, learners can only use Forward action blocks. In the following missions, learners need to use Turns at different degrees to complete their missions.
@@ -52,7 +62,8 @@ These are a series of activities that add to the complexity of building a progra
 
 * Directions
 * Sequencing
+* Debugging
 
 ## Level Up!
 
-* Moderators can restrict the number of allowed action blocks in the program to encourage learners to plan the shortest path to a destination.
+Moderators can restrict the number of allowed action blocks in the program to encourage learners to plan the shortest path to a destination.
