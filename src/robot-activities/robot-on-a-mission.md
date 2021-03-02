@@ -1,18 +1,41 @@
 ---
 title: Robot on a Mission
 tags:
-  - Dash
+  - Dash & Dot
 experience: Blockly Coding Experience
 topic: Sequencing
-description: This activity challenges learners move past barrier to reach the moon.
-whatYouNeed: |
+relatedRobotActivities:
+  - Tracing shapes with Dash
+  - Dash's house
+description: This activity challenges learners move past barrier to reach a destination.
+whatYouNeed: >-
   ### Tools
+
+
+  Tape, markers, a few small toys, and a device to access Weavly and/or Block.ly, Dash
+
 
   ### Skills
 
+
+  Logical skills to understand basic directions and repetition
+
+
   ### Environment
 
+
+  Indoor area with space for Dash to move around
+
+
   ### Support
+
+
+  Depends on the learner, assistance may be required to guide or facilitate
+books:
+  - coverImage: /assets/media/debugging-you-can-fix-it-up-by-patricia-m.-stockland.jpg
+    author: Patricia M. Stockland
+    title: "Debugging: You Can Fix it Up"
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -20,27 +43,27 @@ In this activity, learners plan and build a path to direct Dash to move to a spe
 
 ## Steps
 
-* Place the printed grid tiles together on a hard and flat surface and tape their edges to secure it in place
-* Once your map is ready, place a few items such as toys on different spots on the map
-* Select a starting point for your robot, place it on the map and start using the coding environment to make your robot move to different items on the map
+* Use a taping mask or chalk to build a grid map on the floor
+* Once your grid is ready, place a few items such as toys on different grid cells
+* Select a starting point for Dash and place it on the map
+* Use Weavly to build a sequence to make Dash move to a selected destination on the grid map
+* Play your sequence program
+* Pause your program and debug once Dash starts to move away from the desired destination
 
 ## Tips
 
 * If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling
-* If you don’t have access to a printer, you can draw a grid map on a large sheet of paper or use masking tape to build a grid on the floor
 * You can use any object, draw or write something on the map
 * To make this fun, build a story around the objects on your map and give Dash a specific mission to accomplish
-
-## Change it up
-
-* Try different colors and marker tips to get different effects
-
-## Level Up 
-
-* Complete this activity again with a planned shape or pattern
 
 ## Skill Development
 
 * Mathematical
 * Spatial
-* Reasoning
+* Directions
+* Sequencing
+
+## Level Up 
+
+* Complete this activity again with a planned shape or pattern in mind
+* Restrict the number of cells the robot can move
