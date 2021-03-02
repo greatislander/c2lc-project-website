@@ -1,37 +1,41 @@
 ---
-title: Sunken ship treasure hunt
-type: Unplugged
+title: "Mission: Hunting the sunken treasure"
+type: On-Screen
 experience: Unplugged Coding Experience
 subject: Games
-description: This activity involves building a sequence to achieve a goal.
-whatYouNeed: |-
+description: This activity challenges players to build a sequence to complete a mission.
+whatYouNeed: >-
   ### Tools
+
 
   Computer with internet access
 
+
   ### Skills
 
-  N/A
+
+  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
+
 
   ### Environment
 
-  Any
+
+  Weavly coding environment
+
 
   ### Support
 
-  Depends on the learner, could be independent or require assistance
+
+  Adult moderator and one or more players
 books:
   - title: Stuck
     author: Oliver Jeffers
     coverImage: /assets/media/stuck.jpg
+    link: /learn/resources/picture-book-list/
 ---
-## Objectives
-
-* Building a sequence to achieve a goal
-
 ## Description
 
-In this activity, learners try to build a sequence to move their on-screen character from point A to point B. The path between these two points is not straight. There are roadblocks, like sharks, along the way. The character will need to stay away from these roadblocks. While building a sequence, learners will become familiar with the C2LC coding environment.
+In this activity, learners try to build a sequence to move their on-screen character from point A to point B. The path between these two points is not straight. There are roadblocks, like sharks, along the way. The character will need to stay away from these roadblocks. While building a sequence, learners will become familiar with the Weavly coding environment.
 
 Activity: link \[\*\**]
 
@@ -41,7 +45,7 @@ Activity: link \[\*\**]
 * Use a combination of action blocks to program a sequence to take your submarine to the sunken ship while moving around the sharks
 * Select play to see how the submarine will move from the sea surface to the sunken ship
 * Select the “Refresh” button to take the submarine back to its original spot
-* Select the “Play” button and watch how the submarine moves from the surface to the sunken ship and returning to the surface while avoiding sharks on its path
+* Select the “Play” button and watch how the submarine moves from the surface to the sunken ship and returns to the surface while avoiding sharks on its path
 
 ## Tips
 
@@ -50,9 +54,10 @@ Activity: link \[\*\**]
 
 ## Skill Development
 
+* Directions
 * Sequencing
 * Debugging
 
 ## Level Up!
 
-* Moderators or learners can adjust the placement of the submarine, sunken ship, and the sharks to encourage building different program combinations
+Moderators or learners can adjust the placement of the submarine, sunken ship, and the sharks to encourage building different program combinations
