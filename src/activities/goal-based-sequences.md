@@ -12,7 +12,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Computer and internet access
+  A device to access 'Weavly coding environment'
 
 
   ### Skills
@@ -24,7 +24,7 @@ whatYouNeed: >-
   ### Environment
 
 
-  Weavly coding environment
+  Indoor 
 
 
   ### Support
@@ -61,7 +61,8 @@ This is a multi-level activity that starts simple and builds in complexity. The 
 
 ## Skill Development
 
-* Directions
+* Planning
+* Directional/Spatial
 * Sequencing
 * Debugging
 
