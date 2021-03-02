@@ -4,6 +4,9 @@ tags:
   - Dash & Dot
 experience: Blockly Coding Experience
 topic: Loops
+relatedRobotActivities:
+  - Testing loop
+  - Tracing shapes with Dash
 description: This activity teaches how to create repeated sequences.
 whatYouNeed: |-
   ### Tools
