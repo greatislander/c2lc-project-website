@@ -11,7 +11,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Something to play music with
+  A device to play music
 
 
   ### Skills
@@ -23,7 +23,7 @@ whatYouNeed: >-
   ### Environment
 
 
-  Any environment with enough space for dance movements and tolerance for music
+  Any environment with space for dance movements and tolerance for music
 
 
   ### Support
@@ -68,6 +68,7 @@ For youth
 
 ## Skill Development
 
+* Gross motor movements (i.e. dance)
 * Directions
 * Sequencing
 
