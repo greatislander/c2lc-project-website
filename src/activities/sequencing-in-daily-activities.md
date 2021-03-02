@@ -3,13 +3,15 @@ title: Sequencing in daily activities
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: >-
-  This activity helps learners to understand how a series of objects and events
-  can happen in a specific and logical order. 
+relatedActivities:
+  - Beginning, middle, and end
+  - Fixing a sequence
+description: "This activity helps learners to understand how a series of objects
+  and events can happen in a specific and logical order. "
 whatYouNeed: |-
   ### Tools
 
-  Printer or a computer
+  Computer and internet access
 
   ### Skills
 
@@ -26,6 +28,7 @@ books:
   - title: The Very Hungry Caterpillar
     author: Eric Carle
     coverImage: /assets/media/the-very-hungry-caterpillar.webp
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -51,8 +54,8 @@ Sequencing is an abstract concept and takes a lot of practice to master for many
 
 ## Skill Development
 
-* Putting items in the correct order
-* Sorting and pattern recognition
+* Sorting
+* Pattern recognition
 
 ## Level Up!
 
