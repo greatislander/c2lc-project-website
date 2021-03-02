@@ -3,19 +3,22 @@ title: Setting up the stage
 type: On-Screen
 experience: No Coding Experience
 subject: Drawings
+relatedActivities:
+  - "Mission: Rescue "
+  - "Mission: Visiting Animals"
 description: This activity teaches learners to build a background on the scene.
 whatYouNeed: |-
   ### Tools
 
-  Computer with internet access
+  Computer and internet access
 
   ### Skills
 
-  N/A
+  Basic knowledge of working with web-based applications
 
   ### Environment
 
-  Any
+  Weavly coding environment
 
   ### Support
 
@@ -24,14 +27,15 @@ books:
   - title: Little Red Riding Hood
     author: Mary Alperin
     coverImage: /assets/media/little-red-riding-hood.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-In this activity, learners use the C2LC’s background editor to set the stage for their story. Learners can explore different features to create scenes and change their own background. Items can be added to the scene, changed in colour, resized and adjusted in the scene to the learner's liking. The background editor gives options for sounds effects and animation for customization.
+In this activity, learners use Weavly’s background editor to set the stage for their story. Learners can explore different features to create scenes and change the background. Items can be added to the scene, changed in color, and resized to the learner's liking. The background editor gives options for sounds effects and animation for customization as well.
 
 ## Steps
 
-* Work with learner to pick a story
+* Work with the learner to pick a story
 * Read the story together
 * Engage learner in a conversation about how they want to plan a stage for that story
 * Open the background editor
@@ -40,7 +44,7 @@ In this activity, learners use the C2LC’s background editor to set the stage f
 * Position the items on the scene
 * Add behavior and sound to each item and indicate which of them are dynamic and which are static
 
-Here are a few stories that you can use a starter :<https://www.education.com/game/the-missing-dragon-level-i/>\
+Here are a few stories that you can use as a starter:<https://www.education.com/game/the-missing-dragon-level-i/>\
 You can find more books for this activity here: <https://www.education.com/stories/>
 
 ## Tips
@@ -55,4 +59,4 @@ You can find more books for this activity here: <https://www.education.com/stori
 
 ## Level Up!
 
-* Encourage learners to come up with their own story, which has a beginning, middle, and end. Then, learners can use the background editor to build their story’s environment.
+Encourage learners to come up with their own story, which has a beginning, middle, and end. Then, learners can use the background editor to build their story’s environment.
