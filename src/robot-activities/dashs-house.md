@@ -4,6 +4,9 @@ tags:
   - Dash & Dot
 experience: Blockly Coding Experience
 topic: Sequencing
+relatedRobotActivities:
+  - Free Play with Dash
+  - Tracing shapes with Dash
 description: This activity builds a simple program sequence to move Dash.
 whatYouNeed: >-
   ### Tools
