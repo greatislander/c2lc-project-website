@@ -28,6 +28,9 @@ whatYouNeed: >-
 
 
   Independent or with two players. Depends on the learner, assistance may be required to guide or facilitate
+supportiveMaterial:
+  - label: Shapes for tracing
+    file: /assets/media/shapes.pdf
 ---
 ## Description
 
