@@ -62,7 +62,12 @@ In this activity, learners start by learning directions on their own body, then 
 
 ## Skill Development
 
-Directional skills to understand directions
+* Spatial 
+* Directional 
+* Pattern Recognition
+* Gross motor 
+* Planning
+* Social skills/communication
 
 ## Level Up!
 
