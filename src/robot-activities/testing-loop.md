@@ -1,5 +1,5 @@
 ---
-title: Telecode
+title: Telecode Game
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
