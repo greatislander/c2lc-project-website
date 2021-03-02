@@ -47,7 +47,7 @@ This activity helps learners to identify groups and categories of items around t
 ## Skill Development
 
 * Sorting
-* Recognizing patterns
+* Pattern recognition
 
 ## Level Up!
 
