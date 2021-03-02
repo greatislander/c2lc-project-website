@@ -3,6 +3,11 @@ title: What's a robot
 type: Unplugged
 experience: No Coding Experience
 subject: Games
+relatedActivities:
+  - Human robots
+  - Moving through a maze
+description: In this activity, learners will explore what robots are and how
+  they follow instructions.
 whatYouNeed: |-
   ### Tools
 
@@ -20,11 +25,12 @@ whatYouNeed: |-
 books:
   - title: Robots Robots everywhere
     author: Sue Fliess
-    coverImage: /assets/media/robots-robots-everywhere.jpg
+    coverImage: /assets/media/robots-robots-everywhere-by-sue-fliess.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-In this activity, learners will explore what robots are and how they follow instructions. This is a multi-level activity. First, learners are introduced to the concept of robots. Later they are engaged in different activities to identify robots in their immediate environment.
+This is a multi-level activity. First, learners are introduced to the concept of robots. Later they are engaged in different activities to identify robots in their immediate environment.
 
 To introduce them to robots you can use available videos on YouTube or read a picture book about robots. Our team is particularly fond of these resources as they provide details that are fun and engaging:
 
@@ -42,11 +48,13 @@ To introduce them to robots you can use available videos on YouTube or read a pi
 
 ## Tips
 
-* Make sure any video played for this activity has captions and is played at proper speed
-* Reflecting on learners’ choice is core to this activity. Even when they choose the wrong options make sure to discuss why their choice is not a robot
+* Make sure any video played for this activity has captions and is played at the proper speed
+* Reflecting on learners’ choices is core to this activity. Even when they choose the wrong options make sure to discuss why their choice is not a robot
 
 ## Skill Development
 
+* Giving instructions
+
 ## Level Up!
 
-* See Play Human Robot activity
+See Play Human Robot activity
