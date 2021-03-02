@@ -4,7 +4,8 @@ type: On-Screen
 experience: Unplugged Coding Experience
 subject: Games
 relatedActivities:
-  - Jungle safari / farm visit
+  - "Mission: Hunting the sunken treasure"
+  - "Mission: Travelling to the moon"
 description: This multi-level activity challenges players to build a sequence to
   complete a mission.
 whatYouNeed: >-
