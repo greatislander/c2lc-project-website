@@ -15,7 +15,7 @@ whatYouNeed: >-
   ### Skills
 
 
-  Logical skills to understand basic directions and repetition
+  Logical skills to understand basic directions and repetition and gross motor
 
 
   ### Environment
@@ -58,4 +58,4 @@ In this activity, learners will use the on-screen environment to apply their kno
 ## Skill Development
 
 * Planning
-* Social skills
+* Social skills/Collaboration
