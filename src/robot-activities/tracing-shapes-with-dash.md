@@ -57,6 +57,6 @@ In this activity, learners plan and build a sequence of movements to trace simpl
 
 ## Skill Development
 
-* Reasoning
+* Analytical/Reasoning
 * Spatial
 * Mathematical
