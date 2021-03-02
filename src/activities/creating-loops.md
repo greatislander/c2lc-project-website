@@ -12,7 +12,7 @@ whatYouNeed: |-
 
   None
 
-  ### Skills 
+  ### Skills
 
   Directional skills to understand basic direction and repetition
 
@@ -47,11 +47,12 @@ In this activity, learners will use their knowledge of sequencing to create repe
 
 ## Skill Development
 
+* Sorting
 * Sequencing
 * Planning
-* Recognizing repeated patterns
+* Pattern recognition 
 
 ## Level Up!
 
-* Try a loop sequence with one item being used twice (e.g. Spoon, fork, fork, Spoon, fork, fork)
-* Try this activity again with a longer loop sequence (e.g. Spoon, fork, fork, straw, Spoon, fork, fork, straw)
+* Try a loop sequence with one item being used twice (e.g. spoon, fork, fork, spoon, fork, fork)
+* Try this activity again with a longer loop sequence (e.g. spoon, fork, fork, straw, spoon, fork, fork, straw)
