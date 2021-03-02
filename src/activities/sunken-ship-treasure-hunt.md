@@ -3,6 +3,9 @@ title: "Mission: Hunting the sunken treasure"
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Games
+relatedActivities:
+  - "Mission: Visiting Animals"
+  - "Mission: Travelling to the moon"
 description: This activity challenges players to build a sequence to complete a mission.
 whatYouNeed: >-
   ### Tools
