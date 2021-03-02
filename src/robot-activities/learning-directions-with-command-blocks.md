@@ -4,6 +4,8 @@ tags:
   - Cubetto
 experience: Unplugged Coding Experience
 topic: Sequencing
+relatedRobotActivities:
+  - Meet Cubetto
 description: This activity explores features for Cubetto.
 whatYouNeed: >-
   ### Tools
@@ -27,8 +29,12 @@ whatYouNeed: >-
   ### Support
 
 
-  Depends on the learner, could be independent/group or require
-  supervision/facilitation as necessary
+  Depends on the learner, could be independent/group or require supervision/facilitation as necessary
+books:
+  - coverImage: /assets/media/sequences-order-matters.jpg
+    author: Nadia Higgins
+    title: "Sequences: Order Matters"
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -38,21 +44,21 @@ In this activity, learners are introduced to the foundational concepts of direct
 
 * Review vocabulary of directions with the learner (e.g. forward, right, left)
 * Find a starting point on the Cubetto grid map and place Cubetto there
-* Choose cards / stickers with arrows on the map to indicate the chosen path
+* Choose cards/stickers with arrows on the map to indicate the chosen path
 * Place the corresponding command blocks onto the command board and run
 * Say the directions as the program is tested
 
 ## Tips
 
 * Emphasize that Cubetto can only travel in the direction it's facing
-* Ask learners to act out how Cubetto moves like a car
-* Place toys or any other interesting object on the Cubetto map and ask players to build a program to take Cubetto to that particular item
-
-## Curriculum Connections
-
-## Accessibility Considerations
 
 ## Skill Development
 
-* Learning about directions
-* Planning and building a sequence
+* Directions
+* Planning
+* Sequencing
+
+## Level Up
+
+* Ask learners to act out how Cubetto moves like a car
+* Place toys or any other interesting object on the Cubetto map and ask players to build a program to take Cubetto to that particular item
