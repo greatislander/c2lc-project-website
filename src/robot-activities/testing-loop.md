@@ -1,16 +1,18 @@
 ---
-title: Testing loop
+title: Telecode
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
 topic: Loops
-relatedRobotActivities: []
-description: This activity allows learners to verify loop sequences created.
+relatedRobotActivities:
+  - Free Play with Dash
+  - Tracing shapes with Dash
+description: The purpose of this activity is to allow learners to build sequences.
 whatYouNeed: >-
   ### Tools
 
 
-  A device to access the “C2LC Coding Environment” and/or Block.ly, Dash and Dot
+  A device to access Weavly and/or Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -22,42 +24,46 @@ whatYouNeed: >-
   ### Environment
 
 
-  Any
+  Indoor area with space for Dash to move around
 
 
   ### Support
 
 
   Two players (Depends on the learner, assistance may be required to guide or facilitate.)
+books:
+  - coverImage: /assets/media/adi-s-perfect-patterns-and-loops.jpg
+    title: Adi’s Perfect Patterns and Loops
+    author: Caroline Karanja
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-In this activity, learners will use the on-screen environment to apply their knowledge of directions, sequencing and loop creation. The purpose of this interactive activity is to allow learners to test their loop sequences. Learners will use their familiarity with the “C2LC Coding environment” or Block.ly and Dash and Dot robots to create loop sequences in real-time. The kinesthetic output from the robots will encourage sequence tracking, an early task necessary for debugging and correction. This activity incorporates a social component to encourage demonstration and collaboration.
+In this activity, learners will use Weavly to apply their knowledge of directions, sequencing, and loop creation. Learners will use their familiarity with Weavly or Block.ly and Dash and Dot robots to create loop sequences in real-time. The kinesthetic output from the robots will encourage sequence tracking, an early task necessary for debugging and correction. This activity incorporates a social component to encourage demonstration and collaboration.
 
 ## Steps
 
-Select one individual to be Partner 1 and another to be Partner 2.
+Select one individual to be Player 1 and another to be Player 2.
 
-* Using only words, Partner 1 tells Partner 2 a simple sequence of 3-5 blocks you would like to repeat. This will be your ‘loop’ sequence.
-* Partner 2 creates the loop sequence that Partner 1 has described in Blockly. Do not let Partner 1 see your program until you are finished.
-* Partner 2 to send the program to Dash/Dot to share with Partner 1.
-* Switch roles and repeat the activity (Partner 1 becomes Partner 2. Partner 2 becomes Partner 1)
+* Using only words, Player 1 tells Player 2 a simple sequence of 3-5 blocks you would like to repeat. This will be your ‘loop’ sequence
+* Player 2 creates the loop sequence that Player 1 has described in Weavly or Block.ly. (Do not let Player 1 see your program until you are finished.)
+* Player 2 connects Weavly or Block.ly to Dash
+* Player 2 plays their program to move Dash
+* Discuss with the other player if the played sequence what Player 1 had described
+* If it was not the sequence as Player 1 described, try to find where the sequence did not match what and fix the sequence
+* Switch roles and repeat the activity 
 
-## Try
+## Tips
 
-* Ensure batteries are charged and Dash and Dot is operational prior to activity
+* Ensure batteries are charged and Dash and Dot is operational prior to the activity
 * Set up a large flat surface for Dash and Dot to detect actions
 * Establish expectations of being patient and turn-taking between partners
 
-## Change it up
+## Skill Development
 
-1. Discuss with your partner if the sequence shown is the sequence Partner 1 described.
-2. If it was not the sequence as Partner 1 described, try to find where the sequence did not match what Partner 1 described.
+* Debugging
+* Sequencing
 
 ## Level Up 
 
-What “tips” would you give the next group to help them be successful?
-
-## Skill Development
-
-Debugging
+Explore longer sequences with more action blocks.
