@@ -1,15 +1,18 @@
 ---
 title: Tracing shapes with Dash
 tags:
-  - Dash
+  - Dash & Dot
 experience: Blockly Coding Experience
 topic: Sequencing
-description: This activity builds sequences to move Dash according to shapes.
+relatedRobotActivities:
+  - Free Play with Dash
+  - Dash's house
+description: This activity builds sequences to move Dash according to different shapes.
 whatYouNeed: >-
   ### Tools
 
 
-  Large sheet of paper, tape, markers, [](https://resources.codelearncreate.org/PDF/Shapes.pdf)Shapes for tracing, a device to access the “C2LC Coding Environment” and/or Block.ly, Dash and Dot
+  Large sheet of paper, tape, markers, [](https://resources.codelearncreate.org/PDF/Shapes.pdf)Shapes for tracing, a device to access Weavly and/or Block.ly, Dash 
 
 
   ### Skills
@@ -21,13 +24,13 @@ whatYouNeed: >-
   ### Environment
 
 
-  Indoor area with flat surface for Dash to move around
+  Indoor area with a flat surface for Dash to move around
 
 
   ### Support
 
 
-  Independent or with two players. Depends on the learner, assistance may be required to guide or facilitate
+  Depends on the learner, assistance may be required to guide or facilitate
 supportiveMaterial:
   - label: Shapes for tracing
     file: /assets/media/shapes.pdf
@@ -38,7 +41,7 @@ In this activity, learners plan and build a sequence of movements to trace simpl
 
 ## Steps
 
-* Place a large sheet of paper on a hard and flat surface and tape its edges
+* Place a large sheet of paper on a hard and flat surface and tape its edges to the floor
 * Tape a marker on each side of Dash
 * Place one of the printed shapes on the large sheet and tape it to secure it in place
 * Turn on Dash and start using the coding environment to make Dash trace the shape on the paper
@@ -50,16 +53,14 @@ In this activity, learners plan and build a sequence of movements to trace simpl
 * Make sure the marker tips can touch the paper
 * Traced lines may not be straight and accurate as markers may move in different directions
 
-## Change it up
-
-* Try different colors and marker tips to get different effects
-
-## Level Up 
-
-* Complete this activity again with a new shape or pattern
-
 ## Skill Development
 
 * Analytical/Reasoning
 * Spatial
 * Mathematical
+* Sequencing
+* Directions
+
+## Level Up 
+
+Complete this activity again with a new shape or pattern
