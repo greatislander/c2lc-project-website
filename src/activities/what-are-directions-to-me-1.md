@@ -1,9 +1,12 @@
 ---
-title: 'Beginning, middle, and end'
+title: Beginning, middle, and end
 type: Unplugged
 experience: No Coding Experience
 subject: Games
-description: 'In this activity, players understand and practice sequencing'
+relatedActivities:
+  - Fixing a sequence
+  - Sequencing in daily activities
+description: In this activity, players understand and practice sequencing.
 whatYouNeed: |-
   ### Tools
 
@@ -21,9 +24,10 @@ whatYouNeed: |-
 
   Adult moderator and one or more players
 books:
-  - title: 'We’re Boing on a Bear Hunt '
-    author: 'Michael Rosen, Helen Oxenbury'
+  - title: "We’re Going on a Bear Hunt "
+    author: Michael Rosen, Helen Oxenbury
     coverImage: /assets/media/we-re-going-on-a-bear-hunt.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -42,4 +46,4 @@ This activity engages learners to recognize events in a story and practice seque
 
 ## Skill Development
 
-* Sequencing (e.g. putting plot into correct order)
+* Sequencing
