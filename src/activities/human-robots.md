@@ -10,7 +10,7 @@ description: This activity involves learning and practice directions and sequenc
 whatYouNeed: |-
   ### Tools
 
-  Computer with internet access
+  Device with internet access
 
   ### Skills
 
@@ -31,7 +31,7 @@ books:
 ---
 ## Description
 
-This activity provides a combination of physical and on-screen experiences for learners. This is a goal-based activity, thus learners need to plan, execute and debug (if needed) to move a robot towards a specific destination. This activity requires collaboration and communication between players.
+This activity provides a combination of physical and on-screen experiences for learners. This goal-based activity requires learners to plan, execute and debug (if needed) a sequence to move a robot towards a specific destination. This activity requires collaboration and communication between players.
 
 ## Steps
 
@@ -50,12 +50,14 @@ This activity provides a combination of physical and on-screen experiences for l
 
 ## Skill Development
 
-* Directions
+* Directional
+* Spatial
 * Sequencing
 * Debugging
+* Social skills/Communication (i.e. turn-taking)
 
 ## Level Up!
 
 * The moderator and players can switch roles. This time, players get to control the moderator and bring them back to the desired destination
 * You can use some of the available objects in the environment, such as furniture as roadblocks so your players can build more complex programs
-* If the “robot” is blindfolded, it will help learners to notice the importance of clear and precise directions.
+* If the “robot” is blindfolded, learners can notice the importance of clear and precise directions
