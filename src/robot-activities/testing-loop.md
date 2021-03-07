@@ -1,5 +1,5 @@
 ---
-title: Telecode Game
+title: Telecode a path
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
@@ -7,12 +7,12 @@ topic: Loops
 relatedRobotActivities:
   - Free Play with Dash
   - Tracing shapes with Dash
-description: The purpose of this activity is to allow learners to build sequences.
+description: This activity allows learners to build sequences together.
 whatYouNeed: >-
   ### Tools
 
 
-  A device to access Weavly and/or Block.ly, Dash, and Dot
+  Device to access Weavly and/or Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -30,7 +30,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Two players (Depends on the learner, assistance may be required to guide or facilitate.)
+  Two players; depends on the learner, assistance may be required to guide or facilitate.
 books:
   - coverImage: /assets/media/adi-s-perfect-patterns-and-loops.jpg
     title: Adi’s Perfect Patterns and Loops
@@ -61,8 +61,12 @@ Select one individual to be Player 1 and another to be Player 2.
 
 ## Skill Development
 
-* Debugging
+* Directional
+* Planning
+* Problem solving (debugging)
 * Sequencing
+* Social skills/Communication
+* Spatial
 
 ## Level Up 
 
