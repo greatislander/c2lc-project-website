@@ -12,7 +12,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  A device to access 'Weavly coding environment'
+  Device to access 'Weavly coding environment'
 
 
   ### Skills
@@ -50,19 +50,21 @@ This is a multi-level activity that starts simple and builds in complexity. The 
 * Choose an animal you want to visit
 * Use a combination of different action blocks to build a program to move your character on the grid and reach your selected animal
 * Select the “Play” button to run the program and view how the on-screen character completes each step of the activity
-* To visit another animal, select the “Delete” button to delete your current program.
+* To visit another animal, select the “Delete” button to delete your current program
 * Start building a new one
 
 ## Tips
 
-* Adult moderators can show the movements to help learners understand the purpose of the activity.
-* Learners can leave the pen down feature enabled to draw a line as they move between the steps.
+* Adult moderators can show the movements to help learners understand the purpose of the activity
+* Learners can leave the pen down feature enabled to draw a line as they move between the steps
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal
+* Animals sounds can be played once the learners complete the activity to celebrate and add excitement
 
 ## Skill Development
 
 * Planning
-* Directional/Spatial
+* Directional
+* Spatial
 * Sequencing
 * Debugging
 
