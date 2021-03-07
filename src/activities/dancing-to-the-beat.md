@@ -11,13 +11,13 @@ whatYouNeed: >-
   ### Tools
 
 
-  A device to play music
+  Device to play music
 
 
   ### Skills
 
 
-  Basic understanding of directions (for example move forward, backward, turning right, and turning left)
+  Directional skills to understand basic directions and repetition (for example move forward, backward, turning right, and turning left)
 
 
   ### Environment
@@ -38,9 +38,9 @@ books:
 ---
 ## Description
 
-You can use any coding environment to do this activity. This is a fun and interactive way of learning about directions. Any type of movement counts as dancing in this activity whether it is stepping, jumping, wheeling, blinking, head movements, or hitting a single switch.
+This activity can use any coding environment for a fun and interactive way to learn about directions. Any type of movement counts as dancing in this activity whether it is stepping, jumping, wheeling, blinking, head movements, or hitting a single switch.
 
-As a starter, you can try
+As a starter, you can try...
 
 For younger children:
 
@@ -68,7 +68,8 @@ For youth
 
 ## Skill Development
 
-* Gross motor movements (i.e. dance)
+* Gross motor movements 
+* Dancing
 * Directions
 * Sequencing
 
