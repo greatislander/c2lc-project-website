@@ -6,8 +6,7 @@ subject: Games
 relatedActivities:
   - Learning about directions with arrows
   - Directions anywhere, anytime
-description: "In this activity, players learn about directions in relation to
-  their bodies and practice them in their immediate environment. "
+description: This activity covers directions using our hands and feet.
 whatYouNeed: |-
   ### Tools
 
@@ -45,10 +44,11 @@ This activity helps learners to explore and practice their directions. Distingui
 
 ## Tips
 
-* If a learner struggles with identifying the correct direction, let the learner say the incorrect answer and then provide the correction. On subsequent attempts, try to provide verbal or physical prompts to engage participation.
-* Use colored bracelets or stickers to support left and right to be remembered. Red and yellow are good choices for individuals with CVI.
-* Repetition is key for learning directions with physical movement. Try to reinforce with other activities with directions.
+* If a learner struggles with identifying the correct direction, let the learner say the incorrect answer and then provide the correct answer. Try to provide verbal or physical prompts to engage participation on subsequent attempts.
+* Use colored bracelets or stickers to support left and right to be remembered. Red and yellow are good choices for individuals with cortical visual impairment
+* Repetition is key for learning directions with physical movement. Try to reinforce with other activities with directions
 
 ## Skill Development
 
-* Directions
+* Directional
+* Spatial
