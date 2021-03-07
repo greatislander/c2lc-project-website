@@ -6,9 +6,7 @@ description: A collection of Youtube videos about coding
 ---
 Here is a collection of Youtube videos that our team has put together to assist learners in their coding education journey. These fun and engaging videos help learners to better understand some of the abstract concepts of coding. 
 
-Beginning a lesson with a video is a fun and engaging way to build excitement and curiosity, develop and activate background knowledge, and create a sense of community. Wrapping up a lesson with a video is also an effective way to come together, as a group, to review some of the concepts that students learned during the lesson and connect them to other areas of life.
-
-
+Beginning a lesson with a video is a fun and engaging way to build excitement and curiosity, develop and activate background knowledge, and create a sense of community. Wrapping up a lesson with a video is also an effective way to come together, as a group, to consolidate and review some of the concepts that students learned during the lesson and connect to other areas of life.
 
 ## Robots
 
