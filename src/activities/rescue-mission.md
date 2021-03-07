@@ -12,7 +12,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Computer with internet access
+  Device with internet access
 
 
   ### Skills
@@ -39,17 +39,17 @@ books:
 ---
 ## Description
 
-These are a series of activities that add to the complexity of building a program. In the initial missions, learners can only use Forward action blocks. In the following missions, learners need to use Turns at different degrees to complete their missions.
+These links provide a series of activities that add to the complexity of building a program. In the initial missions, learners can only use Forward action blocks. In the following missions, learners need to use Turns at different degrees to complete their missions.
 
-* Mission#1: link \[\*\**]
-* Mission#2: link \[\*\**]
-* Mission#3: link \[\*\**]
-* Mission#4: link \[\*\**]
-* Mission#5: link \[\*\**]
+* Mission#1: \[link] 
+* Mission#2: \[link] 
+* Mission#3: \[link] 
+* Mission#4: \[link] 
+* Mission#5: \[link] 
 
 ## Steps
 
-* Open missions in order and don’t move to the next mission unless you have completed the current one
+* Open the missions in order and only move to the next mission when you have completed the current one
 * Depending on the mission, use different combinations of Forward and Turn blocks to build your program
 * Select the “Play” button to see how each mission is completed
 
@@ -60,9 +60,11 @@ These are a series of activities that add to the complexity of building a progra
 
 ## Skill Development
 
-* Directions
-* Sequencing
 * Debugging
+* Directional
+* Spatial
+* Sequencing
+* Planning
 
 ## Level Up!
 
