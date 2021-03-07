@@ -1,5 +1,5 @@
 ---
-title: "Meet Dash and Dot: light & sound"
+title: "Meet Dash and Dot: Light & Sound"
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
