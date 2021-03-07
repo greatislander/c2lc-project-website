@@ -7,8 +7,8 @@ topic: Loops
 relatedRobotActivities:
   - Free Play with Dash
   - Tracing shapes with Dash
-description: This activity communicates a sequences like a game of telephone,
-  except with code.
+description: This activity communicates a sequences, like a game of telephone,
+  except using code.
 whatYouNeed: >-
   ### Tools
 
