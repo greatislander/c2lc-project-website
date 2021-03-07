@@ -10,11 +10,11 @@ description: This activity helps learners to identify patterns.
 whatYouNeed: |-
   ### Tools
 
-  Computer and internet access
+  Device with internet access
 
   ### Skills
 
-  Ability to sort items
+  Gross and fine motor skills to sort items
 
   ### Environment
 
@@ -31,7 +31,7 @@ books:
 ---
 ## Description
 
-This activity calls for learners to identify patterns that are being repeated in a sequence. Parents, educators, and moderators can use simple drawings or clipart in a sequence practice to identify repeated patterns.
+This activity call learners to identify patterns that are being repeated in a sequence. Parents, educators, and moderators can use simple drawings or clipart in a sequence practice to identify repeated patterns.
 
 Parents and educators can use these sequences as a starting point to practice identifying patterns in a sequence: <https://docs.google.com/presentation/d/1U2_xaP9UcmR1Ny-uRp6-d81Zn2taHjte_zW59b5HLcw/edit#slide=id.g5b08c87124_0_13>
 
