@@ -12,13 +12,13 @@ whatYouNeed: >-
   ### Tools
 
 
-  Large sheet of paper, tape, markers, [](https://resources.codelearncreate.org/PDF/Shapes.pdf)Shapes for tracing, a device to access Weavly and/or Block.ly, Dash 
+  Large sheet of paper, tape, markers, [](https://resources.codelearncreate.org/PDF/Shapes.pdf)shapes for tracing, device to access Weavly and/or Block.ly, Dash 
 
 
   ### Skills
 
 
-  Logical skills to understand basic directions and repetition
+  Directional skills to understand basic directions and repetition
 
 
   ### Environment
@@ -56,11 +56,11 @@ In this activity, learners plan and build a sequence of movements to trace simpl
 ## Skill Development
 
 * Analytical/Reasoning
-* Spatial
+* Directional
 * Mathematical
 * Sequencing
-* Directions
+* Spatial
 
 ## Level Up 
 
-Complete this activity again with a new shape or pattern
+Complete this activity again with a new shape or pattern.
