@@ -6,14 +6,15 @@ subject: Games
 relatedActivities:
   - Human robots
   - Moving through a maze
-description: In this activity, learners will explore what robots are and how
-  they follow instructions.
+description: This activity explores what robots are and how they follow instructions.
 whatYouNeed: |-
   ### Tools
 
   Printer and paper
 
   ### Skills
+
+  Directional skills to understand basic directions 
 
   ### Environment
 
@@ -30,9 +31,7 @@ books:
 ---
 ## Description
 
-This is a multi-level activity. First, learners are introduced to the concept of robots. Later they are engaged in different activities to identify robots in their immediate environment.
-
-To introduce them to robots you can use available videos on YouTube or read a picture book about robots. Our team is particularly fond of these resources as they provide details that are fun and engaging:
+This multi-level activity introduces the concept of robots. Learners can engage in different activities, such as watching videos and or reading picture books, to identify robots in their immediate environment. To introduce robots, our team recommends these resources as they provide details that are fun and engaging:
 
 * Video: <https://www.youtube.com/watch?v=8wHJjLMnikU>
 * [](https://drive.google.com/file/d/1XlcR1_hp89AqtE6zNb_VwmUAR7aU5LTt/view)Picture Book: Robots Robots everywhere:<https://www.youtube.com/watch?v=AtsgbVbNgeg>
@@ -53,8 +52,10 @@ To introduce them to robots you can use available videos on YouTube or read a pi
 
 ## Skill Development
 
-* Giving instructions
+* Creativity
+* Communication (i.e. narrative)
+* Observational 
 
 ## Level Up!
 
-See Play Human Robot activity
+Check out and play the Human Robot activity.
