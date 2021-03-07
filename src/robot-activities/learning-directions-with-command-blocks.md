@@ -11,13 +11,13 @@ whatYouNeed: >-
   ### Tools
 
 
-  Cubetto (including command blocks and map), Printer
+  Cubetto (including command blocks and map), printer
 
 
   ### Skills
 
 
-  Fine Motor (e.g. finger dexterity)
+  Fine Motor (e.g. finger dexterity), directional skills to understand basic directions
 
 
   ### Environment
@@ -54,9 +54,11 @@ In this activity, learners are introduced to the foundational concepts of direct
 
 ## Skill Development
 
-* Directions
+* Analytical/Reasoning
+* Directional
 * Planning
 * Sequencing
+* Spatial
 
 ## Level Up
 
