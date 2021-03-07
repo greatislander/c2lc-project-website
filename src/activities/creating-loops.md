@@ -14,7 +14,7 @@ whatYouNeed: |-
 
   ### Skills
 
-  Directional skills to understand basic direction and repetition
+  Directional skills to understand basic directions and repetition
 
   ### Environment
 
@@ -31,7 +31,7 @@ books:
 ---
 ## Description
 
-In this activity, learners will use their knowledge of sequencing to create repeated sequences, known as loops. This is an unplugged activity and will give learners a chance to practice planning a loop without a computer and with items around them.
+In this activity, learners will use their knowledge of sequencing to create repeated sequences, known as loops. This is an unplugged activity that gives learners a chance to practice planning a loop without a computer and with items around them.
 
 ## Steps
 
@@ -43,7 +43,7 @@ In this activity, learners will use their knowledge of sequencing to create repe
 ## Tips
 
 * Set up a large flat surface for items
-* In situations in which the learner is not able to repeat the sequence, slow your pace and work with them to build the repeated sequence step by step
+* In situations where the learner is not able to repeat the sequence, slow the pace and build the repeated sequence step by step with them on an one-on-one basis
 
 ## Skill Development
 
