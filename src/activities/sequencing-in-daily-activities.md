@@ -11,7 +11,7 @@ description: "This activity helps learners to understand how a series of objects
 whatYouNeed: |-
   ### Tools
 
-  Computer and internet access
+  Device with internet access
 
   ### Skills
 
@@ -54,10 +54,11 @@ Sequencing is an abstract concept and takes a lot of practice to master for many
 
 ## Skill Development
 
+* Sequencing
 * Sorting
 * Pattern recognition
 
 ## Level Up!
 
 * Talk to learners about their daily activities to help them build their understanding of sequencing. Throughout the day, ask them to explain what they are doing first, next, and last as those steps are happening. For example, when they are having meals, tying shoes, using the bathroom, or going outside, ask them to explain the steps.
-* Use 3-5 images from magazines/flyers/newspapers/storybooks or family photos. Ask learners to put these items in the correct order either chronological or logical. Reinforce the vocabulary by asking them what happened first, next, and last.
+* Use a few or several images from magazines/flyers/newspapers/storybooks or family photos. Ask learners to put these items in the correct order either chronological or logical. Reinforce the vocabulary by asking them what happened first, next, and last.
