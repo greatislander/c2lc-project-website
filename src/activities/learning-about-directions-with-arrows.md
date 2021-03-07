@@ -6,7 +6,7 @@ subject: Games
 relatedActivities:
   - Directions anywhere, anytime
   - What are directions to me
-description: In this activity, players practice using arrows to learn about directions.
+description: This activity uses arrows to learn about directions.
 whatYouNeed: |-
   ### Tools
 
@@ -14,7 +14,7 @@ whatYouNeed: |-
 
   ### Skills
 
-  Basic understanding of directional vocabulary
+  Directional skills to understand basic directions
 
   ### Environment
 
@@ -31,7 +31,7 @@ books:
 ---
 ## Description
 
-This interactive and playful activity helps learners practice their directions. Parents and educators can use simple drawings of arrows to direct learners to perform different movements. This is similar to when police officers direct traffic with hand signs. You can also compare this activity to a GPS - learners could be a human GPS or Google Maps, directing each other from one location to another in the room.
+This interactive and playful activity helps learners practice their directions. Parents and educators can use simple drawings of arrows to direct learners to perform different movements. This practice is similar to when police officers direct traffic with hand signs. You can also compare this activity to a GPS - learners could be a human GPS or Google Maps, directing each other from one location to another in the room.
 
 ## Steps
 
@@ -40,13 +40,16 @@ This interactive and playful activity helps learners practice their directions. 
 
 ## Tips
 
-* It will be helpful to also draw a small grid within which to move. This helps with the crucial understanding that with forward movement one leaves the current spot and lands in a different spot, whereas turning happens on the original spot
-* Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands). This supports learners in being more independent with right and left
-* It will add to the excitement and engagement of learners if you include a hidden goal/treat and direct the players towards them
+* Draw a small grid to guide movement. This support helps with the tracking movement to understand that with forward movement one leaves the current spot and lands in a different spot, whereas turning happens on the original spot
+* Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands) to provide visual cues. Associating colours can support learners to be more independent with right and left directions
+* Including a hidden goal/treat will add to the excitement and engagement of learners, and direct the players towards them
 
 ## Skill Development
 
-* Directions
+* Directional
+* Spatial
+* Gross motor movement
+* Communication
 
 ## Level Up!
 
