@@ -12,7 +12,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  A device to access the Weavly and/or Block.ly, Dash
+  Device to access the Weavly and/or Block.ly, Dash
 
 
   ### Skills
@@ -30,7 +30,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Depends on the learner, could be independent/group or require supervision/facilitation as necessary
+  Depends on the learner, could be independent/group; assistance may be required to guide or facilitate
 books:
   - title: "Sequences: Order Matters"
     author: Nadia Higgins
@@ -44,10 +44,10 @@ In this activity, learners try building very simple programs to move Dash in and
 ## Steps
 
 * Find two dollhouses, or build them with Lego or cardboard, or just draw two pictures of different houses, one for Dash and one for its neighbor
-* Place the two houses 3ft apart. And place Dash in front of its house
+* Place the two houses three feet apart. And place Dash in front of its house
 * Open Weavly or Block.ly. and connect with Dash robot
-* Use the coding environment to make Dash move outside of its house (Possibly two Forwards)
-* Use the coding environment to take Dash back inside its house (Possibly two 90 degree turns and two forwards)
+* Use the coding environment to make Dash move outside of its house (possibly two Forwards)
+* Use the coding environment to take Dash back inside its house (possibly two 90 degree turns and two forwards)
 * Next, try taking Dash out of its house and move it to the neighbor’s house for tea!
 
 ## Tips
@@ -57,6 +57,10 @@ In this activity, learners try building very simple programs to move Dash in and
 
 ## Skill Development
 
+* Directional
+* Spatial
+* Planning
+* Problem solving (debugging)
 * Sequencing
 
 ## Level Up
