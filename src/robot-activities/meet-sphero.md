@@ -9,7 +9,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  A device to access SpheroEdu, and Sphero
+  Device to access SpheroEdu, and Sphero
 
 
   ### Skills
@@ -28,10 +28,15 @@ whatYouNeed: >-
 
 
   Depends on the learner, could be independent/group or require supervision/facilitation as necessary
+books:
+  - title: Boy + Bot
+    author: Ame Dyckman
+    coverImage: /assets/media/boy-bot.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
-In this activity, learners can explore different movements and visual and audio options for Sphero. As they try its different features, they will become familiar with Sphero's control settings. This activity encourages learners to use their sensory abilities to identify cause and effect.
+In this activity, learners can explore different movements and visual and audio options for Sphero. As learners try its different features, they will become familiar with Sphero's control settings. This activity encourages learners to use their sensory abilities to identify cause and effect.
 
 ## Steps
 
@@ -50,10 +55,15 @@ In this activity, learners can explore different movements and visual and audio 
 
 ## Skill Development
 
-* Directions
-* Sequencing
+* Analytical/Reasoning (cause and effect)
+* Creative Thinking
+* Directional
+* Observational
 * Parameters
+* Planning
+* Sequencing
+* Spatial
 
 ## Level Up
 
-Complete this activity again with different setting options that were not chosen before, if any remains
+Complete this activity again with different setting options that were not chosen before, if any are remaining.
