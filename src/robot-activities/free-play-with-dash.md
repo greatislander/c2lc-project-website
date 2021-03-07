@@ -31,6 +31,11 @@ whatYouNeed: >-
 
 
   Depends on the learner, assistance may be required to guide or facilitate
+books:
+  - title: Inside Outside
+    author: Lizi Boyd
+    coverImage: /assets/media/inside-outside.jpg
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -54,10 +59,12 @@ Watch the activity video: [Video Link](https://www.youtube.com/watch?v=PfgcanzYu
 
 ## Skill Development
 
-* Planning
 * Collaboration
 * Creative thinking
+* Observational
+* Planning
+* Spatial
 
 ## Level Up 
 
-Complete this activity again with a planned shape or pattern
+Complete this activity again with a planned shape or pattern.
