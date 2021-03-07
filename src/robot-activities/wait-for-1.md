@@ -3,9 +3,11 @@ title: Wait For
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Loops
+topic: Conditions
 relatedRobotActivities:
-  - Creating loops
+  - Free Play with Dash
+  - "Meet Dash and Dot: Animation, Drive & Look"
+  - "Meet Dash and Dot: Light & Sound"
 description: This activity creates a setting for a robot to pause.
 whatYouNeed: |-
   ### Tools
@@ -23,6 +25,11 @@ whatYouNeed: |-
   ### Support
 
   Depends on the learner, assistance may be required to guide or facilitate
+books:
+  - author: Adam Rex
+    title: The Legend of Rock, Paper, Scissors
+    coverImage: /assets/media/the-legend-of-rock-paper-scissors-.jpg
+    link: /learn/resources/picture-book-list/
 supportiveMaterial:
   - file: /assets/media/dash_and_dot-lesson_09-wait_for.pdf
     label: Extended lesson guide
@@ -38,17 +45,26 @@ Conditions can affect what the robot does, such as pause programming until that 
 **Introduce conditions**
 
 1. Place vocabulary cards in front: 'conditionals', 'event' and 'wait for', and review their definitions (what each word means)
-2. Review Event A and Event B where a wait for is part of the sequence. Identify what can happen before, the wait time and what can happen after to learner.
+2. Review Event A and Event B where a wait for is part of the sequence. Describe what happens before, the wait time and what can happen after for each event
 
-   * Event A: We get upset (what happens before), 'x' time (wait time), talk about it (what happens after)
-   * Event B: We put food in the microwave (what happens before), 'x' time (wait time), take it out (what happens after)
-3. Provide pictures of events where wait time takes place. Ask learners to identify:
+   Event A: 
 
-   * what was happening before (actions leading up to the wait for)
-   * wait time (the pause before continuing the task)
-   * what happens after that event occurs (actions taking place after wait for time)
+   * What happens before: We get upset
+   * Wait time: 'x' time for cool down
+   * What happens after: Talk about it 
 
-**Model: Play Catch** 
+   Event B: 
+
+   * What happens before: We put food in the microwave
+   * Wait time: 'x' time to reheat food
+   * What happens after: Take food out of microwave
+3. Provide pictures of events where wait time takes place or ask learners to think of events where wait time is part of the event. For each event, ask learners to identify:
+
+   * What was happening before (actions leading up to the wait for)
+   * Wait time (the pause before continuing the task)
+   * What happens after that event occurs (actions taking place after wait for time)
+
+**Model: Dash and Dot play catch** 
 
 1. Open Weavly or Block.ly app 
 2. Introduce the conditionals block as the setting used to help robots, such as Dash and Dot, to stop and check for certain conditions or events before they perform the next task
