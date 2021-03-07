@@ -1,5 +1,5 @@
 ---
-title: Telecode a path
+title: Telecode
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
@@ -7,7 +7,8 @@ topic: Loops
 relatedRobotActivities:
   - Free Play with Dash
   - Tracing shapes with Dash
-description: This activity allows learners to build sequences together.
+description: This activity communicates a sequences like a game of telephone,
+  except with code.
 whatYouNeed: >-
   ### Tools
 
