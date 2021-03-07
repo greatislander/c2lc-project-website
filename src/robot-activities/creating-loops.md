@@ -15,8 +15,7 @@ whatYouNeed: |-
 
   ### Skills
 
-  * Logical skills to understand basic directions and repetition
-  * Gross motor
+  Gross motor, logical skills to understand basic directions and repetition
 
   ### Environment
 
