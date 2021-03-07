@@ -10,7 +10,7 @@ description: This activity teaches learners to build a background on the scene.
 whatYouNeed: |-
   ### Tools
 
-  Computer and internet access
+  Device with internet access
 
   ### Skills
 
@@ -33,6 +33,9 @@ books:
 
 In this activity, learners use Weavly’s background editor to set the stage for their story. Learners can explore different features to create scenes and change the background. Items can be added to the scene, changed in color, and resized to the learner's liking. The background editor gives options for sounds effects and animation for customization as well.
 
+Here are a few stories that you can use as a starter: <https://www.education.com/game/the-missing-dragon-level-i/>\
+You can find more books for this activity here: <https://www.education.com/stories/>
+
 ## Steps
 
 * Work with the learner to pick a story
@@ -44,9 +47,6 @@ In this activity, learners use Weavly’s background editor to set the stage for
 * Position the items on the scene
 * Add behavior and sound to each item and indicate which of them are dynamic and which are static
 
-Here are a few stories that you can use as a starter:<https://www.education.com/game/the-missing-dragon-level-i/>\
-You can find more books for this activity here: <https://www.education.com/stories/>
-
 ## Tips
 
 * Start with a very simple story that has a clear beginning, middle, and end with the least number of characters and gradually build complexity
@@ -54,7 +54,10 @@ You can find more books for this activity here: <https://www.education.com/stori
 
 ## Skill Development
 
-* Narrative skills
+* Communication (i.e. narrative skills)
+* Creativity
+* Planning
+* Spatial
 * Sequencing
 
 ## Level Up!
