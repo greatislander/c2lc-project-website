@@ -11,7 +11,7 @@ description: This activity teaches how to create repeated sequences.
 whatYouNeed: |-
   ### Tools
 
-  A device to access Weavly and/or Block.ly, Dash and Dot
+  Device to access Weavly and/or Block.ly, Dash and Dot
 
   ### Skills
 
@@ -39,7 +39,7 @@ Dash and Dot robots will demonstrate the short simple loop sequences in real-tim
 
 ## Steps
 
-* Create a loop sequence of 3 blocks for your robot on Weavly or Block.ly
+* Create a loop sequence of three blocks for your robot on Weavly or Block.ly
 * Connect Weavly or Block.ly to your robot
 * Play your sequence
 * If the loop sequence was not what you hoped, debug by changing the sequence to what you hoped
@@ -54,7 +54,7 @@ Dash and Dot robots will demonstrate the short simple loop sequences in real-tim
 
 ## Change it up
 
-* Incorporate 3 different action blocks (e.g. light, audio, animation, look, drive, directions) in the loop sequence
+* Incorporate three different action blocks (e.g. light, audio, animation, look, drive, directions) in the loop sequence
 
 ## Level Up 
 
@@ -62,7 +62,8 @@ Dash and Dot robots will demonstrate the short simple loop sequences in real-tim
 
 ## Skill Development
 
-* Planning
-* Sequencing
 * Pattern recognition
-* Social skills/Collaboration
+* Planning
+* Problem solving (debugging)
+* Sequencing
+* Social skills/collaboration (turn-taking)
