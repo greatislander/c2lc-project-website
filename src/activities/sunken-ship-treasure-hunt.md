@@ -11,7 +11,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Computer with internet access
+  Device with internet access
 
 
   ### Skills
@@ -40,7 +40,7 @@ books:
 
 In this activity, learners try to build a sequence to move their on-screen character from point A to point B. The path between these two points is not straight. There are roadblocks, like sharks, along the way. The character will need to stay away from these roadblocks. While building a sequence, learners will become familiar with the Weavly coding environment.
 
-Activity: link \[\*\**]
+Activity: \[link]
 
 ## Steps
 
@@ -57,9 +57,11 @@ Activity: link \[\*\**]
 
 ## Skill Development
 
-* Directions
-* Sequencing
 * Debugging
+* Directional
+* Planning
+* Spatial
+* Sequencing
 
 ## Level Up!
 
