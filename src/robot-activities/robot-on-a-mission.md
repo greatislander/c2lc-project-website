@@ -7,12 +7,12 @@ topic: Sequencing
 relatedRobotActivities:
   - Tracing shapes with Dash
   - Dash's house
-description: This activity challenges learners move past barrier to reach a destination.
+description: This activity challenges learners move past barriers to reach a destination.
 whatYouNeed: >-
   ### Tools
 
 
-  Tape, markers, a few small toys, and a device to access Weavly and/or Block.ly, Dash
+  Tape, markers, few small toys, and device to access Weavly and/or Block.ly, Dash
 
 
   ### Skills
@@ -58,10 +58,10 @@ In this activity, learners plan and build a path to direct Dash to move to a spe
 
 ## Skill Development
 
+* Directional
 * Mathematical
-* Spatial
-* Directions
 * Sequencing
+* Spatial
 
 ## Level Up 
 
