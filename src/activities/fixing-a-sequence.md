@@ -42,7 +42,7 @@ In this simple and interactive game, moderators and players work together to fin
 ## Tips
 
 * Try to create situations that are fun and engaging for the learner
-* In situations in which the learner does not recognize the missed or misplaced step, perform the activity again in the correct order and explain the correct sequence of actions and events
+* In situations where the learner does not recognize the missed or misplaced step, perform the activity again in the correct order slowly and explain the correct sequence of actions and events
 
 ## Skill Development
 
