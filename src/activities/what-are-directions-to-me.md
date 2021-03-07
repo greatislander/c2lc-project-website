@@ -31,7 +31,7 @@ books:
 ---
 ## Description
 
-This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Players will use their bodies to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding. Thus, try to use any available examples around the learner before moving to a virtual space.
+This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Learners will use their bodies to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding. Thus, try to use any available examples around the learner before moving to a virtual space.
 
 ## Steps
 
