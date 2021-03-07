@@ -3,7 +3,7 @@ title: Strategies to Support Peer Collaboration
 date: 2021-02-23T18:06:14.292Z
 author: Weavly Team
 description: Activities that involve learning to code and coding to learn and
-  create, offer opportunities to develop important teamwork skills that prepare
+  create offers opportunities to develop important teamwork skills that prepare
   students for further learning, work, and life.
 metaImage: /assets/media/img_1166-1.jpg
 metaImageAlt: Two kids working together to build and analog program
