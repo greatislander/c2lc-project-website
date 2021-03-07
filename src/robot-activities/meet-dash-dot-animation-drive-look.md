@@ -1,18 +1,19 @@
 ---
-title: "Meet Dash and Dot: animation, drive & look"
+title: "Meet Dash and Dot: Animation, Drive & Look"
 tags:
   - Dash & Dot
 experience: No Coding Experience
 topic: Introduction
 relatedRobotActivities:
-  - "Meet Dash and Dot: Sound & Light"
+  - "Meet Dash and Dot: Light & Sound"
+  - Free Play with Dash
 description: This activity explore visual and kinesthetic controls settings for
   Dash and Dot.
 whatYouNeed: >-
   ### Tools
 
 
-  A device to access Weavly and/or Block.ly, Dash, and Dot
+  Device to access Weavly and/or Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -30,7 +31,12 @@ whatYouNeed: >-
   ### Support
 
 
-  Depends on the learner, could be independent/group or require supervision/facilitation
+  Depends on the learner, could be independent/group; assistance may be required to guide or facilitate
+books:
+  - title: Gabi’s Fabulous Functions
+    coverImage: /assets/media/gabi’s-fabulous-functions-.jpg
+    author: Caroline Karnaja
+    link: /learn/resources/picture-book-list/
 ---
 ## Description
 
@@ -40,11 +46,11 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 * Open Block.ly or Weavly and connect with Dash or Dot robot
 * Find the setting panel for animation
-* Select 3 different animation options to see on Dash or Dot
+* Select three different animation options to see on Dash or Dot
 * Find the setting panel for drive
-* Select 3 different drive options to see on Dash or Dot
+* Select three different drive options to see on Dash or Dot
 * Find the setting panel for look
-* Select 3 different look options to see on Dash or Dot
+* Select three different look options to see on Dash or Dot
 
 ## Tips
 
@@ -57,9 +63,12 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 ## Skill Development
 
+* Creative Thinking
 * Metacognition
+* Observational
+* Planning
 
 ## Level Up
 
-* Increase the length/distance of drive option in control settings for Dash and Dot to play.
-* Complete this activity again with different setting options for animation, drive and look options that were not chosen before, if any remain.
+* Increase the length/distance of drive option in control settings for Dash and Dot to play
+* Complete this activity again with different setting options for animation, drive and look options that were not chosen before, if any remain
