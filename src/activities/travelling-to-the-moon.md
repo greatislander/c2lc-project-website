@@ -11,7 +11,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Computer with internet
+  Device with internet access
 
 
   ### Skills
@@ -60,9 +60,11 @@ Activity: \[link]
 
 ## Skill Development
 
-* Directions
-* Sequencing
 * Debugging
+* Directional
+* Planning
+* Spatial
+* Sequencing
 
 ## Level Up!
 
