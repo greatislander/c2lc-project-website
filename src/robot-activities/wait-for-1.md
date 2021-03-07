@@ -8,7 +8,7 @@ relatedRobotActivities:
   - Free Play with Dash
   - "Meet Dash and Dot: Animation, Drive & Look"
   - "Meet Dash and Dot: Light & Sound"
-description: This activity creates a setting for a robot to pause.
+description: This activity creates a setting for Dash and Dot to pause.
 whatYouNeed: |-
   ### Tools
 
@@ -20,7 +20,7 @@ whatYouNeed: |-
 
   ### Environment
 
-  Indoor area
+  Indoor area with space for Dash and Dot to move
 
   ### Support
 
