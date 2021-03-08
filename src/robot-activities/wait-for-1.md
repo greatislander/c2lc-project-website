@@ -7,7 +7,6 @@ topic: Conditions
 relatedRobotActivities:
   - Free Play with Dash
   - "Meet Dash and Dot: Animation, Drive & Look"
-  - "Meet Dash and Dot: Light & Sound"
 description: This activity creates a setting for Dash and Dot to pause.
 whatYouNeed: |-
   ### Tools
@@ -66,20 +65,21 @@ Conditions can affect what the robot does, such as pause programming until that 
 
 **Model: Dash and Dot play catch** 
 
-1. Open Weavly or Block.ly app 
+1. Open Block.ly app 
 2. Introduce the conditionals block as the setting used to help robots, such as Dash and Dot, to stop and check for certain conditions or events before they perform the next task
 3. Introduce the 'Wait for' block as the setting to help robots, such as Dash and Dot, to wait for a specific event (toss a ball) to happen before the program (playing catch) can be finished
-4. Think aloud what steps (such as catch, toss, wait, say wee!) that Dot will do to play catch. Ask learners to imagine the list of events in a game of catch between Dash and Dot using the "wait for" block
-5. Drag blocks to create the listed events into a sequence and use the 'Wait for' block on the canvas.
+4. Ask learners to imagine the list of events in a game of catch between Dash and Dot using the "wait for" block
+5. Think aloud what steps (such as catch, toss, wait, say wee!) that Dot will do to play catch. 
+6. Drag blocks to create the listed events into a sequence and use the 'Wait for' block on the canvas.
 
    * For example: 
 
      1. Play | Dot | Catch
      2. Wait for | Dot | Toss
      3. Say | Dot | Wee
-6. Attach this sequence to the When Start block
-7. Run program
-8. Discuss whether prediction(s) were correct or not
+7. Attach this sequence to the When Start block
+8. Run program
+9. Discuss whether prediction(s) were correct or not
 
 ## Tips
 
@@ -90,7 +90,7 @@ Conditions can affect what the robot does, such as pause programming until that 
 * Analytical/Reasoning 
 * Creative Thinking 
 * Planning
-* Problem solving (debugging)
+* Problem-solving (debugging)
 * Sequencing
 
 ## Level Up
