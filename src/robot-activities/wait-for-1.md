@@ -29,15 +29,11 @@ books:
     title: The Legend of Rock, Paper, Scissors
     coverImage: /assets/media/the-legend-of-rock-paper-scissors-.jpg
     link: /learn/resources/picture-book-list/
-supportiveMaterial:
-  - file: /assets/media/dash_and_dot-lesson_09-wait_for.pdf
-    label: Extended lesson guide
-  - file: /assets/media/dash_and_dot-lesson_9.pptx
-    label: Examples of "wait for"
+supportiveMaterial: []
 ---
 ## Description
 
-Conditions can affect what the robot does, such as pause programming until that condition is met. In this activity, Dash and Dot will stop and wait for a specific event to happen before they can finish the program. Larners are introduced to conditional blocks that help Dash and Dot make decisions.  Learners will explore the 'Wait for' and 'Wait for “x” seconds blocks' on Weavly or Block.ly in the Control category with Repeat blocks. Learners will learn to recognize the events that can prompt the wait for conditions to take place until an event occurs or a set amount of time has passed.
+Conditions can affect what the robot does, such as pause programming until that condition is met. In this activity, Dash and Dot will stop and wait for a specific event to happen before they can finish the program. Learners are introduced to conditional blocks that help Dash and Dot make decisions.  Learners will explore the 'Wait for' and 'Wait for “x” seconds blocks' on Weavly or Block.ly in the Control category with Repeat blocks. Learners will learn to recognize the events that can prompt the wait for conditions to take place until an event occurs or a set amount of time has passed.
 
 ## Steps
 
@@ -56,7 +52,7 @@ Conditions can affect what the robot does, such as pause programming until that 
 
    * What happens before: We put food in the microwave
    * Wait time: 'x' time to reheat food
-   * What happens after: Take food out of microwave
+   * What happens after: Take food out of the microwave
 3. Provide pictures of events where wait time takes place or ask learners to think of events where wait time is part of the event. For each event, ask learners to identify:
 
    * What was happening before (actions leading up to the wait for)
