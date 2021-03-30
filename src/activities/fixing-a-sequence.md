@@ -7,6 +7,8 @@ relatedActivities:
   - Beginning, middle, and end
   - Sequencing in daily activities
 description: "This activity helps learners to identify and change patterns. "
+metaImage: /assets/media/fixing_a_sequence.jpg
+metaImageAlt: Illustartion of a hand trying to put a series of cards in the correct order
 whatYouNeed: |-
   ### Tools
 
