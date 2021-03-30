@@ -7,6 +7,8 @@ relatedActivities:
   - Learning about patterns
   - "Lego sequencing "
 description: In this activity, learners try creating loops in a repeated sequence.
+metaImage: /assets/media/creating_loops.jpg
+metaImageAlt: Two hands are creating a loop pattern with beads
 whatYouNeed: |-
   ### Tools
 
