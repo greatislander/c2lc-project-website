@@ -7,6 +7,8 @@ relatedActivities:
   - Learning about patterns
   - "Lego sequencing "
 description: This activity gives learners an opportunity to understand and practice sorting.
+metaImage: /assets/media/categories_around_us.jpg
+metaImageAlt: Two hands trying to group spoons, forks, pots, and cans.
 whatYouNeed: >-
   ### Tools
 
