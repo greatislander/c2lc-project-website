@@ -7,6 +7,8 @@ relatedActivities:
   - What are directions to me
   - Dancing to the beat
 description: This activity helps learners explore and practice their directions.
+metaImage: /assets/media/directions_anywhere-_anytime.jpg
+metaImageAlt: "Illustration of two hands pointing at opposite directions "
 whatYouNeed: |-
   ### Tools
 
