@@ -7,6 +7,8 @@ relatedActivities:
   - Directions anywhere, anytime
   - Human robots
 description: "This moving activity helps learners practice directions. "
+metaImage: /assets/media/dancing_to_the_beat.jpg
+metaImageAlt: Illustration of hands dancing and clapping and weavly movement blocks
 whatYouNeed: >-
   ### Tools
 
