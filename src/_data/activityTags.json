@@ -10,9 +10,12 @@
     "Blockly Coding Experience"
   ],
   "subjects": [
-    "Drawings",
-    "Music",
-    "Games",
-    "Stories"
+    "Introduction",
+    "Sequencing",
+    "Sorting & Patterns",
+    "Direction Based",
+    "Goal Based",
+    "Debugging",
+    "Conditions"
   ]
 }
