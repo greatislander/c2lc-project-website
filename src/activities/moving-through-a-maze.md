@@ -2,11 +2,14 @@
 title: Moving through a maze
 type: Hybrid
 experience: Unplugged Coding Experience
-subject: Games
+subject: Direction Based
 relatedActivities:
   - Directions anywhere, anytime
   - Human robots
 description: This activity practice directions.
+metaImage: /assets/media/moving_through_a_maze.jpg
+metaImageAlt: Illustration of yellow and purple hand pointing at maze with star
+  in centre, surrounded by action blocks
 whatYouNeed: |-
   ### Tools
 
