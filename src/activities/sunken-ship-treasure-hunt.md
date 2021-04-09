@@ -2,11 +2,14 @@
 title: "Mission: Hunting the sunken treasure"
 type: On-Screen
 experience: Unplugged Coding Experience
-subject: Games
+subject: Goal Based
 relatedActivities:
   - "Mission: Visiting Animals"
   - "Mission: Travelling to the moon"
 description: This activity challenges players to build a sequence to complete a mission.
+metaImage: /assets/media/mission-_hunting_the_sunken_treasure.jpg
+metaImageAlt: Illustration of orange hand pointing to a grid of submarine and
+  treasure underwater with action blocks floating at top
 whatYouNeed: >-
   ### Tools
 
