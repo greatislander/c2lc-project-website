@@ -2,11 +2,14 @@
 title: "Lego sequencing "
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Sequencing
 relatedActivities:
   - Fixing a sequence
   - Sequencing in daily activities
 description: This activity uses an analog version of block-based coding and sequencing.
+metaImage: /assets/media/lego_sequencing.jpg
+metaImageAlt: Illustration of hands holding a row of four action blocks
+  surrounded by colourful lego blocks
 whatYouNeed: |-
   ### Tools
 
