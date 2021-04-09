@@ -2,12 +2,15 @@
 title: "Mission: Rescue "
 type: On-Screen
 experience: Unplugged Coding Experience
-subject: Games
+subject: Goal Based
 relatedActivities:
   - "Mission: Visiting Animals"
   - "Mission: Hunting the sunken treasure"
 description: This multi-level activity challenges players to build a sequence to
   complete a mission.
+metaImage: /assets/media/mission-_rescue.jpg
+metaImageAlt: Illustration of hand grabbing emergency button with red medical
+  cross surrounded by grid and action blocks
 whatYouNeed: >-
   ### Tools
 
