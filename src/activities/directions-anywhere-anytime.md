@@ -2,7 +2,7 @@
 title: Directions anywhere, anytime
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Introduction
 relatedActivities:
   - What are directions to me
   - Dancing to the beat
