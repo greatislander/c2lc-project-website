@@ -2,11 +2,14 @@
 title: Learning about patterns
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Sorting & Patterns
 relatedActivities:
   - "Lego sequencing "
   - Creating Loops
 description: This activity helps learners to identify patterns.
+metaImage: /assets/media/learning_about_patterns.jpg
+metaImageAlt: Illustration of a beaded string with hand holding magnify glass
+  over heart-shaped bead
 whatYouNeed: |-
   ### Tools
 
