@@ -8,6 +8,9 @@ relatedActivities:
   - Fixing a sequence
 description: "This activity helps learners to understand how a series of objects
   and events can happen in a specific and logical order. "
+metaImage: /assets/media/sequencing_in_daily_activities.jpg
+metaImageAlt: Illustration of five picture of potted plant at different growing
+  stages and hand holding picture of grown plant with sun
 whatYouNeed: |-
   ### Tools
 
