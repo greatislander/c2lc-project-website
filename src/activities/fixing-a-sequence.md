@@ -2,7 +2,7 @@
 title: Fixing a sequence
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Sorting & Patterns
 relatedActivities:
   - Beginning, middle, and end
   - Sequencing in daily activities
