@@ -2,7 +2,7 @@
 title: Categories around us
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Sequencing
 relatedActivities:
   - Learning about patterns
   - "Lego sequencing "
