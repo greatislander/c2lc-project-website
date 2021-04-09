@@ -2,12 +2,14 @@
 title: "Mission: Visiting Animals"
 type: On-Screen
 experience: Unplugged Coding Experience
-subject: Games
+subject: Goal Based
 relatedActivities:
   - "Mission: Hunting the sunken treasure"
   - "Mission: Travelling to the moon"
 description: This multi-level activity challenges players to build a sequence to
   complete a mission.
+metaImage: /assets/media/mission-_visiting_animals.jpg
+metaImageAlt: Illustration of hands pointing to animals and action blocks on branch
 whatYouNeed: >-
   ### Tools
 
