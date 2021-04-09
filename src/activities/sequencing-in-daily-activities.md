@@ -2,7 +2,7 @@
 title: Sequencing in daily activities
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Sequencing
 relatedActivities:
   - Beginning, middle, and end
   - Fixing a sequence
