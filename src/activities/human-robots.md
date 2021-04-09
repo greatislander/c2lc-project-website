@@ -2,11 +2,13 @@
 title: Human robots
 type: Hybrid
 experience: No Coding Experience
-subject: Games
+subject: Direction Based
 relatedActivities:
   - What are directions to me
   - Directions anywhere, anytime
 description: This activity involves learning and practice directions and sequencing.
+metaImage: /assets/media/human_robot.jpg
+metaImageAlt: Illustration of robot on grid surrounded by action blocks
 whatYouNeed: |-
   ### Tools
 
