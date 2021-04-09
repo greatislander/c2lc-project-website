@@ -9,8 +9,8 @@ relatedActivities:
 description: This multi-level activity challenges players to build a sequence to
   complete a mission.
 metaImage: /assets/media/mission-_rescue.jpg
-metaImageAlt: Illustration of hand grabbing emergency button with red medical
-  cross surrounded by grid and action blocks
+metaImageAlt: Illustration of orange hand grabbing emergency button with red
+  medical cross surrounded by grid and action blocks
 whatYouNeed: >-
   ### Tools
 
