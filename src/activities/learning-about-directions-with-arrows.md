@@ -2,11 +2,13 @@
 title: Learning about directions with arrows
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Direction Based
 relatedActivities:
   - Directions anywhere, anytime
   - What are directions to me
 description: This activity uses arrows to learn about directions.
+metaImage: /assets/media/learning_about_directions_with_arrows.jpg
+metaImageAlt: Illustration of sign with direction and hands pointing in different directions
 whatYouNeed: |-
   ### Tools
 
