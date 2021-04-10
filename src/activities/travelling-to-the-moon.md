@@ -8,8 +8,8 @@ relatedActivities:
   - "Mission: Hunting the sunken treasure"
 description: This activity challenges learners to build a sequence to complete a mission.
 metaImage: /assets/media/mission-_travel_to_the_moon.jpg
-metaImageAlt: "Illustration of orange hand pointing to moon and grid with rocket
-  beside three action blocks "
+metaImageAlt: "Illustration of orange hand pointing to moon and grid with orange
+  rocket beside three teal action blocks "
 whatYouNeed: >-
   ### Tools
 
