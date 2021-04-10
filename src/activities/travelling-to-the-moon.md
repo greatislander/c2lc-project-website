@@ -2,11 +2,14 @@
 title: "Mission: Travelling to the moon"
 type: On-Screen
 experience: Unplugged Coding Experience
-subject: Games
+subject: Goal Based
 relatedActivities:
   - "Mission: Visiting Animals"
   - "Mission: Hunting the sunken treasure"
 description: This activity challenges learners to build a sequence to complete a mission.
+metaImage: /assets/media/mission-_travel_to_the_moon.jpg
+metaImageAlt: "Illustration of orange hand pointing to moon and grid with rocket
+  beside three action blocks "
 whatYouNeed: >-
   ### Tools
 
