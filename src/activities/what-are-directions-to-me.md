@@ -2,11 +2,13 @@
 title: What are directions to me
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Direction Based
 relatedActivities:
   - Learning about directions with arrows
   - Directions anywhere, anytime
 description: This activity covers directions using our hands and feet.
+metaImage: /assets/media/what_are_directions_to_me.jpg
+metaImageAlt: Illustration of hands holding signs of action blocks
 whatYouNeed: |-
   ### Tools
 
