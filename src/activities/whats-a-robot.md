@@ -2,11 +2,13 @@
 title: What's a robot
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Introduction
 relatedActivities:
   - Human robots
   - Moving through a maze
 description: This activity explores what robots are and how they follow instructions.
+metaImage: /assets/media/what-s_a_robot.jpg
+metaImageAlt: Illustration of hands holding tall and short round robot holding hands
 whatYouNeed: |-
   ### Tools
 
