@@ -2,11 +2,14 @@
 title: Beginning, middle, and end
 type: Unplugged
 experience: No Coding Experience
-subject: Games
+subject: Sequencing
 relatedActivities:
   - Fixing a sequence
   - Sequencing in daily activities
 description: This activity uses stories to understand sequencing.
+metaImage: /assets/media/beginning-_middle-_and_end.jpg
+metaImageAlt: Illustration of three pictures of banana, one unpeeled, one half
+  peeled and one with orange hand holding picture of banana peel
 whatYouNeed: |-
   ### Tools
 
