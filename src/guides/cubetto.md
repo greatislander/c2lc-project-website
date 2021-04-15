@@ -3,7 +3,7 @@ title: Cubetto
 robot: Cubetto
 manufacturer: Primo
 manufacturerLink: https://www.primotoys.com/
-metaImage: /assets/media/cubetto-kit-for-schools.webp
+metaImage: /assets/media/cubetto.png
 metaImageAlt: An image of Cubetto kit, including the robot and coding panel and coding tiles.
 resources:
   - description: "Sign-up link to access lesson plans and teacher guide "
