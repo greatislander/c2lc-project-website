@@ -3,8 +3,8 @@ title: Cubelets
 robot: Cubelets
 manufacturer: Modular Robotics
 manufacturerLink: https://www.modrobotics.com/
-metaImage: /assets/media/creative-constructors-cubelets-educator-pack-toys-bb-387881.jpg
-metaImageAlt: Four kids playing with Cubelets modules
+metaImage: /assets/media/cubelets.png
+metaImageAlt: Image of Cubelets modules
 resources:
   - link: https://www.modrobotics.com/education/lesson-plans/meet-your-cubelets-units/
     description: "Cubelet Lesson Plans – Getting Started: Pre-K-12"
