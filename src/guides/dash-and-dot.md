@@ -3,8 +3,8 @@ title: Dash & Dot
 robot: Dash & Dot
 manufacturer: Wonder Workshop
 manufacturerLink: https://www.makewonder.com/
-metaImage: /assets/media/dash.jpg
-metaImageAlt: Dash robot
+metaImage: /assets/media/dashdot.png
+metaImageAlt: Dash and Dot robots
 resources:
   - link: https://portal.makewonder.com/#/curriculum/learn-to-code
     description: Scope and Sequence (aligned to code.org curriculum)
