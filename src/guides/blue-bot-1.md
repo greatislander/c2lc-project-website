@@ -3,8 +3,8 @@ title: Blue-Bot
 robot: Blue-Bot
 manufacturer: TTS
 manufacturerLink: https://www.tts-international.com/blue-bot-bluetooth-programmable-floor-robot/1015269.html
-metaImage: /assets/media/blue-bot.jpg
-metaImageAlt: Young kid controling a Blu-bot robot with a tablet
+metaImage: /assets/media/blu-bot.png
+metaImageAlt: Blue-Bot Robot
 resources:
   - description: "Bluebot Teacher Guide "
     link: "https://www.generationrobots.com/media/tts/Blue-Bot-Teacher-Guide.pdf "
