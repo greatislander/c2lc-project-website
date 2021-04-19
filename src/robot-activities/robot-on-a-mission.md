@@ -8,6 +8,8 @@ relatedRobotActivities:
   - Tracing shapes with Dash
   - Dash's house
 description: This activity challenges learners move past barriers to reach a destination.
+metaImage: /assets/media/robot_on_a_mission.jpg
+metaImageAlt: Illustration of Dash on grid facing yellow star surrounded by action blocks
 whatYouNeed: >-
   ### Tools
 
