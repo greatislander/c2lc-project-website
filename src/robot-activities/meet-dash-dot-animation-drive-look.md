@@ -9,6 +9,8 @@ relatedRobotActivities:
   - Free Play with Dash
 description: This activity explore visual and kinesthetic controls settings for
   Dash and Dot.
+metaImage: /assets/media/meet_dash-_animation_-_look.jpg
+metaImageAlt: Illustration of Dash moving past action blocks
 whatYouNeed: >-
   ### Tools
 
