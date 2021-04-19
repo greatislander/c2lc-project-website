@@ -8,6 +8,8 @@ relatedRobotActivities:
   - Free Play with Dash
   - Tracing shapes with Dash
 description: This activity builds a simple program sequence to move Dash.
+metaImage: /assets/media/dash_house.jpg
+metaImageAlt: Illustration of Dash surrounded by action blocks on driveway to a house
 whatYouNeed: >-
   ### Tools
 
