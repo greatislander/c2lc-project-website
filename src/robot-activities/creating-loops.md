@@ -3,11 +3,14 @@ title: Creating loops
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Loops
+topic: Sequencing
 relatedRobotActivities:
   - Testing loop
   - Tracing shapes with Dash
 description: This activity teaches how to create repeated sequences.
+metaImage: /assets/media/creating_loops.jpg
+metaImageAlt: Pink background with one hand holding a string with a sequence of
+  beads, and another hand pointing to a heart-shaped bead.
 whatYouNeed: |-
   ### Tools
 
