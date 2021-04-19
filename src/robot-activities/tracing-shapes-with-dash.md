@@ -8,6 +8,9 @@ relatedRobotActivities:
   - Free Play with Dash
   - Dash's house
 description: This activity builds sequences to move Dash according to different shapes.
+metaImage: /assets/media/tracing_shapes_with_dash.jpeg
+metaImageAlt: Illustration of markers taped to Dash leaving marks on Z-shaped
+  path with action blocks around
 whatYouNeed: >-
   ### Tools
 
