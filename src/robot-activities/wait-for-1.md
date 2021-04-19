@@ -9,7 +9,8 @@ relatedRobotActivities:
   - "Meet Dash and Dot: Animation, Drive & Look"
 description: This activity creates a setting for Dash and Dot to pause.
 metaImage: /assets/media/dot_wait_for.jpg
-metaImageAlt: Illustration of Dot holding ball with line to clock and arrow to net
+metaImageAlt: Illustration of Dot holding orange ball with dashed line to clock
+  and arrow to a red net
 whatYouNeed: |-
   ### Tools
 
