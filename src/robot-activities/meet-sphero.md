@@ -5,6 +5,9 @@ tags:
 experience: No Coding Experience
 topic: Introduction
 description: This activity explores control settings for Sphero.
+metaImage: /assets/media/meet_sphero_.jpg
+metaImageAlt: Illustration of Sphero in front of top half of a yellow
+  semi-circle with music notes around
 whatYouNeed: >-
   ### Tools
 
