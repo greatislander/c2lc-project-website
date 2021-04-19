@@ -8,6 +8,9 @@ relatedRobotActivities:
   - Dash's house
   - Tracing shapes with Dash
 description: This activity explores features of Dash.
+metaImage: /assets/media/free_play_with_dash.jpg
+metaImageAlt: Illustration of markers taped to Dash creating arcs and surrounded
+  by action blocks
 whatYouNeed: >-
   ### Tools
 
