@@ -7,6 +7,9 @@ topic: Introduction
 relatedRobotActivities:
   - Learning directions with command blocks
 description: This activity explores Cubetto features.
+metaImage: /assets/media/meet_cubetto.jpg
+metaImageAlt: Illustration of Cubetto in front of top side of a yellow
+  semi-circle with command blocks around
 whatYouNeed: >-
   ### Tools
 
