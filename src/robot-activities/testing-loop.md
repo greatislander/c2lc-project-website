@@ -3,12 +3,14 @@ title: Telecode
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Loops
+topic: Sequencing
 relatedRobotActivities:
   - Free Play with Dash
   - Tracing shapes with Dash
 description: This activity communicates a sequences, like a game of telephone,
   except using code.
+metaImage: /assets/media/telecode.jpg
+metaImageAlt: Illustration of Dash with speech bubbles of action blocks and question marks
 whatYouNeed: >-
   ### Tools
 
