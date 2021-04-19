@@ -44,7 +44,7 @@
         "@commitlint/config-conventional": "11.0.0",
         "cross-env": "7.0.3",
         "debug": "4.3.1",
-        "fluid-lint-all": "1.0.5-dev.20210201T163615Z.cff0a11.GH-3",
+        "fluid-lint-all": "1.0.5-dev.20210416T143028Z.dfea15d.GH-29",
         "html-minifier": "4.0.0",
         "husky": "4.3.8",
         "image-size": "0.9.4",
