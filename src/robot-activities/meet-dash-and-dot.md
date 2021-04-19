@@ -9,6 +9,9 @@ relatedRobotActivities:
   - Free Play with Dash
 description: This activity explores visual, audio, and animation control
   settings for Dash and Dot.
+metaImage: /assets/media/meet_dash-_light_-_sound.jpg
+metaImageAlt: Illustration of Dash in front of yellow half-circle and musical
+  notes to a blue background
 whatYouNeed: >-
   ### Tools
 
