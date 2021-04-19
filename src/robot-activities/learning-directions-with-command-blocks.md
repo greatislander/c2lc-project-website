@@ -7,6 +7,9 @@ topic: Sequencing
 relatedRobotActivities:
   - Meet Cubetto
 description: This activity explores features for Cubetto.
+metaImage: /assets/media/learning_direction_with_cubetto.jpg
+metaImageAlt: Illustration of Cubetto around command blocks, blue hand pointing
+  left, and yellow hand pointing right
 whatYouNeed: >-
   ### Tools
 
