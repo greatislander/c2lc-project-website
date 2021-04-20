@@ -1,0 +1,15 @@
+{% extends "layouts/page.njk" %}
+
+{% block content %}
+<div class="[ wrapper ]">
+  <div class="[ flow ] [ flow-lg md:flow-xl ]">
+      <div class="[ grid ]">
+      {% for robot in robotActivityTags.robots %}
+        {% if collections[robot].length %}
+        {% include "partials/components/card--robot.njk" %}
+        {% endif %}
+      {% endfor %}
+      </div>
+  </div>
+</div>
+{% endblock %}

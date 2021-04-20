@@ -118,6 +118,37 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Title Link", name: "titleLink", widget: "string"}
           - {label: "Content", name: "content", widget: "text"}
+      - label: Resources
+        name: resources
+        file: "src/resources.md"
+        editor:
+          preview: false
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Subtitle", name: "subtitle", widget: "text"}
+      - label: Activities at Home
+        name: activities
+        file: "src/activities.md"
+        editor:
+          preview: false
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Subtitle", name: "subtitle", widget: "text"}
+      - label: Activities with Robots
+        name: robotActivities
+        file: "src/robots.md"
+        editor:
+          preview: false
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Subtitle", name: "subtitle", widget: "text"}
+      - label: Activities with Specific Robots
+        name: specificRobotActivities
+        file: "src/robot-activities.md"
+        editor:
+          preview: false
+        fields:
+        - {label: "Subtitle", name: "subtitle", widget: "text"}
       - label: Community
         name: community
         file: "src/community.md"
