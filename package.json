@@ -49,7 +49,7 @@
         "html-minifier": "4.0.0",
         "husky": "4.3.8",
         "image-size": "0.9.4",
-        "jsdom": "16.4.0",
+        "jsdom": "16.5.3",
         "json-to-scss": "1.6.2",
         "laravel-mix": "6.0.9",
         "move-file": "2.0.0",
