@@ -1,8 +1,12 @@
-main .resource picture img {
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the resources page.
+// -----------------------------------------------------------------------------
+
+.resources .resource picture img {
     border-left: var(--space-lg) solid var(--color-orange-75);
 }
 
-main .resource + .resource {
+.resources .resource + .resource {
     border-top: var(--border-hairline) solid var(--color-black-05);
     margin-block-start: var(--space-lg);
     padding-block-start: var(--space-lg);

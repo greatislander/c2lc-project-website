@@ -29,7 +29,9 @@ All of these developments are prerequisite skills for participation in the new k
 
 While coding is seen primarily as a means for developing the specific technical skills that will support future career opportunities, coding education is equally important as a way to develop social, daily living, communication, and creative skills — coding to learn.
 
-> “These skills are useful not just for computer scientists but for everyone, regardless of age, interests, or occupation” - Mitchel Resnick, 2013
+{% blockquote "Mitchel Resnick, 2013" %}
+“These skills are useful not just for computer scientists but for everyone, regardless of age, interests, or occupation.”
+{% endblockquote %}
 
 Students who are supported in developing self-reflection or metacognitive skills regarding their own learning needs are more likely to succeed in the learning process and to ultimately be better prepared for navigating the constant change and lifelong learning required for participation in a variety of activities. Coding education, when approached with this broad perspective and at an early age, offers a critical way for youth to develop the social, daily living, technical, and creative skills that will prepare them to contribute in the future.
 

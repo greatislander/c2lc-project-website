@@ -34,10 +34,37 @@ address {
     font-style: normal;
 }
 
+ul,
+ol {
+    list-style-position: inside;
+    padding-inline-start: var(--space-sm);
+}
+
+blockquote {
+    background: var(--color-yellow-85);
+    font-size: calc(24 / 16 * 1rem);
+    font-weight: var(--font-weight-medium);
+    margin-inline-start: calc(-1 * var(--space-lg) / 2);
+    max-width: calc(100% + var(--space-lg));
+    padding: var(--space-md);
+    width: calc(100% + var(--space-lg));
+}
+
+cite {
+    font-size: var(--step-0);
+    font-style: normal;
+    font-weight: var(--font-weight-normal);
+    padding-inline-start: var(--step-0);
+
+    &::before {
+        content: "–";
+    }
+}
+
 .prose {
-    max-width: 65ch;
+    max-width: 75ch;
 }
 
 .prose > * + * {
-    margin-top: 1em;
+    margin-block-start: 1em;
 }
