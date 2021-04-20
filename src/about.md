@@ -10,10 +10,28 @@ whatWeDoSection:
       link: /learn/#activities
 whoSection:
   title: Who We Are
-  content: "**Weavly** is a collaborative effort between the Inclusive Design
+  intro: "**Weavly** is a collaborative effort between the Inclusive Design
     Research Centre and the Bridges Canada. This project is funded by the
     Innovation, Science and Economic Development Canada’s Accessible Technology
     Program."
+  partners:
+    - name: Inclusive Design Research Centre
+      acronym: IDRC
+      content: IDRC is an international community of open source developers,
+        designers, researchers, educators and co-designers who work together to
+        proactively ensure that emerging technology and practices are designed
+        inclusively.
+      link: https://idrc.ocadu.ca
+      image: /assets/media/idrc.png
+      imageAlt: TODO
+    - name: Bridges Canada
+      content: Bridges is the only cross-Canada, full service, assistive technology
+        company. Bridges delivers unmatched support in assistive technology for
+        learning, communication, alternative access, low vision and blindness
+        needs.
+      link: https://bridges-canada.com
+      image: /assets/media/bridges.png
+      imageAlt: TODO
 layout: layouts/about
 permalink: /about/
 goalSection:
@@ -36,5 +54,6 @@ eleventyNavigation:
 connectSection:
   title: Connect
   titleLink: mailto:idrc@ocadu.ca
-  content: Please email us or connect with us via social media if you'd like to be part of this conversation.
+  content: Please email us or connect with us via social media if you'd like to be
+    part of this conversation.
 ---

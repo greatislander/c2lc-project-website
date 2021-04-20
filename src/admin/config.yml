@@ -160,7 +160,24 @@ collections:
           widget: object
           fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "markdown"}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+          - label: Partners
+            name: partners
+            widget: list
+            fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Acronym", name: "acronym", widget: "string", required: false}
+            - {label: "Content", name: "content", widget: "text"}
+            - {label: "Link", name: "link", widget: "string"}
+            - {label: "Image", name: "image", widget: "image"}
+            - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
+        - label: Connect Section
+          name: connectSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title Link", name: "titleLink", widget: "string"}
+          - {label: "Content", name: "content", widget: "text"}
   - name: resources
     label: Coding Resources
     label_singular: Coding Resource
