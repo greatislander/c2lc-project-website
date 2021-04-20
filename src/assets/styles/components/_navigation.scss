@@ -18,14 +18,49 @@
 .nav a {
     border-radius: var(--radius-md);
     font-family: var(--font-family-display);
-    font-size: var(--step-1);
     padding: var(--space-xs) var(--space-sm);
+    position: relative;
     text-decoration: none;
+
+    &[aria-current="page"] {
+        @supports (mask-image: url('../images/wavy.svg')) {
+            &::after {
+                background-color: currentColor;
+                content: "";
+                display: block;
+                height: rem(6);
+                inset-block-end: calc(-1 * 2 * var(--space-xs));
+                inset-inline-start: var(--space-sm);
+                mask-image: url('../images/wavy.svg');
+                mask-repeat: no-repeat;
+                mask-size: rem(187) rem(6);
+                position: absolute;
+                width: calc(100% - (2 * var(--space-sm)));
+            }
+        }
+
+        @supports (not (mask-image: url('../images/wavy.svg'))) {
+            text-decoration-line: underline;
+            text-decoration-style: wavy;
+            text-underline-offset: var(--space-sm);
+        }
+
+        font-weight: var(--font-weight-black);
+    }
 
     &:hover {
         background-color: var(--color-green-45);
         color: var(--color-white);
-        text-decoration-color: var(--color-green-45);
+
+        @supports (mask-image: url('../images/wavy.svg')) {
+            &::after {
+                background-color: var(--color-green-45);
+            }
+        }
+
+        @supports (not (mask-image: url('../images/wavy.svg'))) {
+            text-decoration-color: var(--color-green-45);
+        }
     }
 
     &:focus {
@@ -33,13 +68,6 @@
         box-shadow: 0 0 0 var(--border-thin) var(--color-green-45);
         color: var(--color-green-45);
         outline: none;
-    }
-
-    &[aria-current="page"] {
-        font-weight: var(--font-weight-black);
-        text-decoration-line: underline;
-        text-decoration-style: wavy;
-        text-underline-offset: var(--space-sm);
     }
 }
 
@@ -59,6 +87,12 @@
     }
 
     .nav a {
-        font-size: var(--step-0);
+        &[aria-current="page"] {
+            @supports (mask-image: url('../images/wavy.svg')) {
+                &::after {
+                    inset-block-end: calc(-1 * var(--space-sm));
+                }
+            }
+        }
     }
 }
