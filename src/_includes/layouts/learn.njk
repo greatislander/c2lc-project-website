@@ -11,7 +11,10 @@
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ resourcesSection.callToActionLink }}">{{ resourcesSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] ">
-          {% image "./src" + resourcesSection.image, resourcesSection.imageAlt, "50vw, 100vw" %}
+          <picture>
+            <source srcset="{{ resourcesSection.image }}?nf_resize=smartcrop&w=640&h=520" media="(min-width: 768px)">
+            <img src="{{ resourcesSection.image }}?nf_resize=smartcrop&w=320&h=260" alt="{{ resourcesSection.imageAlt }}" width="640" height="520">
+          </picture>
         </div>
     </div>
   </div>
@@ -24,7 +27,9 @@
           {% for card in activitiesSection.cards %}
             <div class="[ card card--small ]">
                 <figure class="[ card__image ]">
-                  {% image "./src" + card.image, "", "50vw, 100vw" %}
+                  <picture>
+                    <img src="{{ card.image }}?nf_resize=smartcrop&w=333&h=240" alt="" width="333" height="240">
+                  </picture>
                 </figure>
                 <div class="[ card__content ] [ flow ]">
                     <h3><a href="{{ card.link }}">{{ card.title }}</a></h3>
@@ -45,7 +50,7 @@
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ robotActivitiesSection.callToActionLink }}">{{ robotActivitiesSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
-            <img src="{{ robotActivitiesSection.image }}" alt="{{ robotActivitiesSection.imageAlt }}" width="640" height="360" /> 
+            <img src="{{ robotActivitiesSection.image }}?nf_resize=fit&w=640&h=360" alt="{{ robotActivitiesSection.imageAlt }}" width="640" height="360" /> 
         </div>
     </div>
   </div>
@@ -59,7 +64,10 @@
             <p class="[ sm:center ]"><a class="call-to-action" rel="external" href="{{ trainingsSection.callToActionLink }}">{{ trainingsSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
-          {% image "./src" + trainingsSection.image, trainingsSection.imageAlt, "50vw, 100vw" %}
+          <picture>
+            <source srcset="{{ trainingsSection.image }}?nf_resize=smartcrop&w=640&h=520" media="(min-width: 768px)">
+            <img src="{{ trainingsSection.image }}?nf_resize=smartcrop&w=320&h=260" alt="{{ trainingsSection.imageAlt }}" width="640" height="520">
+          </picture>
         </div>
     </div>
   </div>

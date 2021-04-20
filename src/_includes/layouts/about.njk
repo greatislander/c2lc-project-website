@@ -11,7 +11,10 @@
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ goalSection.callToActionLink }}">{{ goalSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] ">
-          {% image "./src" + goalSection.image, goalSection.imageAlt, "50vw, 100vw" %}
+          <picture>
+            <source srcset="{{ goalSection.image }}?nf_resize=smartcrop&w=640&h=520" media="(min-width: 768px)">
+            <img src="{{ goalSection.image }}?nf_resize=smartcrop&w=320&h=260" alt="{{ goalSection.imageAlt }}" width="640" height="520">
+          </picture>
         </div>
     </div>
   </div>

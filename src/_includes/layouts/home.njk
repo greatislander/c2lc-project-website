@@ -18,7 +18,9 @@
             <div class="[ card card--small card--yellow-75 ]">
                   {% if card.image %}
                 <figure class="[ card__image ]">
-                  {% image "./src" + card.image, "", "50vw, 100vw" %}
+                  <picture>
+                    <img src="{{ card.image }}?nf_resize=smartcrop&w=333&h=240" alt="" width="333" height="240">
+                  </picture>
                 </figure>
                 {% endif %}
                 <div class="[ card__content ] [ flow ]">
@@ -39,7 +41,10 @@
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ learnSection.callToActionLink }}">{{ learnSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
-          {% image "./src" + learnSection.image, learnSection.imageAlt, "50vw, 100vw" %}
+          <picture>
+            <source srcset="{{ learnSection.image }}?nf_resize=smartcrop&w=640&h=520" media="(min-width: 768px)">
+            <img src="{{ learnSection.image }}?nf_resize=smartcrop&w=320&h=260" alt="{{ learnSection.imageAlt }}" width="640" height="520">
+          </picture>
         </div>
     </div>
   </div>
@@ -48,7 +53,10 @@
   <div class="[ wrapper ]">
     <div class="[ three:two ]">
         <div class="[ three:two__three ] [ flow ]">
-          {% image "./src" + aboutSection.image, aboutSection.imageAlt, "50vw, 100vw" %}
+          <picture>
+            <source srcset="{{ aboutSection.image }}?nf_resize=smartcrop&w=640&h=520" media="(min-width: 768px)">
+            <img src="{{ aboutSection.image }}?nf_resize=smartcrop&w=320&h=260" alt="{{ aboutSection.imageAlt }}" width="640" height="520">
+          </picture>
         </div>
         <div class="[ three:two__two ] [ flow ]">
           <h2>{{ aboutSection.title }}</h2>

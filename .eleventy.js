@@ -16,7 +16,6 @@ const fs = require("fs");
 
 const fluidPlugin = require("eleventy-plugin-fluid");
 const navigationPlugin = require("@11ty/eleventy-navigation");
-const imageShortcode = require("./src/shortcodes/image.js");
 
 // Import transforms
 const htmlMinTransform = require("./src/transforms/html-min-transform.js");
@@ -131,8 +130,6 @@ module.exports = function (config) {
         <rect width="${width}" height="${height}" />
     </svg>`;
     });
-
-    config.addNunjucksAsyncShortcode("image", imageShortcode);
 
     // 404
     config.setBrowserSyncConfig({

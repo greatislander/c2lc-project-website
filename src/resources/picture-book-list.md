@@ -40,7 +40,7 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Sequencing
 
-![Book cover](/assets/media/the-very-hungry-caterpillar.webp "The Very Hungry Caterpillar By Eric Carle")
+![Book cover](/assets/media/the-very-hungry-caterpillar.jpg "The Very Hungry Caterpillar By Eric Carle")
 
 ![Book cover](/assets/media/rosie’s-walk-by-pat-hutchins.jpg "Rosie’s Walk By Pat Hutchins")
 
@@ -96,7 +96,7 @@ The list has been organized based on the scope and sequence followed in the Weav
 
 ## Events
 
-![Book cover](/assets/media/please-mr.-panda-by-steve-antony.webp "Please, Mr. Panda By Steve Antony")
+![Book cover](/assets/media/please-mr.-panda-by-steve-antony.jpg "Please, Mr. Panda By Steve Antony")
 
 ![Book cover](/assets/media/rufus-goes-to-sea-by-tim-griswell.jpg "Rufus Goes to Sea By Tim Griswell")
 

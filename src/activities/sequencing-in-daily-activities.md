@@ -30,7 +30,7 @@ whatYouNeed: |-
 books:
   - title: The Very Hungry Caterpillar
     author: Eric Carle
-    coverImage: /assets/media/the-very-hungry-caterpillar.webp
+    coverImage: /assets/media/the-very-hungry-caterpillar.jpg
     link: /learn/resources/picture-book-list/
 ---
 ## Description
