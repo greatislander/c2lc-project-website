@@ -8,7 +8,7 @@ description: "This framework is intended to support educators as they explore
 supportiveMaterial:
   - label: Examining Applications for Accessibility - A Guide of Considerations for
       Educators
-    file: /assets/media/examinig-applications-for-accessibility.pdf
+    file: /assets/media/examining-applications-for-accessibility.pdf
 ---
 The considerations outlined below include those that should be considered within the design interface as well as instructional supports, such as pre-teaching, scaffolded instruction and adapted resources.
 

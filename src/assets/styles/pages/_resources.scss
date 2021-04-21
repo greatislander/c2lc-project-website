@@ -11,3 +11,18 @@
     margin-block-start: var(--space-lg);
     padding-block-start: var(--space-lg);
 }
+
+.resource .supportive-materials a {
+    align-items: center;
+    display: inline-flex;
+
+    svg {
+        margin-inline-start: var(--space-md);
+    }
+}
+
+.resource .supportive-materials p + p {
+    border-top: var(--border-hairline) solid var(--color-black-05);
+    margin-block-start: var(--space-md);
+    padding-block-start: var(--space-md);
+}

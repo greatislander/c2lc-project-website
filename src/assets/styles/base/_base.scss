@@ -12,8 +12,23 @@ body {
  * Basic styles for links
  */
 a:not([class]) {
+    border-radius: var(--radius-xs);
     color: currentColor;
     text-decoration: underline;
+
+    &:hover {
+        color: var(--color-teal-35);
+    }
+
+    &:focus {
+        box-shadow: 0 0 0 var(--space-xxs) var(--color-teal-35);
+        outline: none;
+    }
+
+    &:active {
+        background-color: var(--color-teal-35);
+        color: var(--color-white);
+    }
 
     &:visited {
         color: currentColor;
