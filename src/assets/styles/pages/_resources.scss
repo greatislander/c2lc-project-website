@@ -13,11 +13,9 @@
 }
 
 .resource .supportive-materials a {
-    align-items: center;
-    display: inline-flex;
-
     svg {
-        margin-inline-start: var(--space-md);
+        margin-block-end: calc(-1 * var(--space-xs));
+        margin-inline-start: var(--space-sm);
     }
 }
 
