@@ -132,7 +132,7 @@ module.exports = function (config) {
     </svg>`;
     });
 
-    config.addNunjucksAsyncShortcode("image", imageShortcode);
+    config.addShortcode("image", imageShortcode);
 
     // 404
     config.setBrowserSyncConfig({

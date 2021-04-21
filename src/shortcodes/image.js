@@ -1,8 +1,6 @@
 "use strict";
 
-// const eleventyImage = require("@11ty/eleventy-img");
-
-module.exports = async (src, alt, width, height) => {
+module.exports = (src, alt, width, height) => {
     const w = parseInt(width, 10);
     const h = parseInt(height, 10);
 

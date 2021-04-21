@@ -3,7 +3,7 @@
 }
 
 .filters > * + * {
-    margin-top: var(--space-md);
+    margin-block-start: var(--space-md);
 }
 
 [class*="--hide"] {
@@ -23,11 +23,11 @@
     }
 
     .filters > * + * {
-        margin-left: calc(var(--space-xs) + var(--space-sm));
-        margin-top: 0;
+        margin-block-start: 0;
+        margin-inline-start: calc(var(--space-xs) + var(--space-sm));
     }
 
     .filters button {
-        margin-left: auto;
+        margin-inline-start: auto;
     }
 }
