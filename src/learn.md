@@ -5,7 +5,7 @@ resourcesSection:
     Here you can find a collection of techniques and strategies to help create
     and set up an accessible environment for coding education.
 
-  image: /assets/media/coding-resources.jpg
+  image: /assets/media/accessible-coding.png
   imageAlt: TODO
   callToActionText: Resources
   callToActionLink: /learn/resources/
