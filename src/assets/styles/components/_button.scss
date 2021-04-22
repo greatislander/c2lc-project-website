@@ -4,13 +4,14 @@
 
 .button {
     appearance: none;
-    background-color: white;
+    background: var(--color-white);
     border: var(--border-hairline) solid black;
     border-radius: var(--radius-xs);
     font-family: inherit;
     font-size: 100%;
+    height: var(--space-lg);
     line-height: inherit;
-    padding: var(--space-xxs) var(--space-md) var(--space-xxs) var(--space-xs);
+    padding: var(--space-xxs) var(--space-md);
 }
 
 .button.button--primary {
@@ -18,8 +19,15 @@
 }
 
 .button:focus {
-    box-shadow: 0 0 0 var(--space-xxs) skyblue;
+    border-color: var(--color-red-45);
+    box-shadow: 0 0 0 var(--space-xxs) var(--color-red-45);
     outline: none;
+}
+
+.button:active {
+    background: var(--color-red-45);
+    border-color: var(--color-red-45);
+    color: var(--color-white);
 }
 
 .link {

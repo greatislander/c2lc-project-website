@@ -9,6 +9,6 @@ eleventyNavigation:
   order: 0
 pagination:
   data: collections.unpluggedActivities
-  size: 2
+  size: 10
   alias: activities
 ---

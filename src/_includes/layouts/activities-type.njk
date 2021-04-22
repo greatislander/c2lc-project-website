@@ -1,17 +1,20 @@
 {% extends "layouts/base.njk" %}
 
 {% set bodyClass = "activities" %}
+{% set headerBg = "cream-95" %}
 
 {% block headerScripts %}
     <script>window.location.href = "/learn/activities/#{{ type | slug }}";</script>
 {% endblock %}
 
 {% block content %}
-<noscript class="[ flow-lg md:flow-xl ]">
-    <div class="[ flow-md ]">
+<noscript>
+  <div class="[ wrapper ]">
+    <div class="[ flow-xl ]">
     {% if activities.length %}
         <div class="[ grid ]">
         {% for item in activities %}
+            {% set level = 2 %}
             {% include "partials/components/card--activity.njk" %}
         {% endfor %}
         </div>
@@ -22,5 +25,6 @@
         <p>No {{ type }} activities found.</p>
     {% endif %}
     </div>
+  </div>
 </noscript>
 {% endblock %}

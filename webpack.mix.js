@@ -14,6 +14,8 @@ https://github.com/fluid-project/fluidic-11ty/raw/master/LICENSE.md.
 
 const mix = require("laravel-mix");
 const moveFile = require("move-file");
+const path = require("path");
+require("laravel-mix-purgecss");
 
 // Set public path.
 mix.setPublicPath("dist/assets");
@@ -22,12 +24,23 @@ mix.setPublicPath("dist/assets");
 mix.js("./src/assets/scripts/app.js", "dist/assets/scripts");
 mix.js("./src/assets/scripts/matomo.js", "dist/assets/scripts");
 
-// Process CSS with PostCSS.
+// Compile Sass with Dart Sass.
 mix.sass("./src/assets/styles/app.scss", "dist/assets/styles");
 
-// Don't modify stylesheet url() functions.
+// Purge unused styles.
+mix.purgeCss({
+    content: [path.join(__dirname, "src/_includes/**/*.njk")]
+});
+
 mix.options({
-    processCssUrls: false
+    // Don't modify stylesheet url() functions.
+    processCssUrls: false,
+    // Enable PostCSS Logical Properties plugin.
+    postCss: [
+        require("postcss-logical")({
+            dir: "ltr"
+        })
+    ]
 });
 
 // Enable source maps.
