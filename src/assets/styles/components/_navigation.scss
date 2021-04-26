@@ -16,8 +16,11 @@
 }
 
 .nav a {
-    border-radius: var(--radius-md);
+    border-radius: var(--radius-xxs);
     font-family: var(--font-family-display);
+    font-size: calc(24 / 16 * 1rem);
+    font-weight: var(--font-weight-normal);
+    height: calc(50 / 16 * 1rem);
     padding: var(--space-xs) var(--space-sm);
     position: relative;
     text-decoration: none;
@@ -29,7 +32,7 @@
                 content: "";
                 display: block;
                 height: rem(6);
-                inset-block-end: calc(-1 * 2 * var(--space-xs));
+                inset-block-end: calc(-1 * var(--space-sm));
                 inset-inline-start: var(--space-sm);
                 mask-image: url('../images/wavy.svg');
                 mask-repeat: no-repeat;
@@ -49,8 +52,7 @@
     }
 
     &:hover {
-        background-color: var(--color-green-45);
-        color: var(--color-white);
+        color: var(--color-green-45);
 
         @supports (mask-image: url('../images/wavy.svg')) {
             &::after {
@@ -65,9 +67,14 @@
 
     &:focus {
         background-color: white;
-        box-shadow: 0 0 0 var(--border-thin) var(--color-green-45);
-        color: var(--color-green-45);
+        box-shadow: 0 0 0 var(--border-thin) currentColor;
         outline: none;
+    }
+
+    &:active {
+        background-color: var(--color-green-45);
+        box-shadow: 0 0 0 var(--border-thin) var(--color-green-45);
+        color: var(--color-white);
     }
 }
 
@@ -84,15 +91,5 @@
     .nav li + li {
         margin-block-start: 0;
         margin-inline-start: var(--space-md);
-    }
-
-    .nav a {
-        &[aria-current="page"] {
-            @supports (mask-image: url('../images/wavy.svg')) {
-                &::after {
-                    inset-block-end: calc(-1 * var(--space-sm));
-                }
-            }
-        }
     }
 }
