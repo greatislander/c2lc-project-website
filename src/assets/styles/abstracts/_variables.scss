@@ -80,6 +80,7 @@ $borders: (
 );
 
 $radii: (
+    xxs: 3px,
     xs: 4px,
     md: 20px,
     lg: 40px,
@@ -96,6 +97,7 @@ $radii: (
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
+    --font-weight-black: 900;
 
     // Font Sizes
     --step--2: calc(14 / 16 * 1rem);

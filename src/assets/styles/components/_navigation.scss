@@ -11,17 +11,70 @@
     flex-direction: column;
 }
 
-.nav li {
-    margin-block-start: 1rem;
-    margin-inline-start: -0.5rem;
+.nav li + li {
+    margin-block-start: var(--space-md);
 }
 
 .nav a {
-    padding: 0.5rem;
+    border-radius: var(--radius-xxs);
+    font-family: var(--font-family-display);
+    font-size: calc(24 / 16 * 1rem);
+    font-weight: var(--font-weight-normal);
+    height: calc(50 / 16 * 1rem);
+    padding: var(--space-xs) var(--space-sm);
+    position: relative;
+    text-decoration: none;
 
     &[aria-current="page"] {
-        background: black;
-        color: white;
+        @supports (mask-image: url('../images/wavy.svg')) {
+            &::after {
+                background-color: currentColor;
+                content: "";
+                display: block;
+                height: rem(6);
+                inset-block-end: calc(-1 * var(--space-sm));
+                inset-inline-start: var(--space-sm);
+                mask-image: url('../images/wavy.svg');
+                mask-repeat: no-repeat;
+                mask-size: rem(187) rem(6);
+                position: absolute;
+                width: calc(100% - (2 * var(--space-sm)));
+            }
+        }
+
+        @supports (not (mask-image: url('../images/wavy.svg'))) {
+            text-decoration-line: underline;
+            text-decoration-style: wavy;
+            text-underline-offset: var(--space-sm);
+        }
+
+        font-weight: var(--font-weight-black);
+    }
+
+    &:hover {
+        color: var(--color-green-45);
+
+        @supports (mask-image: url('../images/wavy.svg')) {
+            &::after {
+                background-color: var(--color-green-45);
+            }
+        }
+
+        @supports (not (mask-image: url('../images/wavy.svg'))) {
+            text-decoration-color: var(--color-green-45);
+        }
+    }
+
+    &:focus {
+        background-color: white;
+        box-shadow: 0 0 0 var(--border-thin) currentColor;
+        outline: none;
+    }
+
+    &:active {
+        background-color: var(--color-green-45);
+        box-shadow: 0 0 0 var(--border-thin) var(--color-green-45);
+        color: var(--color-white);
     }
 }
 
@@ -32,12 +85,11 @@
     }
 
     .nav ul {
-        display: flex;
         flex-direction: row;
     }
 
-    .nav li {
+    .nav li + li {
         margin-block-start: 0;
-        margin-inline-start: 1rem;
+        margin-inline-start: var(--space-md);
     }
 }
