@@ -149,11 +149,20 @@
     background-color: var(--color-teal-75);
 }
 
+.bg--blue-65 {
+    background-color: var(--color-blue-65);
+}
+
+.bg--yellow-75 {
+    background-color: var(--color-yellow-75);
+}
+
 .bg--purple-35 {
     --cta-accent: var(--color-purple-25);
     --cta-interactive: var(--color-purple-05);
 
     background-color: var(--color-purple-35);
+    color: var(--color-white);
 }
 
 .wave {
