@@ -42,8 +42,8 @@ aboutSection:
   callToActionText: About
   callToActionLink: /about/
   image: /assets/media/accessible-coding.png
-  imageAlt: Image of a kid using an early version of the Weavly editor on a laptop
-    to control Sphero robot
+  imageAlt: Image of a kid using an early version of Weavly on a laptop to control
+    Sphero robot
 eleventyNavigation:
   key: Home
   order: 0
