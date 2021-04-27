@@ -22,16 +22,18 @@ whoSection:
         proactively ensure that emerging technology and practices are designed
         inclusively.
       link: https://idrc.ocadu.ca
-      image: /assets/media/idrc.png
-      imageAlt: TODO
+      image: /assets/media/idrc.jpg
+      imageAlt: Several people having a conversation around a table with coding toys
+        and robots on it.
     - name: Bridges Canada
       content: Bridges is the only cross-Canada, full service, assistive technology
         company. Bridges delivers unmatched support in assistive technology for
         learning, communication, alternative access, low vision and blindness
         needs.
       link: https://bridges-canada.com
-      image: /assets/media/bridges.png
-      imageAlt: TODO
+      image: /assets/media/20122485921_8dfcf134e3_o.jpg
+      imageAlt: "Image of several kids talking. One of the kids is on powered
+        wheelchair and using a single switch. "
 layout: layouts/about
 permalink: /about/
 goalSection:
@@ -41,7 +43,8 @@ goalSection:
     just learning to code, but coding to learn and create.
   title: More Than Just Learning to Code
   image: /assets/media/20190726_095446_hu0254f67d82f35e43a998c478f1615761_1190091_1000x0_resize_q75_box.jpg
-  imageAlt: TODO
+  imageAlt: Two instructors working with a kid on a laptop to build a program
+    sequence for Dash robot
   callToActionText: Our Process
   callToActionLink: https://www.codelearncreate.org/blog/
 headerBg: teal-75
