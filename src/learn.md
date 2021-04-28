@@ -43,7 +43,7 @@ robotActivitiesSection:
     develop your computational thinking and programming skills.
 
   image: /assets/media/dashdot.png
-  imageAlt: TODO
+  imageAlt: Imagine of Dash and Dot
   callToActionText: Robot Activities
   callToActionLink: /learn/robots/
 trainingsSection:
