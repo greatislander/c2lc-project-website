@@ -15,6 +15,29 @@ shareSection:
   content: Support other learners by sharing your ideas, handouts and activities.
 layout: layouts/learn
 permalink: /learn/
+robotActivitiesSection:
+  title: Activities with Robots
+  content: >+
+    Check out a great collection of activities you can do with your robots to
+    develop your computational thinking and programming skills.
+
+  image: /assets/media/dashdot.png
+  imageAlt: Image of Dash and Dot robots
+  callToActionText: Robot Activities
+  callToActionLink: /learn/robots/
+trainingsSection:
+  title: Trainings & Workshops
+  content: >-
+    Check out “Debug’d” upcoming online and in-person trainings and workshops.
+
+
+    Debugd’s explicit instruction, differentiated strategies, adapted electronic and ready-to-print materials deliver meaningful participation in classroom coding regardless of challenges
+  image: /assets/media/slide-4.jpg
+  imageAlt: An illustration of lesson plans and robots in bubbles surrounded by
+    written text Debug'd
+  callToActionText: Visit Debug’d
+  callToActionLink: https://www.bridges-canada.com/pages/debugd-coding-curriculum
+headerBg: yellow-85
 title: Learn
 subtitle: Here you can find tools and resources for anyone who likes to learn to
   code. Beginners, learners, parents, and teachers can explore many activities
@@ -36,28 +59,6 @@ activitiesSection:
       image: /assets/media/free_play_with_dash.jpg
       content: Mix everything up! Combine virtual and physical interactions, or invite
         the robots
-robotActivitiesSection:
-  title: Activities with Robots
-  content: >+
-    Check out a great collection of activities you can do with your robots to
-    develop your computational thinking and programming skills.
-
-  image: /assets/media/dashdot.png
-  imageAlt: Imagine of Dash and Dot
-  callToActionText: Robot Activities
-  callToActionLink: /learn/robots/
-trainingsSection:
-  title: Trainings & Workshops
-  content: >-
-    Check out “Debug’d” upcoming online and in-person trainings and workshops.
-
-
-    Debugd’s explicit instruction, differentiated strategies, adapted electronic and ready-to-print materials deliver meaningful participation in classroom coding regardless of challenges
-  image: /assets/media/debugd.jpg
-  imageAlt: Lesson plans and robots in bubbles surrounded by written text Debug'd
-  callToActionText: Visit Debug’d
-  callToActionLink: https://www.bridges-canada.com/pages/debugd-coding-curriculum
-headerBg: yellow-85
 eleventyNavigation:
   key: Learn
   order: 3
