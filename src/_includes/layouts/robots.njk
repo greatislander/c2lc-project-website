@@ -4,8 +4,8 @@
 <div class="[ wrapper ]">
   <div class="[ flow ] [ flow-lg md:flow-xl ]">
       <div class="[ grid ]">
-      {% for robot in robotActivityTags.robots %}
-        {% if collections[robot].length %}
+      {% for item in collections.guides %}
+        {% if collections[item.data.title].length %}
         {% include "partials/components/card--robot.njk" %}
         {% endif %}
       {% endfor %}

@@ -281,7 +281,7 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Robot", name: "tags", widget: "relation", multiple: true, max: 1, collection: "siteData", file: "robotActivityTags", value_field: robots.*, display_fields: [robots.*], search_fields: [robots.*]}
+      - {label: "Robot", name: "tags", widget: "relation", multiple: true, max: 1, collection: "guides", value_field: title, display_fields: [title], search_fields: [title]}
       - {label: "Coding Experience Level", name: "experience", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: experience.*, display_fields: [experience.*], search_fields: [experience.*]}
       - {label: "Topic", name: "topic", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: topics.*, display_fields: [topics.*], search_fields: [topics.*]}
       - {label: "Related Activities with Robots", name: "relatedRobotActivities", widget: "relation", collection: "robotActivities", search_fields: ["title"], value_field: "title", display_fields: ["title"], multiple: true, required: false}
@@ -340,7 +340,6 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Robot", name: "robot", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: robots.*, display_fields: [robots.*], search_fields: [robots.*]}
       - {label: "Manufacturer", name: "manufacturer", widget: "string"}
       - {label: "Manufacturer Link", name: "manufacturerLink", widget: "string"}
       - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
@@ -367,7 +366,6 @@ collections:
         name: robotActivityTags
         file: "src/_data/robotActivityTags.json"
         fields:
-          - {label: "Robots", name: "robots", widget: "list"}
           - {label: "Experience Levels", name: "experience", widget: "list"}
           - {label: "Topics", name: "topics", widget: "list"}
       - label: Project Tags

@@ -1,8 +1,8 @@
         <article class=" [ card ]">
             <div class="[ card__image ]">
-                {% svgPlaceholder "570", "393" %}
+                {% image item.data.metaImage, item.data.metaImageAlt, 570, 393 %}
             </div>
             <div class="[ card__content ] [ flow ]">
-                <h3 aria-level="2"><a href="/learn/robots/{{ robot | slug }}/">{{ robot }}</a></h3>
+                <h3 aria-level="2"><a href="/learn/robots/{{ item.data.title | slug }}/">{{ item.data.title }}</a></h3>
             </div>
         </article>

@@ -32,10 +32,17 @@
         position: absolute;
         width: 100%;
     }
+
+    &:focus {
+        background-color: inherit;
+        box-shadow: none;
+        color: inherit;
+    }
 }
 
 .card picture {
     img {
+        background-color: var(--color-white);
         border-radius: var(--radius-md);
     }
 

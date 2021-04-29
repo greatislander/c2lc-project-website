@@ -11,10 +11,10 @@ article .wrapper {
     margin-inline: auto;
     max-width: var(--max-content-width);
     padding: var(--space-lg) var(--space-md);
+}
 
-    .prose {
-        margin-inline: auto;
-    }
+article .content .prose {
+    margin-inline: auto;
 }
 
 article .prose img {

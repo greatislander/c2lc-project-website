@@ -78,6 +78,13 @@ module.exports = function (config) {
         ];
     });
 
+    config.addCollection("guides", collection => {
+        return [
+            ...collection.getFilteredByGlob("./src/guides/*.md")
+                .sort((a, b) => a.data.title.localeCompare(b.data.title))
+        ];
+    });
+
     config.addCollection("unpluggedActivities", collection => {
         return [
             ...collection
