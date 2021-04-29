@@ -11,10 +11,25 @@ article .wrapper {
     margin-inline: auto;
     max-width: var(--max-content-width);
     padding: var(--space-lg) var(--space-md);
+
+    .prose {
+        margin-inline: auto;
+    }
+}
+
+article .prose img {
+    border-radius: var(--radius-md);
+    margin-block-end: var(--space-lg);
 }
 
 @media (min-width: 960px) {
     article .wrapper {
         padding: var(--space-xl) var(--space-lg);
+    }
+
+    article .prose img {
+        margin-inline-start: calc(-1 * var(--space-xl) / 2);
+        max-width: calc(100% + var(--space-xl));
+        width: calc(100% + var(--space-xl));
     }
 }
