@@ -29,11 +29,12 @@ mix.sass("./src/assets/styles/app.scss", "dist/assets/styles");
 
 // Purge unused styles.
 mix.purgeCss({
+    enabled: true, // TODO: Remove this prior to launch.
     content: [
         path.join(__dirname, "src/_includes/**/*.njk"),
         path.join(__dirname, "src/shortcodes/*.js")
     ],
-    safelist: ["picture"]
+    safelist: ["picture", /^bg/]
 });
 
 mix.options({
