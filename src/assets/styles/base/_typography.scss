@@ -39,5 +39,10 @@ address {
 }
 
 .prose > * + * {
-    margin-top: 1em;
+    margin-block-start: 1em;
+}
+
+.prose ol,
+.prose ul {
+    padding-inline-start: var(--space-md);
 }

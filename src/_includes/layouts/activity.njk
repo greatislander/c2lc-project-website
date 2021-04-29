@@ -1,45 +1,54 @@
 {% extends "layouts/base.njk" %}
 
 {% set bodyClass = "activity" %}
+
 {% if subject === "Sequencing" %}
-{% set headerBg = "yellow-75" %}
+    {% set headerBg = "yellow-75" %}
 {% elif subject === "Sorting & Patterns" %}
-{% set headerBg = "orange-75" %}
+    {% set headerBg = "orange-75" %}
 {% elif subject === "Direction Based" %}
-{% set headerBg = "green-65" %}
+    {% set headerBg = "green-65" %}
 {% elif subject === "Goal Based" %}
-{% set headerBg = "blue-35" %}
-{% set headerText = "white" %}
+    {% set headerBg = "blue-35" %}
+    {% set headerText = "white" %}
 {% elif subject === "Introduction" %}
-{% set headerBg = "blue-65" %}
+    {% set headerBg = "blue-65" %}
 {% endif %}
 
 {% block pageHeader %}
-    <h1>{{ title }}</h1>
-    <p class="[ tags ]">
-        <span class="[ tag ]">{{ type }} Activity</span> &middot; <span class="[ tag ]">{{ experience }}</span> &middot; <span class="[ tag ]">{{ subject }}</span>
-    </p>
+    <figure>
+    <img src="{{ metaImage }}" alt="{{ metaImageAlt }}" />
+    </figure>
+    <div>
+      <h1>{{ title }}</h1>
+      <p class="[ tags ]">
+          <span class="[ tag ]">{{ type }} Activity</span> <span class="[ tag ]">{{ experience }}</span> <span class="[ tag ]">{{ subject }}</span>
+      </p>
+    </div>
 {% endblock %}
 
 {% block content %}
-    <div class="[ wrapper ]">
-      <div class="[ sidebar ] [ bg bg--cream-95 ]">
-      <div id="what-you-need" class="[ callout ] [ flow ]">
-          <h2>What you need</h2>
-          {{ whatYouNeed | markdown | safe }}
-      </div>
-      {% if books %}
-      <div id="books" class="[ callout ] [ flow ]">
-          <h2>Book suggestions</h2>
-          {% for book in books %}
-          <div class="[ book ] [ flow ]">
-              <img src="{{ book.coverImage }}" alt="" role="decoration" />
-              <p><em>{{ book.title }}</em><br />
-              By {{ book.author }}</p>
-          </div>
-          {% endfor %}
-      </div>
-      {% endif %}
+    <div class="[ wrapper ] [ has-sidebar ]">
+      <div class="[ sidebar ] [ flow ] [ bg bg--cream-95 ]">
+        <div id="what-you-need" class="[ callout ] [ flow ]">
+            <h3 aria-level="2">What you need</h3>
+            {{ whatYouNeed | markdown | safe }}
+        </div>
+        {% if books %}
+        <div id="books" class="[ callout ] [ flow ]">
+            <h3 aria-level="2">Book suggestions</h3>
+            {% for book in books %}
+            <div class="[ book ]">
+                <img src="{{ book.coverImage }}" alt="" role="decoration" />
+                <div class="book__meta">
+                  <p class="book__title">{{ book.title }}</p>
+                  <p class="book__author">{{ book.author }}</p>
+                </div>
+            </div>
+            {% endfor %}
+            <p><a href="/learn/resources/picture-book-list/">Check out other books</a></p>
+        </div>
+        {% endif %}
       </div>
       <div class="[ prose ]">
           {{ content | safe }}
@@ -49,7 +58,7 @@
     <div class="[ bg bg--purple-35 text--white ]">
       <div class="[ wrapper ]">
         <div class="[ related-activities ]">
-            <h2>You may like this:</h2>
+            <h3 aria-level="2">You may like this:</h3>
             <div class="[ grid ]">
             {% for relatedActivity in relatedActivities %}
                 {% for activity in collections.activities %}

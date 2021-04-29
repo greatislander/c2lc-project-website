@@ -3,6 +3,20 @@
 // -----------------------------------------------------------------------------
 
 .callout {
-    border: var(--border-hairline) solid black;
-    padding: 0.75rem 1rem 1rem;
+    color: var(--color-teal-35);
+    padding: var(--space-xl) var(--space-md);
+
+    [aria-level="2"] {
+        color: var(--color-black-05);
+    }
+}
+
+.callout + .callout {
+    border-top: var(--border-thin) solid var(--color-white);
+}
+
+@media (min-width: 960px) {
+    .callout {
+        padding-inline: var(--space-xl);
+    }
 }

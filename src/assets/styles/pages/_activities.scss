@@ -1,10 +1,105 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the activities page.
 //
+
+.activity .book {
+    align-items: center;
+    display: flex;
+    margin-block-start: var(--space-lg);
+}
+
 .activity .book img[role="decoration"] {
-    // TODO
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 50%;
+}
+
+.activity .book .book__meta {
+    padding-inline-start: var(--space-md);
+}
+
+.activity .book__title {
+    font-size: calc(24 / 16 * 1rem);
+    font-weight: var(--font-weight-semibold);
+}
+
+.activity .book__author {
+    margin-block-start: var(--space-sm);
 }
 
 .no-js .activities #activities {
     display: none;
+}
+
+.activity .header .tags {
+    margin-block-start: var(--space-sm);
+}
+
+.activity .header .tag {
+    align-items: center;
+    background-color: var(--color-cream-95);
+    border-radius: var(--radius-xxs);
+    color: var(--color-black-05);
+    display: inline-flex;
+    height: calc(38 / 16 * 1rem);
+    margin-block: var(--space-xs);
+    padding-inline: var(--space-sm);
+}
+
+.wrapper.has-sidebar {
+    padding: 0;
+
+    .prose {
+        padding-block: var(--space-xl);
+    }
+}
+
+.related-activities .grid {
+    margin-block-start: var(--space-lg);
+}
+
+@media (min-width: 960px) {
+    .activity {
+        .header {
+            border-bottom: var(--border-thin) solid var(--color-white);
+        }
+
+        .header .wrapper {
+            display: flex;
+            padding: 0;
+
+            figure {
+                img {
+                    height: auto;
+                    width: 100%;
+                }
+
+                max-width: 33rem;
+                width: 100%;
+            }
+
+            div {
+                border-left: var(--border-thin) solid var(--color-white);
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-end;
+                padding: 0 var(--space-xl) var(--space-lg);
+                width: 100%;
+            }
+        }
+
+        .wrapper.has-sidebar {
+            display: flex;
+            padding-inline: 0;
+        }
+
+        .sidebar {
+            max-width: 33rem;
+            width: 100%;
+        }
+
+        .prose {
+            padding-inline: var(--space-xl);
+            width: 100%;
+        }
+    }
 }
