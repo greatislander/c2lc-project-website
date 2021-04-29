@@ -2,7 +2,7 @@
 title: Dancing to the beat
 type: Unplugged
 experience: No Coding Experience
-subject: Introduction
+subject: Direction Based
 relatedActivities:
   - Directions anywhere, anytime
   - Human robots

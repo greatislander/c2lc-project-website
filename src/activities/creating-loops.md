@@ -2,7 +2,7 @@
 title: Creating Loops
 type: Unplugged
 experience: No Coding Experience
-subject: Sequencing
+subject: Sorting & Patterns
 relatedActivities:
   - Learning about patterns
   - "Lego sequencing "

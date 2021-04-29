@@ -3,7 +3,7 @@ title: Learning directions with command blocks
 tags:
   - Cubetto
 experience: Unplugged Coding Experience
-topic: Sequencing
+topic: Direction Based
 relatedRobotActivities:
   - Meet Cubetto
 description: This activity explores features for Cubetto.
