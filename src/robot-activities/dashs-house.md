@@ -3,7 +3,7 @@ title: Dash's house
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Sequencing
+topic: Direction Based
 relatedRobotActivities:
   - Free Play with Dash
   - Tracing shapes with Dash
