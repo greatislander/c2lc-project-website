@@ -34,7 +34,7 @@ mix.purgeCss({
         path.join(__dirname, "src/_includes/**/*.njk"),
         path.join(__dirname, "src/shortcodes/*.js")
     ],
-    safelist: ["picture", /^bg/, /hide$/]
+    safelist: ["picture", /^bg/]
 });
 
 mix.options({
