@@ -29,7 +29,8 @@ mix.sass("./src/assets/styles/app.scss", "dist/assets/styles");
 
 // Purge unused styles.
 mix.purgeCss({
-    content: [path.join(__dirname, "src/_includes/**/*.njk")]
+    content: [path.join(__dirname, "src/_includes/**/*.njk")],
+    safelist: ["picture"]
 });
 
 mix.options({
