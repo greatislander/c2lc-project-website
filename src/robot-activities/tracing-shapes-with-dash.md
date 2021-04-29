@@ -3,7 +3,7 @@ title: Tracing shapes with Dash
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Sequencing
+topic: Direction Based
 relatedRobotActivities:
   - Free Play with Dash
   - Dash's house
