@@ -6,9 +6,12 @@
     margin-block-start: var(--space-md);
 }
 
+/* purgecss start ignore */
 [class*="--hide"] {
     display: none;
 }
+
+/* purgecss end ignore */
 
 @media (min-width: 1024px) {
     .filters {

@@ -2,17 +2,17 @@
 
 {% set bodyClass = "activity" %}
 
-{% if subject === "Sequencing" %}
-    {% set headerBg = "yellow-75" %}
+{% if (subject === "Sequencing") or (subject === "Conditions") or (topic === "Debugging") %}
+  {% set headerBg = "yellow-75" %}
 {% elif subject === "Sorting & Patterns" %}
-    {% set headerBg = "orange-75" %}
+  {% set headerBg = "orange-75" %}
 {% elif subject === "Direction Based" %}
-    {% set headerBg = "green-65" %}
+  {% set headerBg = "green-65" %}
 {% elif subject === "Goal Based" %}
-    {% set headerBg = "blue-35" %}
-    {% set headerText = "white" %}
+  {% set headerBg = "blue-35" %}
+  {% set headerText = "white" %}
 {% elif subject === "Introduction" %}
-    {% set headerBg = "blue-65" %}
+  {% set headerBg = "blue-65" %}
 {% endif %}
 
 {% block pageHeader %}
