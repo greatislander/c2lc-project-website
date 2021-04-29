@@ -3,7 +3,7 @@ title: Wait For
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Sequencing
+topic: Conditions
 relatedRobotActivities:
   - Free Play with Dash
   - "Meet Dash and Dot: Animation, Drive & Look"
