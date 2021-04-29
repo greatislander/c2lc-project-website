@@ -31,12 +31,13 @@
                 background-color: currentColor;
                 content: "";
                 display: block;
-                height: rem(6);
+                height: rem(7);
                 inset-block-end: calc(-1 * var(--space-sm));
                 inset-inline-start: var(--space-sm);
                 mask-image: url('../images/wavy.svg');
-                mask-repeat: no-repeat;
-                mask-size: rem(187) rem(6);
+                mask-position: left -5px top 50%;
+                mask-repeat: repeat-x;
+                mask-size: rem(294) rem(7);
                 position: absolute;
                 width: calc(100% - (2 * var(--space-sm)));
             }
