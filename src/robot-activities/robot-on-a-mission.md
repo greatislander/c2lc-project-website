@@ -3,7 +3,7 @@ title: Robot on a Mission
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
-topic: Sequencing
+topic: Direction Based
 relatedRobotActivities:
   - Tracing shapes with Dash
   - Dash's house
