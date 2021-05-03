@@ -36,7 +36,7 @@ books: []
 ---
 ## Description
 
-This activity helps learners to identify groups and categories of items around them. They can categorize items based on their color, shape, size, and texture, or their function. Most coding environments include categories of different tools and features. Learning about categories will help learners to easier navigate and operate virtual environments. Categorizing also helps learners to expand their vocabulary and sorting skills. Here are three different ways you can do this activity. After completing any of these activities, ask learners what features they used to find an item and/or sort into different groups.
+This activity helps learners to identify groups and categories of items around them. They can categorize items based on their color, shape, size, and texture, or their function. Most coding environments include categories of different tools and features. Learning about categories will help learners to easily navigate and operate virtual environments. Categorizing also helps learners to expand their vocabulary and sorting skills. Here are three different ways you can do this activity. After completing any of these activities, ask learners what features they used to find an item and/or sort into different groups.
 
 1. Find an area where items are sorted, such as drawers of clothing in the bedroom, the pantry in the kitchen, stationary shelves in the garage, etc. Ask learners how items are categorized in those areas
 2. Put labels/pictures representing the categories on the cupboard doors and ask the learner to find an item (e.g. a fork)
