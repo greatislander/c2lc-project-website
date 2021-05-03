@@ -5,3 +5,13 @@
 .no-js .projects #projects {
     display: none;
 }
+
+.projects .project picture img {
+    border-left: var(--space-lg) solid var(--color-purple-75);
+}
+
+.projects .project + .project {
+    border-top: var(--border-hairline) solid var(--color-black-05);
+    margin-block-start: var(--space-lg);
+    padding-block-start: var(--space-lg);
+}
