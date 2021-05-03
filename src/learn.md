@@ -40,8 +40,8 @@ trainingsSection:
 headerBg: yellow-85
 title: Learn
 subtitle: Here you can find tools and resources for anyone who likes to learn to
-  code. Beginners, learners, parents, and teachers can explore many activities
-  to find a place to start.
+  code. Learners, parents, and teachers can explore many activities to find a
+  place to start.
 activitiesSection:
   title: Activities at Home
   cards:
