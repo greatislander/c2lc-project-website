@@ -46,12 +46,12 @@ As a starter, you can try...
 
 For younger children:
 
-* [Wealy Pre-built Program](https://build.codelearncreate.org/?v=0.5&p=1Bb1bB1Bb1Bb1&c=e0b00a0a0b0b0c0c0d0d0e0) 
+* [Weavly Pre-built Program](https://create.weavly.org/?v=0.7&t=mixed&w=space&p=1Bb1bB1Bb1Bb1&c=aab&a=123456ABDabd) 
 * [Dance music](https://www.youtube.com/watch?v=iwKS4b9aUeI)
 
 For youth
 
-* [Weavly Pre-built Program](https://build.codelearncreate.org/?v=0.5&p=ADad1B1b1B1b1dD&c=00b)
+* [Weavly Pre-built Program](https://create.weavly.org/?v=0.7&t=mixed&w=space&p=ADad1B1b1B1b1dD1&c=aab&a=123456ABDabd)
 * [](https://www.youtube.com/watch?v=niUaRPODJRs)[Dance music](https://www.youtube.com/watch?v=niUaRPODJRs)
 
 ## Steps
@@ -66,7 +66,7 @@ For youth
 
 * Announce every step of the program as it is executed
 * For longer songs, you can replay the same program
-* Try to keep them focused on the running program and correct their movements
+* Try to keep the players focused on the running program and correct their movements
 
 ## Skill Development
 
