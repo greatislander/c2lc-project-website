@@ -16,21 +16,23 @@ Coding education is becoming an increasingly common and important part of the cu
 It is an activity that is recognized as supportive to the development of:
 
 * digital literacy
-* critical
+* critical thinking
 * creative thinking
 * collaborative skills
 
-All of these developments are prerequisite skills for participation in the new knowledge economy. Though it is difficult to predict what the specific nature of employment positions will be in the future, the accelerated pace of change in today’s market increasingly requires workers to be highly skilled in:
+All of these developments are required skills for participation in the new knowledge economy. Though it is difficult to predict what the specific nature of employment positions will be in the future, the accelerated pace of change in today’s market increasingly requires workers to be highly skilled in:
 
 * team collaboration
-* to be flexible and adaptive to new technologies and practices
-* to engage critically and creatively with digital innovations and
-* to embrace the demands of continuous learning and on-the-job skills development
+* flexibility and adaptability to new technologies and practices
+* engaging critically and creatively with digital innovations and
+* embracing the demands of continuous learning and on-the-job skills development
 
 While coding is seen primarily as a means for developing the specific technical skills that will support future career opportunities, coding education is equally important as a way to develop social, daily living, communication, and creative skills — coding to learn.
 
 {% blockquote "Mitchel Resnick, 2013" %}
+
 “These skills are useful not just for computer scientists but for everyone, regardless of age, interests, or occupation.”
+
 {% endblockquote %}
 
 Students who are supported in developing self-reflection or metacognitive skills regarding their own learning needs are more likely to succeed in the learning process and to ultimately be better prepared for navigating the constant change and lifelong learning required for participation in a variety of activities. Coding education, when approached with this broad perspective and at an early age, offers a critical way for youth to develop the social, daily living, technical, and creative skills that will prepare them to contribute in the future.
@@ -44,7 +46,7 @@ Yet students with disabilities often have the most to gain from the opportunitie
 * expressive communication
 * literacy
 * sequencing
-* metacognition—skills
+* metacognitive skills
 
 Perhaps most importantly, coding provides students with new ways to discover and create personal outlets for creative expression. Learning to code can empower students to be active producers of their digital environments, rather than just consumers of prefabricated apps and games. This empowerment is particularly valuable for those who depend on assistive technologies or personalized user interface adaptations. Programming literacy can provide them with new means to reconfigure, script, or develop their own personally tailored access tools and features.
 
