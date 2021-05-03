@@ -5,9 +5,7 @@
   <div class="[ flow ] [ flow-lg md:flow-xl ]">
       <div class="[ grid ]">
       {% for item in collections.guides %}
-        {% if collections[item.data.title].length %}
         {% include "partials/components/card--robot.njk" %}
-        {% endif %}
       {% endfor %}
       </div>
   </div>

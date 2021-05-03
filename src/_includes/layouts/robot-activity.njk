@@ -15,10 +15,15 @@
 {% endif %}
 
 {% block pageHeader %}
+    <figure>
+    <img src="{{ metaImage }}" alt="{{ metaImageAlt }}" />
+    </figure>
+    <div>
     <h1>{{ title }}</h1>
     <p class="[ tags ]">
-        <span class="[ tag ]">{{ robot }}</span> &middot; <span class="[ tag ]">{{ experience }}</span> &middot; <span class="[ tag ]">{{ topic }}</span>
+        <span class="[ tag ]">{{ robot }}</span> <span class="[ tag ]">{{ experience }}</span> <span class="[ tag ]">{{ topic }}</span>
     </p>
+    </div>
 {% endblock %}
 
 {% block sidebar %}
@@ -26,32 +31,37 @@
 {% endblock %}
 
 {% block content %}
-  <div class="[ wrapper ]">
-    <div class="[ sidebar ]">
+  <div class="[ wrapper ] [ has-sidebar ]">
+    <div class="[ sidebar ] [ flow ] [ bg bg--cream-95 ]">
         <div id="what-you-need" class="[ callout ] [ flow ]">
-            <h2>What you need</h2>
+            <h3 aria-level="2">What you need</h3>
             {{ whatYouNeed | markdown | safe }}
         </div>
         {% if books %}
         <div id="books" class="[ callout ] [ flow ]">
-            <h2>Book suggestions</h2>
+            <h3 aria-level="2">Book suggestions</h3>
             {% for book in books %}
-            <div class="[ book ] [ flow ]">
+            <div class="[ book ]">
                 <img src="{{ book.coverImage }}" alt="" role="decoration" />
-                <p><em>{{ book.title }}</em><br />
-                By {{ book.author }}</p>
+                <div class="book__meta">
+                  <p class="book__title">{{ book.title }}</p>
+                  <p class="book__author">{{ book.author }}</p>
+                </div>
             </div>
             {% endfor %}
+            <p><a href="/learn/resources/picture-book-list/">Check out other books</a></p>
         </div>
         {% endif %}
     </div>
     <div class="[ prose ]">
         {{ content | safe }}
         {% if supportiveMaterial %}
+        <div class="[ supportive-materials ] [ flow ]">
         <h2>Supportive Materials</h2>
         {% for item in supportiveMaterial %}
-        <p>{{ item.label }} &middot; <a href="{{ item.file }}">Download File<span class="sr-only"> &ldquo;{{ item.label }}&rdquo;</span></a></p>
+        <p><a download href="{{ item.file }}">{{ item.label }} {% include "svg/download.svg" %}</a></p>
         {% endfor %}
+        </div>
         {% endif %}
     </div>
   </div>

@@ -42,7 +42,6 @@ In this activity, learners start by learning directions on their own body, then 
 * Create a list of activities you do from morning until evening
 * Highlight activities that lend themselves to reinforcing left and right, such as getting dressed and pulling arms and legs through sleeves/pants, brushing teeth, setting the table and sitting on the couch, etc.
 * Talk to learners about their direction during any of the highlighted activities throughout the day
-
   * Ask which hand holds an item (such as clothing, toothbrush)
   * Ask whether an item (such as a knife or spoon) is on the left or right side of another item (such as a plate)
   * Ask where people are relative to the learner 

@@ -5,33 +5,28 @@
 {% set title = "Activities with " + robot %}
 {% set manufacturerGuide = false %}
 
-{%- for guide in collections.guides -%}
-  {% if guide.data.robot === robot %}
-  {% set manufacturerGuide = guide %}
-  {% endif %}
-{%- endfor -%}
+{% block pageHeader %}
+    <figure>
+    <img src="{{ robot.data.metaImage }}" alt="{{ robot.data.metaImageAlt }}" />
+    </figure>
+    <div class="[ flow ]">
+      <h1>{{ robot.data.title }}</h1>
+      <p class="[ subtitle ] [ prose ]">
+        {{ subtitle | safe }}
+      </p>
+      <p><a href="/learn/robots/{{ robot.data.title | slug }}/guide/">Check out the manufacturer's guide</a></p>
+    </div>
+{% endblock %}
 
 {% block content %}
 <div class="[ wrapper ]">
-  {% if manufacturerGuide %}
-  <div class="[ guide ] [ two:three ]">
-      <div class="[ three:two__three ]">
-          {% svgPlaceholder "570", "380" %}
-      </div>
-      <div class="[ three:two__two ] [ flow ]">
-          <h2>Manufacturer's Guide</h2>
-          <p>This collection of lesson plans are created with the K-12 coding curriculum in mind. These aim to support educators to teach basic concepts of coding to learners with unique needs.</p>
-          <p><a href="/learn/robots/{{ robot | slug }}/guide/">Check out guide</a></p>
-      </div>
-  </div>
-  {% endif %}
   <div id="robot-activities">
       <div class="[ flow-lg ]">
           <filter-container class="[ filter ] [ flow ]" data-oninit>
               <h2>Filter Activities</h2>
               <form class="[ filters ]">
                   <label class="[ label ]" for="experience">
-                      Experience:        
+                      Experience:
                       <select class="[ select ]" bind:value={selectedExperience} name="experience" id="experience" data-filter-bind="experience">
                           <option value="">Any Level</option>
                           {% for level in robotActivityTags.experience %}
@@ -54,8 +49,10 @@
               <p>Showing <strong data-filter-results="activity/activities">{{ robotActivities.length }} activities</strong>.</p>
               </div>
               <div class="[ grid ]">
-              {% for item in collections[robot] %}
+              {% for item in collections.robotActivities %}
+                  {% if item.data.tags[0] === robot.data.title %}
                   {% include "partials/components/card--robot-activity.njk" %}
+                  {% endif %}
               {% endfor %}
               </div>
           </filter-container>

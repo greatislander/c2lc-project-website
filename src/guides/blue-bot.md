@@ -1,12 +1,11 @@
 ---
 title: Blue-Bot
-robot: Blue-Bot
 manufacturer: TTS
 manufacturerLink: https://www.tts-international.com/blue-bot-bluetooth-programmable-floor-robot/1015269.html
 metaImage: /assets/media/blu-bot.png
 metaImageAlt: Blue-Bot Robot
 resources:
-  - description: "Bluebot Teacher Guide "
+  - description: "Bluebot Teacher Guide"
     link: "https://www.generationrobots.com/media/tts/Blue-Bot-Teacher-Guide.pdf "
   - description: "Bluebot in the Classroom "
     link: https://www.primaryict.co.uk/res/tts/bluebot/3300-blue-bot%20computer%20guide_b.pdf

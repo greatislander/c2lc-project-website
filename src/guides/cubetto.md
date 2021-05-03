@@ -1,6 +1,5 @@
 ---
 title: Cubetto
-robot: Cubetto
 manufacturer: Primo
 manufacturerLink: https://www.primotoys.com/
 metaImage: /assets/media/cubetto.png

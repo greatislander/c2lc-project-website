@@ -30,14 +30,12 @@ h3 {
     font-weight: var(--font-weight-semibold);
 }
 
-address {
-    font-style: normal;
+[role="list"] {
+    padding-inline-start: 0;
 }
 
-ul,
-ol {
-    list-style-position: inside;
-    padding-inline-start: var(--space-sm);
+address {
+    font-style: normal;
 }
 
 blockquote {
@@ -67,9 +65,4 @@ cite {
 
 .prose > * + * {
     margin-block-start: 1em;
-}
-
-.prose ol,
-.prose ul {
-    padding-inline-start: var(--space-md);
 }

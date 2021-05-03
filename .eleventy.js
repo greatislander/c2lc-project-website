@@ -78,6 +78,14 @@ module.exports = function (config) {
         ];
     });
 
+    config.addCollection("robotActivities", collection => {
+        return [
+            ...collection
+                .getFilteredByGlob("./src/robot-activities/*.md")
+                .sort(sortByLevel)
+        ];
+    });
+
     config.addCollection("guides", collection => {
         return [
             ...collection.getFilteredByGlob("./src/guides/*.md")

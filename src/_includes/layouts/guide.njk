@@ -4,14 +4,20 @@
 {% set headerBg = "green-85" %}
 
 {% block pageHeader %}
+  <figure>
+    <img src="{{ metaImage }}" alt="{{ metaImageAlt }}" />
+  </figure>
+  <div class="[ flow ]">
     <h1>{{ title }}</h1>
+    {{ tags | dump | safe }}
     <p class="[ metadata ]">By <span class="[ manufacturer ]"><a href="{{ manufacturerLink }}" rel="external">{{ manufacturer }}</a></span></p>
+  </div>
 {% endblock %}
 
 {% block content %}
   <div class="[ wrapper ]">
-    <div class="[ prose ]">
-        <h2>Available Learning Resources</h2>
+    <div class="[ inner ] [ flow ]">
+        <h3 aria-level="2">Available Learning Resources</h3>
         {% if resources %}
         {% for resource in resources %}
         <p class="[ learning-resource ]">

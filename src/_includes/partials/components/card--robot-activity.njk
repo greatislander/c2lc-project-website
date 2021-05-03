@@ -1,6 +1,6 @@
         <article class=" [ card ]" data-filter-topic="{{ item.data.topic }}" data-filter-experience="{{ item.data.experience }}">
             <div class="[ card__image ]">
-                {% svgPlaceholder "570", "393" %}
+                  {% image item.data.metaImage, item.data.metaImageAlt, 570, 393 %}
             </div>
             <div class="[ card__content ] [ flow ]">
             <h3{% if bodyClass === "robot-activities" %} aria-level="2"{% endif %}><a href="{{ item.url }}">{{ item.data.title }}</a></h3>

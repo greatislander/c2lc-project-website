@@ -4,18 +4,9 @@ subtitle: Check out a great collection of activities you can do with your robots
 eleventyNavigation:
   parent: Activities with Robots
   order: 2
-permalink: "/learn/robots/{{ robot | slug }}/"
+permalink: "/learn/robots/{{ robot.data.title | slug }}/"
 pagination:
-  data: collections
+  data: collections.guides
   size: 1
   alias: robot
-  filter:
-    - resources
-    - activities
-    - unpluggedActivities
-    - onscreenActivities
-    - hybridActivities
-    - projects
-    - guides
-  addAllPagesToCollections: true
 ---

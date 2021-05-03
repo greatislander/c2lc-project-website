@@ -12,14 +12,14 @@
     padding-block-start: var(--space-lg);
 }
 
-.resource .supportive-materials a {
+.supportive-materials a {
     svg {
         margin-block-end: calc(-1 * var(--space-xs));
         margin-inline-start: var(--space-sm);
     }
 }
 
-.resource .supportive-materials p + p {
+.supportive-materials p + p {
     border-top: var(--border-hairline) solid var(--color-black-05);
     margin-block-start: var(--space-md);
     padding-block-start: var(--space-md);
