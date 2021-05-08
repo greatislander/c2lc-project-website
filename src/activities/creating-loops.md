@@ -33,19 +33,19 @@ books:
 ---
 ## Description
 
-In this activity, learners will use their knowledge of sequencing to create repeated sequences, known as loops. This is an unplugged activity that gives learners a chance to practice planning a loop without a computer and with items around them.
+In this activity, learners will use their knowledge of sequencing to create repeated sequences, known as loops. This unplugged activity gives learners a chance to practice planning a loop without a computer by using items around them.
 
 ## Steps
 
-* Pick three series of similar items, such as forks, spoons, straws, post-it notes, clothing, loose parts, etc.
-* Use these items to build a sequence with a repeated pattern to show the learner what this activity is about
-* Ask the learner to make their own sequence with a repeated pattern
-* Ask the learner to repeats this pattern 3 times in their sequence
+* Pick three series of similar items (e.g. forks, spoons, straws, post-it notes, clothing, and loose parts).
+* Use these items to build a sequence with a repeated pattern to show the learner what this activity is about.
+* Ask the learner to make their own sequence with a repeated pattern.
+* Ask the learner to repeat this pattern three times in their sequence.
 
 ## Tips
 
-* Set up a large flat surface for items
-* In situations where the learner is not able to repeat the sequence, slow the pace and build the repeated sequence step by step with them on an one-on-one basis
+* Set up a large flat surface for items.
+* In situations where the learner is not able to repeat the sequence, slow the pace and build the repeated sequence step-by-step with them on an one-on-one basis
 
 ## Skill Development
 
