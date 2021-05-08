@@ -56,17 +56,17 @@ For youth
 
 ## Steps
 
-* Select a short song or music your players like
-* Use Weavly to build a sequence of actions
-* Line up your players
-* Ask them to follow each step of the program that is announced
-* Play the music and your program at once and let the fun begin
+* Select a short song or music that learners prefer.
+* Use Weavly to build a sequence of actions.
+* Line up your players.
+* Ask them to follow each step of the program that is announced.
+* Play the music and your program at once and let the fun begin.
 
 ## Tips
 
-* Announce every step of the program as it is executed
-* For longer songs, you can replay the same program
-* Try to keep the players focused on the running program and correct their movements
+* Announce every step of the program as it is executed.
+* For longer songs, you can replay the same program.
+* Try to keep the players focused on the running program and correct their movements.
 
 ## Skill Development
 
