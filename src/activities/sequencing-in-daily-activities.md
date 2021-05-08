@@ -44,16 +44,16 @@ Sequencing is an abstract concept and takes a lot of practice to master for many
 
 ## Steps
 
-* Choose one of the above activities
+* Choose one of the above activities.
 * You can either print the cards or use these slides: \[Link]
-* Ask the learner to describe the cards for each activity
-* Use one of the activities to show the learner how to put the cards in the correct order
-* Ask the learner to put either the digital or printed cards in order
+* Ask the learner to describe the cards for each activity.
+* Use one of the activities to show the learner how to put the cards in the correct order.
+* Ask the learner to put either the digital or printed cards in order.
 
 ## Tips
 
-* Begin with simpler activities with fewer steps, such as brushing teeth or going to bed
-* When a learner puts items in an incorrect order, ask them to describe their reasoning
+* Begin with simpler activities with fewer steps, such as brushing teeth or going to bed.
+* When a learner puts items in an incorrect order, ask them to describe their reasoning.
 
 ## Skill Development
 
