@@ -33,18 +33,18 @@ books:
 ---
 ## Description
 
-In this simple and interactive game, moderators and players work together to find the correct order of events. The moderator will perform a daily routine, such as making a jelly sandwich in an incorrect order or skipping the main steps. Now, this is the learner’s turn to save the day and tell the moderator how to correct the order of the events to complete the task.
+In this simple and interactive game, moderators and players work together to find the correct order of events. The moderator will perform a daily routine, such as making a jelly sandwich in an incorrect order or skipping the main steps. Now, this time is the learner’s turn to save the day and tell the moderator how to correct the order of the events to complete the task.
 
 ## Steps
 
 * Pick a daily activity that the learner is familiar with, such as making a jelly sandwich, dressing up for outside, taking a shower, brushing your teeth, etc.
-* While you are performing that task, misplace one of the steps or skip it
-* Ask learners about what went wrong and how you can fix things together
+* While you are performing that task, misplace one of the steps or skip it.
+* Ask learners about what went wrong and how you can fix things together.
 
 ## Tips
 
-* Try to create situations that are fun and engaging for the learner
-* In situations where the learner does not recognize the missed or misplaced step, perform the activity again in the correct order slowly and explain the correct sequence of actions and events
+* Try to create situations that are fun and engaging for the learner.
+* In situations where the learner does not recognize the missed or misplaced step, perform the activity again in the correct order slowly and explain the correct sequence of actions and events.
 
 ## Skill Development
 
