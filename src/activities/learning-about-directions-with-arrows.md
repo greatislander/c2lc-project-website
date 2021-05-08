@@ -37,14 +37,14 @@ This interactive and playful activity helps learners practice their directions. 
 
 ## Steps
 
-* Draw a straight arrow, a turn right arrow, and a turn left arrow on separate pieces of paper
-* Like a police officer, hold up each piece of paper and speak the label, such as “Move Forward” and give direction to the learner, similar to a GPS, Google maps, or a police officer
+* Draw a straight arrow, a turn right arrow, and a turn left arrow on separate pieces of paper.
+* Like a police officer, hold up each piece of paper and speak the label, such as “Move Forward” and give direction to the learner, similar to a GPS, Google maps, or a police officer.
 
 ## Tips
 
-* Draw a small grid to guide movement. This support helps with the tracking movement to understand that with forward movement one leaves the current spot and lands in a different spot, whereas turning happens on the original spot
-* Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands) to provide visual cues. Associating colours can support learners to be more independent with right and left directions
-* Including a hidden goal/treat will add to the excitement and engagement of learners, and direct the players towards them
+* Draw a small grid to guide movement. This support helps with the tracking movement to understand that with forward movement one leaves the current spot and lands in a different spot, whereas turning happens on the original spot.
+* Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands) to provide visual cues. Associating colours with directions can support learners to be more independent with right and left.
+* Including a hidden goal/treat will add to the excitement and engagement of learners, and direct the players towards them.
 
 ## Skill Development
 
@@ -55,5 +55,5 @@ This interactive and playful activity helps learners practice their directions. 
 
 ## Level Up!
 
-* Switch roles and get learners to use the arrows or hand gestures to direct you in the environment
-* In the early stages, start with the partner facing the same way as the learner. Then level up to situations in which the partner is not facing in the same direction as the learner
+* Switch roles and get learners to use the arrows or hand gestures to direct you in the environment.
+* In the early stages, start with the partner facing the same way as the learner. Then level up to situations in which the partner is not facing in the same direction as the learner.
