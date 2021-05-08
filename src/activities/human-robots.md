@@ -37,18 +37,18 @@ This activity provides a combination of physical and on-screen experiences for l
 
 ## Steps
 
-* Ask player 1 to go to a specific spot in the environment, such as a far corner in the room
-* Ask player 1 to act as a robot and only follow the Weavly program as it’s being spoken
-* Select a specific destination in the same environment
-* Moderator works with player 2 to build a sequence of action blocks in the Weavly coding environment to bring player 1 to the selected destination
-* Select the “Play” button to see whether player 1 gets to the final destination or not
+* Ask player 1 to go to a specific spot in the environment, such as a far corner in the room.
+* Ask player 1 to act as a robot and only follow the Weavly program as it’s being spoken.
+* Select a specific destination in the same environment.
+* Moderator works with player 2 to build a sequence of action blocks in the Weavly coding environment to bring player 1 to the selected destination.
+* Select the “Play” button to see whether player 1 gets to the final destination or not.
 
 ## Tips
 
-* Start with straight paths before introducing turns
-* Reward both players if they successfully complete the mission
-* Moderator can pause the program and help player 2 to debug and replace action blocks that moves player 1 away from the destination
-* In addition to the audio labels spoken by the program, the moderator can speak each action block as they are executed to reinforce the learning about directions
+* Start with straight paths before introducing turns.
+* Reward both players if they successfully complete the mission.
+* Moderator can pause the program and help player 2 to debug and replace action blocks that moves player 1 away from the destination.
+* In addition to the audio labels spoken by the program, the moderator can speak each action block as they are executed to reinforce the learning about directions.
 
 ## Skill Development
 
@@ -56,10 +56,10 @@ This activity provides a combination of physical and on-screen experiences for l
 * Spatial
 * Sequencing
 * Debugging
-* Social skills/Communication (i.e. turn-taking)
+* Social skills (i.e. turn-taking)
 
 ## Level Up!
 
-* The moderator and players can switch roles. This time, players get to control the moderator and bring them back to the desired destination
-* You can use some of the available objects in the environment, such as furniture as roadblocks so your players can build more complex programs
-* If the “robot” is blindfolded, learners can notice the importance of clear and precise directions
+* The moderator and players can switch roles. This time, players get to control the moderator and bring them back to the desired destination.
+* You can use some of the available objects in the environment, such as furniture as roadblocks so your players can build more complex programs.
+* If the “robot” is blindfolded, learners can notice the importance of clear and precise directions.
