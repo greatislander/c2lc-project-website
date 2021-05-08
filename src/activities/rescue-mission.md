@@ -52,14 +52,14 @@ These links provide a series of activities that add to the complexity of buildin
 
 ## Steps
 
-* Open the missions in order and only move to the next mission when you have completed the current one
-* Depending on the mission, use different combinations of Forward and Turn blocks to build your program
-* Select the “Play” button to see how each mission is completed
+* Open the missions in order and only move to the next mission when you have completed the current one.
+* Depending on the mission, use different combinations of Forward and Turn blocks to build your program.
+* Select the “Play” button to see how each mission is completed.
 
 ## Tips
 
-* Adult moderators can show the movements to help learners understand the purpose of the activity
-* Once a goal is reached, moderators can encourage learners to think about other potential ways they could have tried to get to the same destination
+* Adult moderators can show the movements to help learners understand the purpose of the activity.
+* Once a goal is reached, moderators can encourage learners to think about other potential ways they could have tried to get to the same destination.
 
 ## Skill Development
 
