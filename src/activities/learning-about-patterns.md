@@ -34,21 +34,21 @@ books:
 ---
 ## Description
 
-This activity call learners to identify patterns that are being repeated in a sequence. Parents, educators, and moderators can use simple drawings or clipart in a sequence practice to identify repeated patterns.
+This activity requires learners to identify patterns that are being repeated in a sequence. Parents, educators, and moderators can use simple drawings or clipart in a sequence to identify repeated patterns.
 
-Parents and educators can use these sequences as a starting point to practice identifying patterns in a sequence: <https://docs.google.com/presentation/d/1U2_xaP9UcmR1Ny-uRp6-d81Zn2taHjte_zW59b5HLcw/edit#slide=id.g5b08c87124_0_13>
+Parents and educators can use these sequences as a starting point to practice identifying patterns in a sequence: [Loop Sequences](https://docs.google.com/presentation/d/1U2_xaP9UcmR1Ny-uRp6-d81Zn2taHjte_zW59b5HLcw/edit#slide=id.g562fe6ef27_0_0)
 
 ## Steps
 
-* Use the sample sequences to encourage learners to identify the distinct/different items
-* Once the items are identified, work with learners to find the repeating pattern
-* Repeat for a new sequence
+* Use the sample sequences to encourage learners to identify the distinct/different items.
+* Once the repeated patterns are identified, work with learners to create the next items to continue the repeating patterns.
+* Repeat for a new sequence.
 
 ## Tips
 
-* Ask learners to think about where they might see patterns in their everyday life
-* Read a picture book that has a clear repeating pattern to connect this concept to other areas of learning. This story gives them a chance to hear a repeating pattern - not just see it. The same could be done for a piece of music or a dance
-* Try to use symbols, pictures, or objects that learners like and prefer (e.g. food, cartoon characters, toys) to motivate players
+* Ask learners to think about where they might see patterns in their everyday life.
+* Read a picture book that has a clear repeating pattern to connect this concept to other areas of learning. This story gives them a chance to hear a repeating pattern - not just see it. The same could be done for a piece of music or a dance.
+* Try to use symbols, pictures, or objects that learners like and prefer (e.g. food, cartoon characters, toys) to motivate players.
 
 ## Skill Development
 
