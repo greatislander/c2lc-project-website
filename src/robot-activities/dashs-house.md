@@ -45,17 +45,17 @@ In this activity, learners try building very simple programs to move Dash in and
 
 ## Steps
 
-* Find two dollhouses, or build them with Lego or cardboard, or just draw two pictures of different houses, one for Dash and one for its neighbor
-* Place the two houses three feet apart. And place Dash in front of its house
-* Open Weavly or Block.ly. and connect with Dash robot
-* Use the coding environment to make Dash move outside of its house (possibly two Forwards)
-* Use the coding environment to take Dash back inside its house (possibly two 90 degree turns and two forwards)
+* Find two dollhouses, or build them with Lego or cardboard, or just draw two pictures of different houses, one for Dash and one for its neighbor.
+* Place the two houses three feet apart and place Dash in front of its house.
+* Open Weavly or Block.ly. and connect with Dash robot.
+* Use the coding environment to make Dash move outside of its house (possibly two Forwards).
+* Use the coding environment to take Dash back inside its house (possibly two 90 degree turns and two forwards).
 * Next, try taking Dash out of its house and move it to the neighbor’s house for tea!
 
 ## Tips
 
-* Ensure batteries are charged and Dash is operational prior to the activity
-* Once Dash is taking an incorrect step, moderators can pause and work with players about how to fix (debug) the program and take Dash back to the right path
+* Ensure batteries are charged and Dash is operational prior to the activity.
+* Once Dash is taking an incorrect step, moderators can pause and work with players about how to fix (debug) the program and take Dash back to the right path.
 
 ## Skill Development
 
