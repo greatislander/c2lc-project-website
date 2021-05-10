@@ -47,19 +47,19 @@ Activity: \[link]
 
 ## Steps
 
-* Open the activity link
-* Add \[n] forward blocks to the program
-* Select play to see how the spacecraft will move from earth to the moon
-* Select the “Refresh” button to take the spacecraft back to its original spot
-* Now you need to add a few more steps to the program to bring the spacecraft back to earth
-* This time you will need to use a turn block to go back to earth
-* Once your spacecraft is pointing towards earth, add forward blocks to take it back to earth
-* Select the “Play” button and watch how the spacecraft travels between the earth and the moon
+* Open the activity link.
+* Add \[n] forward blocks to the program.
+* Select play to see how the spacecraft will move from earth to the moon.
+* Select the “Refresh” button to take the spacecraft back to its original spot.
+* Now you need to add a few more steps to the program to bring the spacecraft back to earth.
+* This time you will need to use a turn block to go back to earth.
+* Once your spacecraft is pointing towards earth, add forward blocks to take it back to earth.
+* Select the “Play” button and watch how the spacecraft travels between the earth and the moon.
 
 ## Tips
 
-* Adult moderators can show the movements to help learners understand the purpose of the activity
-* When the built sequence is incorrect, moderators can pause the program and encourage learners to find a way to fix (debug) their program
+* Adult moderators can show the movements to help learners understand the purpose of the activity.
+* When the built sequence is incorrect, moderators can pause the program and encourage learners to find a way to fix (debug) their program.
 
 ## Skill Development
 
