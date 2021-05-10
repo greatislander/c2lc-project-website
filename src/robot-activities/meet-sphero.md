@@ -43,17 +43,17 @@ In this activity, learners can explore different movements and visual and audio 
 
 ## Steps
 
-* Open SpheroEdu
-* Connect with Sphero robot
-* Open the movement settings
-* Try different distances and speed options
-* Open the light color settings
-* Try different light colors
-* Try different types of lines (e.g. straight vs curved)
+* Open SpheroEdu.
+* Connect with Sphero robot.
+* Open the movement settings.
+* Try different distances and speed options.
+* Open the light color settings.
+* Try different light colors.
+* Try different types of lines (e.g. straight vs curved).
 
 ## Tips
 
-* Ensure batteries are charged and Sphero is operational prior to the activity
+* Ensure operational batteries are available and Sphero is operational prior to the activity
 * Set up a space with dim light and a relatively quiet environment to detect visual changes
 
 ## Skill Development
