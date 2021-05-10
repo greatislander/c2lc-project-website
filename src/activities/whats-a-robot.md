@@ -40,17 +40,17 @@ This multi-level activity introduces the concept of robots. Learners can engage 
 
 ## Steps
 
-* Show the introductory video
-* Talk with learners about the main characteristic of robots
-* Use this [card deck](https://drive.google.com/file/d/1VcOVXDzhnh6ybTqe7nRcTpBR5nf_g5mD/view?usp=sharing) to provide each learner with two options to choose the one that is a robot
-* Talk to them about their choices
-* Ask each learner to look around in their immediate environment and try to find anything that could be a robot and describe their reasons
-* If there is a robot available, demonstrate building a simple program and making the robot move based on your program
+* Show the introductory video.
+* Talk with learners about the main characteristic of robots.
+* Use this [card deck](https://drive.google.com/file/d/1VcOVXDzhnh6ybTqe7nRcTpBR5nf_g5mD/view?usp=sharing) to provide each learner with two options to choose the one that is a robot.
+* Talk to them about their choices.
+* Ask each learner to look around in their immediate environment and try to find anything that could be a robot and describe their reasons.
+* If there is a robot available, demonstrate building a simple program and making the robot move based on your program.
 
 ## Tips
 
-* Make sure any video played for this activity has captions and is played at the proper speed
-* Reflecting on learners’ choices is core to this activity. Even when they choose the wrong options make sure to discuss why their choice is not a robot
+* Make sure any video played for this activity has captions and is played at the proper speed.
+* Reflecting on learners’ choices is core to this activity. Even when they choose the wrong options make sure to discuss why their choice is not a robot.
 
 ## Skill Development
 
