@@ -45,18 +45,18 @@ In this activity, learners plan and build a path to direct Dash to move to a spe
 
 ## Steps
 
-* Use a taping mask or chalk to build a grid map on the floor
-* Once your grid is ready, place a few items such as toys on different grid cells
-* Select a starting point for Dash and place it on the map
-* Use Weavly to build a sequence to make Dash move to a selected destination on the grid map
-* Play your sequence program
-* Pause your program and debug once Dash starts to move away from the desired destination
+* Use a taping mask or chalk to build a grid map on the floor.
+* Once your grid is ready, place a few items such as toys on different grid cells.
+* Select a starting point for Dash and place it on the map.
+* Use Weavly to build a sequence to make Dash move to a selected destination on the grid map.
+* Play your sequence program.
+* Pause your program and debug once Dash starts to move away from the desired destination.
 
 ## Tips
 
-* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling
-* You can use any object, draw or write something on the map
-* To make this fun, build a story around the objects on your map and give Dash a specific mission to accomplish
+* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling.
+* You can use any object, draw or write something on the map.
+* To make this fun, build a story around the objects on your map and give Dash a specific mission to accomplish.
 
 ## Skill Development
 
@@ -67,5 +67,5 @@ In this activity, learners plan and build a path to direct Dash to move to a spe
 
 ## Level Up 
 
-* Complete this activity again with a planned shape or pattern in mind
-* Restrict the number of cells the robot can move
+* Complete this activity again with a planned shape or pattern in mind.
+* Restrict the number of cells the robot can move.
