@@ -42,32 +42,32 @@ Conditions can affect what the robot does, such as pause programming until that 
 
 **Introduce conditions**
 
-1. Place vocabulary cards in front: 'conditionals', 'event' and 'wait for', and review their definitions (what each word means)
-2. Review Event A and Event B where a wait for is part of the sequence. Describe what happens before, the wait time and what can happen after for each event
+1. Place vocabulary cards in front: 'conditionals', 'event' and 'wait for', and review their definitions (what each word means).
+2. Review Event A and Event B where a wait for is part of the sequence. Describe what happens before, the wait time and what can happen after for each event.
 
    Event A: 
 
-   * What happens before: We get upset
+   * What happens before: We get upset.
    * Wait time: 'x' time for cool down
-   * What happens after: Talk about it 
+   * What happens after: Talk about it .
 
    Event B: 
 
-   * What happens before: We put food in the microwave
+   * What happens before: We put food in the microwave.
    * Wait time: 'x' time to reheat food
-   * What happens after: Take food out of the microwave
+   * What happens after: Take food out of the microwave.
 3. Provide pictures of events where wait time takes place or ask learners to think of events where wait time is part of the event. For each event, ask learners to identify:
 
-   * What was happening before (actions leading up to the wait for)
+   * What was happening before (actions leading up to the wait for)?
    * Wait time (the pause before continuing the task)
-   * What happens after that event occurs (actions taking place after wait for time)
+   * What happens after that event occurs (actions taking place after wait for time)?
 
 **Model: Dash and Dot play catch** 
 
-1. Open Block.ly app 
-2. Introduce the conditionals block as the setting used to help robots, such as Dash and Dot, to stop and check for certain conditions or events before they perform the next task
-3. Introduce the 'Wait for' block as the setting to help robots, such as Dash and Dot, to wait for a specific event (toss a ball) to happen before the program (playing catch) can be finished
-4. Ask learners to imagine the list of events in a game of catch between Dash and Dot using the "wait for" block
+1. Open Block.ly app.
+2. Introduce the conditionals block as the setting used to help robots, such as Dash and Dot, to stop and check for certain conditions or events before they perform the next task.
+3. Introduce the 'Wait for' block as the setting to help robots, such as Dash and Dot, to wait for a specific event (toss a ball) to happen before the program (playing catch) can be finished.
+4. Ask learners to imagine the list of events in a game of catch between Dash and Dot using the "wait for" block.
 5. Think aloud what steps (such as catch, toss, wait, say wee!) that Dot will do to play catch. 
 6. Drag blocks to create the listed events into a sequence and use the 'Wait for' block on the canvas.
 
@@ -76,13 +76,13 @@ Conditions can affect what the robot does, such as pause programming until that 
      1. Play | Dot | Catch
      2. Wait for | Dot | Toss
      3. Say | Dot | Wee
-7. Attach this sequence to the When Start block
-8. Run program
-9. Discuss whether prediction(s) were correct or not
+7. Attach this sequence to the When Start block.
+8. Run program.
+9. Discuss whether prediction(s) were correct or not.
 
 ## Tips
 
-* Test program and count the seconds for the "Wait for" out loud
+* Test program and count the seconds for the "Wait for" out loud.
 
 ## Skill Development
 
@@ -94,4 +94,4 @@ Conditions can affect what the robot does, such as pause programming until that 
 
 ## Level Up
 
-Add additional 'Wait for' conditional blocks for a more complex sequence
+Add additional 'Wait for' conditional blocks for a more complex sequence.
