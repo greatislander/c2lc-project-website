@@ -34,7 +34,7 @@ books:
 ---
 ## Description
 
-In this activity, learners use Weavly’s background editor to set the stage for their story. Learners can explore different features to create scenes and change the background. Items can be added to the scene, changed in color, and resized to the learner's liking. The background editor gives options for sounds effects and animation for customization as well.
+In this activity, learners use Weavly’s background editor to set the stage for their story. Learners can explore different features to create scenes and change the background. Items can be added to the scene, changed in color, and resized to the learner's liking. The background editor gives options for sound effects and animation for customization as well.
 
 Here are a few stories that you can use as a starter: <https://www.education.com/game/the-missing-dragon-level-i/>\
 You can find more books for this activity here: <https://www.education.com/stories/>
