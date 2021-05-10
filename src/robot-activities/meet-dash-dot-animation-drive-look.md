@@ -46,17 +46,18 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 ## Steps
 
-* Open Block.ly or Weavly and connect with Dash or Dot robot
-* Find the setting panel for animation
-* Select three different animation options to see on Dash or Dot
-* Find the setting panel for drive
-* Select three different drive options to see on Dash or Dot
+* Open Block.ly or Weavly and connect with Dash or Dot robot.
+* Find the setting panel for animation.
+* Select three different animation options to see on Dash or Dot.
+* Find the setting panel for drive.
+* Select three different drive options to see on Dash or Dot.
 * Find the setting panel for look
-* Select three different look options to see on Dash or Dot
+* Select three different look options to see on Dash or Dot.
 
 ## Tips
 
-* Ensure batteries are charged and Dash and Dot is operational prior to the activity
+* Ensure operational batteries are available 
+* Ensure Dash and Dot is operational prior to the activity
 * Set up a large flat surface for Dash and Dot to detect visual and/or kinesthetic changes 
 
 ## Change it up 
@@ -72,5 +73,5 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 ## Level Up
 
-* Increase the length/distance of drive option in control settings for Dash and Dot to play
-* Complete this activity again with different setting options for animation, drive and look options that were not chosen before, if any remain
+* Increase the length/distance of drive option in control settings for Dash and Dot to play.
+* Complete this activity again with different setting options for animation, drive and look options that were not chosen before, if any remain.
