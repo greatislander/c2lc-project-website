@@ -47,16 +47,16 @@ Activity: \[link]
 
 ## Steps
 
-* Open the activity link
-* Use a combination of action blocks to program a sequence to take your submarine to the sunken ship while moving around the sharks
-* Select play to see how the submarine will move from the sea surface to the sunken ship
-* Select the “Refresh” button to take the submarine back to its original spot
-* Select the “Play” button and watch how the submarine moves from the surface to the sunken ship and returns to the surface while avoiding sharks on its path
+* Open the activity link.
+* Use a combination of action blocks to program a sequence to take your submarine to the sunken ship while moving around the sharks.
+* Select play to see how the submarine will move from the sea surface to the sunken ship.
+* Select the “Refresh” button to take the submarine back to its original spot.
+* Select the “Play” button and watch how the submarine moves from the surface to the sunken ship and returns to the surface while avoiding sharks on its path.
 
 ## Tips
 
-* Adult moderators can show the movements to help learners understand the purpose of the activity
-* When the built sequence is incorrect, moderators can pause the program and encourage learners to find a way to fix (debug) their program
+* Adult moderators can show the movements to help learners understand the purpose of the activity.
+* When the built sequence is incorrect, moderators can pause the program and encourage learners to find a way to fix (debug) their program.
 
 ## Skill Development
 
@@ -68,4 +68,4 @@ Activity: \[link]
 
 ## Level Up!
 
-Moderators or learners can adjust the placement of the submarine, sunken ship, and the sharks to encourage building different program combinations
+Moderators or learners can adjust the placement of the submarine, sunken ship, and the sharks to encourage building different program combinations.
