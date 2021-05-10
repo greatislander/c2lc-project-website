@@ -41,19 +41,19 @@ You can find more books for this activity here: <https://www.education.com/stori
 
 ## Steps
 
-* Work with the learner to pick a story
-* Read the story together
-* Engage learner in a conversation about how they want to plan a stage for that story
-* Open the background editor
-* Find items that represent the story’s context in the editor
-* Make the required modifications to those items
-* Position the items on the scene
-* Add behavior and sound to each item and indicate which of them are dynamic and which are static
+* Work with the learner to pick a story.
+* Read the story together.
+* Engage learner in a conversation about how they want to plan a stage for that story.
+* Open the background editor.
+* Find items that represent the story’s context in the editor.
+* Make the required modifications to those items.
+* Position the items on the scene.
+* Add behavior and sound to each item and indicate which of them are dynamic and which are static.
 
 ## Tips
 
-* Start with a very simple story that has a clear beginning, middle, and end with the least number of characters and gradually build complexity
-* You can divide the story into multiple phases. As the story progresses, learners can reopen the editor and add, remove, or modify the items on their scene
+* Start with a very simple story that has a clear beginning, middle, and end with the least number of characters and gradually build complexity.
+* You can divide the story into multiple phases. As the story progresses, learners can reopen the editor and add, remove, or modify the items on their scene.
 
 ## Skill Development
 
