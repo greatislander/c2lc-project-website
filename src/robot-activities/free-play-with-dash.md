@@ -49,16 +49,16 @@ Watch the activity video: [Video Link](https://www.youtube.com/watch?v=PfgcanzYu
 ## Steps
 
 * Place a large sheet of paper on a hard and flat surface and tape its edges.
-* Tape a marker on each side of Dash. Make sure the marker tips can touch the paper
-* Turn on Dash
-* Connect Weavly to Dash
-* Use different action blocks in Weavly to build a program sequence
-* Select the Play button to make Dash move on the paper and draw different shapes
+* Tape a marker on each side of Dash. Make sure the marker tips can touch the paper.
+* Turn on Dash.
+* Connect Weavly to Dash.
+* Use different action blocks in Weavly to build a program sequence.
+* Select the Play button to make Dash move on the paper and draw different shapes.
 
 ## Tips
 
-* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling
-* Try different colors and marker tips to get different effects
+* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling.
+* Try different colors and marker tips to get different effects.
 
 ## Skill Development
 
