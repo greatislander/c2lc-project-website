@@ -60,7 +60,7 @@ This is a multi-level activity that starts simple and builds in complexity. The 
 * Adult moderators can show the movements to help learners understand the purpose of the activity.
 * Learners can leave the pen down feature enabled to draw a line as they move between the steps.
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal.
-* Animals sounds can be played once the learners complete the activity to celebrate and add excitement.
+* Animal sounds can be played once the learners complete the activity to celebrate and add excitement.
 
 ## Skill Development
 
