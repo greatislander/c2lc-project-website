@@ -44,17 +44,17 @@ In this activity, learners plan and build a sequence of movements to trace simpl
 
 ## Steps
 
-* Place a large sheet of paper on a hard and flat surface and tape its edges to the floor
-* Tape a marker on each side of Dash
-* Place one of the printed shapes on the large sheet and tape it to secure it in place
-* Turn on Dash and start using the coding environment to make Dash trace the shape on the paper
+* Place a large sheet of paper on a hard and flat surface and tape its edges to the floor.
+* Tape a marker on each side of Dash.
+* Place one of the printed shapes on the large sheet and tape it to secure it in place.
+* Turn on Dash and start using the coding environment to make Dash trace the shape on the paper.
 
 ## **Tips**
 
-* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling
-* If you don’t have access to a printer, you can draw or use masking tape to build a shape on the large sheet of paper
-* Make sure the marker tips can touch the paper
-* Traced lines may not be straight and accurate as markers may move in different directions
+* If you are doing this activity on a tabletop or an elevated surface, block the edges to prevent robots from falling.
+* If you don’t have access to a printer, you can draw or use masking tape to build a shape on the large sheet of paper.
+* Make sure the marker tips can touch the paper.
+* Traced lines may not be straight and accurate as markers may move in different directions.
 
 ## Skill Development
 
