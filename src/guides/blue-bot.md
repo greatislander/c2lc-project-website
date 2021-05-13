@@ -5,7 +5,7 @@ manufacturerLink: https://www.tts-international.com/blue-bot-bluetooth-programma
 metaImage: /assets/media/blu-bot.png
 metaImageAlt: Blue-Bot Robot
 resources:
-  - description: "Bluebot Teacher Guide"
+  - description: Bluebot Teacher Guide
     link: "https://www.generationrobots.com/media/tts/Blue-Bot-Teacher-Guide.pdf "
   - description: "Bluebot in the Classroom "
     link: https://www.primaryict.co.uk/res/tts/bluebot/3300-blue-bot%20computer%20guide_b.pdf
