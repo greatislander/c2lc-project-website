@@ -21,7 +21,7 @@ robotActivitiesSection:
     Check out a great collection of activities you can do with your robots to
     develop your computational thinking and programming skills.
 
-  image: /assets/media/dashdot.png
+  image: /assets/media/20190726_095446_hu0254f67d82f35e43a998c478f1615761_1190091_1000x0_resize_q75_box.jpg
   imageAlt: Image of Dash and Dot robots
   callToActionText: Robot Activities
   callToActionLink: /learn/robots/
