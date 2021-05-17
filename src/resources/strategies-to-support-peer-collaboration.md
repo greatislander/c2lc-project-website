@@ -5,10 +5,10 @@ author: Weavly Team
 description: Activities that involve learning to code and coding to learn and
   create offers opportunities to develop important teamwork skills that prepare
   students for further learning, work, and life.
-metaImage: /assets/media/img_1166-1.jpg
-metaImageAlt: Two kids working together to build and analog program
+metaImage: /assets/media/20200304_141322-edit.jpg
+metaImageAlt: Two kids working together to build and analog program for Dot Robot
 ---
-![Two educators are working with a young kid to show him how to use a coding environment to control a robot.](/assets/media/20190726_095446_hu0254f67d82f35e43a998c478f1615761_1190091_1000x0_resize_q75_box.jpg "Modelling an activity")
+![]()
 
 Research has shown that collaborative learning can promote cooperation and improve academic achievement for a broad range of learners in K-12 classrooms (Barkley, Cross, & Major 2014, cited by Lash, T., Jeong, G., Wherfel, Q., & Israel, M. (2017). Activities that involve learning to code and coding to learn and create, offer opportunities to develop important teamwork skills that prepare students for further learning, work, and life.
 
