@@ -5,6 +5,9 @@ author: Weavly Team
 description: A collection of picture books that either include coding vocabulary
   and concepts or depict experiences, activities, and adventures to which coding
   concepts could be applied.
+metaImage: /assets/media/susie-reading.png
+metaImageAlt: "An instructor is reading from a picture book that is also
+  projected on the screen for a group of students sitting on wheelchairs. "
 ---
 Here is a list of picture books that educators may wish to include in their coding lessons. Beginning a lesson with a picture book is a fun and engaging way to build excitement and curiosity, develop and activate background knowledge, and create a sense of community. Wrapping up a lesson with a picture book is also an effective way to come together, as a group, to consolidate and review some of the concepts that students learned during the lesson and connect to other areas of life.
 
