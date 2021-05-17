@@ -20,14 +20,17 @@ The list has been organized based on the scope and sequence followed in the Weav
 {% gridImage "/assets/media/robots-robots-everywhere-by-sue-fliess.jpg", "Book cover", "https://www.worldcat.org/title/robots-robots-everywhere/oclc/861774230" %}
 
 
+
 **Robots, Robots Everywhere**
 
 By Sue Fliess
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/have-you-seen-my-monster-by-steve-light.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/have-you-seen-my-monster-by-steve-light.jpg", "Book cover", "https://www.worldcat.org/title/have-you-seen-my-monster/oclc/959268622&referer=brief_results" %}
+
 
 
 **Have You Seen My Monster**
@@ -35,9 +38,11 @@ By Sue Fliess
 By Steve Light
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/have-you-seen-my-dragon-by-steve-light.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/have-you-seen-my-dragon-by-steve-light.jpg", "Book cover", "https://www.worldcat.org/title/have-you-seen-my-dragon/oclc/960221325&referer=brief_results" %}
+
 
 
 **Have you Seen My Dragon**
@@ -45,9 +50,11 @@ By Steve Light
 By Steve Light
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-code-a-sandcastle-by-josh-funk.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/how-to-code-a-sandcastle-by-josh-funk.jpg", "Book cover", "https://www.worldcat.org/title/how-to-code-a-sandcastle/oclc/1110627645&referer=brief_results" %}
+
 
 
 **How To Code a Sandcastle**
@@ -55,9 +62,11 @@ By Steve Light
 By Josh Funk
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-code-a-roller-coaster-by-josh-funk.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/how-to-code-a-roller-coaster-by-josh-funk.jpg", "Book cover", "https://www.worldcat.org/title/how-to-code-a-rollercoaster/oclc/1242283358&referer=brief_results" %}
+
 
 
 **How to Code a Roller Coaster**
@@ -65,9 +74,11 @@ By Josh Funk
 By Josh Funk
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/peg-cat-the-penguin-problem-by-jennifer-oxley-billy-aronson.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/peg-cat-the-penguin-problem-by-jennifer-oxley-billy-aronson.jpg", "Book cover", "https://www.worldcat.org/title/peg-cat-the-penguin-problem/oclc/1022208772&referer=brief_results" %}
+
 
 
 **Peg + Cat: The Penguin Problem**
@@ -75,9 +86,11 @@ By Josh Funk
 By Jennifer Oxley, Billy Aronson
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/inside-outside-by-lizi-boyd.gif", "Book cover", "" %}
+{% gridImage "/assets/media/inside-outside-by-lizi-boyd.gif", "Book cover", "https://www.worldcat.org/title/inside-outside/oclc/1193943842&referer=brief_results" %}
+
 
 
 **Inside Outside**
@@ -85,9 +98,11 @@ By Jennifer Oxley, Billy Aronson
 By Lizi Boyd
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/doll-e-1.0-by-shanda-mccloskey.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/doll-e-1.0-by-shanda-mccloskey.jpg", "Book cover", "https://www.worldcat.org/title/doll-e-10/oclc/1048586175&referer=brief_results" %}
+
 
 
 **Doll-E 1.0**
@@ -95,9 +110,11 @@ By Lizi Boyd
 By Shanda McCloskey
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/help-find-frank by-anne-bollman.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/help-find-frank by-anne-bollman.jpg", "Book cover", "https://www.worldcat.org/title/help-find-frank/oclc/1007068093&referer=brief_results" %}
+
 
 
 **Help Find Frank**
@@ -105,9 +122,11 @@ By Shanda McCloskey
 By Anne Bollman
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/algorithms-solve-a-problem-by-blake-hoena.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/algorithms-solve-a-problem-by-blake-hoena.jpg", "Book cover", "https://www.worldcat.org/title/algorithms-solve-a-problem-includes-music-download/oclc/1130081343&referer=brief_results" %}
+
 
 
 **Algorithms: Solve a Problem**
@@ -115,14 +134,17 @@ By Anne Bollman
 By Blake Hoena
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/robot-rumpus-by-sean-taylor.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/robot-rumpus-by-sean-taylor.jpg", "Book cover", "https://www.worldcat.org/title/robot-rumpus/oclc/881024756&referer=brief_results" %}
+
 
 
 **Robot Rumpus**
 
 By Sean Taylor
+
 
 
 {% endgridImage %}
@@ -131,132 +153,163 @@ By Sean Taylor
 ## Sequencing
 
 {% grid "3" %}
+{% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "https://www.worldcat.org/title/very-hungry-caterpillar-la-oruga-muy-hambrienta/oclc/1196094219&referer=brief_results" %}
 
-{% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "" %}
 
 **The Very Hungry Caterpillar**
 
 By Eric Carle
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/rosie’s-walk-by-pat-hutchins.jpg", "Book cover", "" %}
+
+
+{% gridImage "/assets/media/rosie’s-walk-by-pat-hutchins.jpg", "Book cover", "https://www.worldcat.org/title/rosies-walk/oclc/1028780409&referer=brief_results" %}
+
 
 **Rosie’s Walk**
 
 By Pat Hutchins
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/sequences-order-matters-by-nadia-higgins.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/sequences-order-matters-by-nadia-higgins.jpg", "Book cover", "https://www.worldcat.org/title/sequences-order-matters/oclc/1005202403&referer=brief_results" %}
+
 
 **Sequences: Order Matters**
 
 By Nadia Higgins
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/we-re-going-on-a-bear-hunt.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/we-re-going-on-a-bear-hunt.jpg", "Book cover", "https://www.worldcat.org/title/were-going-on-a-bear-hunt/oclc/858015864&referer=brief_results" %}
+
 
 **We’re Going on a Bear Hunt**
 
 By Michael Rosen, Helen Oxenbury
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "" %}
+{% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "https://www.worldcat.org/title/boxitects/oclc/1073936413&referer=brief_results" %}
+
 
 **Boxitects**
 
 By Kim Smith
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/little-red-riding-hood.jpg", "Book cover", "" %}
+
 
 **Little Red Riding Hood**
 
 By Mary Alperin
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "https://www.worldcat.org/title/how-to-catch-a-unicorn/oclc/1141210683&referer=brief_results" %}
+
 
 **How to Catch a Unicorn**
 
 By Adam Wallace
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "https://www.worldcat.org/title/knuffle-bunny-a-cautionary-tale/oclc/1030742103&referer=brief_results" %}
+
 
 **Knuffle Bunny: A Cautionary Tale**
 
 By Mo Williams
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "https://www.worldcat.org/title/love-z/oclc/1112673306&referer=brief_results" %}
+
 
 **Love, Z**
 
 By Jessie Sima
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "https://www.worldcat.org/title/say-something/oclc/1237714415&referer=brief_results" %}
+
 
 **Say Something**
 
 By Peter H. Reynolds
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "https://www.worldcat.org/title/all-are-welcome/oclc/1198396923&referer=brief_results" %}
+
 
 **All Are Welcome**
 
 By Alexandra Penfold, Suzanne Kaufman
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "https://www.worldcat.org/title/claymates/oclc/1023632872&referer=brief_results" %}
+
 
 **Claymates**
 
 By Devorah Petty, Lauren Eldridge
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "https://www.worldcat.org/title/can-you-find-my-robots-arm/oclc/1035220309&referer=brief_results" %}
+
 
 **Can You Find My Robot’s Arm?**
 
 By Chihiro Takeuchi
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "" %}
+{% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "https://www.worldcat.org/title/mix-it-up/oclc/1237757174&referer=brief_results" %}
+
 
 **Mix it Up**
 
 By Herve Tullet
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "" %}
+
 
 **I Ain’t Gonna Pain No More**
 
 By Karen Beaumont
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
 
 ## Debugging
 
 {% grid "3" %}
+
 
 {% gridImage "/assets/media/ihavealittleproblem-saidthebear.jpg", "Book cover", "" %}
 
@@ -283,11 +336,13 @@ By Patricia M. Stockland
 {% endgridImage %}
 
 
+
 {% endgrid %}
 
 ## Loops
 
 {% grid "3" %}
+
 
 
 {% gridImage "/assets/media/adi-s-perfect-patterns-and-loops.jpg", "Book cover", "" %}
@@ -346,11 +401,13 @@ By Patricia M. Stockland
 
 {% endgridImage %}
 
+
 {% endgrid %}
 
 ## Events
 
 {% grid "3" %}
+
 
 {% gridImage "/assets/media/please-mr.-panda-by-steve-antony.jpg", "Book cover", "" %}
 
@@ -384,11 +441,13 @@ by Mairi Mackinnon
 
 {% endgridImage %}
 
+
 {% endgrid %}
 
 ## Conditionals
 
 {% grid "3" %}
+
 
 {% gridImage "/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg", "Book cover", "" %}
 
@@ -414,11 +473,13 @@ By Judith Viorst, Ray Cruz
 
 {% endgridImage %}
 
+
 {% endgrid %}
 
 ## Functions
 
 {% grid "3" %}
+
 
 {% gridImage "/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg", "Book cover", "" %}
 
@@ -427,5 +488,6 @@ By Judith Viorst, Ray Cruz
 By Caroline Karnaja
 
 {% endgridImage %}
+
 
 {% endgrid %}
