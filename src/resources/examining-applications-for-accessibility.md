@@ -5,6 +5,8 @@ author: Weavly Team
 description: "This framework is intended to support educators as they explore
   and consider appropriate activities for coding instruction with their students
   who experience learning challenges. "
+metaImage: /assets/media/img_0366.jpg
+metaImageAlt: Two hands holding pieces of debugg'd coding kit
 supportiveMaterial:
   - label: Examining Applications for Accessibility - A Guide of Considerations for
       Educators
