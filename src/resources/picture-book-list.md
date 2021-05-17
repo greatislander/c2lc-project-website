@@ -155,8 +155,8 @@ By Sean Taylor
 ## Sequencing
 
 {% grid "3" %}
-
 {% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "https://www.worldcat.org/title/very-hungry-caterpillar-la-oruga-muy-hambrienta/oclc/1196094219&referer=brief_results" %}
+
 
 
 **The Very Hungry Caterpillar**
@@ -164,11 +164,11 @@ By Sean Taylor
 By Eric Carle
 
 
+
 {% endgridImage %}
 
-
-
 {% gridImage "/assets/media/rosie’s-walk-by-pat-hutchins.jpg", "Book cover", "https://www.worldcat.org/title/rosies-walk/oclc/1028780409&referer=brief_results" %}
+
 
 
 **Rosie’s Walk**
@@ -176,9 +176,11 @@ By Eric Carle
 By Pat Hutchins
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/sequences-order-matters-by-nadia-higgins.jpg", "Book cover", "https://www.worldcat.org/title/sequences-order-matters/oclc/1005202403&referer=brief_results" %}
+
 
 
 **Sequences: Order Matters**
@@ -186,9 +188,11 @@ By Pat Hutchins
 By Nadia Higgins
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/we-re-going-on-a-bear-hunt.jpg", "Book cover", "https://www.worldcat.org/title/were-going-on-a-bear-hunt/oclc/858015864&referer=brief_results" %}
+
 
 
 **We’re Going on a Bear Hunt**
@@ -196,9 +200,11 @@ By Nadia Higgins
 By Michael Rosen, Helen Oxenbury
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "https://www.worldcat.org/title/boxitects/oclc/1073936413&referer=brief_results" %}
+
 
 
 **Boxitects**
@@ -206,9 +212,11 @@ By Michael Rosen, Helen Oxenbury
 By Kim Smith
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/little-red-riding-hood.jpg", "Book cover", "" %}
+
 
 
 **Little Red Riding Hood**
@@ -216,9 +224,11 @@ By Kim Smith
 By Mary Alperin
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "https://www.worldcat.org/title/how-to-catch-a-unicorn/oclc/1141210683&referer=brief_results" %}
+
 
 
 **How to Catch a Unicorn**
@@ -226,9 +236,11 @@ By Mary Alperin
 By Adam Wallace
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "https://www.worldcat.org/title/knuffle-bunny-a-cautionary-tale/oclc/1030742103&referer=brief_results" %}
+
 
 
 **Knuffle Bunny: A Cautionary Tale**
@@ -236,9 +248,11 @@ By Adam Wallace
 By Mo Williams
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "https://www.worldcat.org/title/love-z/oclc/1112673306&referer=brief_results" %}
+
 
 
 **Love, Z**
@@ -246,9 +260,11 @@ By Mo Williams
 By Jessie Sima
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "https://www.worldcat.org/title/say-something/oclc/1237714415&referer=brief_results" %}
+
 
 
 **Say Something**
@@ -256,9 +272,11 @@ By Jessie Sima
 By Peter H. Reynolds
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "https://www.worldcat.org/title/all-are-welcome/oclc/1198396923&referer=brief_results" %}
+
 
 
 **All Are Welcome**
@@ -266,9 +284,11 @@ By Peter H. Reynolds
 By Alexandra Penfold, Suzanne Kaufman
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "https://www.worldcat.org/title/claymates/oclc/1023632872&referer=brief_results" %}
+
 
 
 **Claymates**
@@ -276,9 +296,11 @@ By Alexandra Penfold, Suzanne Kaufman
 By Devorah Petty, Lauren Eldridge
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "https://www.worldcat.org/title/can-you-find-my-robots-arm/oclc/1035220309&referer=brief_results" %}
+
 
 
 **Can You Find My Robot’s Arm?**
@@ -286,9 +308,11 @@ By Devorah Petty, Lauren Eldridge
 By Chihiro Takeuchi
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "https://www.worldcat.org/title/mix-it-up/oclc/1237757174&referer=brief_results" %}
+
 
 
 **Mix it Up**
@@ -296,9 +320,11 @@ By Chihiro Takeuchi
 By Herve Tullet
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "" %}
+{% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "https://www.worldcat.org/title/i-aint-gonna-paint-no-more/oclc/1102272006&referer=brief_results" %}
+
 
 
 **I Ain’t Gonna Pain No More**
@@ -306,8 +332,8 @@ By Herve Tullet
 By Karen Beaumont
 
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
 
 ## Debugging
@@ -431,7 +457,7 @@ By Steve Antony
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/rufus-goes-to-sea-by-tim-griswell.jpg", "Book cover", "https://www.worldcat.org/title/rufus-goes-to-sea/oclc/958625268&referer=brief_results" %}
+{% gridImage "/assets/media/rufus-goes-to-sea.jpg", "Book cover", "https://www.worldcat.org/title/rufus-goes-to-sea/oclc/958625268&referer=brief_results" %}
 
 
 **Rufus Goes to Sea**
