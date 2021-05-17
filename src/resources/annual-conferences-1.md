@@ -4,6 +4,9 @@ date: 2021-02-23T15:55:34.708Z
 author: Weavly Team
 description: "A list of annual conferences focused on education and technology
   for all learners "
+metaImage: /assets/media/img_0342.jpg
+metaImageAlt: "Several groups of people cahtting at different exhibit stations
+  in a large room. "
 ---
 Here is a list of conferences that bring together an international community of educators and technologists every year. These events provide an opportunity to learn about new educational practices, technologies, and assistive devices to include all learners with diverse needs.
 
