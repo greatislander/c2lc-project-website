@@ -5,9 +5,9 @@ author: Weavly Team
 description: Coding education is becoming an increasingly common and important
   part of the curriculum in elementary schools around the world. However, coding
   education is not accessible to many kids.
-metaImage: /assets/media/design-activity_hua7f35ba46080e3314a834735ed95f389_2828843_1000x0_resize_q75_box.jpg
-metaImageAlt: "Young boy sitting on the floor and using a coding environment on
-  his laptop to control a robot on the floor. "
+metaImage: /assets/media/coding-for-all-11-x-8.5-.jpg
+metaImageAlt: word cloud about coding for all with an illustration of several
+  kids with diverse needs in the middle
 ---
 ![Young student holding a book and working with a coding environment on their laptop](/assets/media/img_3363_hu08d39e2cd04d2a7406d9c40fb3a8412c_2650194_1000x0_resize_q75_box.jpg "Accessible coding ")
 
