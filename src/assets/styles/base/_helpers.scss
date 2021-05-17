@@ -89,6 +89,11 @@
             top: calc(50% - 62px);
         }
     }
+
+    .resource & {
+        border-radius: var(--radius-md);
+        max-width: calc(320 / 16 * 1rem);
+    }
 }
 
 .center {

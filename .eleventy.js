@@ -19,6 +19,7 @@ const navigationPlugin = require("@11ty/eleventy-navigation");
 const blockquoteShortcode = require("./src/shortcodes/blockquote.js");
 const gridShortcode = require("./src/shortcodes/grid.js");
 const gridImageShortcode = require("./src/shortcodes/grid-image.js");
+const gridVideoShortcode = require("./src/shortcodes/grid-video.js");
 const imageShortcode = require("./src/shortcodes/image.js");
 
 // Import transforms
@@ -152,6 +153,7 @@ module.exports = function (config) {
 
     config.addShortcode("image", imageShortcode);
     config.addPairedShortcode("gridImage", gridImageShortcode);
+    config.addPairedShortcode("gridVideo", gridVideoShortcode);
     config.addPairedShortcode("blockquote", blockquoteShortcode);
     config.addPairedShortcode("grid", gridShortcode);
 
