@@ -30,16 +30,16 @@ In this activity, learners use the Weavly coding environment to create a musical
 
 ## Steps
 
-* Open the Weavly coding environment
-* Build a program with up to 10 similar action blocks to make a rhythm and play the rhythm
-* Replace 1-2 action blocks with other action blocks and play the rhythm
-* Replace another 1-2 action blocks and play the rhythm
-* Adjust the speed for the piece and play the rhythm
+* Open the Weavly coding environment.
+* Build a program with up to 10 similar action blocks to make a rhythm and play the rhythm.
+* Replace 1-2 action blocks with other action blocks and play the rhythm.
+* Replace another 1-2 action blocks and play the rhythm.
+* Try to play your piece at different speeds and notice the differences. 
 
 ## Tips
 
 * It helps if moderators play the action blocks and demonstrate the sounds associated with each action block.
-* Encourage learners to share musical piece with peers
+* Encourage learners to share musical piece with peers.
 
 ## Skill Development
 
@@ -49,4 +49,4 @@ In this activity, learners use the Weavly coding environment to create a musical
 
 ## Level Up!
 
-Ask learners to play their sequence from a different location on the grid and incorporate the sonification.
+Ask learners to change their character's starting position on the scene before playing the piece their piece. Encourage them to try different starting positions and notice how it changes the sonifictaion when they play their piece.
