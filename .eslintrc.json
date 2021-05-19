@@ -10,7 +10,7 @@
         "es6": true
     },
     "parserOptions": {
-        "ecmaVersion": 8
+        "ecmaVersion": 10
     },
     "overrides": [{
         "files": ["src/assets/scripts/app.js", "src/assets/scripts/**/*.module.js"],

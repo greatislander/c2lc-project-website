@@ -45,7 +45,7 @@ Beginning a lesson with a video is a fun and engaging way to build excitement an
 
 {% endgridVideo %}
 
-{% gridVideo "https://www.youtube.com/watch?v=j-3eArinB7E)" %}
+{% gridVideo "https://www.youtube.com/watch?v=j-3eArinB7E" %}
 
 **What is Coding?**
 

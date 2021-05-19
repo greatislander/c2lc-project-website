@@ -33,7 +33,7 @@ By Sue Fliess
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/have-you-seen-my-monster-by-steve-light.jpg", "Book cover", "https://www.worldcat.org/title/have-you-seen-my-monster/oclc/959268622&referer=brief_results" %}
+{% gridImage "/assets/media/have-you-seen-my-monster-by-steve-light.jpg", "Book cover", "https://www.worldcat.org/title/have-you-seen-my-monster/oclc/959268622" %}
 
 
 
@@ -45,7 +45,7 @@ By Steve Light
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/have-you-seen-my-dragon-by-steve-light.jpg", "Book cover", "https://www.worldcat.org/title/have-you-seen-my-dragon/oclc/960221325&referer=brief_results" %}
+{% gridImage "/assets/media/have-you-seen-my-dragon-by-steve-light.jpg", "Book cover", "https://www.worldcat.org/title/have-you-seen-my-dragon/oclc/960221325" %}
 
 
 
@@ -57,7 +57,7 @@ By Steve Light
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-code-a-sandcastle-by-josh-funk.jpg", "Book cover", "https://www.worldcat.org/title/how-to-code-a-sandcastle/oclc/1110627645&referer=brief_results" %}
+{% gridImage "/assets/media/how-to-code-a-sandcastle-by-josh-funk.jpg", "Book cover", "https://www.worldcat.org/title/how-to-code-a-sandcastle/oclc/1110627645" %}
 
 
 
@@ -69,7 +69,7 @@ By Josh Funk
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-code-a-roller-coaster-by-josh-funk.jpg", "Book cover", "https://www.worldcat.org/title/how-to-code-a-rollercoaster/oclc/1242283358&referer=brief_results" %}
+{% gridImage "/assets/media/how-to-code-a-roller-coaster-by-josh-funk.jpg", "Book cover", "https://www.worldcat.org/title/how-to-code-a-rollercoaster/oclc/1242283358" %}
 
 
 
@@ -81,7 +81,7 @@ By Josh Funk
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/peg-cat-the-penguin-problem-by-jennifer-oxley-billy-aronson.jpg", "Book cover", "https://www.worldcat.org/title/peg-cat-the-penguin-problem/oclc/1022208772&referer=brief_results" %}
+{% gridImage "/assets/media/peg-cat-the-penguin-problem-by-jennifer-oxley-billy-aronson.jpg", "Book cover", "https://www.worldcat.org/title/peg-cat-the-penguin-problem/oclc/1022208772" %}
 
 
 
@@ -93,7 +93,7 @@ By Jennifer Oxley, Billy Aronson
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/inside-outside-by-lizi-boyd.gif", "Book cover", "https://www.worldcat.org/title/inside-outside/oclc/1193943842&referer=brief_results" %}
+{% gridImage "/assets/media/inside-outside-by-lizi-boyd.gif", "Book cover", "https://www.worldcat.org/title/inside-outside/oclc/1193943842" %}
 
 
 
@@ -105,7 +105,7 @@ By Lizi Boyd
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/doll-e-1.0-by-shanda-mccloskey.jpg", "Book cover", "https://www.worldcat.org/title/doll-e-10/oclc/1048586175&referer=brief_results" %}
+{% gridImage "/assets/media/doll-e-1.0-by-shanda-mccloskey.jpg", "Book cover", "https://www.worldcat.org/title/doll-e-10/oclc/1048586175" %}
 
 
 
@@ -117,7 +117,7 @@ By Shanda McCloskey
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/help-find-frank by-anne-bollman.jpg", "Book cover", "https://www.worldcat.org/title/help-find-frank/oclc/1007068093&referer=brief_results" %}
+{% gridImage "/assets/media/help-find-frank by-anne-bollman.jpg", "Book cover", "https://www.worldcat.org/title/help-find-frank/oclc/1007068093" %}
 
 
 
@@ -129,7 +129,7 @@ By Anne Bollman
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/algorithms-solve-a-problem-by-blake-hoena.jpg", "Book cover", "https://www.worldcat.org/title/algorithms-solve-a-problem-includes-music-download/oclc/1130081343&referer=brief_results" %}
+{% gridImage "/assets/media/algorithms-solve-a-problem-by-blake-hoena.jpg", "Book cover", "https://www.worldcat.org/title/algorithms-solve-a-problem-includes-music-download/oclc/1130081343" %}
 
 
 
@@ -141,7 +141,7 @@ By Blake Hoena
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/robot-rumpus-by-sean-taylor.jpg", "Book cover", "https://www.worldcat.org/title/robot-rumpus/oclc/881024756&referer=brief_results" %}
+{% gridImage "/assets/media/robot-rumpus-by-sean-taylor.jpg", "Book cover", "https://www.worldcat.org/title/robot-rumpus/oclc/881024756" %}
 
 
 
@@ -158,7 +158,7 @@ By Sean Taylor
 ## Sequencing
 
 {% grid "3" %}
-{% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "https://www.worldcat.org/title/very-hungry-caterpillar-la-oruga-muy-hambrienta/oclc/1196094219&referer=brief_results" %}
+{% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "https://www.worldcat.org/title/very-hungry-caterpillar-la-oruga-muy-hambrienta/oclc/1196094219" %}
 
 
 
@@ -170,7 +170,7 @@ By Eric Carle
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/rosie’s-walk-by-pat-hutchins.jpg", "Book cover", "https://www.worldcat.org/title/rosies-walk/oclc/1028780409&referer=brief_results" %}
+{% gridImage "/assets/media/rosie’s-walk-by-pat-hutchins.jpg", "Book cover", "https://www.worldcat.org/title/rosies-walk/oclc/1028780409" %}
 
 
 
@@ -182,7 +182,7 @@ By Pat Hutchins
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/sequences-order-matters-by-nadia-higgins.jpg", "Book cover", "https://www.worldcat.org/title/sequences-order-matters/oclc/1005202403&referer=brief_results" %}
+{% gridImage "/assets/media/sequences-order-matters-by-nadia-higgins.jpg", "Book cover", "https://www.worldcat.org/title/sequences-order-matters/oclc/1005202403" %}
 
 
 
@@ -194,7 +194,7 @@ By Nadia Higgins
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/we-re-going-on-a-bear-hunt.jpg", "Book cover", "https://www.worldcat.org/title/were-going-on-a-bear-hunt/oclc/858015864&referer=brief_results" %}
+{% gridImage "/assets/media/we-re-going-on-a-bear-hunt.jpg", "Book cover", "https://www.worldcat.org/title/were-going-on-a-bear-hunt/oclc/858015864" %}
 
 
 
@@ -206,7 +206,7 @@ By Michael Rosen, Helen Oxenbury
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "https://www.worldcat.org/title/boxitects/oclc/1073936413&referer=brief_results" %}
+{% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "https://www.worldcat.org/title/boxitects/oclc/1073936413" %}
 
 
 
@@ -230,7 +230,7 @@ By Mary Alperin
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "https://www.worldcat.org/title/how-to-catch-a-unicorn/oclc/1141210683&referer=brief_results" %}
+{% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "https://www.worldcat.org/title/how-to-catch-a-unicorn/oclc/1141210683" %}
 
 
 
@@ -242,7 +242,7 @@ By Adam Wallace
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "https://www.worldcat.org/title/knuffle-bunny-a-cautionary-tale/oclc/1030742103&referer=brief_results" %}
+{% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "https://www.worldcat.org/title/knuffle-bunny-a-cautionary-tale/oclc/1030742103" %}
 
 
 
@@ -254,7 +254,7 @@ By Mo Williams
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "https://www.worldcat.org/title/love-z/oclc/1112673306&referer=brief_results" %}
+{% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "https://www.worldcat.org/title/love-z/oclc/1112673306" %}
 
 
 
@@ -266,7 +266,7 @@ By Jessie Sima
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "https://www.worldcat.org/title/say-something/oclc/1237714415&referer=brief_results" %}
+{% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "https://www.worldcat.org/title/say-something/oclc/1237714415" %}
 
 
 
@@ -278,7 +278,7 @@ By Peter H. Reynolds
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "https://www.worldcat.org/title/all-are-welcome/oclc/1198396923&referer=brief_results" %}
+{% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "https://www.worldcat.org/title/all-are-welcome/oclc/1198396923" %}
 
 
 
@@ -290,7 +290,7 @@ By Alexandra Penfold, Suzanne Kaufman
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "https://www.worldcat.org/title/claymates/oclc/1023632872&referer=brief_results" %}
+{% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "https://www.worldcat.org/title/claymates/oclc/1023632872" %}
 
 
 
@@ -302,7 +302,7 @@ By Devorah Petty, Lauren Eldridge
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "https://www.worldcat.org/title/can-you-find-my-robots-arm/oclc/1035220309&referer=brief_results" %}
+{% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "https://www.worldcat.org/title/can-you-find-my-robots-arm/oclc/1035220309" %}
 
 
 
@@ -314,7 +314,7 @@ By Chihiro Takeuchi
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "https://www.worldcat.org/title/mix-it-up/oclc/1237757174&referer=brief_results" %}
+{% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "https://www.worldcat.org/title/mix-it-up/oclc/1237757174" %}
 
 
 
@@ -326,7 +326,7 @@ By Herve Tullet
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "https://www.worldcat.org/title/i-aint-gonna-paint-no-more/oclc/1102272006&referer=brief_results" %}
+{% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "https://www.worldcat.org/title/i-aint-gonna-paint-no-more/oclc/1102272006" %}
 
 
 
@@ -342,7 +342,7 @@ By Karen Beaumont
 ## Debugging
 
 {% grid "3" %}
-{% gridImage "/assets/media/ihavealittleproblem-saidthebear.jpg", "Book cover", "https://www.worldcat.org/title/i-have-a-little-problem-said-the-bear/oclc/1176281546&referer=brief_results" %}
+{% gridImage "/assets/media/ihavealittleproblem-saidthebear.jpg", "Book cover", "https://www.worldcat.org/title/i-have-a-little-problem-said-the-bear/oclc/1176281546" %}
 
 
 **I Have a Little Problem, Said the Bear**
@@ -352,7 +352,7 @@ By Heinz Janisch
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/stuck.jpg", "Book cover", "https://www.worldcat.org/title/stuck/oclc/1163796123&referer=brief_results" %}
+{% gridImage "/assets/media/stuck.jpg", "Book cover", "https://www.worldcat.org/title/stuck/oclc/1163796123" %}
 
 
 **Stuck**
@@ -362,7 +362,7 @@ By Oliver Jeffers
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/debugging-you-can-fix-it-up-by-patricia-m.-stockland.jpg", "Book cover", "https://www.worldcat.org/title/debugging-you-can-fix-it/oclc/1005189375&referer=brief_results" %}
+{% gridImage "/assets/media/debugging-you-can-fix-it-up-by-patricia-m.-stockland.jpg", "Book cover", "https://www.worldcat.org/title/debugging-you-can-fix-it/oclc/1005189375" %}
 
 
 **Debugging: You Can Fix it Up**
@@ -376,7 +376,7 @@ By Patricia M. Stockland
 ## Loops
 
 {% grid "3" %}
-{% gridImage "/assets/media/adi-s-perfect-patterns-and-loops.jpg", "Book cover", "https://www.worldcat.org/title/adis-perfect-patterns-and-loops/oclc/1102273206&referer=brief_results" %}
+{% gridImage "/assets/media/adi-s-perfect-patterns-and-loops.jpg", "Book cover", "https://www.worldcat.org/title/adis-perfect-patterns-and-loops/oclc/1102273206" %}
 
 
 **Adi’s Perfect Patterns and Loops**
@@ -386,7 +386,7 @@ By Caroline Karanja
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-water-princess-by-susan-verde.jpg", "Book cover", "https://www.worldcat.org/title/water-princess/oclc/1031374696&referer=brief_results" %}
+{% gridImage "/assets/media/the-water-princess-by-susan-verde.jpg", "Book cover", "https://www.worldcat.org/title/water-princess/oclc/1031374696" %}
 
 
 **The Water Princess**
@@ -396,7 +396,7 @@ By Susan Verde
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/when’s-my-birthday-by-julie-fogliano.jpg", "Book cover", "https://www.worldcat.org/title/whens-my-birthday/oclc/1084393884&referer=brief_results" %}
+{% gridImage "/assets/media/when’s-my-birthday-by-julie-fogliano.jpg", "Book cover", "https://www.worldcat.org/title/whens-my-birthday/oclc/1084393884" %}
 
 
 **When’s My Birthday?**
@@ -406,7 +406,7 @@ By Julie Fogliano
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/we-planted-a-tree by-diane-muldrow.jpg", "Book cover", "https://www.worldcat.org/title/we-planted-a-tree/oclc/910294030&referer=brief_results" %}
+{% gridImage "/assets/media/we-planted-a-tree by-diane-muldrow.jpg", "Book cover", "https://www.worldcat.org/title/we-planted-a-tree/oclc/910294030" %}
 
 
 **We Planted a Tree**
@@ -416,7 +416,7 @@ By Diane Muldrow
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/round-the-garden-by-omri-glaser.jpg", "Book cover", "https://www.worldcat.org/title/round-the-garden/oclc/46875108&referer=brief_results" %}
+{% gridImage "/assets/media/round-the-garden-by-omri-glaser.jpg", "Book cover", "https://www.worldcat.org/title/round-the-garden/oclc/46875108" %}
 
 
 **Round the Garden**
@@ -426,7 +426,7 @@ By Omri Glaser
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-boy-who-cried-wolf-re-told-by-b.g.-hennessy.jpg", "Book cover", "https://www.worldcat.org/title/boy-who-cried-wolf/oclc/229455185&referer=brief_results" %}
+{% gridImage "/assets/media/the-boy-who-cried-wolf-re-told-by-b.g.-hennessy.jpg", "Book cover", "https://www.worldcat.org/title/boy-who-cried-wolf/oclc/229455185" %}
 
 
 **The Boy Who Cried Wolf Re-told**
@@ -436,7 +436,7 @@ by B.G. Hennessy
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/loops-repeat-repeat-by-patricia-m.-stockland.jpg", "Book cover", "https://www.worldcat.org/title/loops-repeat-repeat-with-music-on-cd/oclc/1050454738&referer=brief_results" %}
+{% gridImage "/assets/media/loops-repeat-repeat-by-patricia-m.-stockland.jpg", "Book cover", "https://www.worldcat.org/title/loops-repeat-repeat-with-music-on-cd/oclc/1050454738" %}
 
 
 **Loops: Repeat, Repeat**
@@ -450,7 +450,7 @@ By Patricia M. Stockland
 ## Events
 
 {% grid "3" %}
-{% gridImage "/assets/media/please-mr.-panda-by-steve-antony.jpg", "Book cover", "https://www.worldcat.org/title/please-mr-panda/oclc/1073024206&referer=brief_results" %}
+{% gridImage "/assets/media/please-mr.-panda-by-steve-antony.jpg", "Book cover", "https://www.worldcat.org/title/please-mr-panda/oclc/1073024206" %}
 
 
 **Please, Mr. Panda**
@@ -460,7 +460,7 @@ By Steve Antony
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/rufus-goes-to-sea.jpg", "Book cover", "https://www.worldcat.org/title/rufus-goes-to-sea/oclc/958625268&referer=brief_results" %}
+{% gridImage "/assets/media/rufus-goes-to-sea.jpg", "Book cover", "https://www.worldcat.org/title/rufus-goes-to-sea/oclc/958625268" %}
 
 
 **Rufus Goes to Sea**
@@ -470,7 +470,7 @@ By Tim Griswell
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-legend-of-rock-paper-scissors-by-drew-daywalt.jpg", "Book cover", "https://www.worldcat.org/title/legend-of-rock-paper-scissors/oclc/1042893138&referer=brief_results" %}
+{% gridImage "/assets/media/the-legend-of-rock-paper-scissors-by-drew-daywalt.jpg", "Book cover", "https://www.worldcat.org/title/legend-of-rock-paper-scissors/oclc/1042893138" %}
 
 
 **The Legend of Rock, Paper, Scissors**
@@ -480,7 +480,7 @@ By Drew Daywalt
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-fox-and-the-crow-retold-by-mairi-mackinnon.jpg", "Book cover", "https://www.worldcat.org/title/fox-and-the-crow/oclc/1121476998&referer=brief_results" %}
+{% gridImage "/assets/media/the-fox-and-the-crow-retold-by-mairi-mackinnon.jpg", "Book cover", "https://www.worldcat.org/title/fox-and-the-crow/oclc/1121476998" %}
 
 
 **The Fox and the Crow Retold**
@@ -494,7 +494,7 @@ by Mairi Mackinnon
 ## Conditionals
 
 {% grid "3" %}
-{% gridImage "/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg", "Book cover", "https://www.worldcat.org/title/gabis-ifthen-garden/oclc/1102273143&referer=brief_results" %}
+{% gridImage "/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg", "Book cover", "https://www.worldcat.org/title/gabis-ifthen-garden/oclc/1102273143" %}
 
 
 **Gabi’s If/Then Garden**
@@ -504,7 +504,7 @@ By Caroline Karanja
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/if-you-give-a-mouse-a-cookie-by-laura-joffe-numeroff.jpg", "Book cover", "https://www.worldcat.org/title/if-you-give-a-mouse-a-cookie/oclc/1022891996&referer=brief_results" %}
+{% gridImage "/assets/media/if-you-give-a-mouse-a-cookie-by-laura-joffe-numeroff.jpg", "Book cover", "https://www.worldcat.org/title/if-you-give-a-mouse-a-cookie/oclc/1022891996" %}
 
 
 **If you Give a Mouse a Cookie**
@@ -514,7 +514,7 @@ By Laura Joffe Numeroff
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/alexander-and-the-terrible-horrible-no-good-very-bad-day-by-judith-viorst-ray-cruz.jpg", "Book cover", "https://www.worldcat.org/title/alexander-and-the-terrible-horrible-no-good-very-bad-day/oclc/48928125&referer=brief_results" %}
+{% gridImage "/assets/media/alexander-and-the-terrible-horrible-no-good-very-bad-day-by-judith-viorst-ray-cruz.jpg", "Book cover", "https://www.worldcat.org/title/alexander-and-the-terrible-horrible-no-good-very-bad-day/oclc/48928125" %}
 
 
 **Alexander and the Terrible, Horrible, No Good, Very Bad Day**
@@ -528,7 +528,7 @@ By Judith Viorst, Ray Cruz
 ## Functions
 
 {% grid "3" %}
-{% gridImage "/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg", "Book cover", "https://www.worldcat.org/title/gabis-fabulous-functions/oclc/1090180143&referer=brief_results" %}
+{% gridImage "/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg", "Book cover", "https://www.worldcat.org/title/gabis-fabulous-functions/oclc/1090180143" %}
 
 
 **Gabi’s Fabulous Functions**

@@ -38,7 +38,8 @@
         "@zachleat/filter-container": "1.0.3",
         "eleventy-plugin-fluid": "0.2.1",
         "infusion": "dev",
-        "modern-css-reset": "1.4.0"
+        "modern-css-reset": "1.4.0",
+        "wicg-inert": "^3.1.1"
     },
     "devDependencies": {
         "@commitlint/cli": "12.1.1",

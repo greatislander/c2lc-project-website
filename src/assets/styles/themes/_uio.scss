@@ -35,13 +35,15 @@
 
 .fl-theme-bw {
     img,
+    [role="image"],
     &.home .header {
         filter: grayscale(100%);
     }
 }
 
 .fl-theme-wb {
-    img {
+    img,
+    [role="image"] {
         filter: grayscale(100%);
     }
 
@@ -57,6 +59,7 @@
 .fl-theme-by,
 .fl-theme-yb {
     img,
+    [role="image"],
     &.home .header {
         filter: url(#yellow);
     }
@@ -70,6 +73,7 @@
 
 .fl-theme-lgdg {
     img,
+    [role="image"],
     &.home .header {
         filter: grayscale(100%);
     }
@@ -81,6 +85,7 @@
 
 .fl-theme-gw {
     img,
+    [role="image"],
     &.home .header {
         filter: grayscale(100%);
     }
@@ -92,6 +97,7 @@
 
 .fl-theme-gd {
     img,
+    [role="image"],
     &.home .header {
         filter: grayscale(100%);
     }
@@ -103,6 +109,7 @@
 
 .fl-theme-bbr {
     img,
+    [role="image"],
     &.home .header {
         filter: url(#brown);
     }

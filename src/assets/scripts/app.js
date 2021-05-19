@@ -11,6 +11,9 @@ https://github.com/fluid-project/fluidic-11ty/raw/master/LICENSE.md.
 */
 
 import "@zachleat/filter-container";
+import "wicg-inert";
+
+import VideoOverlay from "./overlay.module.js";
 
 document.addEventListener("click", event => {
     if (event.target.id === "reset") {
@@ -21,9 +24,13 @@ document.addEventListener("click", event => {
             filter.dispatchEvent(new Event("change", {"bubbles": true}));
         });
     }
-
-    // if (event.target.id === "menu-toggle") {
-    //     const expanded = event.target.getAttribute("aria-expanded") === "true";
-    //     event.target.setAttribute("aria-expanded", !expanded);
-    // }
 });
+
+const linkedVideos = [...document.querySelectorAll(".linked-video")];
+
+if (linkedVideos.length > 0) {
+    linkedVideos.forEach.call(linkedVideos, link => {
+        let overlay = new VideoOverlay(link);
+        overlay.init();
+    });
+}

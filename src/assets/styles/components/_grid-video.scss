@@ -1,8 +1,4 @@
-.grid-image {
-    text-align: center;
-}
-
-.grid [role="image"] {
+.grid-video [role="image"] {
     aspect-ratio: 320 / 310;
     background-color: var(--color-cream-75);
     background-position: center;
@@ -13,10 +9,4 @@
     margin-inline: auto;
     max-width: calc(320 / 16 * 1rem);
     overflow: hidden;
-}
-
-@media (min-width: 960px) {
-    .grid-image {
-        text-align: start;
-    }
 }

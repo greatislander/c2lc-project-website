@@ -33,7 +33,7 @@ mix.purgeCss({
     content: [
         path.join(__dirname, "src/_includes/**/*.njk"),
         path.join(__dirname, "src/_includes/**/*.svg"),
-        path.join(__dirname, "src/shortcodes/*.js")
+        path.join(__dirname, "src/**/*.js")
     ],
     safelist: ["picture", /^bg/, /^fl/, /^grid/]
 });
