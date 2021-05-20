@@ -49,4 +49,4 @@ In this activity, learners use the Weavly coding environment to create a musical
 
 ## Level Up!
 
-Ask learners to change their character's starting position on the scene before playing the piece their piece. Encourage them to try different starting positions and notice how it changes the sonifictaion when they play their piece.
+Ask learners to change their character's starting position on the scene before playing their piece. Encourage them to try different starting positions and notice how it changes the sonification sound when the piece is being played.
