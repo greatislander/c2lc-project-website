@@ -404,7 +404,7 @@ By Herve Tullet
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "https://www.worldcat.org/title/i-aint-gonna-paint-no-more/oclc/1102272006" %}
+{% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "https://canada.on.worldcat.org/oclc/54462260" %}
 
 
 
@@ -524,7 +524,7 @@ By Omri Glaser
 
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-boy-who-cried-wolf-re-told-by-b.g.-hennessy.jpg", "Book cover", "https://www.worldcat.org/title/boy-who-cried-wolf/oclc/229455185" %}
+{% gridImage "/assets/media/the-boy-who-cried-wolf-re-told-by-b.g.-hennessy.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/56599227" %}
 
 
 
