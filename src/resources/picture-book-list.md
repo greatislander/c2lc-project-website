@@ -20,6 +20,7 @@ The list has been organized based on the scope and sequence followed in the Weav
 ## Functional Concepts
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/robots-robots-everywhere-by-sue-fliess.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/818318095" %}
 
 
@@ -173,12 +174,14 @@ By Sean Taylor
 
 
 {% endgridImage %}
+
 {% endgrid %}
 
 ## Sequencing
 
 {% grid "3" %}
 {% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/21134403" %}
+
 
 
 
@@ -190,9 +193,11 @@ By Eric Carle
 
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/rosie’s-walk-by-pat-hutchins.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/306397" %}
+
 
 
 
@@ -204,9 +209,11 @@ By Pat Hutchins
 
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/sequences-order-matters-by-nadia-higgins.jpg", "Book cover", "https://www.worldcat.org/title/sequences-order-matters/oclc/1005202403" %}
+
 
 
 
@@ -218,9 +225,11 @@ By Nadia Higgins
 
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/we-re-going-on-a-bear-hunt.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/18259147" %}
+
 
 
 
@@ -232,9 +241,11 @@ By Michael Rosen, Helen Oxenbury
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "https://www.worldcat.org/title/boxitects/oclc/1073936413" %}
+{% gridImage "/assets/media/boxitects-by-kim-smith.gif", "Book cover", "https://canada.on.worldcat.org/oclc/1073936413" %}
+
 
 
 
@@ -246,9 +257,11 @@ By Kim Smith
 
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/little-red-riding-hood.jpg", "Book cover", "" %}
+
 
 
 
@@ -260,9 +273,11 @@ By Mary Alperin
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "https://www.worldcat.org/title/how-to-catch-a-unicorn/oclc/1141210683" %}
+{% gridImage "/assets/media/how-to-catch-a-unicorn.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1077244691" %}
+
 
 
 
@@ -274,9 +289,11 @@ By Adam Wallace
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "https://www.worldcat.org/title/knuffle-bunny-a-cautionary-tale/oclc/1030742103" %}
+{% gridImage "/assets/media/knuffle-bunny-a-cautionary-tale by-mo-williams.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/55606208" %}
+
 
 
 
@@ -288,9 +305,11 @@ By Mo Williams
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "https://www.worldcat.org/title/love-z/oclc/1112673306" %}
+{% gridImage "/assets/media/love-z-by-jessie-sima.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1021060169" %}
+
 
 
 
@@ -302,9 +321,11 @@ By Jessie Sima
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "https://www.worldcat.org/title/say-something/oclc/1237714415" %}
+{% gridImage "/assets/media/say-something-by-peter-h.-reynolds.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1034607508" %}
+
 
 
 
@@ -316,9 +337,11 @@ By Peter H. Reynolds
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "https://www.worldcat.org/title/all-are-welcome/oclc/1198396923" %}
+{% gridImage "/assets/media/all-are-welcome-by-alexandra-penfold-suzanne-kaufman.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1001364054" %}
+
 
 
 
@@ -330,9 +353,11 @@ By Alexandra Penfold, Suzanne Kaufman
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "https://www.worldcat.org/title/claymates/oclc/1023632872" %}
+{% gridImage "/assets/media/claymates-by-devorah-petty-lauren-eldridge.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/939596169" %}
+
 
 
 
@@ -344,9 +369,11 @@ By Devorah Petty, Lauren Eldridge
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "https://www.worldcat.org/title/can-you-find-my-robots-arm/oclc/1035220309" %}
+{% gridImage "/assets/media/can-you-find-my-robot’s-arm-by-chihiro-takeuchi.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/955601445" %}
+
 
 
 
@@ -358,9 +385,11 @@ By Chihiro Takeuchi
 
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "https://www.worldcat.org/title/mix-it-up/oclc/1237757174" %}
+{% gridImage "/assets/media/mix-it-up-by-herve-tullet.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/868647452" %}
+
 
 
 
@@ -372,9 +401,11 @@ By Herve Tullet
 
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/i-ain’t-gonna-pain-no-more-by-karen-beaumont.gif", "Book cover", "https://www.worldcat.org/title/i-aint-gonna-paint-no-more/oclc/1102272006" %}
+
 
 
 
@@ -386,14 +417,15 @@ By Karen Beaumont
 
 
 
+
 {% endgridImage %}
 {% endgrid %}
 
 ## Debugging
 
 {% grid "3" %}
+{% gridImage "/assets/media/ihavealittleproblem-saidthebear.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/234427678" %}
 
-{% gridImage "/assets/media/ihavealittleproblem-saidthebear.jpg", "Book cover", "https://www.worldcat.org/title/i-have-a-little-problem-said-the-bear/oclc/1176281546" %}
 
 
 **I Have a Little Problem, Said the Bear**
@@ -401,9 +433,11 @@ By Karen Beaumont
 By Heinz Janisch
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/stuck.jpg", "Book cover", "https://www.worldcat.org/title/stuck/oclc/1163796123" %}
+{% gridImage "/assets/media/stuck.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/707969161" %}
+
 
 
 **Stuck**
@@ -411,9 +445,11 @@ By Heinz Janisch
 By Oliver Jeffers
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/debugging-you-can-fix-it-up-by-patricia-m.-stockland.jpg", "Book cover", "https://www.worldcat.org/title/debugging-you-can-fix-it/oclc/1005189375" %}
+
 
 
 **Debugging: You Can Fix it Up**
@@ -421,15 +457,15 @@ By Oliver Jeffers
 By Patricia M. Stockland
 
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
 
 ## Loops
 
 {% grid "3" %}
+{% gridImage "/assets/media/adi-s-perfect-patterns-and-loops.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1024129689" %}
 
-{% gridImage "/assets/media/adi-s-perfect-patterns-and-loops.jpg", "Book cover", "https://www.worldcat.org/title/adis-perfect-patterns-and-loops/oclc/1102273206" %}
 
 
 **Adi’s Perfect Patterns and Loops**
@@ -437,9 +473,11 @@ By Patricia M. Stockland
 By Caroline Karanja
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-water-princess-by-susan-verde.jpg", "Book cover", "https://www.worldcat.org/title/water-princess/oclc/1031374696" %}
+{% gridImage "/assets/media/the-water-princess-by-susan-verde.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/899949518" %}
+
 
 
 **The Water Princess**
@@ -447,9 +485,11 @@ By Caroline Karanja
 By Susan Verde
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/when’s-my-birthday-by-julie-fogliano.jpg", "Book cover", "https://www.worldcat.org/title/whens-my-birthday/oclc/1084393884" %}
+{% gridImage "/assets/media/when’s-my-birthday-by-julie-fogliano.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/964336954" %}
+
 
 
 **When’s My Birthday?**
@@ -457,9 +497,11 @@ By Susan Verde
 By Julie Fogliano
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/we-planted-a-tree by-diane-muldrow.jpg", "Book cover", "https://www.worldcat.org/title/we-planted-a-tree/oclc/910294030" %}
+{% gridImage "/assets/media/we-planted-a-tree by-diane-muldrow.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/298670763" %}
+
 
 
 **We Planted a Tree**
@@ -467,9 +509,11 @@ By Julie Fogliano
 By Diane Muldrow
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/round-the-garden-by-omri-glaser.jpg", "Book cover", "https://www.worldcat.org/title/round-the-garden/oclc/46875108" %}
+{% gridImage "/assets/media/round-the-garden-by-omri-glaser.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1063624796" %}
+
 
 
 **Round the Garden**
@@ -477,9 +521,11 @@ By Diane Muldrow
 By Omri Glaser
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/the-boy-who-cried-wolf-re-told-by-b.g.-hennessy.jpg", "Book cover", "https://www.worldcat.org/title/boy-who-cried-wolf/oclc/229455185" %}
+
 
 
 **The Boy Who Cried Wolf Re-told**
@@ -487,9 +533,11 @@ By Omri Glaser
 by B.G. Hennessy
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/loops-repeat-repeat-by-patricia-m.-stockland.jpg", "Book cover", "https://www.worldcat.org/title/loops-repeat-repeat-with-music-on-cd/oclc/1050454738" %}
+
 
 
 **Loops: Repeat, Repeat**
@@ -497,15 +545,15 @@ by B.G. Hennessy
 By Patricia M. Stockland
 
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
 
 ## Events
 
 {% grid "3" %}
+{% gridImage "/assets/media/please-mr.-panda-by-steve-antony.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/882553289" %}
 
-{% gridImage "/assets/media/please-mr.-panda-by-steve-antony.jpg", "Book cover", "https://www.worldcat.org/title/please-mr-panda/oclc/1073024206" %}
 
 
 **Please, Mr. Panda**
@@ -513,9 +561,11 @@ By Patricia M. Stockland
 By Steve Antony
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/rufus-goes-to-sea.jpg", "Book cover", "https://www.worldcat.org/title/rufus-goes-to-sea/oclc/958625268" %}
+{% gridImage "/assets/media/rufus-goes-to-sea.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/875403804" %}
+
 
 
 **Rufus Goes to Sea**
@@ -523,9 +573,11 @@ By Steve Antony
 By Tim Griswell
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/the-legend-of-rock-paper-scissors-by-drew-daywalt.jpg", "Book cover", "https://www.worldcat.org/title/legend-of-rock-paper-scissors/oclc/1042893138" %}
+{% gridImage "/assets/media/the-legend-of-rock-paper-scissors-by-drew-daywalt.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/954270991" %}
+
 
 
 **The Legend of Rock, Paper, Scissors**
@@ -533,9 +585,11 @@ By Tim Griswell
 By Drew Daywalt
 
 
+
 {% endgridImage %}
 
 {% gridImage "/assets/media/the-fox-and-the-crow-retold-by-mairi-mackinnon.jpg", "Book cover", "https://www.worldcat.org/title/fox-and-the-crow/oclc/1121476998" %}
+
 
 
 **The Fox and the Crow Retold**
@@ -543,15 +597,15 @@ By Drew Daywalt
 by Mairi Mackinnon
 
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
 
 ## Conditionals
 
 {% grid "3" %}
+{% gridImage "/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1024085994" %}
 
-{% gridImage "/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg", "Book cover", "https://www.worldcat.org/title/gabis-ifthen-garden/oclc/1102273143" %}
 
 
 **Gabi’s If/Then Garden**
@@ -559,9 +613,11 @@ by Mairi Mackinnon
 By Caroline Karanja
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/if-you-give-a-mouse-a-cookie-by-laura-joffe-numeroff.jpg", "Book cover", "https://www.worldcat.org/title/if-you-give-a-mouse-a-cookie/oclc/1022891996" %}
+{% gridImage "/assets/media/if-you-give-a-mouse-a-cookie-by-laura-joffe-numeroff.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/11068035" %}
+
 
 
 **If you Give a Mouse a Cookie**
@@ -569,9 +625,11 @@ By Caroline Karanja
 By Laura Joffe Numeroff
 
 
+
 {% endgridImage %}
 
-{% gridImage "/assets/media/alexander-and-the-terrible-horrible-no-good-very-bad-day-by-judith-viorst-ray-cruz.jpg", "Book cover", "https://www.worldcat.org/title/alexander-and-the-terrible-horrible-no-good-very-bad-day/oclc/48928125" %}
+{% gridImage "/assets/media/alexander-and-the-terrible-horrible-no-good-very-bad-day-by-judith-viorst-ray-cruz.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/508177" %}
+
 
 
 **Alexander and the Terrible, Horrible, No Good, Very Bad Day**
@@ -579,15 +637,15 @@ By Laura Joffe Numeroff
 By Judith Viorst, Ray Cruz
 
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
 
 ## Functions
 
 {% grid "3" %}
+{% gridImage "/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1024087812" %}
 
-{% gridImage "/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg", "Book cover", "https://www.worldcat.org/title/gabis-fabulous-functions/oclc/1090180143" %}
 
 
 **Gabi’s Fabulous Functions**
@@ -595,6 +653,6 @@ By Judith Viorst, Ray Cruz
 By Caroline Karnaja
 
 
-{% endgridImage %}
 
+{% endgridImage %}
 {% endgrid %}
