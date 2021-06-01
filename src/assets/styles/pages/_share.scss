@@ -1,0 +1,28 @@
+.page--share {
+    @media (min-width: 960px) {
+        .header {
+            background-color: var(--color-white);
+
+            .wrapper {
+                background-color: var(--color-green-95);
+                border-top-left-radius: var(--radius-md);
+                border-top-right-radius: var(--radius-md);
+                margin: var(--space-xl) auto 0;
+            }
+        }
+
+        .content {
+            .wrapper {
+                background-color: var(--color-green-95);
+                border-bottom-left-radius: var(--radius-md);
+                border-bottom-right-radius: var(--radius-md);
+                margin-block-end: var(--space-xl);
+                padding-block-start: 0;
+            }
+
+            form {
+                margin-block-start: var(--space-lg);
+            }
+        }
+    }
+}
