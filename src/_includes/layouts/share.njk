@@ -5,21 +5,24 @@
 {% block content %}
 <div class="[ wrapper ] [ flow ]">
 	{{ content | safe }}
-	<form name="share-resources" method="POST" data-netlify="true">
-		<div>
-			<label for="fname">Contributor’s first name</label>
+	<form name="share-resources" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+		<div class="hidden">
+			<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+		</div>
+		<div class="[ half ]">
+			<label for="fname">Contributor’s first name*</label>
 			<input type="text" id="fname" name="fname" required />
 		</div>
-		<div>
-			<label for="lname">Contributor’s last name</label>
+		<div class="[ half ]">
+			<label for="lname">Contributor’s last name*</label>
 			<input type="text" id="lname" name="lname" required />
 		</div>
-		<div>
-			<label for="email">Contributor’s email address</label>
+		<div class="[ half ]">
+			<label for="email">Contributor’s email address*</label>
 			<input type="email" id="email" name="email" required />
 		</div>
-		<div>
-			<label for="website">Organization website</label>
+		<div class="[ half ]">
+			<label for="website">Organization website*</label>
 			<input type="text" id="website" name="website" required />
 		</div>
 		<fieldset>
@@ -38,7 +41,7 @@
 		</div>
 		<div>
 			<label for="supportive-material">Upload supportive material</label>
-			<input type="file" id="supportive-material" name="supportive-material" multiple />
+			<input type="file" id="supportive-material" name="supportive-material" />
 		</div>
 		<button class="[ button ]" type="submit">Share Resource</button>
 	</form>

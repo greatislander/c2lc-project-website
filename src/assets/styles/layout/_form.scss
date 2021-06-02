@@ -1,6 +1,9 @@
 form {
     border-top: solid var(--border-hairline) var(--color-black-05);
-    padding-block-start: var(--space-lg);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 
     > * + * {
         margin-block-start: var(--space-lg);
@@ -9,6 +12,17 @@ form {
     > div {
         display: flex;
         flex-direction: column;
+        width: 100%;
+
+        @media (min-width: 960px) {
+            &.half {
+                width: calc(50% - var(--space-md));
+            }
+        }
+
+        &.hidden {
+            display: none;
+        }
     }
 
     > div label,
@@ -29,6 +43,7 @@ form {
     fieldset {
         border: 0;
         padding: 0;
+        width: 100%;
 
         legend {
             margin-block-end: var(--space-sm);
@@ -37,5 +52,9 @@ form {
         div + div {
             margin-block-start: var(--space-md);
         }
+    }
+
+    [type="submit"] {
+        margin-inline: auto;
     }
 }
