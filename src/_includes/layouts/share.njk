@@ -5,7 +5,7 @@
 {% block content %}
 <div class="[ wrapper ] [ flow ]">
 	{{ content | safe }}
-	<form>
+	<form name="share-resources" method="POST" data-netlify="true">
 		<div>
 			<label for="fname">Contributor’s first name</label>
 			<input type="text" id="fname" name="fname" required />
