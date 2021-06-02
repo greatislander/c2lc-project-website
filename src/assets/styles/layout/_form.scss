@@ -55,6 +55,6 @@ form {
     }
 
     [type="submit"] {
-        margin-inline: auto;
+        margin: var(--space-xl) auto 0;
     }
 }

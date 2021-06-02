@@ -32,6 +32,10 @@ a:not([class]) {
 
     &:visited {
         color: currentColor;
+
+        &:active {
+            color: var(--color-white);
+        }
     }
 }
 
