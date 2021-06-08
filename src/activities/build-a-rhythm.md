@@ -23,10 +23,21 @@ whatYouNeed: |-
   ### Support
 
   Depends on the learner, could be independent or require assistance
+books:
+  - title: Mix it Up
+    author: Herve Tullet
+    coverImage: /assets/media/mix-it-up.jpg
+    link: https://www.goodreads.com/book/show/20549446-mix-it-up
 ---
 ## Description
 
-In this activity, learners use the Weavly coding environment to create a musical piece. Using the different action blocks and speed adjustment, learners can build a sequence with the sonification feature to create a musical piece.
+In this activity, learners use the Weavly coding environment to create a musical piece. Each action block on Weavly is paired with a unique sound. When selecting action blocks, these sounds can act as notes to a song or musical piece. Using the different action blocks and speed adjustment, learners can build a sequence with the sound feature to create a musical piece.
+
+Example of a rhythm that was built step by step:\
+<https://build.codelearncreate.org/?v=0.5&p=1111&c=00b>\
+<https://build.codelearncreate.org/?v=0.5&p=111d&c=00b>\
+<https://build.codelearncreate.org/?v=0.5&p=1d1d&c=00b>\
+<https://build.codelearncreate.org/?v=0.5&p=1ddd&c=00b>
 
 ## Steps
 
@@ -34,7 +45,7 @@ In this activity, learners use the Weavly coding environment to create a musical
 * Build a program with up to 10 similar action blocks to make a rhythm and play the rhythm.
 * Replace 1-2 action blocks with other action blocks and play the rhythm.
 * Replace another 1-2 action blocks and play the rhythm.
-* Try to play your piece at different speeds and notice the differences. 
+* Adjust the speed for the piece and play the rhythm. 
 
 ## Tips
 
