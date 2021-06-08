@@ -20,6 +20,11 @@ whatYouNeed: |-
   ### Support
 
   Depends on the learner, could be independent or require assistance
+books:
+  - title: Claymates
+    author: Devorah Petty & Lauren Eldridge
+    coverImage: /assets/media/claymates.jpg
+    link: https://books.google.ca/books/about/Claymates.html?id=Sg-IDAEACAAJ&redir_esc=y
 ---
 ## Description
 
