@@ -30,6 +30,11 @@ whatYouNeed: >-
 
 
   Depends on the learner, could be independent/group or requires supervision/facilitation as necessary
+books:
+  - title: All are Welcome
+    author: Alexandra Penfold & Suzanne Kaufman
+    coverImage: /assets/media/all-are-welcome.jpg
+    link: https://www.goodreads.com/book/show/36959643-all-are-welcome
 ---
 ## Description
 
@@ -50,20 +55,16 @@ Open the Weavly coding environment.
 
 ## Tips
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Ask learners to repeat the sound, consider singing or sounding out the audio (i.e. beep beep, chi chee), as well as using kinesthetic movement (I.e. clapping, tapping) 
+* Set up a space with a relatively quiet environment to detect audio changes or use headset/earphones 
+* Turn off pen toggle feature to help learners focus their attention on the sound
 
 ## Skill Development
 
+* Directional skills
+* Sorting
+* Musical
+
 ## Level Up!
+
+* Add multiple action blocks to their sequence and use the speed control to play with the speed for the musical creation.
