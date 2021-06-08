@@ -34,7 +34,7 @@ books:
   - title: All are Welcome
     author: Alexandra Penfold & Suzanne Kaufman
     coverImage: /assets/media/all-are-welcome.jpg
-    link: https://www.goodreads.com/book/show/36959643-all-are-welcome
+    link: https://canada.on.worldcat.org/oclc/1001364054
 ---
 ## Description
 
