@@ -27,7 +27,7 @@ books:
   - title: Mix it Up
     author: Herve Tullet
     coverImage: /assets/media/mix-it-up.jpg
-    link: https://www.goodreads.com/book/show/20549446-mix-it-up
+    link: https://canada.on.worldcat.org/oclc/1007068093
 ---
 ## Description
 
