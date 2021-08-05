@@ -2,8 +2,8 @@
 resourcesSection:
   title: Coding Resources
   content: >+
-    Here you can find a collection of techniques and strategies to help create
-    and set up an accessible environment for coding education.
+    Check out a collection of techniques and strategies to help create and set
+    up an accessible environment for coding education.
 
   image: /assets/media/20200304_132303-edit.jpg
   imageAlt: Image of two kids playing with Debug'd kit
@@ -18,7 +18,7 @@ permalink: /learn/
 robotActivitiesSection:
   title: Activities with Robots
   content: >+
-    Check out a great collection of activities you can do with your robots to
+    Browse a great collection of activities you can do with your robots to
     develop your computational thinking and programming skills.
 
   image: /assets/media/dashdot.png

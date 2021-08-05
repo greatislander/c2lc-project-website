@@ -1,11 +1,11 @@
-name: CI
+name: Test and build
 
 on:
   pull_request:
     branches: [ main ]
 
 jobs:
-  test:
+  test-and-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -19,7 +19,7 @@ jobs:
           npm i
         env:
           CI: true
-      - name: Lint JavaScript and JSON files
+      - name: Lint files
         run: |
           npm run lint
         env:

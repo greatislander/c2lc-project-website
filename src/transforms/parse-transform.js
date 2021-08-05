@@ -11,16 +11,12 @@ https://github.com/fluid-project/fluidic-11ty/raw/main/LICENSE.md.
 */
 
 "use strict";
-const jsdom = require("jsdom");
-const {JSDOM} = jsdom;
+
+const {parseHTML} = require("linkedom");
 
 module.exports = function (value, outputPath) {
     if (outputPath && outputPath.includes(".html")) {
-        const DOM = new JSDOM(value, {
-            resources: "usable"
-        });
-
-        const document = DOM.window.document;
+        let {document} = parseHTML(value);
         const articleImages = [...document.querySelectorAll("main article img")];
 
         if (articleImages.length) {
