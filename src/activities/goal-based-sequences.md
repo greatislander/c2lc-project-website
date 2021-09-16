@@ -50,19 +50,18 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 ## Steps
 
 * Select the "Jungle Safari" activity link above.
-* As you build your sequence, remember that you cannot go over the trees, bushes, and the pond. And you have to stay away from the crocodiles. 
 * Choose an animal you want to visit.
 * Use a combination of different action blocks to build a program to move your character on the grid and reach your selected animal.
-* Select the “Play” button to run the program and view how the on-screen character completes each step of the activity.
+* As you build your sequence, remember that you cannot go over the trees, bushes, and the pond. And you have to stay away from the crocodiles. 
+* Once your program is ready, select the “Play” button to run the program and view how the on-screen character completes each step of the activity.
 * To visit another animal, select the “Delete” button to delete your current program.
 * Start building a new one.
 
 ## Tips
 
-* Kick off the activity with simple goals and encourage learners to either visit the giraffe or the lion first.
-* Once the learner have learned how to build a sequence to move their character on the screen, encourage them to reach harder goals, such as the pelican or the hippo. 
-* Adult moderators can show the movements to help learners understand the purpose of the activity.
-* Once learners go over the trees, bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with learner about debugging and modifying their sequence in a way that goes around those obstacles. 
+* Start simple and encourage learners to begin the activity by visiting either the giraffe or the lion.
+* Once the learner completed the simple missions, encourage them to visit the pelican or the hippo. 
+* If learner builds a program that makes their on-screen character to go over the trees, bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with them about how to debug their program and avoid those obstacles. 
 * Learners can leave the pen down feature enabled to draw a line as they move between the steps.
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal.
 * Moderator can mimic the sound of animal once the learners complete the activity to celebrate and add excitement.
