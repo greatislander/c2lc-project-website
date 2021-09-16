@@ -4,8 +4,8 @@ type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
 relatedActivities:
-  - "Mission: Visiting Animals"
-  - "Mission: Travelling to the moon"
+  - Jungle Safari Adventure
+  - Planet Discovery
 description: This activity challenges players to build a sequence to complete a mission.
 metaImage: /assets/media/mission-_hunting_the_sunken_treasure.jpg
 metaImageAlt: Illustration of orange hand pointing to a grid of submarine and
