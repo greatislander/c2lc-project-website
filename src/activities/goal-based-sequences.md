@@ -41,14 +41,16 @@ books:
 ---
 ## Description
 
-This is a multi-level activity that starts simple and builds in complexity. The different scene of each activity creates a mission for the on-screen character. Learners will build a sequence using different actions to help their on-screen character complete its mission.
+This is a multi-level activity that starts simple and builds in complexity. Learners will build a sequence using different actions to help their on-screen character complete different missions and visit different animals on the scene.
 
 * Jungle Safari: \[Link]
-* Farm Visit: \[Link]
+
+  ![An image of the jungle safari background with animals, trees, bushes, and a pond.](/assets/media/jungle-safari.svg "Mission: Visiting Animals")
 
 ## Steps
 
-* Pick an activity link.
+* Select the "Jungle Safari" activity link above.
+* As you build your sequence, remember that you cannot go over the trees, bushes, and the pond. And you have to stay away from the crocodiles. 
 * Choose an animal you want to visit.
 * Use a combination of different action blocks to build a program to move your character on the grid and reach your selected animal.
 * Select the “Play” button to run the program and view how the on-screen character completes each step of the activity.
@@ -57,10 +59,13 @@ This is a multi-level activity that starts simple and builds in complexity. The 
 
 ## Tips
 
+* Kick off the activity with simple goals and encourage learners to either visit the giraffe or the lion first.
+* Once the learner have learned how to build a sequence to move their character on the screen, encourage them to reach harder goals, such as the pelican or the hippo. 
 * Adult moderators can show the movements to help learners understand the purpose of the activity.
+* Once learners go over the trees, bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with learner about debugging and modifying their sequence in a way that goes around those obstacles. 
 * Learners can leave the pen down feature enabled to draw a line as they move between the steps.
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal.
-* Animal sounds can be played once the learners complete the activity to celebrate and add excitement.
+* Moderator can mimic the sound of animal once the learners complete the activity to celebrate and add excitement.
 
 ## Skill Development
 
