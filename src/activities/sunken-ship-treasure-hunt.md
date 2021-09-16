@@ -1,5 +1,5 @@
 ---
-title: "Mission: Hunting the sunken treasure"
+title: Hunting the sunken treasure
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
@@ -43,19 +43,21 @@ books:
 
 In this activity, learners try to build a sequence to move their on-screen character from point A to point B. The path between these two points is not straight. There are roadblocks, like sharks, along the way. The character will need to stay away from these roadblocks. While building a sequence, learners will become familiar with the Weavly coding environment.
 
-Activity: \[link]
+Hunting the sunken treasure: \[link]
+
+![Deep ocean background including images of fish, shark, jelly fish, corals, and a treasure chest with large diamonds. ](/assets/media/deep-ocean.svg "Hunting the sunken treasure")
 
 ## Steps
 
-* Open the activity link.
-* Use a combination of action blocks to program a sequence to take your submarine to the sunken ship while moving around the sharks.
-* Select play to see how the submarine will move from the sea surface to the sunken ship.
-* Select the “Refresh” button to take the submarine back to its original spot.
-* Select the “Play” button and watch how the submarine moves from the surface to the sunken ship and returns to the surface while avoiding sharks on its path.
+* Select the "Hunting the sunken treasure" activity link above.
+* Use a combination of action blocks to program a sequence to take your submarine to the sunken treasure chest. 
+* As you build your sequence, remember that you need to move around the shark and the jellyfish and you cannot go over the coral reef.
+* Select play to see how the submarine will move from the sea surface to the sunken treasure.
 
 ## Tips
 
 * Adult moderators can show the movements to help learners understand the purpose of the activity.
+* Once the treasure chest is reached, moderators can clap, play animation effects or cheer to celebrate the arrival and discovery of the sunken treasure.
 * When the built sequence is incorrect, moderators can pause the program and encourage learners to find a way to fix (debug) their program.
 
 ## Skill Development
