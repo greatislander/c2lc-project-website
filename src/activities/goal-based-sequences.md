@@ -61,10 +61,9 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 
 * Start simple and encourage learners to begin the activity by visiting either the giraffe or the lion.
 * Once the learner completed the simple missions, encourage them to visit the pelican or the hippo. 
-* If learner builds a program that makes their on-screen character to go over the trees, bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with them about how to debug their program and avoid those obstacles. 
-* Learners can leave the pen down feature enabled to draw a line as they move between the steps.
+* If learner builds a program that makes their on-screen character go over the trees, bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with them about how to debug their program. 
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal.
-* Moderator can mimic the sound of animal once the learners complete the activity to celebrate and add excitement.
+* Moderator can play the sound of animal once the learners complete a mission to celebrate and add excitement.
 
 ## Skill Development
 
@@ -76,4 +75,4 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 
 ## Level Up!
 
-Learners can create their own program to add a specific challenge to their mission. An example would be picking up a farmer on their way to visit a farm animal or avoiding quick sand in their jungle safari adventure.
+Learners can create their own program to add a specific challenge to their mission. An example would be avoiding quick sand in their jungle safari adventure.
