@@ -1,5 +1,5 @@
 ---
-title: "Mission: Planet Discovery"
+title: Planet Discovery
 type: On-Screen
 experience: No Coding Experience
 subject: Goal Based
@@ -7,20 +7,29 @@ relatedActivities:
   - "Mission: Travelling to the moon"
 description: |
   In this activity, learners try simple sequences to discover different planets.
-whatYouNeed: |-
+metaImage: /assets/media/mission-_travel_to_the_moon.jpg
+metaImageAlt: "Illustration of hand showing the way to the moon to a space rocket. "
+whatYouNeed: >-
   ### Tools
+
 
   Internet access and a device to open Weavly coding environment
 
+
   ### Skills
 
-  N/A
+
+  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
+
 
   ### Environment
 
-  N/A
+
+  Indoor
+
 
   ### Support
+
 
   Depends on the learner, could be independent or require assistance
 books:
@@ -35,22 +44,31 @@ In this series of activities, learners build a sequence to direct their space ro
 
 Each mission has a suspected location to explore:
 
-Mission 1: Planet C-1
-Mission 2: Planet D-3
-Mission 3: Planet H-12
+* Mission 1: Travelling to the Moon
+* Mission 2: Mars discovery
+* Mission 3: Exploration of Saturn
+
+Planet discovery: \[Link]
+
+
+
+![Space background including earth, moon, Mars, Saturn, a Satellite, stars, and space rocks](/assets/media/space.svg "Space background")
+
+
 
 ## Steps
 
-* Select the robot under the World Selector.
-* Select the “Refresh” button to set the Rocket station at A-1.
-* Add a combination of Forward/Backwards and Turn Left/Right blocks to build your program to reach the listed coordinates for each mission.
+* Select the "Planet Discovery" activity link above.
+* Use a combination of different action blocks to build a program to move your rocket on the grid and complete each mission.
+* As you build your sequence, remember that you cannot go over other planets and should avoid meteors and space rocks.
 * Select the “Play” button to check if you have completed your mission.
-* Select the “Refresh” button to take the rocket back to Rocket station A-1 before starting a new mission.
+* Select the “Refresh” button to take the rocket back to Rocket station on earth at A-1 before starting a new mission.
 
 ## Tips
 
 * Once a planet is reached, moderators can clap, play animation effects or cheer to celebrate the arrival and discovery of a planet.
-* Adult moderators can show the movements to help learners understand the purpose of the activity. If the destination is missed, pause the program and work together to debug by asking questions
+* Adult moderators can show the movements to help learners understand the purpose of the activity. 
+* If the destination is missed or player moved over other planets, space rocks, or the meteors, pause the program and work together to debug by asking questions
 
   * What is the position of the planet?
   * Which direction is your rocket facing?  
@@ -63,4 +81,4 @@ Mission 3: Planet H-12
 
 ## Level Up!
 
-For more of a challenge, introduce road blocks (meteors, alien spaceships, etc.) to encourage learners to explore different paths to reach their planet.
+For more of a challenge, encourage learners to explore different paths to reach the same planets.
