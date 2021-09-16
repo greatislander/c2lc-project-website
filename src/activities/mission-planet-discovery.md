@@ -4,7 +4,8 @@ type: On-Screen
 experience: No Coding Experience
 subject: Goal Based
 relatedActivities:
-  - "Mission: Travelling to the moon"
+  - Jungle Safari Adventure
+  - Hunting the Sunken Treasure
 description: |
   In this activity, learners try simple sequences to discover different planets.
 metaImage: /assets/media/mission-_travel_to_the_moon.jpg
