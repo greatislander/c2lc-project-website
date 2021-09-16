@@ -1,5 +1,5 @@
 ---
-title: Hunting the sunken treasure
+title: Hunting the Sunken Treasure
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
@@ -70,4 +70,4 @@ Hunting the sunken treasure: \[link]
 
 ## Level Up!
 
-Moderators or learners can adjust the placement of the submarine, sunken ship, and the sharks to encourage building different program combinations.
+Moderators can use the character positioning buttons on the right of the scene to change the starting point of the submarine. This will encourage learners to build different program combinations.
