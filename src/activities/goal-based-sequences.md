@@ -1,5 +1,5 @@
 ---
-title: "Mission: Visiting Animals"
+title: Jungle Safari Adventure
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
@@ -43,7 +43,9 @@ books:
 
 This is a multi-level activity that starts simple and builds in complexity. Learners will build a sequence using different actions to help their on-screen character complete different missions and visit different animals on the scene.
 
-* Jungle Safari: \[Link]
+* Jungle Safari Adventure: \[Link]
+
+
 
   ![An image of the jungle safari background with animals, trees, bushes, and a pond.](/assets/media/jungle-safari.svg "Mission: Visiting Animals")
 
