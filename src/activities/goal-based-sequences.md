@@ -4,8 +4,8 @@ type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
 relatedActivities:
-  - "Mission: Hunting the sunken treasure"
-  - "Mission: Travelling to the moon"
+  - Hunting the Sunken Treasure
+  - Planet Discovery
 description: This multi-level activity challenges players to build a sequence to
   complete a mission.
 metaImage: /assets/media/mission-_visiting_animals.jpg
