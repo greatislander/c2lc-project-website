@@ -43,7 +43,7 @@ books:
 
 In this activity, learners try to build a sequence to move their on-screen character from point A to point B. The path between these two points is not straight. There are roadblocks, like sharks, along the way. The character will need to stay away from these roadblocks. While building a sequence, learners will become familiar with the Weavly coding environment.
 
-Hunting the sunken treasure: \[link]
+Hunting the sunken treasure: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=DeepOcean&p=&c=aab&a=123456ABDabd)
 
 ![Deep ocean background including images of fish, shark, jelly fish, corals, and a treasure chest with large diamonds. ](/assets/media/deep-ocean.svg "Hunting the sunken treasure")
 
