@@ -64,7 +64,7 @@ Planet discovery: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Spa
 
 ## Tips
 
-* Once a planet is reached, moderators can clap, play animation effects or cheer to celebrate the arrival and discovery of a planet.
+* Once a planet is reached, moderators can clap or cheer to celebrate the arrival and discovery of a planet.
 * Adult moderators can show the movements to help learners understand the purpose of the activity. 
 * If the destination is missed or the rocket moved over other planets, space rocks, or the meteors, pause the program and work together to debug by asking questions
 
