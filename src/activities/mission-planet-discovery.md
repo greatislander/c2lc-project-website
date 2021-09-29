@@ -60,13 +60,13 @@ Planet discovery: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Spa
 * Use a combination of different action blocks to build a program to move your rocket on the grid and complete each mission.
 * As you build your sequence, remember that you cannot go over other planets and should avoid meteors and space rocks.
 * Select the “Play” button to check if you have completed your mission.
-* Select the “Refresh” button to take the rocket back to Rocket station on earth at A-1 before starting a new mission.
+* Select the “Refresh” button to take the rocket back to the Rocket station on earth in square A2 before starting a new mission.
 
 ## Tips
 
 * Once a planet is reached, moderators can clap, play animation effects or cheer to celebrate the arrival and discovery of a planet.
 * Adult moderators can show the movements to help learners understand the purpose of the activity. 
-* If the destination is missed or player moved over other planets, space rocks, or the meteors, pause the program and work together to debug by asking questions
+* If the destination is missed or the rocket moved over other planets, space rocks, or the meteors, pause the program and work together to debug by asking questions
 
   * What is the position of the planet?
   * Which direction is your rocket facing?  
