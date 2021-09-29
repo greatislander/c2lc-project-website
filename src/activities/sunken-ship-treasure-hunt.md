@@ -57,7 +57,7 @@ Hunting the sunken treasure: [Activity link](https://create.weavly.org/?v=0.9&t=
 ## Tips
 
 * Adult moderators can show the movements to help learners understand the purpose of the activity.
-* Once the treasure chest is reached, moderators can clap, play animation effects or cheer to celebrate the arrival and discovery of the sunken treasure.
+* Once the treasure chest is reached, moderators can clap or cheer to celebrate the arrival and discovery of the sunken treasure.
 * When the built sequence is incorrect, moderators can pause the program and encourage learners to find a way to fix (debug) their program.
 
 ## Skill Development
