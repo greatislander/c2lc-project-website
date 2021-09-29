@@ -52,7 +52,7 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 * Select the "Jungle Safari" activity link above.
 * Choose an animal you want to visit.
 * Use a combination of different action blocks to build a program to move your character on the grid and reach your selected animal.
-* As you build your sequence, remember that you cannot go over the trees, bushes, and the pond. And you have to stay away from the crocodiles. 
+* As you build your sequence, remember that you cannot go over the trees, the bushes, and the pond. And you have to stay away from the crocodiles. 
 * Once your program is ready, select the “Play” button to run the program and view how the on-screen character completes each step of the activity.
 * To visit another animal, select the “Delete” button to delete your current program.
 * Start building a new one.
@@ -60,8 +60,8 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 ## Tips
 
 * Start simple and encourage learners to begin the activity by visiting either the giraffe or the lion.
-* Once the learner completed the simple missions, encourage them to visit the pelican or the hippo. 
-* If learner builds a program that makes their on-screen character go over the trees, bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with them about how to debug their program. 
+* Once the learner has completed the simple missions, encourage them to visit the pelican or the hippo. 
+* If the learner builds a program that makes their on-screen character go over the trees, the bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with them about how to debug their program. 
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal.
 * Moderator can play the sound of animal once the learners complete a mission to celebrate and add excitement.
 
