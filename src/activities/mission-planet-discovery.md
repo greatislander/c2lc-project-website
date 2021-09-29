@@ -42,7 +42,7 @@ books:
 ---
 ## Description
 
-In this series of activities, learners build a sequence to direct their space rocket to discover different planets. The activities in the series add to the complexity of building a sequence. Learners will use a combination of action blocks to build a sequence and navigate a specific destination on the scene. To create sequences, learners can use a combination of forward and backwards action blocks at different steps, and turn right/left at different degrees. In the mission to discover each planet, learners can take the most direct path or take on a challenge by using more action blocks to increase the complexity of their sequenced path. 
+In this series of activities, learners build a sequence to direct their space rocket to discover different planets. The activities in the series add to the complexity of building a sequence. Learners will use a combination of action blocks to build a sequence and navigate to a specific destination on the scene. To create sequences, learners can use a combination of forward and backwards action blocks at different steps, and turn right/left at different degrees. In the mission to discover each planet, learners can take the most direct path or take on a challenge by using more action blocks to increase the complexity of their sequenced path. 
 
 Each mission has a suspected location to explore:
 
