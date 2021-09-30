@@ -49,7 +49,7 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
-*" This background represents a Savannah with light beige and sand colours. In the top middle, there is a giraffe with its baby. At the top right corner there is a lion roaring on top of a cliff above the horizon. In the middle of the background, there are bushes and trees. In the lower middle, there is a pond. There are two crocodiles on the left of the pond. There is a hippo drinking water on the right of the pond. And there is a flamingo wading in the middle of the pond. There are bushes on both bottom right and left corners of this background. "*
+*" This background shows a Savannah with light beige and sand colours. In the top middle, there is a giraffe with its baby. At the top right corner there is a lion roaring on top of a cliff above the horizon. In the middle of the background, there are bushes and trees. In the lower middle, there is a pond. There are two crocodiles on the left of the pond. There is a hippo drinking water on the right of the pond. And there is a flamingo wading in the middle of the pond. There are bushes on both bottom right and left corners of this background. "*
 
 ## Steps
 
