@@ -54,6 +54,12 @@ Planet discovery: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Spa
 
 ![Space background including earth, moon, Mars, Saturn, a Satellite, stars, and space rocks](/assets/media/space.svg "Space background")
 
+Moderators can use this blurb to describe the background for the players before they start their missions:
+
+*" This background represents space with a night-like dark blue colour. In the top left area, there is planet earth with the moon located to its right. There is one meteor below the earth and there is another one two columns to the right of the moon. In the top right, there is Planet Saturn and two aliens to the top right of the Saturn. To the bottom left, there are space rocks surrounding planet Mars. In the bottom right, we have a satellite with a meteor to the left and space rocks on top. In the middle of the background, there are space rocks. "*
+
+
+
 ## Steps
 
 * Select the "Planet Discovery" activity link above.
