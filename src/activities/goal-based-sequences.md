@@ -60,7 +60,7 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 ## Tips
 
 * Start simple and encourage learners to begin the activity by visiting either the giraffe or the lion.
-* Once the learner has completed the simple missions, encourage them to visit the pelican or the hippo. 
+* Once the learner has completed the simple missions, encourage them to visit the flamingo or the hippo. 
 * If the learner builds a program that makes their on-screen character go over the trees, the bushes, or the lake, or hit the crocodiles, adult moderators can pause the activity and talk with them about how to debug their program. 
 * Once a goal is reached, moderators can encourage learners to think about other potential ways to get to the same animal.
 * Moderator can play the sound of animal once the learners complete a mission to celebrate and add excitement.
