@@ -49,17 +49,21 @@ This is a multi-level activity that starts simple and builds in complexity. Lear
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
-*" This background shows a Savannah with light beige and sand colours. In the top middle, there is a giraffe with its baby. At the top right corner there is a lion roaring on top of a cliff above the horizon. In the middle of the background, there are bushes and trees. In the lower middle, there is a pond. There are two crocodiles on the left of the pond. There is a hippo drinking water on the right of the pond. And there is a flamingo wading in the middle of the pond. There are bushes on both bottom right and left corners of this background. "*
+*" This background shows a Savannah with light beige and sand colours. In the top middle, there is a giraffe with its baby. At the top right corner there is a lion roaring on top of a cliff above the horizon. In the middle of the background, there are bushes and trees. In the lower middle, there is a pond. There are two crocodiles on the left of the pond. There is a hippo drinking water on the right of the pond. And there is a flamingo wading in the middle of the pond. There are bushes on both bottom right and left corners of this background. Your on-screen character is a Jeep. "*
 
 ## Steps
 
 * Select the "Jungle Safari" activity link above.
 * Choose an animal you want to visit.
-* Use a combination of different action blocks to build a program to move your character on the grid and reach your selected animal.
-* As you build your sequence, remember that you cannot go over the trees, the bushes, and the pond. And you have to stay away from the crocodiles. 
-* Once your program is ready, select the “Play” button to run the program and view how the on-screen character completes each step of the activity.
-* To visit another animal, select the “Delete” button to delete your current program.
-* Start building a new one.
+* Use a combination of different action blocks to build a program to move your Jeep on the grid and reach your selected animal.
+* As you build your program, remember that you cannot go over the trees, the bushes, and the pond. And you have to stay away from the crocodiles. 
+* Once your program is ready, select the "Play" button to run the program and view how your Jeep completes each step of your sequence.
+* To visit another animal, you can follow these two steps to start fresh: 
+
+1. Select the "Delete" button to delete your current sequence in the program area. 
+2. Select the "Refresh" button on your scene to move the Jeep back to its original starting point.
+
+* Now you are ready to build a new program
 
 ## Tips
 
