@@ -63,8 +63,13 @@ Moderators can use this blurb to describe the background for the players before 
 * Select the "Planet Discovery" activity link above.
 * Use a combination of different action blocks to build a program to move your rocket on the grid and complete each mission.
 * As you build your sequence, remember that you cannot go over other planets and should avoid meteors and space rocks.
-* Select the “Play” button to check if you have completed your mission.
-* Select the “Refresh” button to take the rocket back to the Rocket station on earth in square A2 before starting a new mission.
+* Select the "Play" button to check if you have completed your mission.
+* To begin a new mission, you can follow these two steps to start fresh:
+
+1. Select the "Delete" button to delete your current sequence in the program area.
+2. Select the "Refresh" button on your scene to move the rocket back to its rocket station on earth.
+
+* Now you are ready for your new mission.
 
 ## Tips
 
