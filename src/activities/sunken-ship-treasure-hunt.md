@@ -49,14 +49,14 @@ Hunting the sunken treasure: [Activity link](https://create.weavly.org/?v=0.9&t=
 
 Moderators can use this blurb to describe the background for the players before they start their missions:
 
-*" This background shows a deep ocean scene with a deep sea blue colour. At the top right area of this background there is a school of fish moving towards the top of the scene. In the middle left area, there are three jellyfish in different sizes. Directly in front of the jellyfish, there is a large shark that is occupying almost half of the width of the background from the middle to the right edge. At the bottom left corner, there are coral reefs and small fish. In the bottom sea floor there is a treasure chest. "*
+*" This background shows a deep ocean scene with a deep sea blue colour. At the top right area of this background there is a school of fish moving towards the top of the scene. In the middle left area, there are three jellyfish in different sizes. Directly in front of the jellyfish, there is a large shark that is occupying almost half of the width of the background from the middle to the right edge. At the bottom left corner, there are coral reefs and small fish. In the bottom sea floor there is a treasure chest. Your on-screen character is a submarine. "*
 
 ## Steps
 
 * Select the "Hunting the sunken treasure" activity link above.
 * Use a combination of action blocks to program a sequence to take your submarine to the sunken treasure chest. 
 * As you build your sequence, remember that you need to move around the shark and the jellyfish and you cannot go over the coral reef.
-* Select play to see how the submarine will move from the sea surface to the sunken treasure.
+* Select the "Play" button to find out how the submarine will move from the sea surface to the sunken treasure.
 
 ## Tips
 
