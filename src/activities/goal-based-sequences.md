@@ -84,3 +84,5 @@ Moderators can use this blurb to describe the background for the players before 
 ## Level Up!
 
 Learners can create their own program to add a specific challenge to their mission. An example would be avoiding quick sand in their jungle safari adventure.
+
+<img src="https://code.org/api/hour/begin_weavly.png" class="visually-hidden" alt="" width="0" height="0" />
