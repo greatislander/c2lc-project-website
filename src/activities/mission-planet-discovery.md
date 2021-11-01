@@ -66,10 +66,8 @@ Moderators can use this blurb to describe the background for the players before 
 * Select the "Play" button to check if you have completed your mission.
 * To begin a new mission, you can follow these two steps to start fresh:
 
-1. Select the "Delete" button to delete your current sequence in the program area.
-2. Select the "Refresh" button on your scene to move the spaceship back to its station on earth.
-
-* Now you are ready for your new mission.
+  1. Select the "Delete" button to delete your current sequence in the program area.
+  2. Select the "Refresh" button on your scene to move the spaceship back to its station on earth.
 
 ## Tips
 
