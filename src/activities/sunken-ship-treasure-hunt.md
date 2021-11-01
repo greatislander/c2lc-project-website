@@ -39,8 +39,6 @@ books:
     coverImage: /assets/media/stuck.jpg
     link: /learn/resources/picture-book-list/
 ---
-![]()
-
 ## Description
 
 In this activity, learners try to build a sequence to move their on-screen character from point A to point B. The path between these two points is not straight. There are roadblocks, like sharks, along the way. The character will need to stay away from these roadblocks. While building a sequence, learners will become familiar with the Weavly coding environment.
@@ -77,3 +75,5 @@ Moderators can use this blurb to describe the background for the players before 
 ## Level Up!
 
 Moderators can use the character positioning buttons on the right of the scene to change the starting point of the submarine. This will encourage learners to build different program combinations.
+
+<img src="https://code.org/api/hour/begin_weavly.png" class="visually-hidden" alt="" width="0" height="0" />
