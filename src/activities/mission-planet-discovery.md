@@ -89,3 +89,5 @@ Moderators can use this blurb to describe the background for the players before 
 ## Level Up!
 
 For more of a challenge, encourage learners to explore different paths to reach the same planets.
+
+<img src="https://code.org/api/hour/begin_weavly.png" class="visually-hidden" alt="" width="0" height="0" />
