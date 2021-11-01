@@ -39,7 +39,7 @@ books:
     coverImage: /assets/media/stuck.jpg
     link: /learn/resources/picture-book-list/
 ---
-![](https://code.org/api/hour/begin_weavly.png)
+![]()
 
 ## Description
 
