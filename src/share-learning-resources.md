@@ -3,9 +3,7 @@ title: Share Learning Resources
 layout: layouts/share.njk
 permalink: /learn/share/
 ---
-Weavly provides an open-access repository where activities, lessons, videos and other resources can be collected and shared.
-
-You can submit your activity or educational support at any time to share with other learners and educators.
+Weavly provides an open-access repository where activities, lessons, videos and other resources can be collected and shared. You can submit your activity or educational support at any time to share with other learners and educators.
 
 Based on the information you provide here, we can:
 
