@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://www.github.com/codelearncreate/weavly.org/compare/v1.0.1...v1.1.0) (2021-11-29)
+
+
+### Features
+
+* share resources form (resolves [#296](https://www.github.com/codelearncreate/weavly.org/issues/296)) ([#444](https://www.github.com/codelearncreate/weavly.org/issues/444)) ([13ca990](https://www.github.com/codelearncreate/weavly.org/commit/13ca990fc82eae284a6833bb9997ecd5de45e01b))
+
 ### [1.0.1](https://www.github.com/codelearncreate/weavly.org/compare/v1.0.0...v1.0.1) (2021-09-22)
 
 
