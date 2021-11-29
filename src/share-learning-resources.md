@@ -17,4 +17,4 @@ Based on the information you provide here, we can:
 
 You can also use this template to build your coding activity and send it along this form.
 
-[Coding Activity Template](/media/coding-activity-template.docx)
+[Coding Activity Template](/assets/media/coding-activity-template.docx)
