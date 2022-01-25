@@ -1,0 +1,79 @@
+---
+title: Weavly for screen reader users
+date: 2022-01-25T16:42:04.495Z
+author: Weavly team
+description: This guide provides information about how the Weavly coding
+  environment can be navigated and used by screen readers.
+metaImageAlt: ""
+---
+Weavly has incorporated settings to support screen readers. Screen readers are a form of assistive technology (AT) that convert status and processes on a screen into an audio output to allow people who are blind to access the content and operate it. There are different screen reader providers with different set-ups and features. Here are a few softwares used for different operating systems:
+
+* For Windows users, Job Access with Speech (JAWS), Non-Visual Desktop Access (NVDA), Microsoft Narrator.
+* For Mac users, Apple Voiceover.
+* For Linux users, Orca.
+
+Prior to using Weavly’s coding environment, consider the following features and tips to provide a more accessible coding experience for learners who use screen readers.
+
+## Navigation
+
+### Keyboard shortcuts
+
+Each screen reader has different sets of keyboard commands (known as keyboard shortcuts) to enable the user to interact with a digital interface. Depending on the operating system and screen reader being used, different keyboard shortcuts are available in Weavly.
+
+Learners can open the keyboard shortcut menu to turn on the keyboard shortcuts on the Weavly interface. On this menu, they can also choose the type of shortcuts suitable for their device. Learners and facilitators can always go back to this menu to turn keyboard shortcuts on/off or to change their settings. When the keyboard shortcuts are turned on, learners can use “?” on their keyboard to open and close this menu. 
+
+\
+Learners can use these keyboard shortcuts to complete different tasks in the Weavly coding environment, such as selecting action blocks, building and editing a program, selecting different backgrounds for their scene, moving their character to a specific starting position on the scene, and playing their program. 
+
+#### Shortcuts for exiting navigation cycles
+
+To edit an action block on a program sequence, learners need to open its edit menu in Weavly. Once the edit menu is open, they may experience getting stuck in a navigation cycle when they want to close the edit menu or replace their action block. To exit any of these navigation cycles, learners can press the “Escape” key on their keyboard.
+
+#### Shortcuts for adjusting the playback Speed
+
+Once a program is created, the speed of playback can be controlled under the playback speed. To adjust the speedbar, learners can use the left and right arrow keys on their keyboard to decrease or increase the speed on the speed bar. 
+
+### Landmarks
+
+Learners are able to navigate Weavly through landmarks. Landmarks are distinct regions in the Weavly coding environment that include a group of links with related functionalities. Here is the list of available landmarks in Weavly:
+
+* Weavly Logo 
+* This icon will take learners back to the main Weavly website that includes learning the resources and coding activities.
+* Accessibility settings
+* * This region includes options to adjust audio settings, colour themes, keyboard shortcuts, and robot connections.
+* Scene 
+* * Selecting this region includes the background and the on-screen character. 
+* Scene settings
+* * Selecting this region includes options to choose a background for the scene, move the on-screen character to a specific starting position, and turn on/off the pen toggle.
+* Action blocks
+* * Selecting this region includes all the action blocks that learners need to build a program.
+* Program
+* * Selecting this region, learners can use action blocks to build a program and make edits. 
+* Play controls
+* * Selecting this region allows learners to play, pause, or stop their program, adjust the execution speed of their program, refresh their scene, and get a link of their programs to share with others. 
+
+### Header navigation
+
+Learners are able to navigate by headers in the Weavly coding environment. Here is a list of available headings in Weavly :
+
+* Weavly - H1
+* * Scene - H2
+  * [World](http://3.world/) Selector - H2
+  * Actions Panel - H2
+  * Program - H2
+  * * Program Sequence [](http://7.play/) - H3
+
+[Play](http://7.play/) Control - H2
+
+### Audio Settings
+
+Facilitators can work with the learner to find the best audio settings that meet the learner’s needs and preferences. Here are the available options:
+
+1. Option to turn on/off all sounds in the Weavly coding environment.
+2. Option to turn on/off all musical sounds (Each action block will have a unique sound based on its location on the grid. These musical sounds are only played when a program is being played.)
+3. Option to turn on/off all audio announcements or individually select to turn on/off any of the following two options. Learners will also be able to adjust the speed of these announcements.
+
+* Feedback: Audio announcement when an item is selected
+* Preview: Audio announcement while hovering over an item
+
+To allow screen readers to be the main source of audio output, it is recommended to turn off audio announcement, however, leave the musical sounds on.
