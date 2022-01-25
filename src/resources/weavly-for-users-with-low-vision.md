@@ -1,5 +1,5 @@
 ---
-title: Weavly for users with low vision
+title: Weavly for learners with low vision
 date: 2022-01-25T20:28:43.535Z
 author: Weavly team
 description: "This guide will provide more information about how learners with
