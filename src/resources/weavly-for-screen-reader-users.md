@@ -4,7 +4,8 @@ date: 2022-01-25T16:42:04.495Z
 author: Weavly team
 description: This guide provides information about how to navigate and use the
   Weavly coding environment cby screen readers.
-metaImageAlt: ""
+metaImage: /assets/media/braille-user.jpg
+metaImageAlt: A student is using a braille keyboard.
 ---
 Weavly has incorporated settings to support screen readers. Screen readers are a form of assistive technology (AT) that convert status and processes on a screen into an audio output to allow people who are blind to access the content and operate it. There are different screen reader providers with different set-ups and features. Here are a few softwares used for different operating systems:
 
@@ -42,7 +43,7 @@ Learners are also able to navigate Weavly through landmarks. Landmarks are disti
 * Accessibility settings: This region includes options to adjust audio settings, colour themes, keyboard shortcuts, and robot connections.
 * Scene: This region includes the selected scene background and the on-screen character. 
 * Scene settings: This region includes options to change the background and the position of the on-screen character. 
-* Action blocks: This region includes all the action blocks that learners need to build a program program.
+* Actions panel: This region includes all the action blocks that learners need to build a program program.
 * Program panel: In this region, learners can use action blocks to build a program and make edits. 
 * Play controls: This region includes controls that allow learners to play, pause, or stop their program, adjust the heir program playback speed, refresh their scene, and get a link of their programs to share with others. 
 
