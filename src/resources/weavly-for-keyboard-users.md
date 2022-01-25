@@ -72,7 +72,11 @@ An extended list of keyboard shortcuts is available. This extended list was crea
 
 ### Scene background and character position
 
+![Weavly world selector menu](/assets/media/world-selector.jpg "Weavly world selector menu")
+
 To change the scene background, tab to the scene settings section. Press enter or spacebar to open the world selector menu. Use the arrow keys to select the background you prefer for your scene. Tab to the “Save” button, select it by pressing Enter or Spacebar. 
+
+![Weavly character positioning tool](/assets/media/character-position.jpg "Weavly character positioning tool")
 
 You can tab to the character positioning tools and use your Spacebar or Enter keys to move your character to your preferred starting position.
 
@@ -82,14 +86,16 @@ To be able to select and insert action blocks anywhere into your program, you ne
 
 the Here are a few steps you can take to build a program in Weavly:
 
-1. Tab to the action blocks
-2. Once you reach your preferred action block, press Enter or Spacebar to select it
-3. Continue tabing to the program panel
-4. Tab to the “add” node that you want to insert your action block to
+1. Tab to the action blocks.
+2. Once you reach your preferred action block, press Enter or Spacebar to select it.
+3. Then tab to the program panel.
+4. Tab to the “add” node that you want to insert your action block to.
 5. Once you are there, press Enter or Spacebar to insert your selected action block to your program. 
 6. While your action is selected, you can still press Enter or Spacebar to insert it into multiple spots in your program. 
 7. If you need a different action block, use Shift + Tab key to go back to the action blocks and select another action. 
 8. Repeat the same process to add those action blocks to your program. 
+
+
 
 To edit your program, follow the following steps: 
 
