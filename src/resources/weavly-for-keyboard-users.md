@@ -23,6 +23,8 @@ Learners are able to fully navigate Weavly’s coding environment and operate it
 
 ### Tab order
 
+![This image displays the tab order in the Weavly coding environment. ](/assets/media/tab-order.jpg "Weavly tab order")
+
 The following tab order is arranged for the Weavly coding environment to facilitate keyboard navigation: 
 
 1. Weavly Logo: This link will take learners back to the main Weavly website.
@@ -33,8 +35,6 @@ The following tab order is arranged for the Weavly coding environment to facilit
 6. Program panel: This panel provides a space to build a new program and make edits to the existing ones.
 7. Play controls: includes controls to play, pause, or stop a program, adjust the playback speed of their program, refresh the scene, and get a link of the programs to share with others. 
 
-
-
 ## Customizing the coding environment 
 
 ### Visual themes
@@ -43,13 +43,15 @@ Learners can tab to the accessibility settings and use the “Themes” option t
 
 ### Audio settings
 
+![Weavly audio settings menu](/assets/media/audio-menu.jpg "Weavly audio settings menu")
+
 Learners can tab to the accessibility settings and use the “Audio” option to select the type of audio announcements they would like to receive from the coding environment. This audio setting is different from the screen reader announcements. 
 
 ### Keyboard shortcuts
 
+![Weavly keyboard shortcut menu](/assets/media/keyboard-shortcuts.jpg "Weavly keyboard shortcut menu")
+
 Learners can press “tab” to navigate the accessibility settings and use the “keyboard shortcuts” option to turn the use of keyboard shortcuts on or off. On this menu, learners can choose the type of shortcuts suitable for their device. When the keyboard shortcuts are turned on, learners can press “?” on their keyboard to open and close this menu. 
-
-
 
 Here are a few basic keyboard shortcuts that learners can use:
 
@@ -62,8 +64,6 @@ Here are a few basic keyboard shortcuts that learners can use:
 * Ctrl+Alt+R : Refresh the scene
 * Ctrl+Alt+S : Stop the program
 
-
-
 An extended list of keyboard shortcuts is available. This extended list was created those interested in building onscreen keyboard interfaces for the switch users rather than directly using the keyboard. Here is the list of all available keyboard shortcuts for Weavly: 
 
 <https://github.com/codelearncreate/c2lc-coding-environment/blob/main/docs/keyboard.md>
@@ -72,15 +72,11 @@ An extended list of keyboard shortcuts is available. This extended list was crea
 
 To change the scene background, tab to the scene settings section. Press enter or spacebar to open the world selector menu. Use the arrow keys to select the background you prefer for your scene. Tab to the “Save” button, select it by pressing Enter or Spacebar. 
 
-
-
 You can tab to the character positioning tools and use your Spacebar or Enter keys to move your character to your preferred starting position.
 
 ## Building and editing a program 
 
 To be able to select and insert action blocks anywhere into your program, you need to make sure the toggle for “add nodes'' is expanded. Otherwise, you will only be able to add action blocks at the end of your program sequence. 
-
-
 
 the Here are a few steps you can take to build a program in Weavly:
 
@@ -92,8 +88,6 @@ the Here are a few steps you can take to build a program in Weavly:
 6. While your action is selected, you can still press Enter or Spacebar to insert it into multiple spots in your program. 
 7. If you need a different action block, use Shift + Tab key to go back to the action blocks and select another action. 
 8. Repeat the same process to add those action blocks to your program. 
-
-
 
 To edit your program, follow the following steps: 
 
