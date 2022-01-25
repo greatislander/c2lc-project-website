@@ -38,7 +38,7 @@ Weavly also includes distinct visual states for interactive items, such as the f
 
 ### Simplification
 
-
+![This image shows how learners can use the action panel's simplification menu to hide action blocks. ](/assets/media/simplification.jpg "Weavly simplification menu")
 
 Visual attention is the cognitive function to select relevant information for orienting and responding to a visual target. To simplify the coding environment and help learners to gradually learn about different actions, Weavly provides a simplification option. This option allows the facilitators to simplify the action panel by reducing the number of action blocks shown. 
 
