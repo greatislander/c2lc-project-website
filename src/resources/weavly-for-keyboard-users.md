@@ -39,6 +39,8 @@ The following tab order is arranged for the Weavly coding environment to facilit
 
 ### Visual themes
 
+![Weavly visual themes](/assets/media/visual-themes.jpg "Weavly visual themes")
+
 Learners can tab to the accessibility settings and use the “Themes” option to apply their preferred visual theme across the coding environment. Available visual themes include: Default, Dark, Light, Greyscale, and High Contrast themes.
 
 ### Audio settings
