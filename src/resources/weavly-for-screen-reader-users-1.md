@@ -3,7 +3,7 @@ title: Weavly for screen reader users
 date: 2022-01-25T19:01:13.999Z
 author: Weavly team
 description: This guide provides information about how to navigate and use the
-  Weavly coding environment cby screen readers.
+  Weavly coding environment by screen readers.
 metaImage: /assets/media/braille-user.jpg
 metaImageAlt: This image shows a student using braille keyboard
 ---
