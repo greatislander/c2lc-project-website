@@ -75,9 +75,9 @@ Learners are able to navigate by headers in the Weavly coding environment. Here 
 
 Facilitators can work with the learner to find the best audio settings that meet the learner’s needs and preferences. To allow screen readers to be the main source of audio output, it is recommended to turn off audio announcement, however, leave the musical sounds on. Here are the available options:
 
-1. Option to turn on/off all sounds in the Weavly coding environment.
-2. Option to turn on/off all musical sounds (Each action block will have a unique sound based on its location on the grid. These musical sounds are only played when a program is being played.)
-3. Option to turn on/off all audio announcements or individually select to turn on/off any of the following two options: 
+* Option to turn on/off all sounds in the Weavly coding environment.
+* Option to turn on/off all musical sounds (Each action block will have a unique sound based on its location on the grid. These musical sounds are only played when a program is being played.)
+* Option to turn on/off all audio announcements or individually select to turn on/off any of the following two options: 
 
-* Feedback: Audio announcement when an item is selected
-* Preview: Audio announcement while hovering over an item
+  * Feedback: Audio announcement when an item is selected
+  * Preview: Audio announcement while hovering over an item
