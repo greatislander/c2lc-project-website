@@ -17,7 +17,7 @@ Prior to using Weavly’s coding environment, consider the following features an
 
 ## Keyboard shortcuts
 
-![This image shows an expanded keyboard shortcut menu in the Weavly coding environment. ](/assets/media/keyboard-shortcut-menu.jpg "Weavly keyboard shortcut menu")
+![This image shows an expanded keyboard shortcut menu in the Weavly coding environment. ](/assets/media/keyboard-shortcuts.jpg "Weavly keyboard shortcut menu")
 
 Each screen reader has different sets of keyboard commands (known as keyboard shortcuts) to enable the user to interact with a digital interface. Depending on the operating system and screen reader being used, different keyboard shortcuts are available in Weavly.
 
@@ -29,7 +29,7 @@ A more extended list of keyboard shortcuts is also available. This extended list
 
 ### Shortcuts for exiting navigation cycles
 
-![This image shows an expanded edit menu for an action block in a program sequence. ](/assets/media/edit-menu.png "Action block's edit menu")
+![This image shows an expanded edit menu for an action block in a program sequence. ](/assets/media/edit-menu.jpg "Action block's edit menu")
 
 To edit an action block on a program sequence, learners need to open its edit menu in Weavly. Once the edit menu is open, they may experience getting stuck in a navigation cycle when they want to close the edit menu or replace their action block. To exit any of these navigation cycles, learners can press the “Escape” key on their keyboard.
 
@@ -71,7 +71,7 @@ Learners are able to navigate by headers in the Weavly coding environment. Here 
 
 ## Audio Settings
 
-![This image shows an expanded audio settings menu for the Weavly coding environment. ](/assets/media/audio-settings.png "Weavly audio settings menu")
+![This image shows an expanded audio settings menu for the Weavly coding environment. ](/assets/media/audio-menu.jpg "Weavly audio settings menu")
 
 Facilitators can work with the learner to find the best audio settings that meet the learner’s needs and preferences. To allow screen readers to be the main source of audio output, it is recommended to turn off audio announcement, however, leave the musical sounds on. Here are the available options:
 
