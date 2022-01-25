@@ -27,7 +27,9 @@ There is a colour theme setting on the Weavly coding environment. Facilitators c
 
 ### Visual cues 
 
-Colour coded action blocks: In the actions panel, each action block has a distinct colour. Green for moving forward, blue for moving backward, yellow for turning left and red for turning right. However, if learners select the greyscale colour theme all blocks will be displayed in grey. When the high contrast colour theme is selected all blocks will be displayed in white. 
+![This image shows the highlighted strokes when an action block is dragged and dropped to a program sequence.](/assets/media/drag-and-drop.jpg "Weavly drag and drop visual cues")
+
+In the actions panel, each action block has a distinct colour. Green for moving forward, blue for moving backward, yellow for turning left and red for turning right. However, if learners select the greyscale colour theme all blocks will be displayed in grey. When the high contrast colour theme is selected all blocks will be displayed in white. 
 
 Weavly also includes distinct visual states for interactive items, such as the followings:
 
