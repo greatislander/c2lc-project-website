@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://www.github.com/codelearncreate/weavly.org/compare/v1.1.0...v1.1.1) (2022-01-26)
+
+
+### Bug Fixes
+
+* add Share Learning Resources to CMS ([ca488cb](https://www.github.com/codelearncreate/weavly.org/commit/ca488cb48a912dacc8e4c863a5a010d619724ebc))
+
 ## [1.1.0](https://www.github.com/codelearncreate/weavly.org/compare/v1.0.1...v1.1.0) (2021-11-29)
 
 
