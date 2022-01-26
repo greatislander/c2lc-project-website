@@ -2,8 +2,8 @@
 title: Weavly for screen reader users
 date: 2022-01-25T19:01:13.999Z
 author: Weavly team
-description: This guide provides information about how to navigate and use the
-  Weavly coding environment by screen readers.
+description: This guide provides more information about how to navigate and use
+  the Weavly coding environment by screen readers.
 metaImage: /assets/media/braille-user.jpg
 metaImageAlt: This image shows a student using braille keyboard
 ---
@@ -53,9 +53,9 @@ Learners are also able to navigate Weavly through landmarks. Landmarks are disti
 * Program panel: In this region, learners can use action blocks to build a program and make edits.
 * Play controls: This region includes controls that allow learners to play, pause, or stop their program, adjust the heir program playback speed, refresh their scene, and get a link of their programs to share with others.
 
-## Header navigation
+## Heading navigation
 
-![This image shows the available headings in the Weavly coding environment. ](/assets/media/header-navigation.jpg "Weavly headings")
+![This image shows the available headings in the Weavly coding environment. ](/assets/media/heading-navigation.jpg "Weavly headings")
 
 Learners are able to navigate by headers in the Weavly coding environment. Here is a list of available headings in Weavly :
 
