@@ -25,7 +25,55 @@ Here is a full list of keyboard shortcuts that are available for Weavly: [](http
 
 To increase ease of scanning and navigation efficiency, the items on Weavly can be grouped for row-column scanning. In this table, we have provided the commands, the keyboard shortcuts that are associated with them, as well as the visuals that can be used to build the onscreen keyboards. 
 
+
+
+| Available visuals | Feature name | Keyboard shortcuts | Commands |
+| ----------------- | ------------ | ------------------ | -------- |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+|                   |              |                    |          |
+
 {% grid "4" %}
+
 * test
 * test
+
 {% endgrid %}
