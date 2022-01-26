@@ -25,6 +25,8 @@ Here is a full list of keyboard shortcuts that are available for Weavly: [](http
 
 To increase ease of scanning and navigation efficiency, the items on Weavly can be grouped for row-column scanning. In this table, we have provided the commands, the keyboard shortcuts that are associated with them, as well as the visuals that can be used to build the onscreen keyboards. 
 
+![Add to beginning](/assets/media/add-to-beginning.png "Add to beginning")
+
 | Action                        | Keyboard shortcuts | Visuals for onscreen keyboard           |
 | ----------------------------- | ------------------ | --------------------------------------- |
 | Add action block to a program | Ctrl + Alt + a     | <img src="add-to-beginning.png" alt=""> |
