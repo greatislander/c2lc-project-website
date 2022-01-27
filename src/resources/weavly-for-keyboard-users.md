@@ -18,7 +18,7 @@ Learners are able to fully navigate Weavly’s coding environment and operate it
 * Press “Tab” key to go to the next interactive item in the Weavly coding environemnt.
 * Press “Shift” + “Tab” keys to go back to the previous interactive item in the Weavly coding environemnt.
 * Press “Spacebar” or “Enter” to select an item.
-* Use arrow keys to move between the options on a menu or adjust the speed of your program. 
+* Use arrow keys to move between the options on a menu. 
 * Press the “Esc” key to exit any open menus.
 
 ### Tab order
@@ -95,13 +95,11 @@ the Here are a few steps you can take to build a program in Weavly:
 7. If you need a different action block, use Shift + Tab key to go back to the action blocks and select another action. 
 8. Repeat the same process to add those action blocks to your program. 
 
-
-
 To edit your program, follow the following steps: 
 
-1. Tab to your program panel 
+1. Tab to your program panel. 
 2. Tab to the action block on your program that you want to edit.
-3. Once you are on the action block, press Enter or the Spacebar to open its control menu
-4. Use the tab key to select any of the options on that menu including delete, replace, move to left, move to right
-5. Use Enter or Spacebar to select any of those actions
-6. Once you are done you can press the Esc key to exit this menu, or tab to the action block and press Enter or Spacebar to close the control panel
+3. Once you are on the action block, press Enter or the Spacebar to open its control menu.
+4. Use the tab key to select any of the options on that menu including delete, replace, move to left, move to right.
+5. Use Enter or Spacebar to select any of those actions.
+6. Once you are done you can press the Esc key to exit this menu, or tab to the action block and press Enter or Spacebar to close the control panel.
