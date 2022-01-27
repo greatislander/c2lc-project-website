@@ -24,7 +24,7 @@ There is a setting for enabling keyboard shortcuts in the Weavly coding environm
 
 ### Scanning
 
-To increase ease of scanning and navigation efficiency, the items on Weavly can be grouped for row-column scanning. In this table, we have provided the commands, the keyboard shortcuts that are associated with them, as well as the code for visuals icons that can be used to build the onscreen keyboards. The visual icons are available in the supportive material at the end of this post. 
+To increase ease of scanning and navigation efficiency, the items on Weavly can be grouped for row-column scanning. In this table, we have provided available commands, their associated keyboard shortcuts, and the code for visuals icons to build the onscreen keyboards. You can access the visual icons at the end of this post in the supportive material section. 
 
 | Action                                                              | Keyboard shortcuts      | Available visuals for onscreen keyboard |
 | ------------------------------------------------------------------- | ----------------------- | --------------------------------------- |
@@ -114,10 +114,7 @@ For any Onscreen Keyboard Interface designed for Apple the following shortcuts c
 | Change the current visual theme to the High Contrast theme          | Alt + x, t, 5        | A29                                     |
 | Turn on/off audio feedback announcements                            | Alt + x, x           | \--                                     |
 
-
-
 ## Sample Activity: Take Robot from A2 to B2
-
 
 Here is an example to demonstrate how onscreen keyboards can be used to operate the Weavly coding environemnt. The followng Grid3 onscreen keyboard is made with the Weavly keyboard shortcuts listed above. In this example, we try to build a program to move the  onscreen character from grid cell A1 to grid cell A2. 
 
