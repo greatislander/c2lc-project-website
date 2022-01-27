@@ -119,24 +119,24 @@ For any Onscreen Keyboard Interface designed for Apple the following shortcuts c
 ## Sample Activity: Take Robot from A2 to B2
 
 
-Here is an example to demonstrate how onscreen keyboards, such as Grid3 keyboards can be used to operate the Weavly coding environemnt. The followng Grid3 onscreen keyboard is made with the Weavly keyboard shortcuts listed above. In this example, we try to build a program to move the  
+Here is an example to demonstrate how onscreen keyboards can be used to operate the Weavly coding environemnt. The followng Grid3 onscreen keyboard is made with the Weavly keyboard shortcuts listed above. In this example, we try to build a program to move the  onscreen character from grid cell A1 to grid cell A2. 
 
 1. Launch the Grid3 dock on your display. 
-2. Select the Actions key on the Grid 3 onscreen keyboard. 
+2. Select the **"Actions"** key on the Grid 3 onscreen keyboard to open the Actions panel including all the action blocks. 
 
    ![Selecting Actions panel on the Grid3 keyboard](/assets/media/grid-3-actions.jpg "Selecting Actions panel on the Grid3 keyboard")
-3. Select the Move Forward 1 square action block.
+3. Select the **"Move Forward 1 square"** action block.
 
    ![Selecting Forward action block on the Grid3 onscreen keyboard.](/assets/media/grid-3-select-block.jpg "Selecting Forward action block on the Grid3 onscreen keyboard.")
-4. Select the Back key to go back to the Grid3 main panel.
+4. Select the **"Back"** key to go back to the Grid3 main panel.
 
    ![Selecting back to go back to the Grid3 main panel.](/assets/media/grid-3-back-to-dock.jpg "Selecting back to go back to the Grid3 main panel.")
-5. Select the "Add to End" key to add your selected action block to your program. 
+5. Select the **"Add to End"** key to add your selected action block to your program. 
 
    ![Selecting add to end key on the Grid3 onscreen keyboard.](/assets/media/grid-3-add-to-end.jpg "Selecting add to end key on the Grid3 onscreen keyboard.")
-6. Select Play key on the Grid3 panel to play your program 
+6. Select **"Play"** key on the Grid3 panel to play your program 
 
    ![Selecting Play key to play the program. ](/assets/media/grid-3-play-program.jpg "Selecting Play key to play the program. ")
-7. Once program is played, select the Refresh key on the Grid3 panel to bring the character back to its original position on the scene. 
+7. Once program is played, select the **"Refresh"** key on the Grid3 panel to bring the character back to its original position on the scene. 
 
    ![Selecting the refresh key on the Grid3 onscreen keyboard.](/assets/media/grid-3-refresh-program.jpg "Selecting the refresh key on the Grid3 onscreen keyboard.")
