@@ -64,8 +64,6 @@ To increase ease of scanning and navigation efficiency, the items on Weavly can 
 | Change the current visual theme to the High Contrast theme          | Ctrl + Alt + x, t, 5    | A29                                     |
 | Turn on/off audio feedback announcements                            | Ctrl + Alt + x, x       | \--                                     |
 
-
-
 For any Onscreen Keyboard Interface designed for Apple the following shortcuts can be used:
 
 | Action                                                              | Keyboard shortcuts   | Available visuals for onscreen keyboard |
@@ -110,3 +108,20 @@ For any Onscreen Keyboard Interface designed for Apple the following shortcuts c
 | Change the current visual theme to the Grayscale theme              | Alt + x, t, 4        | A28                                     |
 | Change the current visual theme to the High Contrast theme          | Alt + x, t, 5        | A29                                     |
 | Turn on/off audio feedback announcements                            | Alt + x, x           | \--                                     |
+
+
+
+## Sample Activity: Take Robot from A2 to D4
+
+
+Here, we will use a Grid3 onscreen keyboard that is made with Weavly shortcuts to build a program and move our character on the scene. 
+
+Your character is on A-1 and is facing Right. 
+Add one ‘Move Forward One Step’ 
+Your character is on D-4 and is facing Down. 
+
+Ensure your character is starting on A-1. 
+Play your program. 
+You can find a square being drawn on screen as your character follows the sequence of action blocks programmed.
+
+Tip: If your character is not on A-1, select “Refresh” on the Grid.
