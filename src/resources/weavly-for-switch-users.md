@@ -3,7 +3,7 @@ title: Weavly for switch users
 date: 2022-01-26T15:39:46.388Z
 author: Weavly team
 description: This guide provides more information about how to navigate and use
-  Weavly with switches
+  Weavly with switches.
 metaImage: /assets/media/switch-tablet.jpg
 metaImageAlt: "A student using a single switch to access a computer. "
 supportiveMaterial:
