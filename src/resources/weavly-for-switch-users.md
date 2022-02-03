@@ -116,9 +116,7 @@ For any Onscreen Keyboard Interface designed for Apple the following shortcuts c
 
 ### Sample Activity: Move the Robot from A2 to B2
 
-Here is an example to demonstrate how onscreen keyboards can be used to operate the Weavly coding environment. The followng Grid3 onscreen keyboard is made with the Weavly keyboard shortcuts listed above. In this example, we try to build a program to move the  onscreen character from grid cell A1 to grid cell A2. 
-
-
+Here is an example to demonstrate how onscreen keyboards can be used to operate the Weavly coding environment. The followng Grid3 onscreen keyboard is made with the Weavly keyboard shortcuts listed above. In this example, we try to build a program to move the  onscreen character from grid cell A2 to grid cell B2. 
 
 1. Launch the Grid3 dock on your display. 
 2. Select the **"Actions"** key on the Grid 3 onscreen keyboard to open the Actions panel including all the action blocks. 
