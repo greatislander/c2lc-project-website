@@ -45,7 +45,7 @@ Learners can tab to the accessibility settings and use the “Themes” option t
 
 ### Audio settings
 
-![Weavly audio settings menu](/assets/media/audio-menu.jpg "Weavly audio settings menu")
+![Weavly audio settings menu options](/assets/media/audio-menu.jpg "Weavly audio settings menu")
 
 Learners can tab to the accessibility settings and use the “Audio” option to select the type of audio announcements they would like to receive from the coding environment. This audio setting is different from the screen reader announcements. 
 
