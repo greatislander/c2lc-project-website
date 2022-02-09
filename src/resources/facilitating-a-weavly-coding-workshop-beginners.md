@@ -13,16 +13,17 @@ metaImageAlt: Weavly coding environemnt with the space background
 
 To begin, give an understanding of what coding is and how it is used in the learners’ life. This introduction will help provide context of what the Weavly coding environment can offer.
 
-> ***A script to say to learners:***\
-> *We use coding to talk to computers. To make sure they do exactly what we want, we have to give them very clear and step by step instructions.There are so many different kinds of computers around us and we constantly give them different instructions.*
+A script to say to learners:
+
+*We use coding to talk to computers. To make sure they do exactly what we want, we have to give them clear and step by step instructions. There are so many different kinds of computers around us and we constantly give them different instructions.*
 
 Offer examples using familiar devices that have a computer and use coding, such as elevators, microwaves, washing machines, etc. Facilitator can show several different image pairings to learners and ask them to identify which ones are a computer and need clear instruction and programming.  
 
 ![Instructor showing an image of washing machine and mittens to the participants. ](/assets/media/identify-the-robot_hueb5fd9d4ef6a330e9b11e5c5e2975564_254494_1000x0_resize_box_2.png "Showing examples of computers")
 
-> ***A script to say to learners:***
->
-> *Microwave: When using a microwave, there are different options that can be selected to adjust the timing of food you want to heat up and then boom! It starts following your instructions and heating up your food exactly the way you want it.*
+A script to say to learners:
+
+> *Think about microwaves. You can use different options to adjust time and intensity on a microwave to make it heat up your food the way you want it. Then, once you press the start button, it follows your instructions and heats up your food exactly the way you want it.*
 
 # Weavly Demo
 
@@ -30,21 +31,15 @@ Offer examples using familiar devices that have a computer and use coding, such 
 
 Provide an overview of the Weavly user interface to help orient learners before they start building a program. As you describe each part, highlight that section in the Weavly coding environment. 
 
-> *A script to say to learners:*
->
+![This image is showing the three main parts of the Weavly coding environment. ](/assets/media/weavly-main-parts.jpg "Three main parts of the Weavly coding environment")
+
+A script to say to learners:
+
 > *This program has 3 main parts. These three parts work together to help you build a program. With a program you can move your character on the screen.*
 >
 > 1. *The first part is the scene where you can see your character move.*
->
-> *\[Add screenshot]* 
->
-> 2. *The second part is the actions panel that gives different action blocks like forward, backward, turn right or turn left.* 
->
-> *\[Add screenshot]* 
->
-> 3. *The third part is the program panel that gives you a place to put together different action blocks and build a program to move your character on the scene.* 
->
-> *\[Add screenshot]*
+> 2. *The second part is the actions panel that gives you different action blocks like forward, backward, turn right or turn left.* 
+> 3. *The third part is the program panel that gives you a place to put together those different action blocks and build a program to move your character on the scene.* 
 
 Screen reader users can use heading or landmark navigation to go to any of these sections. Keyboard users can use the ‘Tab’ key to move to these sections. 
 
