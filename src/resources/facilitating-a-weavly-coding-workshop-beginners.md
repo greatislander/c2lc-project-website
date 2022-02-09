@@ -122,20 +122,22 @@ A script to say to learners:
 
 ### How to build a program
 
-Here is an example of how to build a program with the available action blocks in the Weavly coding environment. To create a square on the scene, challenge the learner to move the on-screen character starting from grid cell A2 and returning to grid cell A2.
+Here is a step by step instruction to build a sample program with the available action blocks in the Weavly coding environment. In this example, we are going to build program to make our character draw a square on the scene. 
 
 A script to say to learners:
 
-Let’s make a square using the action blocks.
+> *Let’s make a square using the action blocks.*
+>
+> 1. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
+> 2. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
+> 3. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
+> 4. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
+> 5. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
+> 6. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
+> 7. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
+> 8. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
 
-1. Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.
-2. Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
-3. Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.
-4. Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
-5. Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.
-6. Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
-7. Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.
-8. Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
+
 
 ### How to play your program
 
