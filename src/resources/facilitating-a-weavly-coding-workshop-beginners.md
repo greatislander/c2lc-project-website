@@ -9,15 +9,15 @@ description: |-
 metaImage: /assets/media/screen-shot-2022-02-09-at-10.03.00-am.png
 metaImageAlt: Weavly coding environemnt with the space background
 ---
-# Introduction to Coding
+## Introduction to Coding
 
 To begin, give an understanding of what coding is and how it is used in the learners’ life. This introduction will help provide context of what the Weavly coding environment can offer.
 
 A script to say to learners:
 
-*We use coding to talk to computers. To make sure they do exactly what we want, we have to give them clear and step by step instructions. There are so many different kinds of computers around us and we constantly give them different instructions.*
+> *We use coding to talk to computers. To make sure they do exactly what we want, we have to give them clear and step by step instructions. There are so many different kinds of computers around us and we constantly give them different instructions.*
 
-Offer examples using familiar devices that have a computer and use coding, such as elevators, microwaves, washing machines, etc. Facilitator can show several different image pairings to learners and ask them to identify which ones are a computer and need clear instruction and programming.  
+Offer examples using familiar devices that have a computer and use coding, such as elevators, microwaves, washing machines, etc. Facilitator can show several different image pairings to learners and ask them to identify which ones have a computer and need clear instructions to work.  
 
 ![Instructor showing an image of washing machine and mittens to the participants. ](/assets/media/identify-the-robot_hueb5fd9d4ef6a330e9b11e5c5e2975564_254494_1000x0_resize_box_2.png "Showing examples of computers")
 
@@ -25,9 +25,9 @@ A script to say to learners:
 
 > *Think about microwaves. You can use different options to adjust time and intensity on a microwave to make it heat up your food the way you want it. Then, once you press the start button, it follows your instructions and heats up your food exactly the way you want it.*
 
-# Weavly Demo
+## Weavly Demo
 
-## Overview
+### Overview
 
 Provide an overview of the Weavly user interface to help orient learners before they start building a program. As you describe each part, highlight that section in the Weavly coding environment. 
 
@@ -43,7 +43,7 @@ A script to say to learners:
 
 Screen reader users can use heading or landmark navigation to go to any of these sections. Keyboard users can use the ‘Tab’ key to move to these sections. 
 
-## Customizing the environment
+### Customizing the environment
 
 Before the learners begin to build a program, encourage them to try different accessibility options to set up an environment that they prefer and enjoy using. There are visual themes that change the colour scheme of Weavly and audio settings that can adjust how sounds are incorporated. 
 
@@ -51,7 +51,7 @@ For screen reader users: The audio feature is recommended to be turned off.
 
 As you talk about each menu, try different options on your screen to show learners how they affect Weavly. 
 
-### **Visual themes**
+#### **Visual themes**
 
 ![A menu for selecting visual themes for the Weavly coding environment. ](/assets/media/visual-themes.jpg "Weavly visual themes menu")
 
@@ -59,21 +59,21 @@ A script to say to learners:
 
 > *You have a few colour options for Weavly. Give each option a try and decide on one that you would like. You can always go back here and change your selection.*
 
-### Audio settings
+#### Audio settings
 
 ![Weavly audio settings menu](/assets/media/audio-menu.jpg "Weavly audio settings menu")
 
 > You can choose to turn on/off different sounds in Weavly. Give the toggle a try and decide if you would like to keep this on or off. You can always come back here and turn this feature on/off. 
 
-### World selector
+#### World selector
 
 ![Weavly world selector menu](/assets/media/world-selector.jpg "Weavly world selector menu")
 
 > You can also pick different backgrounds for your scene. Move your focus to the World selector tool and try to select the one you would like.
 
-## Play Area
+### Play Area
 
-### Scene
+#### Scene
 
 The scene includes a grid of 12 columns and 8 rows. The grid layout supports learners in positioning their character on the scene. This information can also help with planning a path towards a specific grid cell as learners build a program. The grid cells also include information about the visuals they contain. This information can be communicated through screen readers to support learners who do not have access to the visual information on the scene.  
 
@@ -85,13 +85,13 @@ A script to say to learners:
 
 > *The “Scene” is where your character gets to move and play. This scene is made of a grid that has 12 columns and 8 rows. The columns are labelled by alphabet letters from A-L and the rows are numbered 1-8. In your scene, you have a character. Right now, it is on the top left corner of your grid – on Column A, Row 2. We call its location as A-2. Your character looks like a Robot right now.*
 
-### Action Blocks
+#### Actions Panel
 
 Currently, there are two different types of action blocks available on Weavly. 
 
 ![Available action blocks on Weavly](/assets/media/actions-close-up.jpg "Available action blocks on Weavly")
 
-#### Movements
+##### Movements
 
 The first type includes action blocks for movement. These action blocks include:
 
@@ -102,7 +102,7 @@ The first type includes action blocks for movement. These action blocks include:
 * Turning left by 45 degrees; and 
 * Turning left by 90 degrees.
 
-#### Controls
+##### Controls
 
 The second type of action blocks are controls. These controls give conditions to change how action blocks behave. Currently there is only the loop feature available under the control blocks that can be further explored in the Facilitation Guide for Advanced/Experienced Coders.
 
@@ -120,7 +120,7 @@ A script to say to learners:
 > * *An action block for turning your character Left 90 degrees*
 > * *An action block to build loops (This option helps you repeat a part of your program)*
 
-### How to build a program
+#### How to build a program
 
 Here is a step by step instruction to build a sample program with the available action blocks in the Weavly coding environment. In this example, we are going to build program to make our character draw a square on the scene. 
 
@@ -137,7 +137,7 @@ A script to say to learners:
 > 7. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
 > 8. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
 
-### How to play your program
+#### How to play your program
 
 The play controls (bottom) includes buttons to play, pause, or stop the program. There are options to adjust the program playback speed and to refresh the scene. 
 
@@ -149,7 +149,7 @@ A script to say to learners:
 
 > *Once you have added your action blocks, you can play, pause and stop your program. As your program is being played, your character will move in the scene. To track your character as it moves, choose the Pen Down toggle (in your scene settings; toggle on the Right panel) to allow your character to draw a line as it moves around the scene.*
 
-### Editing your program
+#### How to edit your program
 
 As learners add action blocks to their program and play it, they may realize that their program doesn’t work the way they have planned and they may want to edit some parts of it. This process is called debugging in programming. Once an action block is added to a program, learners can select that action block to open up its edit menu to make changes. 
 
@@ -180,7 +180,7 @@ A script to say to learners:
 >
 > *If none of these options work and you are not sure what is causing the problem, then you want to start from scratch. To start from scratch, you can delete your entire program by selecting the trash icon in your program area (located on top right corner) and then select the “Delete All” button.* 
 
-### Refreshing the scene
+#### How to refresh the scene
 
 Every time a program is played, the character executes the program from its current position on the scene. For example, imagine the learner has built a simple program with one “Move forward 1 square” action block. The first time they play it, the character moves from its original spot A2 and lands on B2. The second time they play the same program, their character starts from B2 and lands in C2. If a learner wants to take their character back to its original starting position (A2), they need to press the “Refresh” button before playing their program. 
 
@@ -190,7 +190,7 @@ A script to say to learners:
 >
 > *If you want to take your character back to its original starting point on the scene, you need to select the “Refresh” button before playing your program.* 
 
-### How to share your program
+#### How to share your program
 
 Next to the Play controls (right bottom) is a button to share the created program. Once the ‘Share’ button is selected, a URL link of the built programs is copied automatically. Learners can use that link to share their work with others via email or other social platforms.
 
