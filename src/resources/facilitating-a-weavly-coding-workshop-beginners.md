@@ -89,6 +89,8 @@ A script to say to learners:
 
 Currently, there are two different types of action blocks available on Weavly. 
 
+![Available action blocks on Weavly](/assets/media/actions-close-up.jpg "Available action blocks on Weavly")
+
 #### Movements
 
 The first type includes action blocks for movement. These action blocks include:
@@ -118,7 +120,7 @@ A script to say to learners:
 > * *An action block for turning your character Left 90 degrees*
 > * *An action block to build loops (This option helps you repeat a part of your program)*
 
-## How to build a program
+### How to build a program
 
 Here is an example of how to build a program with the available action blocks in the Weavly coding environment. To create a square on the scene, challenge the learner to move the on-screen character starting from grid cell A2 and returning to grid cell A2.
 
@@ -135,17 +137,19 @@ Let’s make a square using the action blocks.
 7. Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.
 8. Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
 
-## How to play your program
+### How to play your program
 
 The play controls (bottom) includes buttons to play, pause, or stop the program. There are options to adjust the program playback speed and to refresh the scene. 
 
 Once learners are ready to try their program, they can press the “Play” button to make their character move based on the program they have built. Make sure the Pen Down feature (toggle in the scene settings on the right side) is enabled, if you want your character to draw a line as it moves on the scene according to your program. 
 
+![Weavly play controls and share button](/assets/media/playcontrols-close-up.jpg "Weavly play controls and share button")
+
 A script to say to learners:
 
-Once you have added your action blocks, you can play, pause and stop the program that you created. As your program is being played, your character will move in the scene. To track your character as it moves, choose the Pen Down (in your scene settings; toggle on the Right panel) feature to allow your robot to draw a line as it moves around the scene.
+> *Once you have added your action blocks, you can play, pause and stop your program. As your program is being played, your character will move in the scene. To track your character as it moves, choose the Pen Down toggle (in your scene settings; toggle on the Right panel) to allow your character to draw a line as it moves around the scene.*
 
-## Editing your program
+### Editing your program
 
 As learners add action blocks to their program and play it, they may realize that their program doesn’t work according to what they have planned. They may want to edit their program. This process is called debugging in programming. Once an action block is added to a program, learners can select that action block to open up an edit menu to make changes to the selected action block. On the edit menu, they have these four options:
 
@@ -188,10 +192,10 @@ Did you notice that every time you played your program, your character continued
 
 If you want to take your character back to its original starting point on the scene, you need to select the “Refresh” button before playing your program. 
 
-## How to share your program
+### How to share your program
 
-Next to the Play controls (right bottom) is a button to share the created program. Once the ‘Share’ button is selected, a URL link of the built programs is copied automatically. Learners can paste the URL link to share their work with others via email or other social platforms.
+Next to the Play controls (right bottom) is a button to share the created program. Once the ‘Share’ button is selected, a URL link of the built programs is copied automatically. Learners can use that link to share their work with others via email or other social platforms.
 
 A script to say to learners:
 
-To share the program you have built, select the ‘Share’ button in the bottom right corner (in the play region) for a copy of the URL link. You can share this link with your friends.
+> *To share the program you have built, select the ‘Share’ button in the bottom right corner (in the play region) for a copy of the URL link. You can share this link with your friends.*
