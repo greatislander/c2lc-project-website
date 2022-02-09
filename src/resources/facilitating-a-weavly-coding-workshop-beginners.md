@@ -77,7 +77,7 @@ A script to say to learners:
 
 The scene includes a grid of 12 columns and 8 rows. The grid layout supports learners in positioning their character on the scene. This information can also help with planning a path towards a specific grid cell as learners build a program. The grid cells also include information about the visuals they contain. This information can be communicated through screen readers to support learners who do not have access to the visual information on the scene.  
 
-As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. This Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built.
+As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. The Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built.
 
 ![Scene close up ](/assets/media/scene-close-up.jpg "Scene close up")
 
@@ -93,7 +93,7 @@ Currently, there are two different types of action blocks available on Weavly.
 
 ##### Movements
 
-The first type includes action blocks for movement. These action blocks include:
+The first type of action blocks can be used to make your character move. They include: 
 
 * Moving forward by 1 square;
 * Moving backward by 1 square;
@@ -110,7 +110,7 @@ Learners can select one action block at a time and then add it to their program 
 
 A script to say to learners:
 
-> *If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the right action blocks from the action panel. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
+> *If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the right action blocks from the actions panel. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
 >
 > * *An action block for moving your character Forward one square*
 > * *An action block for moving your character backward one square*
@@ -147,11 +147,11 @@ Once learners are ready to try their program, they can press the “Play” butt
 
 A script to say to learners:
 
-> *Once you have added your action blocks, you can play, pause and stop your program. As your program is being played, your character will move in the scene. To track your character as it moves, choose the Pen Down toggle (in your scene settings; toggle on the Right panel) to allow your character to draw a line as it moves around the scene.*
+> *Once you have added your action blocks, you can play, pause and stop your program. As your program is being played, your character will move on the scene. You also have the option to change the speed your program is playing and make it run slower or faster.* 
 
 #### How to edit your program
 
-As learners add action blocks to their program and play it, they may realize that their program doesn’t work the way they have planned and they may want to edit some parts of it. This process is called debugging in programming. Once an action block is added to a program, learners can select that action block to open up its edit menu to make changes. 
+As learners add action blocks to their program and play it, they may realize that their program doesn’t work the way they have planned and they may want to edit some parts of it. This process is called "debugging" in programming. Once an action block is added to a program, learners can select that action block to open up its edit menu to make changes. 
 
 ![Weavly action blocks edit menu](/assets/media/edit-menu.jpg "Weavly action blocks edit menu")
 
@@ -172,7 +172,7 @@ A script to say to learners:
 
 > *If your character is not doing what you want it to do, there are different ways that you can fix this. Programmers call this “Debugging”.* 
 >
-> *Select the action blocks that you think are causing the problem. An edit menu will pop up with options. On the menu, there is a “Trashcan” that you can use to delete that action block.* 
+> *Select the action block that you think is causing the problem. An edit menu will pop up with options. On the menu, there is a “Trashcan” that you can use to delete that action block.* 
 >
 > *The second option on this edit menu is “Replace”. You can use this option to replace your current action block with a different action block. For example if your current action block is Turn Right 90 degrees, you can use the “Replace” option to switch to Turn Left 90 degrees or any other action block.* 
 >
@@ -182,7 +182,7 @@ A script to say to learners:
 
 #### How to refresh the scene
 
-Every time a program is played, the character executes the program from its current position on the scene. For example, imagine the learner has built a simple program with one “Move forward 1 square” action block. The first time they play it, the character moves from its original spot A2 and lands on B2. The second time they play the same program, their character starts from B2 and lands in C2. If a learner wants to take their character back to its original starting position (A2), they need to press the “Refresh” button before playing their program. 
+Every time a program is played, the character executes the program from its current position on the scene. For example, imagine the learner has built a simple program with one “Move forward 1 square” action block. The first time they play it, the character moves from its original spot A2 and lands on B2. The second time they play the same program, their character starts from B2 and lands in C2. If a learner wants to take their character back to its original starting position (A2), they need to press the “Refresh” button located right before the "Play" button. 
 
 A script to say to learners:
 
@@ -196,4 +196,4 @@ Next to the Play controls (right bottom) is a button to share the created progra
 
 A script to say to learners:
 
-> *To share the program you have built, select the ‘Share’ button in the bottom right corner (in the play region) for a copy of the URL link. You can share this link with your friends.*
+> *To share the program you have built, select the ‘Share’ button in the bottom right corner to get a URL link of your program. You can share this link with your friends.*
