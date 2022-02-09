@@ -43,25 +43,35 @@ A script to say to learners:
 
 Screen reader users can use heading or landmark navigation to go to any of these sections. Keyboard users can use the ‘Tab’ key to move to these sections. 
 
-### Customizing the environment
+## Customizing the environment
 
-Before the learners begin to build a program, encourage them to try different accessibility options to set up an environment that they prefer and enjoy using. There are visual themes that change the colour scheme of Weavly and audio settings that can adjust how sounds are incorporated. For screen reader users: The audio feature is recommended to be turned off.
+Before the learners begin to build a program, encourage them to try different accessibility options to set up an environment that they prefer and enjoy using. There are visual themes that change the colour scheme of Weavly and audio settings that can adjust how sounds are incorporated. 
 
-As you talk about each menu, try different options on your screen to show learners how the affect Weavly. 
+For screen reader users: The audio feature is recommended to be turned off.
+
+As you talk about each menu, try different options on your screen to show learners how they affect Weavly. 
+
+
+
+### **Visual themes**
+
+![A menu for selecting visual themes for the Weavly coding environment. ](/assets/media/visual-themes.jpg "Weavly visual themes menu")
 
 A script to say to learners:
 
-1. #### Visual themes
+> *You have a few colour options for Weavly. Give each option a try and decide on one that you would like. You can always go back here and change your selection.*
 
-You have a few colour options for Weavly. Give each option a try and decide on one that you would like. You can always go back here and change your selection.
+### Audio settings
 
-2. #### Audio setting
+![Weavly audio settings menu](/assets/media/audio-menu.jpg "Weavly audio settings menu")
 
-You can choose to turn on/off different sounds in Weavly. Give the toggle a try and decide if you would like to keep this on or off. You can always come back here and turn this feature on/off. 
+> You can choose to turn on/off different sounds in Weavly. Give the toggle a try and decide if you would like to keep this on or off. You can always come back here and turn this feature on/off. 
 
-3. #### World selector
+### World selector
 
-You can also pick different backgrounds for your scene. Move your focus to the World selector tool and try to select the one you would like.
+![Weavly world selector menu](/assets/media/world-selector.jpg "Weavly world selector menu")
+
+> You can also pick different backgrounds for your scene. Move your focus to the World selector tool and try to select the one you would like.
 
 ## Play Area
 
