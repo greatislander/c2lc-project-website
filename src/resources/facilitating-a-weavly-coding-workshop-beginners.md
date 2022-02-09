@@ -51,8 +51,6 @@ For screen reader users: The audio feature is recommended to be turned off.
 
 As you talk about each menu, try different options on your screen to show learners how they affect Weavly. 
 
-
-
 ### **Visual themes**
 
 ![A menu for selecting visual themes for the Weavly coding environment. ](/assets/media/visual-themes.jpg "Weavly visual themes menu")
@@ -77,19 +75,21 @@ A script to say to learners:
 
 ### Scene
 
-The scene includes a grid of 12 columns and 8 rows. The grid layout supports learners in positioning their character on the scene. This information can also help with planning a path towards a specific grid cell as they build a program. The grid cells also include information about the visuals they include. This information can be communicated through screen readers to support learners who do not have access to the visual information on the scene.  
+The scene includes a grid of 12 columns and 8 rows. The grid layout supports learners in positioning their character on the scene. This information can also help with planning a path towards a specific grid cell as learners build a program. The grid cells also include information about the visuals they contain. This information can be communicated through screen readers to support learners who do not have access to the visual information on the scene.  
 
-As your character moves around the scene, a line can be drawn when the Pen Down feature located in the scene settings (right side of scene) is turned on. This Pen Down feature helps learners to focus their attention on tracking the movement of the character along with the program they have built.
+As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. This Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built.
+
+![Scene close up ](/assets/media/scene-close-up.jpg "Scene close up")
 
 A script to say to learners:
 
-The “Scene” is where your character gets to move and play. This scene is made of a grid that has 12 columns and 8 rows. The columns are labeled by alphabet letters from A-L and the rows are numbered 1-8. In your scene, you have a character. Right now, it is on the top left corner of your grid – on Column A, Row 2. We call its location as A-2. Your character looks like a Robot right now.
+> *The “Scene” is where your character gets to move and play. This scene is made of a grid that has 12 columns and 8 rows. The columns are labelled by alphabet letters from A-L and the rows are numbered 1-8. In your scene, you have a character. Right now, it is on the top left corner of your grid – on Column A, Row 2. We call its location as A-2. Your character looks like a Robot right now.*
 
 ### Action Blocks
 
 Currently, there are two different types of action blocks available on Weavly. 
 
-1. #### Movement
+#### Movements
 
 The first type includes action blocks for movement. These action blocks include:
 
@@ -100,25 +100,23 @@ The first type includes action blocks for movement. These action blocks include:
 * Turning left by 45 degrees; and 
 * Turning left by 90 degrees.
 
-2. #### Controls
+#### Controls
 
-The second type of action blocks are controls. These controls give conditions to change how action blocks behave. Currently there is only the loop feature available under the control blocks that can be further explored in the Facilitation Guide for Advanced/Experienced Coders \[Provide a link]
+The second type of action blocks are controls. These controls give conditions to change how action blocks behave. Currently there is only the loop feature available under the control blocks that can be further explored in the Facilitation Guide for Advanced/Experienced Coders.
 
 Learners can select one action block at a time and then add it to their program to build a sequence of actions. 
 
 A script to say to learners:
 
-If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the right action blocks from the action panel. There are different groups of action blocks to choose from.
-
-Here are the available actions blocks
-
-* An action block for moving your character Forward one square
-* An action block for moving your character backward one square
-* An action block for turning your character Right 45 degrees (This option helps you draw diagonal lines)
-* An action block for turning your character Right 90 degrees 
-* An action block for turning your character Left 45 degrees (This option helps you draw diagonal lines)
-* An action block for turning your character Left 90 degrees
-* An action block to build loops (This option helps you repeat a part of your program)
+> *If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the right action blocks from the action panel. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
+>
+> * *An action block for moving your character Forward one square*
+> * *An action block for moving your character backward one square*
+> * *An action block for turning your character Right 45 degrees (This option helps you draw diagonal lines)*
+> * *An action block for turning your character Right 90 degrees* 
+> * *An action block for turning your character Left 45 degrees (This option helps you draw diagonal lines)*
+> * *An action block for turning your character Left 90 degrees*
+> * *An action block to build loops (This option helps you repeat a part of your program)*
 
 ## How to build a program
 
