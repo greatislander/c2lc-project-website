@@ -153,38 +153,36 @@ A script to say to learners:
 
 ### Editing your program
 
-As learners add action blocks to their program and play it, they may realize that their program doesn’t work according to what they have planned. They may want to edit their program. This process is called debugging in programming. Once an action block is added to a program, learners can select that action block to open up an edit menu to make changes to the selected action block. On the edit menu, they have these four options:
+As learners add action blocks to their program and play it, they may realize that their program doesn’t work the way they have planned and they may want to edit some parts of it. This process is called debugging in programming. Once an action block is added to a program, learners can select that action block to open up its edit menu to make changes. 
 
-* Delete action block
-* Replace action block
-* Move action block one step to left
-* Move action block one step to right
+![Weavly action blocks edit menu](/assets/media/edit-menu.png "Weavly action blocks edit menu")
 
-Learners also have the option to delete the entire program and start over. When learners encounter an unintended result (e.g. character is moving in the wrong direction), encourage learners to problem solve by asking them to stop and talk to them about different ways that they can “debug” their program.  
+On the edit menu, they have these four options:
+
+* Delete the selected action block
+* Replace the selected action block
+* Move the selected action block one step to left
+* Move the selected action block one step to right
+
+![Weavly delete all button](/assets/media/delete-all.jpg "Weavly delete all button")
+
+Learners also have the option to select the trashcan icon on the top right corner of their program panel to delete their entire program and start over again. Please note that deleting the program does not delete any current drawings on the scene. To delete the drawings on the scene and bring the character back to its original position, learners need to press the "Refresh" button right before the Play controls. 
+
+When learners encounter an unintended results (e.g. character is moving in the wrong direction), enourage them to stop and talk to them about different ways that they can “debug” their program.  
 
 A script to say to learners:
 
-If your character is not doing what you want it to do, there are different ways that you can fix this. Programmers call this “Debugging”. 
+> *If your character is not doing what you want it to do, there are different ways that you can fix this. Programmers call this “Debugging”.* 
+>
+> *Select the action blocks that you think are causing the problem. An edit menu will pop up with options. On the menu, there is a “Trashcan” that you can use to delete that action block.* 
+>
+> *The second option on this edit menu is “Replace”. You can use this option to replace your current action block with a different action block. For example if your current action block is Turn Right 90 degrees, you can use the “Replace” option to switch to Turn Left 90 degrees or any other action block.* 
+>
+> *If you think the placement of your action block is in the wrong order, you can use the “Move Left” and “Move Right” buttons to move this action block along your program.* 
+>
+> *If none of these options work and you are not sure what is causing the problem, then you want to start from scratch. To start from scratch, you can delete your entire program by selecting the trash icon in your program area (located on top right corner) and then select the “Delete All” button.* 
 
-\[Add screenshot]
-
-Select the action blocks that you think are causing the problem. An edit menu will pop up with options. On the menu, there is a “Trash can” that you can use to delete that action block. 
-
-\[Add screenshot]
-
-The second option on this edit menu is “Replace”. You can use this option to replace your current action block with a different action block. For example if your current action block is Turn Right 90 degrees, you can use the “Replace” option to switch to Turn Left 90 degrees or any other action block. 
-
-\[Add screenshot]
-
-If you think the placement of your action block is in the wrong order, you can use the “Move Left” and “Move Right” buttons to move this action block along your program. 
-
-\[Add screenshot]
-
-If none of these options work and you are not sure what is causing the problem, then you want to start from scratch. To start from scratch, you can delete your entire program by selecting the trash icon in your program area (located on top right corner) and then select the “Delete All” button. 
-
-\[Add screenshot]
-
-Refreshing the scene
+### Refreshing the scene
 
 Every time a program is played, the character executes the program from its current position on the scene. For example, imagine the learner has built a simple program with one “Move forward 1 square” action block. The first time they play it, the character moves from its original spot A2 and lands on B2. The second time they play the same program, their character starts from B2 and lands in C2. If a learner wants to take their character back to its original starting position (A2), they need to press the “Refresh” button before playing their program. 
 
