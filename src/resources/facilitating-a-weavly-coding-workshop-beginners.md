@@ -137,8 +137,6 @@ A script to say to learners:
 > 7. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
 > 8. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
 
-
-
 ### How to play your program
 
 The play controls (bottom) includes buttons to play, pause, or stop the program. There are options to adjust the program playback speed and to refresh the scene. 
@@ -155,7 +153,7 @@ A script to say to learners:
 
 As learners add action blocks to their program and play it, they may realize that their program doesn’t work the way they have planned and they may want to edit some parts of it. This process is called debugging in programming. Once an action block is added to a program, learners can select that action block to open up its edit menu to make changes. 
 
-![Weavly action blocks edit menu](/assets/media/edit-menu.png "Weavly action blocks edit menu")
+![Weavly action blocks edit menu](/assets/media/edit-menu.jpg "Weavly action blocks edit menu")
 
 On the edit menu, they have these four options:
 
