@@ -188,9 +188,9 @@ Every time a program is played, the character executes the program from its curr
 
 A script to say to learners:
 
-Did you notice that every time you played your program, your character continued moving from the last spot it was moved to?
-
-If you want to take your character back to its original starting point on the scene, you need to select the “Refresh” button before playing your program. 
+> *Did you notice that every time you played your program, your character continued moving from the last spot it was moved to?*
+>
+> *If you want to take your character back to its original starting point on the scene, you need to select the “Refresh” button before playing your program.* 
 
 ### How to share your program
 
