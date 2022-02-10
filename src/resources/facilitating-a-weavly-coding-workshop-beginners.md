@@ -9,13 +9,13 @@ description: |-
 metaImage: /assets/media/screen-shot-2022-02-09-at-10.03.00-am.png
 metaImageAlt: Weavly coding environemnt with the space background
 ---
-## Introduction to Coding
+## Introduction to coding
 
 To begin, give an understanding of what coding is and how it is used in the learners’ life. This introduction will help provide context of what the Weavly coding environment can offer.
 
 A script to say to learners:
 
-> *We use coding to talk to computers. To make sure they do exactly what we want, we have to give them clear and step by step instructions. There are so many different kinds of computers around us and we constantly give them different instructions.*
+> *We use coding to talk to computers. To make sure they do exactly what we want, we have to give them clear step by step instructions. There are so many different kinds of computers around us and we constantly give them different instructions.*
 
 Offer examples using familiar devices that have a computer and use coding, such as elevators, microwaves, washing machines, etc. Facilitator can show several different image pairings to learners and ask them to identify which ones have a computer and need clear instructions to work.  
 
@@ -25,9 +25,22 @@ A script to say to learners:
 
 > *Think about microwaves. You can use different options to adjust time and intensity on a microwave to make it heat up your food the way you want it. Then, once you press the start button, it follows your instructions and heats up your food exactly the way you want it.*
 
-## Weavly Demo
+## Weavly demo
 
-### Overview
+### Foundational skills
+
+Before starting to use Weavly, there are some foundational skills that learners will need. If they don't have experience with these concepts, it is suggested that you create activities to either build the background knowledge or help learners connect with what they already know. These concepts can be covered as different parts of Weavly are introduced. \
+The skills would be: 
+
+* Understanding of and ability to express a knowledge of forward, backward, left and right on their own body, on an object in different orientations to their body.
+* Understanding of difference between a 45 and 90 degree turn
+* Understanding of a sequence
+* Understanding of repeated patterns
+* Understanding of co-ordinates (for some users)
+
+We have developed several unplugged activities that can help you anchor these foundational skills. Please visit the [Unplugged Activities](https://weavly.org/learn/activities/?type=Unplugged) section for more details. 
+
+### Coding environment verview
 
 Provide an overview of the Weavly user interface to help orient learners before they start building a program. As you describe each part, highlight that section in the Weavly coding environment. 
 
@@ -69,15 +82,19 @@ A script to say to learners:
 
 ![Weavly world selector menu](/assets/media/world-selector.jpg "Weavly world selector menu")
 
-> You can also pick different backgrounds for your scene. Move your focus to the World selector tool and try to select the one you would like.
+> You can also pick different backgrounds for your scene. Choose the World selector tool and try to select the one you would like.
 
-### Play Area
+### Play area
 
 #### Scene
 
-The scene includes a grid of 12 columns and 8 rows. The grid layout supports learners in positioning their character on the scene. This information can also help with planning a path towards a specific grid cell as learners build a program. The grid cells also include information about the visuals they contain. This information can be communicated through screen readers to support learners who do not have access to the visual information on the scene.  
+The scene includes a grid of 12 columns and 8 rows. The grid layout supports learners to locate their character on the scene. This information can also help with planning a path towards a specific grid cell as learners build a program.  
 
-As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. The Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built.
+As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. The Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built. The feature also allows learners to draw a picture when they have selected the Sketchpad background.
+
+Depending on the learner's experiences with co-ordinates, educators can have have learners practice naming the co-ordinate found at specific locations. Likewise, educators could ask them to identify what they see at a specific co-ordinate. This activity will help educators to explicitly teach and practice the word co-ordinate.
+
+
 
 ![Scene close up ](/assets/media/scene-close-up.jpg "Scene close up")
 
@@ -85,7 +102,7 @@ A script to say to learners:
 
 > *The “Scene” is where your character gets to move and play. This scene is made of a grid that has 12 columns and 8 rows. The columns are labelled by alphabet letters from A-L and the rows are numbered 1-8. In your scene, you have a character. Right now, it is on the top left corner of your grid – on Column A, Row 2. We call its location as A-2. Your character looks like a Robot right now.*
 
-#### Actions Panel
+#### Actions panel
 
 Currently, there are two different types of action blocks available on Weavly. 
 
@@ -110,7 +127,7 @@ Learners can select one action block at a time and then add it to their program 
 
 A script to say to learners:
 
-> *If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the right action blocks from the actions panel. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
+> *If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the correct action blocks from the actions panel. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
 >
 > * *An action block for moving your character Forward one square*
 > * *An action block for moving your character backward one square*
@@ -122,20 +139,25 @@ A script to say to learners:
 
 #### How to build a program
 
-Here is a step by step instruction to build a sample program with the available action blocks in the Weavly coding environment. In this example, we are going to build program to make our character draw a square on the scene. 
+Here is a step by step instruction to build a sample program with the available action blocks in the Weavly coding environment. There are two ways that learners can build a sequence of action blocks in the program panel:
+
+1. Drag an action block and drop it to a specific '+' button on the program sequence.  
+2. Select an action block and then selecting an '+' button on their program sequence
+
+In this example, we are going to build program to make our character draw a square on the scene. 
 
 A script to say to learners:
 
 > *Let’s make a square using the action blocks.*
 >
-> 1. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
-> 2. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
-> 3. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
-> 4. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
-> 5. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
-> 6. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
-> 7. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program to add.*
-> 8. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.*
+> 1. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
+> 2. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
+> 3. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
+> 4. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
+> 5. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
+> 6. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
+> 7. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
+> 8. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
 
 #### How to play your program
 
@@ -166,7 +188,7 @@ On the edit menu, they have these four options:
 
 Learners also have the option to select the trashcan icon on the top right corner of their program panel to delete their entire program and start over again. Please note that deleting the program does not delete any current drawings on the scene. To delete the drawings on the scene and bring the character back to its original position, learners need to press the "Refresh" button right before the Play controls. 
 
-When learners encounter an unintended results (e.g. character is moving in the wrong direction), enourage them to stop and talk to them about different ways that they can “debug” their program.  
+When learners encounter unintended results (e.g. character is moving in the wrong direction), enourage them to stop and talk to them about different ways that they can “debug” their program.  
 
 A script to say to learners:
 
@@ -197,3 +219,14 @@ Next to the Play controls (right bottom) is a button to share the created progra
 A script to say to learners:
 
 > *To share the program you have built, select the ‘Share’ button in the bottom right corner to get a URL link of your program. You can share this link with your friends.*
+
+
+
+### Additional resources
+
+To ensure learners with diverse abilities can access and operate the Weavly coding environment, we have developed a series of facilitation guides to provide more details about how Weavly can respond to different needs and preferences. 
+
+* [Weavly for screen reader users](https://weavly.org/learn/resources/weavly-for-screen-reader-users/)
+* [Weavly for learners with low vision](https://weavly.org/learn/resources/weavly-for-learners-with-low-vision/)
+* [Weavly for switch users](https://weavly.org/learn/resources/weavly-for-switch-users/)
+* [Weavly for keyboard users](https://weavly.org/learn/resources/weavly-for-keyboard-users/)
