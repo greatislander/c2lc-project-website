@@ -40,7 +40,7 @@ The skills would be: 
 
 We have developed several unplugged activities that can help you anchor these foundational skills. Please visit the [Unplugged Activities](https://weavly.org/learn/activities/?type=Unplugged) section for more details. 
 
-### Coding environment verview
+### Coding environment overview
 
 Provide an overview of the Weavly user interface to help orient learners before they start building a program. As you describe each part, highlight that section in the Weavly coding environment. 
 
@@ -93,8 +93,6 @@ The scene includes a grid of 12 columns and 8 rows. The grid layout supports lea
 As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. The Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built. The feature also allows learners to draw a picture when they have selected the Sketchpad background.
 
 Depending on the learner's experiences with co-ordinates, educators can have have learners practice naming the co-ordinate found at specific locations. Likewise, educators could ask them to identify what they see at a specific co-ordinate. This activity will help educators to explicitly teach and practice the word co-ordinate.
-
-
 
 ![Scene close up ](/assets/media/scene-close-up.jpg "Scene close up")
 
@@ -219,8 +217,6 @@ Next to the Play controls (right bottom) is a button to share the created progra
 A script to say to learners:
 
 > *To share the program you have built, select the ‘Share’ button in the bottom right corner to get a URL link of your program. You can share this link with your friends.*
-
-
 
 ### Additional resources
 
