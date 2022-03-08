@@ -18,15 +18,23 @@ If you are new to Weavly or block coding, please start with the beginner’s gui
 
 Weavly offers several backgrounds that each include a different set of missions to complete. Here is a list of current backgrounds grouped based on their difficulty levels: 
 
+![Weavly's camping trip background and deep ocean's background](/assets/media/beginner-backgrounds.jpg "Weavly backgrounds for beginners")
+
 * Beginner
 
   * Camping trip
   * Deep ocean
+
+![Weavly's haunted house, space, and jungle safari's backgrounds.](/assets/media/intermediate-backgrounds.jpg "Weavly backgrounds for intermediate users")
+
 * Intermediate
 
   * Haunted house
   * Space
   * Jungle
+
+![Weavly's landmark and marble run backgrounds.](/assets/media/advanced-backgrounds.jpg "Weavly backgrounds for advanced users")
+
 * Advanced
 
   * Landmarks
@@ -44,19 +52,13 @@ There are a number of different obstacles on each of these backgrounds to encour
 
 Here is an example of how to build a path on the Deep ocean background to move a submarine from A2 to the treasure chest without coming into contact with the shark or jellyfish. Please note that the treasure chest occupies several grid cells. Thus, reaching any of those cells means that the learners have accomplished their mission. 
 
-
-
 \[Screenshot]
 
 A script to say to learners:
 
 Let’s try to get the submarine to the treasure chest. On our way, we have to avoid the shark and the jellyfish. Right now your submarine is at A2. Which path do you plan to take to get to the treasure? Which action blocks are you going to use? How many of each do you need? 
 
-
-
 Here is one way of building a program to get to the treasure chest: 
-
-
 
 1. Select the ‘Move Forward 1 square’ action block, and then select the ‘+’ button at the end of your program three times. So, now you have three ‘Move Forward 1 square’ in a row.
 2. Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.
@@ -64,27 +66,15 @@ Here is one way of building a program to get to the treasure chest: 
 4. Select the ‘Turn Left 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
 5. Select the ‘Move Forward 1 square’ action block, and then select the ‘+’ button at the end of your program two times. So, now you have two ‘Move Forward 1 square’ in a row.
 
-
-
 Learners can play their program as they are building it to test out different parts of it. However, make sure that they press the ‘Refresh’ button before playing their program to make sure their submarine is back to its original starting position. 
 
-
-
 A script to say to learners:
-
-
 
 Before you play your program, select the ‘Refresh’ button to take your character back to its starting position. Otherwise, your character will continue from its current location. 
 
-
-
 Once learners complete their program, they can go ahead and play it to find out whether it takes their submarine to the treasure chest or not. If they reach the destination, celebrate their accomplishment. If they missed their destination or hit one of the obstacles on their path, encourage them to pause and debug by finding and fixing the action blocks that are causing the problem. 
 
-
-
 A script to say to learners:
-
-
 
 Oh no! We crashed into a shark/jellyfish! It’s common to face some challenges along the way. We can learn how to change things when we don’t get what we had planned. We call this debugging and it’s part of the process. Let’s do some debugging. Let’s find out which of your action blocks are causing your submarine to go in the wrong direction. How do you want to fix this? You can delete this action block, move it in your sequence, or replace it with another block. Let’s try different options!
 
@@ -92,29 +82,19 @@ Oh no! We crashed into a shark/jellyfish! It’s common to face some challenges 
 
 Learners can use loops to repeat a specific part of their program in Weavly. The action blocks within a loop become the unit to be repeated when played. Learners can specify how many times they want a loop to be repeated without needing to add each action block unit repeatedly. With loops, they can create repeated patterns and geometric shapes efficiently. They are also able to create loops within other loops that are called ‘Nested loops’ in programming. With nested loops learners can create even more complex geometric shapes in Weavly with less steps. 
 
-
-
 A script to say to learners:
 
 Sometimes you want your character to do the same thing multiple times. You can do this by adding each of those action blocks to your program one by one, which makes your program very long and repetitive. You can also use loops. With loops, you can select a part of your program and tell your character how many times to repeat that part. With loops, you don’t have to keep adding action blocks to your program and you can create cool geometric shapes and patterns. 
-
-
 
 ### Using loops to create a square
 
 Here is an example of how a square can be created using the least number of action blocks. First, encourage learners to build a square. Once they are done, ask them to look for repeated patterns and count the number of times it has been repeated. Then, ask them to refresh their scene and delete their program, and this time use the loop feature to draw a square. 
 
-
-
 A script to say to learners:
 
 Let’s try building a square again, except we will use loops this time. Did you notice a pattern when you created a program for a square? Which action blocks are being repeated? How many times are they repeated?
 
-
-
 Each side of the square has the same set of action blocks. Let's delete your program and start from scratch. This time we will use a loop to create a square. With loops, you just need to create one side of your square and then repeat it 4 times, then you will get a square. 
-
-
 
 Let’s start making a square using loops.
 
@@ -130,13 +110,9 @@ Did you notice how shorter and simpler your program has become?  
 
 Here is an example of how a geometric shape can be created using the least number of action blocks. 
 
-
-
 A script to say to learners:
 
 Now that you have learned to use loops to create a repeated pattern for a square, let’s try to create another shape, similar to a stop sign.
-
-
 
 1. Delete your program and start from scratch.
 2. Refresh your scene to bring your character to its original position.
@@ -146,18 +122,12 @@ Now that you have learned to use loops to create a repeated pattern for a square
 6. Change the number of loops to 6.
 7. Play your program.
 
-
-
 As you play your program, you may notice that your character runs out of space and hits the edge of the scene and it is not able to draw the shape that you have in your program. Although the default starting position for a character is set at grid cell A2, learners have the option to change this starting position by using the navigation keys on the panel on the right side of the scene. There are two methods to change the character position:
 
 1. Using coordinates
 2. Using arrows
 
-
-
 Once you select the ‘Refresh’ button after playing your program, the character will be placed back in the A2 grid cell. You can use any of the navigation methods to move your character to the intended starting position. This practice ensures the character begins where the learner intended before ‘Play’ is selected.
-
-
 
 A script to say to learners:
 
@@ -166,19 +136,13 @@ You may notice your character wasn’t able to draw your shape and hit the walls
 1. You can enter the coordinate where you want your character to be starting, which means entering the column label and the row number.
 2. You can use the arrows to move your character to the grid cell where you want your character to be starting.
 
-
-
 If you want to take your character back to its initial starting point, you just need to select  the ‘Refresh’ button (left of the Play button) then your character will be back at A2. If this position is not where you want your character to start, then you can change the starting position.
-
-
 
 Encourage learners to position their character somewhere in the middle of the scene, such as F3 or F5, and then play their program. 
 
 ### Using loops to create a new geometric shape
 
 The loop feature can allow learners to create more complex geometric shapes and symbols, such as roses, stars, crystals and snowflakes. Here is an example of how other shapes can be used to create geometric shapes
-
-
 
 A script to say to learners:
 
@@ -194,11 +158,7 @@ Did you know you can use the loop feature to create special shapes? You can loop
 8. Move your character to a different starting position.
 9. Play your program
 
-
-
 You can also add a loop inside your other loop to repeat a part of it. This will help you create more exciting shapes with repeated patterns. Let’s continue working on your previous program and try creating loops inside loops, or as programers call it “Nested Loops”
-
-
 
 1. Add a loop within your loop. 
 2. Use the edit menu to move your nested loop to the palace you wanted to be.
