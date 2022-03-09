@@ -5,6 +5,8 @@ author: Weavly team
 description: "This facilitation guide will provide scripts and guidelines to run
   a coding workshop with learners who have previous experience with Weavly and
   block based coding environemnts. "
+metaImage: /assets/media/screen-shot-2022-02-09-at-10.03.00-am.png
+metaImageAlt: Weavly coding environment with the Space background
 ---
 ## Weavly introduction
 
