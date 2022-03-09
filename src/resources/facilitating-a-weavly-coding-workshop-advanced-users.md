@@ -128,10 +128,14 @@ A script to say to learners:
 > 6. Change the number of loops to 6.
 > 7. Play your program.
 
-As you play your program, you may notice that your character runs out of space and hits the edge of the scene and it is not able to draw the shape that you have in your program. Although the default starting position for a character is set at grid cell A2, learners have the option to change this starting position by using the navigation keys on the panel on the right side of the scene. There are two methods to change the character position:
+As you play your program, you may notice that your character runs out of space and hits the edge of the scene and it is not able to draw the shape that you have in your program. Although the default starting position for a character is set at grid cell A2, learners have the option to change this starting position by using the character positioning tools on the panel on the right side of the scene. 
 
-1. Using coordinates
-2. Using arrows
+![Weavly Scene settings](/assets/media/scene-close-up.jpg "Using character positioning tools to change the starting position of the character")
+
+There are two ways to change the character position on the scene:
+
+1. Using coordinates to indicate the row and column
+2. Using arrows to directly move the character on the scene
 
 Once you select the ‘Refresh’ button after playing your program, the character will be placed back in the A2 grid cell. You can use any of the navigation methods to move your character to the intended starting position. This practice ensures the character begins where the learner intended before ‘Play’ is selected.
 
