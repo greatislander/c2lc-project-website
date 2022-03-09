@@ -96,7 +96,7 @@ A script to say to learners:
 
 Here is an example of how a square can be created using the least number of action blocks. First, encourage learners to build a square. Once they are done, ask them to look for repeated patterns and count the number of times it has been repeated. Then, ask them to refresh their scene and delete their program, and this time use the loop feature to draw a square. 
 
-![Using loops to draw a square in Weavly](/assets/media/draw-a-square.jpg "Drawing a square in Weavly using the Loops control")
+![Using loops to draw a square in Weavly](/assets/media/draw-a-square.jpg "Drawing a square in Weavly using the Loop control")
 
 A script to say to learners:
 
@@ -118,7 +118,7 @@ A script to say to learners:
 
 Here is an example of how a geometric shape can be created using the least number of action blocks. 
 
-![Using loops to a stop sign in Weavly](/assets/media/draw-a-stop-sign.jpg "Drawing a stop sign in Weavly using the Loops control")
+![Using loops to draw a stop sign in Weavly](/assets/media/draw-a-stop-sign.jpg "Drawing a stop sign in Weavly using the Loop control")
 
 A script to say to learners:
 
@@ -156,7 +156,9 @@ Encourage learners to position their character somewhere in the middle of the sc
 
 ### Using loops to create a new geometric shape
 
-The loop feature can allow learners to create more complex geometric shapes and symbols, such as roses, stars, crystals and snowflakes. Here is an example of how other shapes can be used to create geometric shapes
+The loop feature can allow learners to create more complex geometric shapes and symbols, such as roses, stars, crystals and snowflakes. Here is an example of how other shapes can be used to create geometric shapes.
+
+![Using loops to draw a stop sign in Weavly](/assets/media/draw-a-geometric-shape.jpg "Drawing a geometric shape in Weavly using the Loop control")
 
 A script to say to learners:
 
