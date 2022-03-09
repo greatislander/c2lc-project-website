@@ -118,6 +118,8 @@ A script to say to learners:
 
 Here is an example of how a geometric shape can be created using the least number of action blocks. 
 
+![Using loops to a stop sign in Weavly](/assets/media/draw-a-stop-sign.jpg "Drawing a stop sign in Weavly using the Loops control")
+
 A script to say to learners:
 
 > Now that you have learned to use loops to create a repeated pattern for a square, let’s try to create another shape, similar to a stop sign.
