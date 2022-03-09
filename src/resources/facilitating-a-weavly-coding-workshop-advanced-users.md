@@ -66,7 +66,7 @@ A script to say to learners:
 > 4. Select the ‘Turn Left 90 degrees’ action block, and then the ‘+’ button at the end of your program to add.
 > 5. Select the ‘Move Forward 1 square’ action block, and then select the ‘+’ button at the end of your program two times. So, now you have two ‘Move Forward 1 square’ in a row.
 
-Learners can play their program as they are building it to test out different parts of it. However, make sure that they press the ‘Refresh’ button before playing their program to make sure their submarine is back to its original starting position. 
+Learners can play their program as they are building it to test out different parts of it. However, make sure that they press the ‘Refresh’ button before playing their program to take their submarine back to its original starting position. 
 
 A script to say to learners:
 
@@ -76,11 +76,15 @@ Once learners complete their program, they can go ahead and play it to find out 
 
 A script to say to learners:
 
-> Oh no! We crashed into a shark/jellyfish! It’s common to face some challenges along the way. We can learn how to change things when we don’t get what we had planned. We call this debugging and it’s part of the process. Let’s do some debugging. Let’s find out which of your action blocks are causing your submarine to go in the wrong direction. How do you want to fix this? You can delete this action block, move it in your sequence, or replace it with another block. Let’s try different options!
+> Oh no! We crashed into a shark/jellyfish! It’s common to face some challenges along the way. We can learn how to change things when we don’t get what we had planned. We call this debugging and it’s part of the process. Let’s do some debugging now. Let’s find out which of your action blocks are causing your submarine to go in the wrong direction. How do you want to fix this? You can delete this action block, move it in your sequence, or replace it with another block. Let’s try different options!
 
 ## How to create repeated patterns (loops)
 
 Learners can use loops to repeat a specific part of their program in Weavly. The action blocks within a loop become the unit to be repeated when played. Learners can specify how many times they want a loop to be repeated without needing to add each action block unit repeatedly. With loops, they can create repeated patterns and geometric shapes efficiently. They are also able to create loops within other loops that are called ‘Nested loops’ in programming. With nested loops learners can create even more complex geometric shapes in Weavly with less steps. 
+
+![Different parts of loops in Weavly](/assets/media/loop.jpg "Loop ")
+
+A Loop in Weavly consists of three main parts, Loop start block, Loop End Block, and the Loop content. Each loop has a label that is indicated on both its start and end blocks and it is a combination of alphabet letters. On the loop start block, there is the loop counter where learners can enter the number of times they want the loop content to be repeated. Deleting either the loop start or end block will delete both ends of the loop but it does not delete the loop content. If learner moves the loop's start or end blocks in their program, the entire loop, including the content will move in the sequence. 
 
 A script to say to learners:
 
@@ -89,6 +93,8 @@ A script to say to learners:
 ### Using loops to create a square
 
 Here is an example of how a square can be created using the least number of action blocks. First, encourage learners to build a square. Once they are done, ask them to look for repeated patterns and count the number of times it has been repeated. Then, ask them to refresh their scene and delete their program, and this time use the loop feature to draw a square. 
+
+![Using loops to draw a square in Weavly](/assets/media/draw-a-square.jpg "Drawing a square in Weavly using the Loops control")
 
 A script to say to learners:
 
