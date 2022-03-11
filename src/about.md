@@ -32,7 +32,7 @@ whoSection:
         needs.
       link: https://bridges-canada.com
       image: /assets/media/20122485921_8dfcf134e3_o.jpg
-      imageAlt: "Image of several kids talking. One of the kids is on powered
+      imageAlt: "Image of several kids talking. One of the kids is seated on a powered
         wheelchair and using a single switch. "
 layout: layouts/about
 permalink: /about/
@@ -44,13 +44,13 @@ goalSection:
   title: More Than Just Learning to Code
   image: /assets/media/20190726_095446_hu0254f67d82f35e43a998c478f1615761_1190091_1000x0_resize_q75_box.jpg
   imageAlt: Two instructors working with a kid on a laptop to build a program
-    sequence for Dash robot
+    sequence for the robot Dash
   callToActionText: Our Process
   callToActionLink: https://www.codelearncreate.org/blog/
 headerBg: teal-75
 title: About
-subtitle: "We’re designing educational coding tools for kids who have been left
-  out of learning—especially those with complex needs. "
+subtitle: We’re designing educational coding tools for kids who have been left
+  out of learning—especially those with complex needs
 eleventyNavigation:
   key: About
   order: 5
