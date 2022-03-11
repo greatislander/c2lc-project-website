@@ -1,5 +1,10 @@
 ---
+title: Weavly
+subtitle: Weavly is a tool designed for everyone to learn about coding. Explore
+  activities and discover new ways to turn your ideas into reality. Share your
+  ideas and creations with others.
 headerCallToActionText: Create
+headerCallToActionLink: https://create.weavly.org
 createSection:
   title: Let's Create!
   cards:
@@ -28,11 +33,6 @@ trySection:
 layout: layouts/home
 permalink: /
 headerBg: green-85
-title: Weavly
-subtitle: Weavly is a tool designed for everyone to learn about coding. Explore
-  activities and discover new ways to turn your ideas into reality. Share your
-  ideas and creations with others.
-headerCallToActionLink: https://create.weavly.org
 aboutSection:
   title: What’s Accessible Coding?
   content: Accessible coding recognizes all students have unique needs. Digital
@@ -43,7 +43,7 @@ aboutSection:
   callToActionLink: /about/
   image: /assets/media/accessible-coding.png
   imageAlt: Image of a kid using an early version of Weavly on a laptop to control
-    Sphero robot
+    a Sphero robot
 eleventyNavigation:
   key: Home
   order: 0
