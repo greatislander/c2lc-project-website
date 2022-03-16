@@ -44,8 +44,8 @@ In this activity, learners will use their knowledge of sequencing to create repe
 
 ## Tips
 
-* Set up a large flat surface for items
-* In situations where the learner is not able to repeat the sequence, slow the pace and build the repeated sequence step-by-step with them on an one-on-one basis
+* Set up a large flat surface for items.
+* In situations where the learner is not able to repeat the sequence, slow the pace and build the repeated sequence step-by-step with them on an one-on-one basis.
 
 ## Skill Development
 
@@ -56,5 +56,5 @@ In this activity, learners will use their knowledge of sequencing to create repe
 
 ## Level Up!
 
-* Try a loop sequence with one item being used twice (e.g. spoon, fork, fork, spoon, fork, fork).
-* Try this activity again with a longer loop sequence (e.g. spoon, fork, fork, straw, spoon, fork, fork, straw).
+* Try a loop sequence with one item being used twice (e.g. spoon, fork, fork, spoon, fork, fork)
+* Try this activity again with a longer loop sequence (e.g. spoon, fork, fork, straw, spoon, fork, fork, straw)
