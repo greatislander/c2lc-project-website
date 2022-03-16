@@ -1,11 +1,10 @@
 ---
-title: Facilitating a Weavly coding workshop (Beginners)
+title: Facilitating a Weavly Coding Workshop (Beginners)
 date: 2022-02-09T15:21:04.641Z
 author: Weavly team
-description: |-
-  This facilitation guide will provide scripts and guidelines for
-    anyone who wants to use the Weavly coding environment to run a coding
-    workshop.
+description: This facilitation guide will provide scripts and guidelines for
+  anyone who wants to use the Weavly coding environment to run a coding
+  workshop.
 metaImage: /assets/media/screen-shot-2022-02-09-at-10.03.00-am.png
 metaImageAlt: Weavly coding environemnt with the space background
 ---
@@ -17,7 +16,7 @@ A script to say to learners:
 
 > *We use coding to talk to computers. To make sure they do exactly what we want, we have to give them clear step by step instructions. There are so many different kinds of computers around us and we constantly give them different instructions.*
 
-Offer examples using familiar devices that have a computer and use coding, such as elevators, microwaves, washing machines, etc. Facilitator can show several different image pairings to learners and ask them to identify which ones have a computer and need clear instructions to work.  
+Offer examples using familiar devices that have a computer and use coding, such as elevators, microwaves, washing machines, etc. Facilitators can show several different image pairings to learners and ask them to identify which ones have a computer and need clear instructions to work.  
 
 ![Instructor showing an image of washing machine and mittens to the participants. ](/assets/media/identify-the-robot_hueb5fd9d4ef6a330e9b11e5c5e2975564_254494_1000x0_resize_box_2.png "Showing examples of computers")
 
@@ -30,13 +29,14 @@ A script to say to learners:
 ### Foundational skills
 
 Before starting to use Weavly, there are some foundational skills that learners will need. If they don't have experience with these concepts, it is suggested that you create activities to either build the background knowledge or help learners connect with what they already know. These concepts can be covered as different parts of Weavly are introduced. \
+\
 The skills would be: 
 
-* Understanding of and ability to express a knowledge of forward, backward, left and right on their own body, on an object in different orientations to their body.
-* Understanding of difference between a 45 and 90 degree turn
-* Understanding of a sequence
-* Understanding of repeated patterns
-* Understanding of co-ordinates (for some users)
+* Understanding and an ability to express relative directions (forward, backward, left and right on their own body, and on an object in different orientations to their body)
+* Understanding the difference between a 45 and 90 degree turn
+* Understanding a sequence
+* Understanding repeated patterns
+* Understanding co-ordinates (for some users)
 
 We have developed several unplugged activities that can help you anchor these foundational skills. Please visit the [Unplugged Activities](https://weavly.org/learn/activities/?type=Unplugged) section for more details. 
 
@@ -92,7 +92,7 @@ The scene includes a grid of 12 columns and 8 rows. The grid layout supports lea
 
 As your character moves around the scene, a line can be drawn when the Pen Down toggle (located in the right side of scene) is turned on. The Pen Down toggle helps learners to focus their attention on tracking the movement of the character along with the program they have built. The feature also allows learners to draw a picture when they have selected the Sketchpad background.
 
-Depending on the learner's experiences with co-ordinates, educators can have have learners practice naming the co-ordinate found at specific locations. Likewise, educators could ask them to identify what they see at a specific co-ordinate. This activity will help educators to explicitly teach and practice the word co-ordinate.
+Depending on the learner's experiences with co-ordinates, facilitators can have have learners practice naming the co-ordinate found at specific locations. Likewise, educators could ask them to identify what they see at a specific co-ordinate. This activity will help facilitators to explicitly teach and practice the word co-ordinate.
 
 ![Scene close up ](/assets/media/scene-close-up.jpg "Scene close up")
 
@@ -110,12 +110,12 @@ Currently, there are two different types of action blocks available on Weavly.
 
 The first type of action blocks can be used to make your character move. They include: 
 
-* Moving forward by 1 square;
-* Moving backward by 1 square;
-* Turning right by 45 degrees;
-* Turning right by 90 degrees;
-* Turning left by 45 degrees; and 
-* Turning left by 90 degrees.
+* Moving forward by 1 square
+* Moving backward by 1 square
+* Turning right by 45 degrees
+* Turning right by 90 degrees
+* Turning left by 45 degrees
+* Turning left by 90 degrees
 
 ##### Controls
 
@@ -161,7 +161,7 @@ A script to say to learners:
 
 The play controls (bottom) includes buttons to play, pause, or stop the program. There are options to adjust the program playback speed and to refresh the scene. 
 
-Once learners are ready to try their program, they can press the “Play” button to make their character move based on the program they have built. Make sure the Pen Down feature (toggle in the scene settings on the right side) is enabled, if you want your character to draw a line as it moves on the scene according to your program. 
+Once learners are ready to try their program, press the “Play” button to make their character move based on the program they have built. Make sure the Pen Down feature (toggle in the scene settings on the right side) is enabled if you want your character to draw a line as it moves on the scene according to your program. 
 
 ![Weavly play controls and share button](/assets/media/playcontrols-close-up.jpg "Weavly play controls and share button")
 
@@ -186,7 +186,7 @@ On the edit menu, they have these four options:
 
 Learners also have the option to select the trashcan icon on the top right corner of their program panel to delete their entire program and start over again. Please note that deleting the program does not delete any current drawings on the scene. To delete the drawings on the scene and bring the character back to its original position, learners need to press the "Refresh" button right before the Play controls. 
 
-When learners encounter unintended results (e.g. character is moving in the wrong direction), enourage them to stop and talk to them about different ways that they can “debug” their program.  
+When learners encounter unintended results (e.g. character is moving in the wrong direction), encourage them to stop and talk to them about different ways that they can “debug” their program.  
 
 A script to say to learners:
 
@@ -222,7 +222,7 @@ A script to say to learners:
 
 To ensure learners with diverse abilities can access and operate the Weavly coding environment, we have developed a series of facilitation guides to provide more details about how Weavly can respond to different needs and preferences. 
 
-* [Weavly for screen reader users](https://weavly.org/learn/resources/weavly-for-screen-reader-users/)
-* [Weavly for learners with low vision](https://weavly.org/learn/resources/weavly-for-learners-with-low-vision/)
-* [Weavly for switch users](https://weavly.org/learn/resources/weavly-for-switch-users/)
-* [Weavly for keyboard users](https://weavly.org/learn/resources/weavly-for-keyboard-users/)
+* [Weavly for Screen Reader Users](https://weavly.org/learn/resources/weavly-for-screen-reader-users/)
+* [Weavly for Learners with Low Vision](https://weavly.org/learn/resources/weavly-for-learners-with-low-vision/)
+* [Weavly for Switch Users](https://weavly.org/learn/resources/weavly-for-switch-users/)
+* [Weavly for Keyboard Users](https://weavly.org/learn/resources/weavly-for-keyboard-users/)
