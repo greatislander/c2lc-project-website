@@ -25,11 +25,12 @@ activitiesSection:
     - title: Unplugged
       link: /learn/activities/#unplugged
       image: /assets/media/lego_sequencing.jpg
-      content: Get “hands-on” with activities without using a computer or digital device
+      content: Get “hands-on” with activities without using a computer or digital
+        device.
     - title: On-Screen
       image: /assets/media/mission-_hunting_the_sunken_treasure.jpg
       content: Learn the basics of coding with activities using a computer or digital
-        device
+        device.
       link: /learn/activities/#on-screen
     - title: Hybrid
       link: /learn/activities/#hybrid
@@ -52,7 +53,7 @@ trainingsSection:
     Check out “Debug’d” upcoming online and in-person trainings and workshops.
 
 
-    Debugd’s explicit instruction, differentiated strategies, adapted electronic and ready-to-print materials deliver meaningful participation in classroom coding regardless of challenges
+    Debugd’s explicit instruction, differentiated strategies, adapted electronic and ready-to-print materials deliver meaningful participation in classroom coding regardless of challenges.
   image: /assets/media/slide-4.jpg
   imageAlt: An illustration of lesson plans and robots in bubbles surrounded by
     written text Debug'd
