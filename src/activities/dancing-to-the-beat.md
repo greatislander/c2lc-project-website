@@ -31,7 +31,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: How to Code a Rollarcoaster
     author: Josh Funk
@@ -46,7 +46,7 @@ As a starter, you can try...
 
 For younger children:
 
-* Weavly Pre-built Program 
+* Weavly Pre-built Program
 * [Dance music](https://www.youtube.com/watch?v=iwKS4b9aUeI)
 
 For youth
@@ -64,9 +64,9 @@ For youth
 
 ## Tips
 
-* Announce every step of the program as it is executed.
+* Announce every step of the program as it is being played/executed.
 * For longer songs, you can replay the same program.
-* Try to keep the players focused on the running program and correct their movements.
+* Try to keep the players focused on following the running program and correcting their movements.
 
 ## Skill Development
 
