@@ -24,7 +24,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: I Have a Little Problem, Said the Bear
     author: Heinz Janisch
