@@ -50,7 +50,7 @@ Each mission has a suspected location to explore:
 * Mission 2: Mars discovery
 * Mission 3: Exploration of Saturn
 
-Planet discovery: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Space&p=&c=abb&a=123456ABDabd)
+Planet discovery: Activity link
 
 ![Space background including earth, moon, Mars, Saturn, a Satellite, stars, and space rocks](/assets/media/space.svg "Space background")
 
