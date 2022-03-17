@@ -44,7 +44,7 @@ In this activity, learners will use their knowledge of sequencing to create repe
 
 ## Tips
 
-* Set up a large flat surface for items.
+* To avoid confusion, ensure set up is a large flat surface for items to be seen clearly.
 * In situations where the learner is not able to repeat the sequence, slow the pace and build the repeated sequence step-by-step with them on an one-on-one basis.
 
 ## Skill Development
