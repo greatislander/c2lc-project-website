@@ -19,7 +19,7 @@ whatYouNeed: >-
   ### Skills
 
 
-  Directional skills to understand basic directions and repetition (for example move forward, backward, turning right, and turning left)
+  Basic understanding of directions (e.g. move forward, backward, turning right, and turning left) and sequencing
 
 
   ### Environment
