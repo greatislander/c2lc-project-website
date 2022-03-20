@@ -13,13 +13,14 @@ Here is a list of picture books that educators may wish to include in their codi
 
 Many of the books included in this list came from a list originally compiled by Lesley Pike and Melissa Seco. With their permission, we included many of the books in their list and added others we have discovered in connecting and discussing with other educators. Please let us know if you have also used picture books that can be added to this list.
 
-The list has been organized based on the scope and sequence followed in the Weavly curriculum. In some cases, explicit coding vocabulary and concepts are described within the story. In other cases, the stories depict experiences, activities, and adventures to which coding concepts could be applied. These stores helps children to develop an understanding of foundational concepts and anchor new learning to the experiences found in these stories. Teachers can connect the ways in which coding concepts can be found in many areas of life and literature.
+The list has been organized based on the scope and sequence followed in the Weavly curriculum. In some cases, explicit coding vocabulary and concepts are described within the story. In other cases, the stories depict experiences, activities, and adventures to which coding concepts could be applied. These stores helps children to develop an understanding of foundational concepts and anchor new learning to the experiences found in these stories. Educators and facilitators can connect the ways in which coding concepts can be found in many areas of life and literature.
 
-\*\* Many of these books can be found as read-aloud on YouTube. Search for your favorite picture books.
+Note: Many of these books can be found as read-aloud on YouTube. Search for your favourite picture books.
 
 ## Functional Concepts
 
 {% grid "3" %}
+
 
 {% gridImage "/assets/media/robots-robots-everywhere-by-sue-fliess.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/818318095" %}
 
@@ -175,11 +176,13 @@ By Sean Taylor
 
 {% endgridImage %}
 
+
 {% endgrid %}
 
 ## Sequencing
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/the-very-hungry-caterpillar.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/21134403" %}
 
 
@@ -419,11 +422,13 @@ By Karen Beaumont
 
 
 {% endgridImage %}
+
 {% endgrid %}
 
 ## Debugging
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/ihavealittleproblem-saidthebear.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/234427678" %}
 
 
@@ -459,11 +464,13 @@ By Patricia M. Stockland
 
 
 {% endgridImage %}
+
 {% endgrid %}
 
 ## Loops
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/adi-s-perfect-patterns-and-loops.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1024129689" %}
 
 
@@ -547,11 +554,13 @@ By Patricia M. Stockland
 
 
 {% endgridImage %}
+
 {% endgrid %}
 
 ## Events
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/please-mr.-panda-by-steve-antony.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/882553289" %}
 
 
@@ -599,11 +608,13 @@ by Mairi Mackinnon
 
 
 {% endgridImage %}
+
 {% endgrid %}
 
 ## Conditionals
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/gabi’s-if-then-garden-by-caroline-karanja.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1024085994" %}
 
 
@@ -639,11 +650,13 @@ By Judith Viorst, Ray Cruz
 
 
 {% endgridImage %}
+
 {% endgrid %}
 
 ## Functions
 
 {% grid "3" %}
+
 {% gridImage "/assets/media/gabi’s-fabulous-functions-by-caroline-karnaja.jpg", "Book cover", "https://canada.on.worldcat.org/oclc/1024087812" %}
 
 
@@ -655,4 +668,5 @@ By Caroline Karnaja
 
 
 {% endgridImage %}
+
 {% endgrid %}
