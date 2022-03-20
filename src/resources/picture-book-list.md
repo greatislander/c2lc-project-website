@@ -2,9 +2,9 @@
 title: Picture Book List
 date: 2021-02-23T17:08:27.987Z
 author: Weavly Team
-description: A collection of picture books that either include coding vocabulary
-  and concepts or depict experiences, activities, and adventures to which coding
-  concepts could be applied.
+description: Discover a collection of picture books that include coding
+  vocabulary and concepts or depict experiences, activities, and adventures to
+  which coding concepts could be applied.
 metaImage: /assets/media/susie-reading.png
 metaImageAlt: "An instructor is reading from a picture book that is also
   projected on the screen for a group of students sitting on wheelchairs. "
