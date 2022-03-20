@@ -4,7 +4,7 @@ date: 2021-02-23T18:28:01.926Z
 author: Weavly Team
 description: "Review this framework intended to support educators as they
   explore and consider appropriate activities for coding instruction with their
-  students who experience learning challenges. "
+  learners who experience learning challenges. "
 metaImage: /assets/media/img_0366.jpg
 metaImageAlt: Two hands holding pieces of debugg'd coding kit
 supportiveMaterial:
@@ -30,7 +30,7 @@ The considerations outlined below take into account applications within the desi
 
 ## Accessibility Considerations
 
-Think about each of the following potential barriers and challenges that impact the level of accessibility for your learner/student. Rate the severity of the barrier (0-5).
+Think about each of the following potential barriers and challenges that impact the level of accessibility for your learner(s). Rate the severity of the barrier (0-5).
 
 ### Reading Potential Barriers
 
@@ -41,30 +41,30 @@ Think about each of the following potential barriers and challenges that impact 
 
 ### Writing Potential Barriers
 
-* Students are required to type correctly spelled commands in order to carry out tasks.
+* Learners are required to type correctly spelled commands in order to carry out tasks.
 
 ### Cognitive Potential Barriers
 
-* Students are required to store information and recall it later to carry out a task.
-* Students are required to follow a large number of steps sequentially that are not broken down.
-* Students are required to have an understanding/prior knowledge of certain concepts in order to carry out tasks. (i.e. left/right, sequencing)
-* Students are required to follow fast-paced instructions.
-* Students are required to follow instructions that are provided through limited means (i.e. only auditory but not visually).
-* Students are required to navigate across multiple screens.
+* Learners are required to store information and recall it later to carry out a task.
+* Learners are required to follow a large number of steps sequentially that are not broken down.
+* Learners are required to have an understanding/prior knowledge of certain concepts in order to carry out tasks. (i.e. left/right, sequencing)
+* Learners are required to follow fast-paced instructions.
+* Learners are required to follow instructions that are provided through limited means (i.e. only auditory but not visually).
+* Learners are required to navigate across multiple screens.
 
 ### Visual Perceptual Potential Barriers
 
-* Students are required to have good spatial awareness to carry out tasks.
+* Learners are required to have good spatial awareness to carry out tasks.
 
 ### Fine Motor Potential Barriers
 
-* Students are required to move items seamlessly using a small, single point of contact (i.e. finger use for drag-and-drop)
-* Students are required to manipulate small objects in close proximity (i.e. hold and rotate machinery pieces).
-* Students are required to effectively use a mouse (i.e. for scrolling, clicking, and dragging)
-* Students are required to perform complex gestures to carry out tasks. (i.e. pinch, 3 finger tap)
-* Students are required to put together small pieces of machinery.
-* Students are required to use small tools.
-* Students use alternate access devices for keyboard and mouse functions.
+* Learners are required to move items seamlessly using a small, single point of contact (i.e. finger use for drag-and-drop)
+* Learners are required to manipulate small objects in close proximity (i.e. hold and rotate machinery pieces).
+* Learners are required to effectively use a mouse (i.e. for scrolling, clicking, and dragging)
+* Learners are required to perform complex gestures to carry out tasks. (i.e. pinch, 3 finger tap)
+* Learners are required to put together small pieces of machinery.
+* Learners are required to use small tools.
+* Learnersuse alternate access devices for keyboard and mouse functions.
 
 ## Potential Solution Ideas
 
