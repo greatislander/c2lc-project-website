@@ -99,7 +99,7 @@ Think about each of the following potential barriers and challenges that impact 
 * Anchor activities
 * Visual replicas of materials to isolate concepts
 * Manipulative items (i.e. ribbon, blocks, stickers)
-* Directionality- bridge the gap between person and objects through physical orientation (i.e. identifying left/right of an object facing a different direction)
+* Directionality to bridge the gap between person and objects through physical orientation (i.e. identifying left/right of an object facing a different direction)
 * Adapt abstract materials to make them more concrete
 
 ### Fine Motor
