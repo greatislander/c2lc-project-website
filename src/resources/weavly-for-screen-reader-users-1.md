@@ -1,5 +1,5 @@
 ---
-title: Weavly for screen reader users
+title: Weavly for Screen Reader Users
 date: 2022-01-25T19:01:13.999Z
 author: Weavly team
 description: This guide provides more information about how to navigate and use
