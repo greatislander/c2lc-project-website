@@ -29,7 +29,7 @@ learnSection:
 trySection:
   title: Try Weavly
   titleLink: https://create.weavly.org
-  content: A fun and inclusive coding tool for all of us
+  content: A fun and inclusive coding tool for all of us.
 layout: layouts/home
 permalink: /
 headerBg: green-85
