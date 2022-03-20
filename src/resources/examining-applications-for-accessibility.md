@@ -12,7 +12,7 @@ supportiveMaterial:
       Educators
     file: /assets/media/examining-applications-for-accessibility.pdf
 ---
-The considerations outlined below include those that should be considered within the design interface as well as instructional supports, such as pre-teaching, scaffolded instruction and adapted resources.
+The considerations outlined below take into account applications within the design interface as well as instructional supports, such as pre-teaching, scaffolded instruction and adapted resources.
 
 ## General Information
 
