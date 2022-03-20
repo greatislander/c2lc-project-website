@@ -37,7 +37,7 @@ To edit an action block on a program sequence, learners need to open its edit me
 
 ![This image shows the control for adjusting the speed of playback. ](/assets/media/playback-speed.jpg "Weavly playback speed")
 
-Once a program is created, the speed of playback can be controlled with the playback speed control. To adjust the speed, learners can use the left and right arrow keys on their keyboard to decrease or increase the speed.
+Once a program is created, the speed of playback can be controlled through the playback speed control. To adjust the speed, learners can use the left and right arrow keys on their keyboard to decrease or increase the speed.
 
 ## Landmarks
 
@@ -45,13 +45,13 @@ Once a program is created, the speed of playback can be controlled with the play
 
 Learners are also able to navigate Weavly through landmarks. Landmarks are distinct regions in the Weavly coding environment that include a group of links with related functionalities. Here is the list of available landmarks in Weavly:
 
-* Weavly Logo: This icon will take learners back to the main Weavly website that includes learning the resources and coding activities.
-* Accessibility settings: This region includes options to adjust audio settings, colour themes, keyboard shortcuts, and robot connections.
-* Scene: This region includes the selected scene background and the on-screen character.
-* Scene settings: This region includes options to change the background and the position of the on-screen character.
-* Actions panel: This region includes all the action blocks that learners need to build a program program.
-* Program panel: In this region, learners can use action blocks to build a program and make edits.
-* Play controls: This region includes controls that allow learners to play, pause, or stop their program, adjust the heir program playback speed, refresh their scene, and get a link of their programs to share with others.
+* **Weavly Logo:** This icon will take learners back to the main Weavly website where the resources and coding activities can be found.
+* **Accessibility settings:** This region includes options to adjust audio settings, colour themes, keyboard shortcuts, and robot connections.
+* **Scene:** This region includes the selected scene background and the on-screen character.
+* **Scene settings:** This region includes options to change the background and the position of the on-screen character.
+* **Actions panel:** This region includes all the action blocks that learners need to build a program program.
+* **Program panel:** This region allows learners to use action blocks to build a program and make edits.
+* **Play controls:** This region includes controls that allow learners to play, pause, or stop their program, adjust the their program playback speed, refresh their scene, and get a link of their programs to share with others.
 
 ## Heading navigation
 
@@ -73,11 +73,13 @@ Learners are able to navigate by headers in the Weavly coding environment. Here 
 
 ![This image shows an expanded audio settings menu for the Weavly coding environment. ](/assets/media/audio-menu.jpg "Weavly audio settings menu")
 
-Facilitators can work with the learner to find the best audio settings that meet the learner’s needs and preferences. To allow screen readers to be the main source of audio output, it is recommended to turn off audio announcement, however, leave the musical sounds on. Here are the available options:
+Facilitators can work with learners to find the best audio settings that meet each learner’s needs and preferences. To allow screen readers to be the main source of audio output, it is recommended to turn off audio announcement. However, it is recommended to leave the musical sounds turned on. 
 
-* Option to turn on/off all sounds in the Weavly coding environment.
+Here are the available options:
+
+* Option to turn on/off all sounds in the Weavly coding environment
 * Option to turn on/off all musical sounds (Each action block will have a unique sound based on its location on the grid. These musical sounds are only played when a program is being played.)
 * Option to turn on/off all audio announcements or individually select to turn on/off any of the following two options: 
 
-  * Feedback: Audio announcement when an item is selected
-  * Preview: Audio announcement while hovering over an item
+  * **Feedback:** Audio announcement when an item is selected
+  * **Preview:** Audio announcement while hovering over an item
