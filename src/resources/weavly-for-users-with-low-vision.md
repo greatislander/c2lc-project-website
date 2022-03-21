@@ -68,10 +68,10 @@ Facilitators can work with the learner to find the best audio settings that meet
 
 1. **All sounds:** This option allows all sounds in the Weavly coding environment to be turned on/off.
 2. **All musical sounds:** This option allows all musical sounds to be turned on/off. Each action block will have a unique sound based on its location on the grid. These musical sounds are played when a program is being played.
-3. **All audio announcements: This o**ption allows all or select audio announcements to be turned on/off. For select audio announcements, the two options include: 
+3. **All audio announcements: This opti**on allows all or select audio announcements to be turned on/off. For select audio announcements, the two options include: 
 
-* Feedback: Audio announcement when an item is selected
-* Preview: Audio announcement while hovering over an item
+* **Feedback:** This option provides an audio announcement when an item is selected.
+* **Preview:** This option provides an audio announcement while hovering over an item
 
 Learners will also be able to adjust the speed of these announcements.
 
