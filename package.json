@@ -8,11 +8,12 @@
     "build:webpack": "mix --production",
     "build:eleventy": "eleventy",
     "clean": "rimraf dist",
+    "cms": "netlify-cms-proxy-server",
     "dev": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "lint": "fluid-lint-all",
     "start": "npm-run-all -l clean -p start:*",
     "start:webpack": "mix watch",
-    "start:eleventy": "concurrently \"npm run dev\" \"netlify-cms-proxy-server\""
+    "start:eleventy": "run-p dev cms"
   },
   "repository": {
     "type": "git",
@@ -43,7 +44,6 @@
   "devDependencies": {
     "@commitlint/cli": "16.1.0",
     "@commitlint/config-conventional": "16.0.0",
-    "concurrently": "6.2.1",
     "cross-env": "7.0.3",
     "fluid-lint-all": "1.1.5",
     "html-minifier": "4.0.0",
