@@ -66,12 +66,14 @@ The speed bar right next to the play controls allows learners to adjust the spee
 
 Facilitators can work with the learner to find the best audio settings that meet the learner’s needs and preferences. Here are the available options:
 
-1. Option to turn on/off all sounds in the Weavly coding environment.
-2. Option to turn on/off all musical sounds (Each action block will have a unique sound based on its location on the grid. These musical sounds are played when a program is being played.)
-3. Option to turn on/off all audio announcements or individually select to turn on/off any of the following two options. Learners will also be able to adjust the speed of these announcements.
+1. **All sounds:** This option allows all sounds in the Weavly coding environment to be turned on/off.
+2. **All musical sounds:** This option allows all musical sounds to be turned on/off. Each action block will have a unique sound based on its location on the grid. These musical sounds are played when a program is being played.
+3. **All audio announcements: This o**ption allows all or select audio announcements to be turned on/off. For select audio announcements, the two options include: 
 
 * Feedback: Audio announcement when an item is selected
 * Preview: Audio announcement while hovering over an item
+
+Learners will also be able to adjust the speed of these announcements.
 
 ## Weavly’s keyboard shortcuts
 
@@ -92,6 +94,6 @@ Here is a full list of keyboard shortcuts that are available for Weavly: [](http
 
 ### Glare
 
-* Modify position of the device to control light reflection and minimize glare.
-* Adjust brightness levels of the device and the room in general.
-* Clean surfaces of device.
+* Minimize opportunities for light reflection by modify position of the device based the presence of glare
+* Adjust brightness levels of the device and the room in general to reduce opportunity for contrast to levels of light
+* Clean surfaces of device to increase clarity of screen(s).
