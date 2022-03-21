@@ -1,5 +1,5 @@
 ---
-title: Weavly for learners with low vision
+title: Weavly for Learners with Low Vision
 date: 2022-01-25T20:28:43.535Z
 author: Weavly team
 description: "This guide will provide more information about how learners with
@@ -19,11 +19,11 @@ Here is a list of settings and considerations within and outside of the Weavly c
 
 There is a colour theme setting on the Weavly coding environment. Facilitators can work with the learner to explore five colour themes and choose one that works best for them. Learners are always able to go back and change the colour settings of their coding environment without losing any of their work. 
 
-* Default theme: A mix of light and dark colours with moderate contrast levels.
-* Light theme: Includes lighter colours with less contrast. Learners who prefer lower levels of contrast may benefit from this colour theme.
-* Dark theme: Includes darker colours with subtle contrast levels. Learners who might experience eye strain from prolonged screen time may benefit from this colour theme. 
-* Greyscale: Includes different shades of grey with low contrast levels. Learners who prefer the lowest levels of contrast and learners who are colour blind may benefit from this colour theme. 
-* High contrast: Includes black, white, and fully saturated red and blue colours. Learners who prefer the highest contrast levels can benefit from this colour theme.
+* **Default theme:** This theme has a mix of light and dark colours with moderate contrast levels.
+* **Light theme:** This theme includes lighter colours with less contrast. Learners who prefer lower levels of contrast may benefit from this colour theme.
+* **Dark theme:** This theme includes darker colours with subtle contrast levels. Learners who might experience eye strain from prolonged screen time may benefit from this colour theme. 
+* **Greyscale:** This theme includes different shades of grey with low contrast levels. Learners who prefer the lowest levels of contrast and learners who are colour blind may benefit from this colour theme. 
+* **High contrast:** This theme includes black, white, and fully saturated red and blue colours. Learners who prefer the highest contrast levels can benefit from this colour theme.
 
 ### Visual cues 
 
@@ -31,10 +31,10 @@ There is a colour theme setting on the Weavly coding environment. Facilitators c
 
 In the actions panel, each action block has a distinct colour. Green for moving forward, blue for moving backward, yellow for turning left and red for turning right. However, if learners select the greyscale colour theme all blocks will be displayed in grey. When the high contrast colour theme is selected all blocks will be displayed in white. 
 
-Weavly also includes distinct visual states for interactive items, such as the followings:
+Weavly also includes distinct visual states for interactive items:
 
-* When dragging an action block to the program area, a thick outline will appear around the program panel as well as the nearest step that learner can drop their action block to. 
-* When an action block is dropped into a program sequence, a glowing outline will appear around that block to confirm it has been added.
+* When dragging an action block to the program area, a thick outline will appear around the program panel as well as the nearest step that learner can drop their action block. 
+* When an action block is dropped into a program sequence, a glowing outline will appear around that block to confirm that the action block has been added.
 
 ### Simplification
 
@@ -50,7 +50,7 @@ Visual attention is the cognitive function to select relevant information for or
 
 ![Weavly world selector ](/assets/media/world-selector.jpg "Weavly world selector ")
 
-There are backgrounds with various themes and visual content available on the Weavly coding environment. It is recommended to begin with a simplified background, such as sketchpad and gradually select backgrounds with visual elements to suit the user’s ability and preference.
+There are backgrounds with various themes and visual content available on the Weavly coding environment. It is recommended to begin with a simplified background, such as 'Sketchpad' and gradually select backgrounds with visual elements to suit the user’s ability and preference.
 
 #### Adjusting speed of a playing program
 
@@ -64,14 +64,19 @@ The speed bar right next to the play controls allows learners to adjust the spee
 
 ![Weavly audio menu](/assets/media/audio-menu.jpg "Weavly audio menu")
 
-Facilitators can work with the learner to find the best audio settings that meet the learner’s needs and preferences. Here are the available options:
+Facilitators can work with learners to find the best audio settings that meet the learner’s needs and preferences. Here are the available options:
 
-1. Option to turn on/off all sounds in the Weavly coding environment.
-2. Option to turn on/off all musical sounds (Each action block will have a unique sound based on its location on the grid. These musical sounds are played when a program is being played.)
-3. Option to turn on/off all audio announcements or individually select to turn on/off any of the following two options. Learners will also be able to adjust the speed of these announcements.
+1. **All Sounds:** This option allows all sounds in the Weavly coding environment to be turned on/off.
+2. **Musical Sounds:** This option allows all musical sounds to be turned on/off. Each action block will have a unique sound based on its location on the grid. These musical sounds are played when a program is being played.
+3. **Audio Announcement:** This option allows all or individually-selected audio announcements to be turned on/off. The two selected audio announcement options include: 
 
-* Feedback: Audio announcement when an item is selected
-* Preview: Audio announcement while hovering over an item
+* *Feedback: *This option provides an audio announcement when an item is selected.
+
+<!---->
+
+* *Preview:* This option provides an *a*udio announcement while hovering over an item.
+
+Learners will also be able to adjust the speed of these announcements.
 
 ## Weavly’s keyboard shortcuts
 
@@ -92,6 +97,6 @@ Here is a full list of keyboard shortcuts that are available for Weavly: [](http
 
 ### Glare
 
-* Modify position of the device to control light reflection and minimize glare.
-* Adjust brightness levels of the device and the room in general.
-* Clean surfaces of device.
+* Light reflection can reduce visibility of the screen. To minimize glaze, modify position of the device to control and reduce light reflection.
+* Adjust brightness levels of the device and the room in general can reduce opportunity for contrast and glare.
+* Cleaning surfaces of device from dirt and dust build-up increase screen clarity.
