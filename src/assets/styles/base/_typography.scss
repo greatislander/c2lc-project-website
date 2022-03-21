@@ -46,8 +46,7 @@ address {
 
 blockquote {
     background: var(--color-yellow-85);
-    font-size: calc(24 / 16 * 1rem);
-    font-weight: var(--font-weight-medium);
+    font-size: var(--step-0);
     margin-inline-start: calc(-1 * var(--space-lg) / 2);
     max-width: calc(100% + var(--space-lg));
     padding: var(--space-md);
