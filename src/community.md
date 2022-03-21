@@ -2,7 +2,7 @@
 layout: layouts/projects.njk
 title: Community
 subtitle: Discover new and inspiring ideas being explored around the world to
-  make coding fun and accessible for learners with unique needs
+  make coding fun and accessible for learners with unique needs.
 headerBg: purple-75
 eleventyNavigation:
   key: Community

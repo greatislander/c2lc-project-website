@@ -50,7 +50,7 @@ goalSection:
 headerBg: teal-75
 title: About
 subtitle: We’re designing educational coding tools for kids who have been left
-  out of learning—especially those with complex needs
+  out of learning—especially those with complex needs.
 eleventyNavigation:
   key: About
   order: 5
