@@ -72,7 +72,7 @@
 @media (min-width: 960px) {
     .activity .header,
     .robot-activity .header {
-        border-bottom: var(--border-thin) solid var(--color-white);
+        border-block-end: var(--border-thin) solid var(--color-white);
 
         figure {
             margin-block-end: 0;
@@ -107,7 +107,7 @@
 
     .activity .header .wrapper div,
     .robot-activity .header .wrapper div {
-        border-left: var(--border-thin) solid var(--color-white);
+        border-inline-start: var(--border-thin) solid var(--color-white);
     }
 
     .activity .wrapper.has-sidebar,

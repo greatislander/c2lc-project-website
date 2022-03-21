@@ -3,11 +3,11 @@
 // -----------------------------------------------------------------------------
 
 .resources .resource picture img {
-    border-left: var(--space-lg) solid var(--color-orange-75);
+    border-inline-start: var(--space-lg) solid var(--color-orange-75);
 }
 
 .resources .resource + .resource {
-    border-top: var(--border-hairline) solid var(--color-black-05);
+    border-block-start: var(--border-hairline) solid var(--color-black-05);
     margin-block-start: var(--space-lg);
     padding-block-start: var(--space-lg);
 }
@@ -20,7 +20,7 @@
 }
 
 .supportive-materials p + p {
-    border-top: var(--border-hairline) solid var(--color-black-05);
+    border-block-start: var(--border-hairline) solid var(--color-black-05);
     margin-block-start: var(--space-md);
     padding-block-start: var(--space-md);
 }

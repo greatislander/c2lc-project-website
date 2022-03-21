@@ -22,6 +22,7 @@
                 "*.docx",
                 "*.pptx",
                 "*.gif",
+                "*.zip",
                 "./src/_data/*.json",
                 "./src/activities/*.md",
                 "./src/robot-activities/*.md",

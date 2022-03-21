@@ -14,8 +14,8 @@
 
             .wrapper {
                 background-color: var(--color-green-85);
-                border-top-left-radius: var(--radius-md);
-                border-top-right-radius: var(--radius-md);
+                border-start-end-radius: var(--radius-md);
+                border-start-start-radius: var(--radius-md);
                 margin: var(--space-xl) auto 0;
             }
         }
@@ -23,8 +23,8 @@
         .content {
             .wrapper {
                 background-color: var(--color-green-85);
-                border-bottom-left-radius: var(--radius-md);
-                border-bottom-right-radius: var(--radius-md);
+                border-end-end-radius: var(--radius-md);
+                border-end-start-radius: var(--radius-md);
                 margin-block-end: var(--space-xl);
                 padding-block-start: 0;
             }
@@ -41,7 +41,7 @@
                     justify-content: space-between;
 
                     + .learning-resource {
-                        border-top: var(--border-hairline) solid var(--color-black-05);
+                        border-block-start: var(--border-hairline) solid var(--color-black-05);
                         padding-block-start: var(--space-md);
                     }
                 }

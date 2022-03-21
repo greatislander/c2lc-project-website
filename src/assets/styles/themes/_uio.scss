@@ -1,4 +1,7 @@
 /* purgecss start ignore */
+.fl-prefsEditor-separatedPanel {
+    padding-block-end: var(--space-sm);
+}
 
 [class*=fl-theme]:not(.fl-theme-prefsEditor-default) {
     &.home article .wrapper,
@@ -14,6 +17,14 @@
     a:not([class]):active {
         background-color: var(--fl-linkColor) !important;
         color: var(--fl-bgColor) !important;
+    }
+
+    .brand .logo {
+        display: none !important;
+
+        &.mono {
+            display: block !important;
+        }
     }
 
     .call-to-action {

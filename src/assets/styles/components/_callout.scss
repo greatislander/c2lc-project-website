@@ -7,7 +7,7 @@
 }
 
 .callout + .callout {
-    border-top: var(--border-thin) solid var(--color-white);
+    border-block-start: var(--border-thin) solid var(--color-white);
 }
 
 @media (min-width: 960px) {
