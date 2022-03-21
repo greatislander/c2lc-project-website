@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "1.0.0",
-    "@11ty/eleventy-img": "1.0.0",
+    "@11ty/eleventy-img": "2.0.0",
     "@11ty/eleventy-navigation": "0.3.2",
     "@zachleat/filter-container": "2.0.3",
     "eleventy-plugin-fluid": "0.3.1",
