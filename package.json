@@ -35,7 +35,7 @@
     "@11ty/eleventy": "1.0.0",
     "@11ty/eleventy-img": "2.0.0",
     "@11ty/eleventy-navigation": "0.3.2",
-    "@zachleat/filter-container": "2.0.3",
+    "@zachleat/filter-container": "3.0.4",
     "eleventy-plugin-fluid": "0.3.1",
     "infusion": "4.0.0",
     "modern-css-reset": "1.4.0",
