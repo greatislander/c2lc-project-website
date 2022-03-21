@@ -8,14 +8,14 @@
   <div class="[ flow ] [ flow-md ]">
       {% for item in resources %}
       <article class="[ resource ] [ two:three ]">
-          <div class="[ three:two__three ]">
+          <div class="[ two:three__two ]">
               {% if item.data.metaImage %}
               {% image item.data.metaImage, item.data.metaImageAlt, "570", "380" %}
               {% else %}
               {% image "/assets/media/design-activity_hua7f35ba46080e3314a834735ed95f389_2828843_1000x0_resize_q75_box.jpg", "", "570", "380" %}
               {% endif %}
           </div>
-          <div class="[ three:two__two ] [ flow ]">
+          <div class="[ two:three__three ] [ flow ]">
               <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
               <p class="metadata">{% if item.data.author %}By <span class="[ author ]">{{ item.data.author }}</span> / {% endif %}Posted <time datetime="{{ item.data.date | isoDate }}" class="[ dt-published ]">{{ item.data.date | formatDate }}</time></p>
               {% if item.data.description %}
