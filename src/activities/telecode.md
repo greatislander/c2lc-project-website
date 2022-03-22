@@ -42,9 +42,9 @@ In this activity learners can explore the sound features of the different action
 
 ## Tips
 
-* When asking learners to repeat the sound, consider singing or sounding out the audio (i.e. beep beep, chi chee), as well as using kinesthetic movement (I.e. clapping, tapping) 
-* Set up a space with a relatively quiet environment to detect audio changes or use headset/earphones 
-* Turn off pen toggle feature to help learners focus their attention on the sound
+* When asking learners to repeat the sound, consider singing or sounding out the audio (i.e. beep beep, chi chee), as well as using kinesthetic movement (I.e. clapping, tapping).
+* Set up a space with a relatively quiet environment to detect audio changes or use headset/earphones.
+* Turn off pen toggle feature to help learners focus their attention on the sound.
 
 ## Skill Development
 
