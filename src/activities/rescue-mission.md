@@ -1,5 +1,5 @@
 ---
-title: "Mission: Rescue "
+title: Rescue mission
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
