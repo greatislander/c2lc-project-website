@@ -1,5 +1,5 @@
 ---
-title: Creating Loops
+title: Creating loops
 type: Unplugged
 experience: No Coding Experience
 subject: Sorting & Patterns
