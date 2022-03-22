@@ -21,7 +21,7 @@ whatYouNeed: >-
   ### Skills
 
 
-  Preliminary understanding of directions
+  Basic understanding of directions
 
 
   ### Environment
@@ -56,9 +56,9 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 ## Tips
 
-* Ensure operational batteries are available 
-* Ensure Dash and Dot is operational prior to the activity
-* Set up a large flat surface for Dash and Dot to detect visual and/or kinesthetic changes 
+* Ensure operational batteries are available.
+* Ensure Dash and Dot is operational prior to the activity.
+* Set up a large flat surface for Dash and Dot to detect visual and/or kinesthetic changes.
 
 ## Change it up 
 
