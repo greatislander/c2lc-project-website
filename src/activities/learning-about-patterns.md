@@ -25,7 +25,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: "Sequences: Order Matters"
     author: Nadia Higgins
