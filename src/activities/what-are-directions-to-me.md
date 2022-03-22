@@ -24,7 +24,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - author: Pat Hutchins
     title: Rosie’s Walk
@@ -33,7 +33,7 @@ books:
 ---
 ## Description
 
-This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Learners will use their bodies to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding. Thus, try to use any available examples around the learner before moving to a virtual space.
+This activity helps learners to explore and practice their directions. Distinguishing forward, right, and left can be challenging for many learners. Learners will use their bodies to orient and associate directions relative to themselves. Repetition is the key to creating a foundational understanding of coding and application can be encouraged by using any available examples around the learner before moving to a virtual space.
 
 ## Steps
 
