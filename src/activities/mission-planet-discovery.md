@@ -21,7 +21,7 @@ whatYouNeed: >-
   ### Skills
 
 
-  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
+  Basic understanding of directions, sequencing vocabulary and the selected coding environment
 
 
   ### Environment
@@ -33,7 +33,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Depends on the learner, could be independent or require assistance
+  Adult moderator and one or more learners
 books:
   - title: The Fox and the Crow Retold
     author: Mairi Mackinnon
@@ -50,7 +50,7 @@ Each mission has a suspected location to explore:
 * Mission 2: Mars discovery
 * Mission 3: Exploration of Saturn
 
-Planet discovery: Activity link
+Planet discovery: [Activity link](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad1B1b1B1b1dD1&c=aab&d=)
 
 ![Space background including earth, moon, Mars, Saturn, a Satellite, stars, and space rocks](/assets/media/space.svg "Space background")
 
