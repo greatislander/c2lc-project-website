@@ -1,5 +1,5 @@
 ---
-title: Jungle Safari Adventure
+title: Jungle safari adventure
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
