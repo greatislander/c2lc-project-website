@@ -25,7 +25,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: "Sequences: Order Matters"
     author: Nadia Higgins
@@ -61,4 +61,4 @@ This activity helps learners to build the basic foundation for using any block-b
 
 ## Level Up!
 
-Give learners a few plain Lego blocks and encourage them to draw an action or add a sticker on the block and add them to their sequence. Adding actions, such as jump, dance, spin, say hooray, etc. will prompt their creativity and lead to exploring different combinations of actions in a sequence.
+Give learners a few plain Lego blocks and encourage them to draw an action or add a sticker on the block and add them to their sequence. Adding actions (e.g. jump, dance, spin, say hooray, etc.) will prompt their creativity and lead to exploring different combinations of actions in a sequence.
