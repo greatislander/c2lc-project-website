@@ -46,9 +46,9 @@ In this series of activities, learners build a sequence to direct their spaceshi
 
 Each mission has a suspected location to explore:
 
-* Mission 1: Travelling to the Moon
-* Mission 2: Mars discovery
-* Mission 3: Exploration of Saturn
+* Mission 1: T[ravelling to the Moon](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad11&c=cabaababaca&d=)
+* Mission 2: [Mars discovery](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad111b32&c=dfdaababacacadadadbdbdcdcdddddededf&d=)
+* Mission 3: [Exploration of Saturn](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad111b1B32&c=ibbaababacacadadadbdbebebfbfbgbgbhbhbib&d=)
 
 Planet discovery: [Activity link](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad1B1b1B1b1dD1&c=aab&d=)
 
