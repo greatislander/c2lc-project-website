@@ -33,7 +33,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: Have You Seen My Dragon
     author: Steve Light
@@ -42,7 +42,7 @@ books:
 ---
 ## Description
 
-These links provide a series of activities that add to the complexity of building a program. In the initial missions, learners can only use Forward action blocks. In the following missions, learners need to use Turns at different degrees to complete their missions.
+These links provide a series of activities that add to the complexity of building a program. In the initial missions, learners can only use Forward action blocks. In the following missions, learners need to use turns at different degrees to complete their missions.
 
 * Mission#1: \[link] 
 * Mission#2: \[link] 
