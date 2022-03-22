@@ -6,7 +6,7 @@ subject: Goal Based
 relatedActivities:
   - Jungle Safari Adventure
   - Planet Discovery
-description: This activity challenges players to build a sequence to complete a mission.
+description: This activity challenges learners to build a sequence to complete a mission.
 metaImage: /assets/media/mission-_hunting_the_sunken_treasure.jpg
 metaImageAlt: Illustration of orange hand pointing to a grid of submarine and
   treasure underwater with action blocks floating at top
@@ -32,7 +32,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: Stuck
     author: Oliver Jeffers
@@ -47,7 +47,7 @@ Hunting the sunken treasure: [Activity link](https://create.weavly.org/?v=0.9&t=
 
 ![Deep ocean background including images of fish, shark, jelly fish, corals, and a treasure chest with large diamonds. ](/assets/media/deep-ocean.svg "Hunting the sunken treasure")
 
-Moderators can use this blurb to describe the background for the players before they start their missions:
+Moderators can use this blurb to describe the background for the learners before they start their missions:
 
 *" This background shows a deep ocean scene with a deep sea blue colour. At the top right area of this background there is a school of fish moving towards the top of the scene. In the middle left area, there are three jellyfish in different sizes. Directly in front of the jellyfish, there is a large shark that is occupying almost half of the width of the background from the middle to the right edge. At the bottom left corner, there are coral reefs and small fish. In the bottom sea floor there is a treasure chest. Your on-screen character is a submarine. "*
 
