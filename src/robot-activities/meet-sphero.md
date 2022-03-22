@@ -53,8 +53,8 @@ In this activity, learners can explore different movements and visual and audio 
 
 ## Tips
 
-* Ensure operational batteries are available and Sphero is operational prior to the activity
-* Set up a space with dim light and a relatively quiet environment to detect visual changes
+* Ensure operational batteries are available and Sphero is operational prior to the activity.
+* Set up a space with dim light and a relatively quiet environment to detect visual changes.
 
 ## Skill Development
 
