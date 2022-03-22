@@ -45,7 +45,10 @@ In this activity, learners try building very simple programs to move Dash in and
 
 ## Steps
 
-* Find two dollhouses, or build them with Lego or cardboard, or just draw two pictures of different houses, one for Dash and one for its neighbor.
+* Find two dollhouses: one for Dash and one for its neighbor. Learners can also create their own:
+
+  * Build them with Lego/cardboard 
+  * Draw two pictures of different houses
 * Place the two houses three feet apart and place Dash in front of its house.
 * Open Weavly or Block.ly. and connect with Dash robot.
 * Use the coding environment to make Dash move outside of its house (possibly two Forwards).
