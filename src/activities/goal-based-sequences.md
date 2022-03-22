@@ -6,8 +6,8 @@ subject: Goal Based
 relatedActivities:
   - Hunting the Sunken Treasure
   - Planet Discovery
-description: This multi-level activity challenges players to build a sequence to
-  complete a mission.
+description: This multi-level activity challenges learners to build a sequence
+  to complete a mission.
 metaImage: /assets/media/mission-_visiting_animals.jpg
 metaImageAlt: Illustration of hands pointing to animals and action blocks on branch
 whatYouNeed: >-
@@ -20,7 +20,7 @@ whatYouNeed: >-
   ### Skills
 
 
-  Basic understanding of sequencing vocabulary, directions, and understanding of the selected coding environment
+  Basic understanding of directions, sequencing vocabulary and understanding of the selected coding environment
 
 
   ### Environment
@@ -32,7 +32,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: How To Code a Sandcastle
     author: " Josh Funk"
@@ -41,7 +41,7 @@ books:
 ---
 ## Description
 
-This is a multi-level activity that starts simple and builds in complexity. Learners will build a sequence using different actions to help their on-screen character complete different missions and visit different animals on the scene.
+This multi-level activity starts simple and builds in complexity. Learners will build a sequence using different actions to help their on-screen character complete different missions and visit different animals on the scene.
 
 * Jungle Safari Adventure: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Jungle&p=&c=abb&a=123456ABDabd)
 
@@ -63,7 +63,7 @@ Moderators can use this blurb to describe the background for the players before 
 1. Select the "Delete" button to delete your current sequence in the program area. 
 2. Select the "Refresh" button on your scene to move the Jeep back to its original starting point.
 
-* Now you are ready to build a new program
+* Now you are ready to build a new program.
 
 ## Tips
 
