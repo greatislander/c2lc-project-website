@@ -24,7 +24,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - title: Robots Robots everywhere
     author: Sue Fliess
@@ -60,4 +60,4 @@ This multi-level activity introduces the concept of robots. Learners can engage 
 
 ## Level Up!
 
-Check out and play the Human Robot activity.
+Check out and play the [Human Robot activity](https://weavly.org/learn/activities/human-robots/).
