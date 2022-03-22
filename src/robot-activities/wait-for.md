@@ -1,5 +1,5 @@
 ---
-title: Wait For
+title: Wait for
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
