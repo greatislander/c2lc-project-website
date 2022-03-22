@@ -46,12 +46,12 @@ As a starter, you can try...
 
 For younger children:
 
-* Weavly Pre-built Program
+* [Weavly Pre-built Program](https://create.weavly.org/?v=1.2&t=default&w=Space&p=DdbB11dD&c=aab&d=)
 * [Dance music](https://www.youtube.com/watch?v=iwKS4b9aUeI)
 
 For youth
 
-* [Weavly Pre-built Program](https://create.weavly.org/?v=0.7&t=mixed&w=space&p=ADad1B1b1B1b1dD1&c=aab&a=123456ABDabd)
+* [Weavly Pre-built Program](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad1B1b1B1b1dD1&c=aab&d=)
 * [](https://www.youtube.com/watch?v=niUaRPODJRs)[Dance music](https://www.youtube.com/watch?v=niUaRPODJRs)
 
 ## Steps
