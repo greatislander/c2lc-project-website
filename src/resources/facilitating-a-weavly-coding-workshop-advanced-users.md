@@ -1,5 +1,5 @@
 ---
-title: Facilitating a Weavly Coding Workshop (Advanced Users)
+title: Facilitating a Weavly coding workshop (Advanced users)
 date: 2022-03-08T19:57:22.730Z
 author: Weavly team
 description: "This facilitation guide will provide scripts and guidelines to run
