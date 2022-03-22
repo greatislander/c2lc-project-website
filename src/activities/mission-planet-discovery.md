@@ -1,5 +1,5 @@
 ---
-title: Planet Discovery
+title: Planet discovery
 type: On-Screen
 experience: No Coding Experience
 subject: Goal Based
