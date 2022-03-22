@@ -24,7 +24,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and one or more players
+  Adult moderator and one or more learners
 books:
   - link: /learn/resources/picture-book-list/
     coverImage: /assets/media/rosie’s-walk-by-pat-hutchins.jpg
@@ -44,7 +44,7 @@ This interactive and playful activity helps learners practice their directions. 
 
 * Draw a small grid to guide movement. This support helps with the tracking movement to understand that with forward movement one leaves the current spot and lands in a different spot, whereas turning happens on the original spot.
 * Consider using colored bracelets (with left and right or L and R printed on them, or colored stickers for learners to wear on their hands) to provide visual cues. Associating colours with directions can support learners to be more independent with right and left.
-* Including a hidden goal/treat will add to the excitement and engagement of learners, and direct the players towards them.
+* Preparing to include a hidden goal/treat will add to the excitement and engagement of learners, and direct the learners towards them.
 
 ## Skill Development
 
