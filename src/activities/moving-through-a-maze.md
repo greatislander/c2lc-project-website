@@ -40,7 +40,7 @@ This activity provides a combination of physical and on-screen experiences for l
 
 * Use masking tape to build a simple maze on the floor.
 * Place some of learners’ favorite toys/treats on different spots on the maze.
-* Ask player one to wait at the beginning of the maze and move only when the program announces an action.
+* Ask learner one to wait at the beginning of the maze and move only when the program announces an action.
 * Ask player two to use the Weavly coding environment to build a program to move player one through the maze.
 * Select the “Play” button and ask player one to move based on the steps announced by the program
 
