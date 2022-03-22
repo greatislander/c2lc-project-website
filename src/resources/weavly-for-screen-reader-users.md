@@ -5,7 +5,7 @@ author: Weavly team
 description: This guide provides information about how to navigate and use the
   Weavly coding environment by screen readers.
 metaImage: /assets/media/braille-user.jpg
-metaImageAlt: A student is using a braille keyboard.
+metaImageAlt: A student is using a braille keyboard
 ---
 Weavly has incorporated settings to support screen readers. Screen readers are a form of assistive technology (AT) that convert status and processes on a screen into an audio output to allow people who are blind to access the content and operate it. There are different screen reader providers with different set-ups and features. Here are a few softwares used for different operating systems:
 
