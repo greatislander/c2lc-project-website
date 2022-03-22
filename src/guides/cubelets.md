@@ -9,7 +9,7 @@ resources:
     description: "Cubelet Lesson Plans – Getting Started: Pre-K-12"
   - description: Cubelets Extending Lessons – Curricular Extensions
     link: https://www.modrobotics.com/education/lesson-plans/cubelets-grab-bag/
-  - description: Cubelet activity cards
+  - description: Cubelet Activity Cards
     link: https://www.modrobotics.com/edu/Cubelets-print-n-fold-activity-cards.pdf
   - description: Cubelet camp activities
     link: https://www.modrobotics.com/education/camp/
