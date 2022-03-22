@@ -33,7 +33,7 @@ whatYouNeed: >-
   ### Support
 
 
-  Two players; depends on the learner, assistance may be required to guide or facilitate.
+  Two learners. Depends on the learner, assistance may be required to guide or facilitate.
 books:
   - coverImage: /assets/media/adi-s-perfect-patterns-and-loops.jpg
     title: Adi’s Perfect Patterns and Loops
@@ -46,14 +46,14 @@ In this activity, learners will use Weavly to apply their knowledge of direction
 
 ## Steps
 
-Select one individual to be Player 1 and another to be Player 2.
+Select one individual to be Learner 1 and another to be Learner 2.
 
-* Using only words, Player 1 tells Player 2 a simple sequence of 3-5 blocks you would like to repeat. This will be your ‘loop’ sequence.
-* Player 2 creates the loop sequence that Player 1 has described in Weavly or Block.ly. (Do not let Player 1 see your program until you are finished.)
-* Player 2 connects Weavly or Block.ly to Dash.
-* Player 2 plays their program to move Dash.
-* Discuss with the other player if the played sequence what Player 1 had described.
-* If it was not the sequence as Player 1 described, try to find where the sequence did not match what and fix the sequence.
+* Using only words, Learner 1 tells Learner 2 a simple sequence of 3-5 blocks you would like to repeat. This will be your ‘loop’ sequence.
+* Learner 2 creates the loop sequence that Learner 1 has described in Weavly or Block.ly. (Do not let Learner 1 see your program until you are finished.)
+* Learner 2 connects Weavly or Block.ly to Dash.
+* Learner 2 plays their program to move Dash.
+* Discuss with the other learner if the played sequence what Learner 1 had described.
+* If it was not the sequence as Learner 1 described, try to find where the sequence did not match what and fix the sequence.
 * Switch roles and repeat the activity.
 
 ## Tips
