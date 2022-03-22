@@ -37,17 +37,17 @@ Once a program is created, the speed of playback can be controlled under the pla
 
 Learners are also able to navigate Weavly through landmarks. Landmarks are distinct regions in the Weavly coding environment that include a group of links with related functionalities. Here is the list of available landmarks in Weavly:
 
-* Weavly Logo: This icon will take learners back to the main Weavly website that includes learning the resources and coding activities.
-* Accessibility settings: This region includes options to adjust audio settings, colour themes, keyboard shortcuts, and robot connections.
-* Scene: This region includes the selected scene background and the on-screen character. 
-* Scene settings: This region includes options to change the background and the position of the on-screen character. 
-* Actions panel: This region includes all the action blocks that learners need to build a program program.
-* Program panel: In this region, learners can use action blocks to build a program and make edits. 
-* Play controls: This region includes controls that allow learners to play, pause, or stop their program, adjust the heir program playback speed, refresh their scene, and get a link of their programs to share with others. 
+* **Weavly logo:** This icon will take learners back to the main Weavly website to learning resources and coding activities.
+* **Accessibility settings:** This region includes options to adjust audio settings, colour themes, keyboard shortcuts, and robot connections.
+* **Scene:** This region includes the selected scene background and the on-screen character. 
+* **Scene settings:** This region includes options to change the background and the position of the on-screen character. 
+* **Actions panel:** This region includes all the action blocks that learners need to build a program program.
+* **Program panel:** In this region, learners can use action blocks to build a program and make edits. 
+* **Play controls:** This region includes controls that allow learners to play, pause, or stop their program, adjust the heir program playback speed, refresh their scene, and get a link of their programs to share with others. 
 
 ## Header navigation
 
-Learners are able to navigate by headers in the Weavly coding environment. Here is a list of available headings in Weavly :
+Learners are able to navigate by headers in the Weavly coding environment. Here is a list of available headings in Weavly:
 
 * Weavly logo - H1
 
