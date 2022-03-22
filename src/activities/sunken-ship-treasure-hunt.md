@@ -1,5 +1,5 @@
 ---
-title: Hunting the Sunken Treasure
+title: Hunting the sunken treasure
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
