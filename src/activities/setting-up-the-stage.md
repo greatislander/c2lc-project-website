@@ -6,7 +6,7 @@ subject: Introduction
 relatedActivities:
   - "Mission: Rescue "
   - "Mission: Visiting Animals"
-description: This activity teaches learners to build a background on the scene.
+description: This activity teaches learners to select and use a background on Weavly
 metaImage: /assets/media/setting_up_the_stage.jpg
 metaImageAlt: Illustration of grid with curtain at right and left side and hands
   placing elements of stars and moons on string, mountains and tree
