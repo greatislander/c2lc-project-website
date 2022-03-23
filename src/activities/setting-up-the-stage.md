@@ -25,7 +25,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and minimum of one player
+  Adult moderator and a minimum of one learner
 books:
   - title: Little Red Riding Hood
     author: Mary Alperin
@@ -34,26 +34,31 @@ books:
 ---
 ## Description
 
-In this activity, learners use Weavly’s background editor to set the stage for their story. Learners can explore different features to create scenes and change the background. Items can be added to the scene, changed in color, and resized to the learner's liking. The background editor gives options for sound effects and animation for customization as well.
+In this activity, learners explore Weavly’s world selector to set the stage. Different scenes/backgrounds set the scene for stories and adventures:
 
-Here are a few stories that you can use as a starter: <https://www.education.com/game/the-missing-dragon-level-i/>\
+* Sketchpad
+* Deep Ocean
+* Space
+* Landmarks
+* Jungle
+
+The different options available can inspire learners to create plans for adventure in these digital worlds. By considering the objects and/or characters, learners can create programs to make their stories come true. For example, take the submarine in the Deep Ocean background to reach the treasure chest.
+
+Here are a few stories that you can use as a starter to get learners thinking of adventures: <https://www.education.com/game/the-missing-dragon-level-i/>\
 You can find more books for this activity here: <https://www.education.com/stories/>
 
 ## Steps
 
-* Work with the learner to pick a story.
-* Read the story together.
-* Engage learner in a conversation about how they want to plan a stage for that story.
-* Open the background editor.
-* Find items that represent the story’s context in the editor.
-* Make the required modifications to those items.
-* Position the items on the scene.
-* Add behavior and sound to each item and indicate which of them are dynamic and which are static.
+* Work with the learner to pick a story and read the story together.
+* Engage the learner in a conversation about identifying a beginning, a middle and an end.
+* Engage the learner in creating a story and start by opening the world selector to pick a background and set the scene.
+* Find items in the background that can be used to create some context for the story.
+* Repeat with another background to continue or create another story.
 
 ## Tips
 
-* Start with a very simple story that has a clear beginning, middle, and end with the least number of characters and gradually build complexity.
-* You can divide the story into multiple phases. As the story progresses, learners can reopen the editor and add, remove, or modify the items on their scene.
+* Guide learners with a framework of beginning, middle, and end for their stories (i.g. starting at the top of the ocean, dive deeper in search of treasure and find the treasure) 
+* Start with a very simple story that has a clear beginning, middle, and end with the least number of objects/characters and gradually build complexity (i.e. while diving deeper avoid the jellyfish and sharks on our way to the treasure chest in the Deep Ocean background)
 
 ## Skill Development
 
@@ -65,4 +70,4 @@ You can find more books for this activity here: <https://www.education.com/stori
 
 ## Level Up!
 
-Encourage learners to come up with their own story, which has a beginning, middle, and end. Then, learners can use the background editor to build their story’s environment.
+Encourage learners to come up with their own story that uses multiple backgrounds in the world selector.
