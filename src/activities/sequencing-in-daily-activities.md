@@ -39,15 +39,13 @@ Sequencing is an abstract concept and takes a lot of practice to master for many
 
 * Going to bed 5 steps (Taking a bath, putting on pyjamas, brushing teeth, reading a book, going to sleep) 
 
-  ![Going to bed sequence](/assets/media/going-to-sleep.jpg "Going to bed sequence")
-
-
+  ![Going to bed sequence - 5 steps](/assets/media/going-to-sleep.jpg "Going to bed sequence")
 * Growing a plant 4 steps (Planting the seed, watering the seed, placing in the sunlight, letting it grow)
 
-  ![Growing a plant](/assets/media/growing-a-plant.jpg "Growing a plant")
+  ![Growing a plant - 4 steps](/assets/media/growing-a-plant.jpg "Growing a plant")
 * Making a sand castle 3 steps (Filling a bucket with damp sand, pushing sand down with your hands, flipping the bucket)
 
-  ![Building a sand castle](/assets/media/building-a-sand-castle.jpg "Building a sand castle")
+  ![Building a sand castle - 3 steps](/assets/media/building-a-sand-castle.jpg "Building a sand castle")
 
 ## Steps
 
