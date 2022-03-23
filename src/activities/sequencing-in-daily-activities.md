@@ -37,10 +37,17 @@ books:
 
 Sequencing is an abstract concept and takes a lot of practice to master for many kids. Learners can try these activities to understand how a series of objects and events can happen in a specific and logical order. The following activities include simple sequences that are familiar to children and are a natural part of their daily routines.
 
-* Going to bed \[N steps]: \[Link]
-* Brushing teeth \[N steps]: \[Link]
-* Growing a plant \[N steps]: \[Link]
-* Making a sand castle \[N steps]: \[Link]
+* Going to bed 5 steps (Taking a bath, putting on pyjamas, brushing teeth, reading a book, going to sleep) 
+
+  ![Going to bed sequence](/assets/media/going-to-sleep.jpg "Going to bed sequence")
+
+
+* Growing a plant 4 steps (Planting the seed, watering the seed, placing in the sunlight, letting it grow)
+
+  ![Growing a plant](/assets/media/growing-a-plant.jpg "Growing a plant")
+* Making a sand castle 3 steps (Filling a bucket with damp sand, pushing sand down with your hands, flipping the bucket)
+
+  ![Building a sand castle](/assets/media/building-a-sand-castle.jpg "Building a sand castle")
 
 ## Steps
 
