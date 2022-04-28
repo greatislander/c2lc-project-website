@@ -1,6 +1,6 @@
 ---
 title: Weavly for switch users
-date: 2022-01-26T15:39:46.388Z
+date: 2022-04-28T14:39:46.388Z
 author: Weavly team
 description: This guide provides more information about how to navigate and use
   Weavly with switches.
