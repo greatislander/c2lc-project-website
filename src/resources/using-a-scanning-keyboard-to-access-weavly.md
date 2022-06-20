@@ -19,11 +19,24 @@ The following activity examples use the Grid 3 keyboard with the landmarks map b
 
 Blue-Bot starts on the airplane (A1) facing the right side of the map and ends on the Great Pyramid (C2). 
 
-{% gridVideo "undefined" %}
-
+{% gridVideo "https://youtu.be/0eB9Jah9cac" %}
+In this video, we will describe all the steps you need to take in order to complete activity 1.
 {% endgridVideo %}
 
-### Step by step instruction
+## Activity 2
 
-1. Move Blue-Bot to A1 facing right
-2.
+Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on the Windmills (H3). 
+
+{% gridVideo "https://youtu.be/wrtpq2WOz8o" %}
+In this video, we will describe all the steps you need to take in order to complete activity 2.
+{% endgridVideo %}
+
+## Activity 3 - Debugging
+
+Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on the Windmills (H3). You have created the program above, but instead of using turn right 90 degrees, turn left 90 degrees was selected. Therefore, the task is to replace the 90 degrees right turn with a 90 degree left turn. 
+
+![Replacing turn right 90 degree with turn left 90 degree. ](/assets/media/picture21.png "Debugging the program by replacing turn right 90 degree with turn left 90 degree. ")
+
+{% gridVideo "https://youtu.be/HWS34wV9tow" %}
+In this video, we will describe all the steps you need to take to debug your program and replace turn right 90 degree with turn left 90 degree.
+{% endgridVideo %}
