@@ -9,7 +9,7 @@ metaImageAlt: "A learner useing a scanning keyboard working with an educator and
 ---
 The following activity examples use the Grid 3 keyboard with the landmarks map background in Weavly. Please ensure that keyboard shortcuts have been turned on in Weavly. 
 
-![Keyboard shortcuts modal in Weavly](/assets/media/picture1.png "Turning keyboard shortcuts ON in Weavly")
+![Keyboard shortcuts modal in Weavly](/assets/media/grid-3.jpg "Turning keyboard shortcuts ON in Weavly")
 
  Open the Grid 3 keyboard and use the Dock cell to dock the keyboard on the left side of Weavly. 
 
@@ -20,7 +20,9 @@ The following activity examples use the Grid 3 keyboard with the landmarks map b
 Blue-Bot starts on the airplane (A1) facing the right side of the map and ends on the Great Pyramid (C2). 
 
 {% gridVideo "https://youtu.be/0eB9Jah9cac" %}
+
 In this video, we will describe all the steps you need to take in order to complete activity 1.
+
 {% endgridVideo %}
 
 ## Activity 2
@@ -28,7 +30,9 @@ In this video, we will describe all the steps you need to take in order to compl
 Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on the Windmills (H3). 
 
 {% gridVideo "https://youtu.be/wrtpq2WOz8o" %}
+
 In this video, we will describe all the steps you need to take in order to complete activity 2.
+
 {% endgridVideo %}
 
 ## Activity 3 - Debugging
@@ -40,15 +44,17 @@ Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on th
 After you have replaced your block with turn left 90 degree, refresh the position of Blue-Bot (the program will remember the last starting position on the airplane facing the bottom of the map) and replay the program sequence. 
 
 {% gridVideo "https://youtu.be/HWS34wV9tow" %}
+
 In this video, we will describe all the steps you need to take to debug your program and replace turn right 90 degree with turn left 90 degree.
+
 {% endgridVideo %}
-
-
 
 ## Activity 4
 
 Blue-Bot starts on the airplane (A1) facing the right side of the map and ends on the Great Pyramid (C2). You create the program below and then need to debug. You realized that the right turn needs to be moved in the program sequence to the third rather than the fourth step in the sequence. Once you create your program, select refresh to take Blue-Bot back to its starting position and then replay your program sequence. 
 
 {% gridVideo "https://youtu.be/dIRdgHtdgO8" %}
+
 In this video, we will describe all the steps you need to take to move your action blocks within a program sequence.
+
 {% endgridVideo %}
