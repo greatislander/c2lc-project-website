@@ -37,6 +37,18 @@ Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on th
 
 ![Replacing turn right 90 degree with turn left 90 degree. ](/assets/media/picture21.png "Debugging the program by replacing turn right 90 degree with turn left 90 degree. ")
 
+After you have replaced your block with turn left 90 degree, refresh the position of Blue-Bot (the program will remember the last starting position on the airplane facing the bottom of the map) and replay the program sequence. 
+
 {% gridVideo "https://youtu.be/HWS34wV9tow" %}
 In this video, we will describe all the steps you need to take to debug your program and replace turn right 90 degree with turn left 90 degree.
+{% endgridVideo %}
+
+
+
+## Activity 4
+
+Blue-Bot starts on the airplane (A1) facing the right side of the map and ends on the Great Pyramid (C2). You create the program below and then need to debug. You realized that the right turn needs to be moved in the program sequence to the third rather than the fourth step in the sequence. Once you create your program, select refresh to take Blue-Bot back to its starting position and then replay your program sequence. 
+
+{% gridVideo "https://youtu.be/dIRdgHtdgO8" %}
+In this video, we will describe all the steps you need to take to move your action blocks within a program sequence.
 {% endgridVideo %}
