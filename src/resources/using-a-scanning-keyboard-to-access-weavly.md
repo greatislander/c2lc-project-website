@@ -17,13 +17,60 @@ The following activity examples use the Grid 3 keyboard with the landmarks map b
 
 ## Activity 1
 
-Blue-Bot starts on the airplane (A1) facing the right side of the map and ends on the Great Pyramid (C2). 
+Blue-Bot starts on the airplane (A1) facing the right side of the map and ends on the Great Pyramid (C2).
 
 {% gridVideo "https://youtu.be/0eB9Jah9cac" %}
 
-In this video, we will describe all the steps you need to take in order to complete activity 1.
-
 {% endgridVideo %}
+
+### Step by step instruction:
+
+1. move Blue-Bot to A1 facing right 
+
+* Select Position Character
+* Select Move Up 1
+* Select Back
+
+2. Move forward (select the move forward command and add it to the program sequence)
+
+* Select Actions
+* Select Move Forward
+* Select Add
+
+3. Move forward (already selected, just need to add another to the program)
+
+* Select Add
+
+4. Turn right 90 degrees
+
+* Select Actions
+* Select Turn Right 90 degrees
+* Select Add
+
+5. Move forward
+
+* Select Actions
+* Select Move Forward
+* Select Add
+
+6. Play program
+
+* Select Play
+
+7. Clear the program
+
+* Select Delete All
+* Select Delete All Yes
+
+8. Clear Blue-Bot's Path
+
+* Select Refresh
+
+9. Trouble shooting if the Grid is not responding: 
+
+* Ensure that the enable shortcuts setting is on
+* Ensure the website is in focus
+* Select Focus program
 
 ## Activity 2
 
@@ -31,9 +78,59 @@ Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on th
 
 {% gridVideo "https://youtu.be/wrtpq2WOz8o" %}
 
-In this video, we will describe all the steps you need to take in order to complete activity 2.
-
 {% endgridVideo %}
+
+### Step by step instruction:
+
+1. move Blue-Bot to A1 facing down 
+
+* Select Position Character
+* Select Move Up 1
+* Select Turn Right twice
+* Select Back
+
+2. Move forward
+
+* Select Actions
+* Select Move Forward
+* Select Add
+
+3. Move forward (already selected, just need to add another to the program)
+
+* Select Add
+
+4. Turn left 90 degrees
+
+* Select Actions
+* Select Turn Left 90 degrees
+* Select Add
+
+5. Move forward 7 times
+
+* Select Actions
+* Select Turn Left 90 degrees
+* Select Add
+* Select Number
+* Select 7
+* Select Back
+* Select Action
+* Select Move Forward
+* Select Add
+
+6. Play program
+
+* Select Play
+
+7. Clear the program
+
+* Select Delete All
+* Select Delete All Yes
+
+8. Clear Blue-Bot's Path
+
+* Select Refresh
+
+
 
 ## Activity 3 - Debugging
 
@@ -45,9 +142,27 @@ After you have replaced your block with turn left 90 degree, refresh the positio
 
 {% gridVideo "https://youtu.be/HWS34wV9tow" %}
 
-In this video, we will describe all the steps you need to take to debug your program and replace turn right 90 degree with turn left 90 degree.
-
 {% endgridVideo %}
+
+### Step by step instruction:
+
+1. Place focus on the Turn right 90 degrees block in the program line
+
+* select Focus Program
+
+2. Change the focus from the first to the Turn Right block
+
+* Select Move Focus Next
+* Select Move Focus Next 3
+
+3. Select the Turn Left block
+
+* Select Actions
+* Select Turn Left 90 degrees
+
+4. Replace the Turn Right block with the Turn Left block
+
+* Select Replace
 
 ## Activity 4
 
@@ -55,6 +170,23 @@ Blue-Bot starts on the airplane (A1) facing the right side of the map and ends o
 
 {% gridVideo "https://youtu.be/dIRdgHtdgO8" %}
 
-In this video, we will describe all the steps you need to take to move your action blocks within a program sequence.
-
 {% endgridVideo %}
+
+### Step by step instruction:
+
+1. Place focus on the Turn right 90 degrees block in the program line
+
+* Select Focus Program if the focus is not in the program. 
+* This will place the focus on the first add button in the program sequence. 
+
+2. If you have selected Focus Program, move the focus to the Turn Right block. 
+
+* Select Move Focus Next
+* Select Move Focus Next 3
+* Select Move Focus Next
+* Select Move Focus 1
+
+3. Move the Turn Right block to the left one space
+
+* Select Move Block
+* Select Move Block Left 1
