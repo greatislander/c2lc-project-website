@@ -22,12 +22,12 @@
 <div class="[ wrapper ]">
   <div id="robot-activities">
       <div class="[ flow-lg ]">
-          <filter-container class="[ filter ] [ flow ]" data-oninit>
+          <filter-container class="[ filter ] [ flow ]" oninit>
               <h2 class="[ h3 ]">Filter Activities</h2>
               <form class="[ filters ]">
                   <label class="[ label ]" for="experience">
                       Experience:
-                      <select class="[ select ]" bind:value={selectedExperience} name="experience" id="experience" data-filter-bind="experience">
+                      <select class="[ select ]" name="experience" id="experience" data-filter-key="experience">
                           <option value="">Any Level</option>
                           {% for level in robotActivityTags.experience %}
                               <option value="{{ level }}">{{ level }}</option>
@@ -36,14 +36,14 @@
                   </label>
                   <label class="[ label ]" for="topic">
                       Topic:
-                      <select class="[ select ]" bind:value={selectedTopic} name="topic" id="topic" data-filter-bind="topic">
+                      <select class="[ select ]" name="topic" id="topic" data-filter-key="topic">
                           <option value="">Any Topic</option>
                           {% for topic in robotActivityTags.topics %}
                               <option value="{{ topic }}">{{ topic }}</option>
                           {% endfor %}
                       </select>
                   </label>
-                  <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button>
+                  {# <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button> #}
               </form>
               <div class="[ alert ]" role="alert" aria-live="polite">
               <p>Showing <strong data-filter-results="activity/activities">{{ robotActivities.length }} activities</strong>.</p>

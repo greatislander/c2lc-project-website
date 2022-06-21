@@ -11,14 +11,14 @@
               <form class="[ filters ]">
                   <label class="[ label ]" for="category">
                       Category:
-                      <select class="[ select ]" name="category" id="category" data-filter-bind="category">
+                      <select class="[ select ]" name="category" id="category" data-filter-key="category">
                           <option value="">Any Category</option>
                           {% for category in projectTags.categories %}
                               <option value="{{ category }}">{{ category }}</option>
                           {% endfor %}
                       </select>
                   </label>
-                  <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button>
+                  {# <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button> #}
               </form>
               <div class="[ alert ]" role="alert" aria-live="polite">
               <p>Showing <strong data-filter-results="project/projects">{{ collections.projects.length }} projects</strong>.</p>

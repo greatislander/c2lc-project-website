@@ -15,16 +15,22 @@ import "wicg-inert";
 
 import VideoOverlay from "./overlay.module.js";
 
-document.addEventListener("click", event => {
-    if (event.target.id === "reset") {
-        const filters = [...event.target.parentNode.querySelectorAll("select")];
+// document.addEventListener("click", event => {
+//     if (event.target.id === "reset") {
+//         const filters = [...event.target.parentNode.querySelectorAll("select")];
 
-        filters.forEach(filter => {
-            filter.value = "";
-            filter.dispatchEvent(new Event("change", {"bubbles": true}));
-        });
-    }
-});
+//         filters.forEach(filter => {
+//             filter.addEventListener("change", function () {
+//                 console.log("changed");
+//             });
+
+//             filter.value = "";
+//             filter.dispatchEvent(new Event("change", {"bubbles": true}));
+//         });
+
+
+//     }
+// });
 
 const linkedVideos = [...document.querySelectorAll(".linked-video")];
 

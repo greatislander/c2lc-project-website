@@ -7,12 +7,12 @@
 <div class="[ wrapper ]">
   <div id="activities">
       <div class="[ flow-lg ]">
-          <filter-container class="[ filter ] [ flow ]" data-oninit>
+          <filter-container class="[ filter ] [ flow ]" oninit>
               <h2 class="[ h3 ]">Filter Activities</h2>
               <form class="[ filters ]">
                   <label class="[ label ]" for="type">
                       Type:
-                      <select class="[ select ]" name="type" id="type" data-filter-bind="type">
+                      <select class="[ select ]" name="type" id="type" data-filter-key="type">
                           <option value="">Any Type</option>
                           {% for type in activityTags.types %}
                           <option value="{{ type }}" data-slug="{{ type | slugify }}">{{ type }}</option>
@@ -21,7 +21,7 @@
                   </label>
                   <label class="[ label ]" for="experience">
                       Experience:
-                      <select class="[ select ]" name="experience" id="experience" data-filter-bind="experience">
+                      <select class="[ select ]" name="experience" id="experience" data-filter-key="experience">
                           <option value="">Any Level</option>
                           {% for level in activityTags.experience %}
                           <option value="{{ level }}">{{ level }}</option>
@@ -30,14 +30,14 @@
                   </label>
                   <label class="[ label ]" for="subject">
                       Subject:
-                      <select class="[ select ]" name="subject" id="subject" data-filter-bind="subject">
+                      <select class="[ select ]" name="subject" id="subject" data-filter-key="subject">
                           <option value="">Any Subject</option>
                           {% for subject in activityTags.subjects %}
                           <option value="{{ subject }}">{{ subject }}</option>
                           {% endfor %}
                       </select>
                   </label>
-                  <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button>
+                  {# <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button> #}
               </form>
               <div class="[ alert ]" role="alert" aria-live="polite">
               <p>Showing <strong data-filter-results="activity/activities">{{ collections.activities.length }} activities</strong>.</p>
