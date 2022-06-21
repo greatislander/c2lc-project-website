@@ -6,6 +6,9 @@ description: "This guide will provide more information about how learners who
   use a scanning keyboard such as Grid 3 can access Weavly and use it. "
 metaImage: /assets/media/switches.jpg
 metaImageAlt: "A learner useing a scanning keyboard working with an educator and laughing. "
+supportiveMaterial:
+  - file: /assets/media/using-a-scanning-keyboard-to-access-weavly.docx
+    label: Using a Scanning Keyboard to Access Weavly Guide (word document)
 ---
 The following activity examples use the Grid 3 keyboard with the landmarks map background in Weavly. Please ensure that keyboard shortcuts have been turned on in Weavly. 
 
@@ -129,8 +132,6 @@ Blue-Bot starts on the airplane (A1) facing the bottom of the map and ends on th
 8. Clear Blue-Bot's Path
 
 * Select Refresh
-
-
 
 ## Activity 3 - Debugging
 
