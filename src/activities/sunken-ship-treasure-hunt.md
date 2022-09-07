@@ -4,8 +4,8 @@ type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
 relatedActivities:
-  - Jungle Safari Adventure
-  - Planet Discovery
+  - Planet discovery
+  - Adventures in the Savannah
 description: This activity challenges learners to build a sequence to complete a mission.
 metaImage: /assets/media/mission-_hunting_the_sunken_treasure.jpg
 metaImageAlt: Illustration of orange hand pointing to a grid of submarine and
