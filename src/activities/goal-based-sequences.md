@@ -1,11 +1,11 @@
 ---
-title: Jungle safari adventure
+title: Adventures in the Savannah
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
 relatedActivities:
-  - Hunting the Sunken Treasure
-  - Planet Discovery
+  - Planet discovery
+  - Hunting the sunken treasure
 description: This multi-level activity challenges learners to build a sequence
   to complete a mission.
 metaImage: /assets/media/mission-_visiting_animals.jpg
@@ -43,7 +43,7 @@ books:
 
 This multi-level activity starts simple and builds in complexity. Learners will build a sequence using different actions to help their on-screen character complete different missions and visit different animals on the scene.
 
-* Jungle Safari Adventure: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Jungle&p=&c=abb&a=123456ABDabd)
+* Adventures in the Savannah: [Activity link](https://create.weavly.org/?v=0.9&t=mixed&w=Jungle&p=&c=abb&a=123456ABDabd)
 
 ![An image of the jungle safari background with animals, trees, bushes, and a pond.](/assets/media/jungle-safari.svg "Mission: Visiting Animals")
 
@@ -53,7 +53,7 @@ Moderators can use this blurb to describe the background for the players before 
 
 ## Steps
 
-* Select the "Jungle Safari" activity link above.
+* Select the "Adventures in the Savannah" activity link above.
 * Choose an animal you want to visit.
 * Use a combination of different action blocks to build a program to move your Jeep on the grid and reach your selected animal.
 * As you build your program, remember that you cannot go over the trees, the bushes, and the pond. And you have to stay away from the crocodiles. 
@@ -83,6 +83,6 @@ Moderators can use this blurb to describe the background for the players before 
 
 ## Level Up!
 
-Learners can create their own program to add a specific challenge to their mission. An example would be avoiding quick sand in their jungle safari adventure.
+Learners can create their own program to add a specific challenge to their mission. An example would be avoiding quick sand in their adventures in the Savannah.
 
 <img src="https://code.org/api/hour/begin_weavly.png" class="visually-hidden" alt="" width="0" height="0" />
