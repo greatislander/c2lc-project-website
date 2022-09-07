@@ -5,11 +5,12 @@ experience: No Coding Experience
 subject: Introduction
 relatedActivities:
   - Draw Shapes
+  - Learning about patterns
 description: This activity involves creating patterns.
 whatYouNeed: |-
   ### Tools
 
-  Internet access and a device to open C2LC coding environment
+  Device with internet access
 
   ### Skills
 
