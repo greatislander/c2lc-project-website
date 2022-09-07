@@ -44,13 +44,15 @@ books:
 
 In this series of activities, learners build a sequence to direct their spaceship to discover different planets. The activities in the series add to the complexity of building a sequence. Learners will use a combination of action blocks to build a sequence and navigate to a specific destination on the scene. To create sequences, learners can use a combination of forward and backwards action blocks at different steps, and turn right/left at different degrees. In the mission to discover each planet, learners can take the most direct path or take on a challenge by using more action blocks to increase the complexity of their sequenced path. 
 
-Each mission has a suspected location to explore:
+Planet discovery: [Activity link](https://create.weavly.org/?v=1.4&t=default&w=Space&p=&c=abb&d=&s=abb)
 
-* Mission 1: T[ravelling to the Moon](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad11&c=cabaababaca&d=)
-* Mission 2: [Mars discovery](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad111b32&c=dfdaababacacadadadbdbdcdcdddddededf&d=)
-* Mission 3: [Exploration of Saturn](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad111b1B32&c=ibbaababacacadadadbdbebebfbfbgbgbhbhbib&d=)
+Each of the following missions has a suspected location to explore. The following links show you one way of completing these missions. You can delete the sequence and refresh your scene to start over.
 
-Planet discovery: [Activity link](https://create.weavly.org/?v=1.2&t=default&w=Space&p=ADad1B1b1B1b1dD1&c=aab&d=)
+* Mission 1: [Travelling to the Moon](https://create.weavly.org/?v=1.4&t=default&w=Space&p=11B1&c=ca0abcbcbca&d=&s=abb)
+* Mission 2: [Mars discovery](https://create.weavly.org/?v=1.4&t=default&w=Space&p=111b1111&c=dfdabdbdbdf&d=&s=abb)
+* Mission 3: [Exploration of Saturn](https://create.weavly.org/?v=1.4&t=default&w=Space&p=sA8s1z&c=ibbabib&d=&s=abb)
+
+
 
 ![Space background including earth, moon, Mars, Saturn, a Satellite, stars, and space rocks](/assets/media/space.svg "Space background")
 
