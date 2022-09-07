@@ -4,10 +4,10 @@ type: On-Screen
 experience: No Coding Experience
 subject: Introduction
 relatedActivities:
-  - "Mission: Visiting Animals"
-  - "Mission: Planet Discovery"
-  - "Mission: Rescue "
-description: In this activity, learners explore various action blocks.
+  - Setting up the stage
+  - Draw Shapes
+description: In this activity, learners explore various action blocks in the
+  Weavly coding environment.
 whatYouNeed: |-
   ### Tools
 
@@ -32,20 +32,25 @@ books:
 ---
 ## Description
 
-This activity helps learners explore the different action blocks available in the action block panel on Weavly. The action blocks are the building blocks for the program that can be built or coded. This exploratory activity introduces and orients learners to the two main group of action blocks:
+This activity helps learners explore the different action blocks available in the "Actions" panel on Weavly. The action blocks are the building blocks for coding a program. This exploratory activity introduces and orients learners to the two main group of action blocks:
 
 1. Action blocks for moving your character forwards or backwards
 2. Action blocks for turning your character right or left 
 
-These action blocks allow learners to provide clear instructions to their characters to follow out their commands. Once learners are familiar with these action blocks, they can program their code on Weavly by selecting a combination of action blocks to direct their character and move them to a particular place on the scene.
+Once learners are familiar with these action blocks, they can program their code on Weavly to direct their on-screen character to a particular place on the scene.
 
 ## Steps
 
-* Open the Weavly coding environment.
-* Select an action block that will move the character forward and place it in the program. Press play to see the character move forward.
-* Refresh and select an action block that will move the character backwards. Place it in the program, and press play to see the character move backwards.
-* Refresh and select an action block that will turn the character to the right. Place it in the program, and press play to see the character turn right.
-* Refresh and select an action block that will turn the character to the left. Place it in the program, and press play to see the character turn left.
+* Open the Weavly [coding environment](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=&c=abb&d=&s=abb).
+* Select an action block that will move the character forward and place it in the program. Press play to find out how the character moves forward.
+* Delete your program and refresh your scene. 
+* Select an action block that will move the character backwards. Add it in the program, and press play to find out how the character moves backwards.
+* Refresh and select an action block that will turn the character to the right. Add it to the program, and press play to see the character turn right.
+* Delete your program and refresh your scene. 
+* Select an action block that will turn the character to the left. Add it to the program, and press play to find out how the character turns left.
+* Delete your program and refresh your scene. 
+* Select an action block that will turn the character to the right. Add it to the program, and press play to find out how the character turns right.
+* Delete your program and refresh your scene. 
 * Add a combination of moving and turning action blocks to create a sequence. Press play.
 
 ## Tips
@@ -53,6 +58,10 @@ These action blocks allow learners to provide clear instructions to their charac
 * Consider providing learners with a visual representation for left and right if directions are a challenge
 
 ## Skill Development
+
+* Directional
+* Spatial
+* Sequencing
 
 ## Level Up!
 
