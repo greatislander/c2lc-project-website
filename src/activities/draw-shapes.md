@@ -3,11 +3,11 @@ title: Draw Shapes
 type: On-Screen
 experience: No Coding Experience
 subject: Introduction
-description: This activity involves drawing a shape on Weavly
+description: "This activity involves drawing a shape in the Weavly coding environment. "
 whatYouNeed: |-
   ### Tools
 
-  Internet access and a device to open C2LC coding environment
+  Internet access and a device to open the Weavly coding environment
 
   ### Skills
 
@@ -30,15 +30,15 @@ books:
 
 In this activity, learners use the Weavly scene as their virtual drawing canvas. Learners can use their geometric knowledge and directional navigation in a coding environment where the action blocks and pen toggle feature enables learners to create basic shapes. 
 
-* [Square](https://build.codelearncreate.org/?v=0.5&p=3B3B3B3B&c=00b00c0c0cCcC0C0C00)
-* [Diamond](https://build.codelearncreate.org/?v=0.5&p=A2B2B2B2A&c=00b00bBbB0D0DBBBB00)
-* [Triangle](https://build.codelearncreate.org/?v=0.5&p=3BA3BA3B&c=00b00c0c00C0C00)
+* [Square](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=1b1b1b1b&c=abbabbbbbbcbcacacab&d=&s=abb)
+* [Diamond](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=A1b1b1b1ba&c=abbabbabacbcbbcbcab&d=&s=abb)
+* [Triangle](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=1BA1BA1B&c=abbabbbbbaaaaab&d=&s=abb)
 
-The process of creating shapes on the scene applies to the use of directions, encourages planning, creates opportunity for debugging when new shapes are being created.The interactive and visual component encourages learners to develop a sense of direction when using Weavly, identify cause and effect as well as inspire creativity in their coding creations.
+The process of creating shapes on the scene applies to the use of directions, encourages planning, creates opportunity for debugging when new shapes are being created. The interactive and visual component encourages learners to develop a sense of direction when using Weavly and identify cause and effect.
 
 ## Steps
 
-* Open the drawing canvas in the Weavly coding environment
+* Open the Weavly coding environment
 * Ensure pen toggle is on.
 * Explore and use the action blocks  to draw a rectangle or square.
 * Explore and use the action blocks to draw a diamond.
@@ -61,4 +61,5 @@ The process of creating shapes on the scene applies to the use of directions, en
 
 ## Level Up!
 
-* Ask learners to replace and/or delete action blocks in their sequence using the action panel
+* Ask learners to replace and/or delete action blocks in their sequence using the action panel.
+* Ask learners to use the Loop action block for any part or their sequence that is being repeated.
