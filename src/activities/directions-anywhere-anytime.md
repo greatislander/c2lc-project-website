@@ -80,7 +80,7 @@ In this activity, learners will start by learning directions on their own body a
 
 ## Level Up!
 
-* Try this activity in different environments, such as outdoor spaces, playgrounds, streets, and supermarkets
+* Try this activity in different environments, such as outdoor spaces, playgrounds, streets, and supermarkets.
 
-  * When driving, talk to them about turning right/left, or going straight 
-  * When in a supermarket, ask them about items on the right, left, front, and back shelves
+  * When driving, talk to them about turning right/left, or going straight. 
+  * When in a supermarket, ask them about items on the right, left, front, and back shelves.
