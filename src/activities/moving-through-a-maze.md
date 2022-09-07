@@ -1,5 +1,5 @@
 ---
-title: Moving through a maze
+title: Moving on a grid
 type: Hybrid
 experience: Unplugged Coding Experience
 subject: Direction Based
