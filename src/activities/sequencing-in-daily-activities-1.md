@@ -37,23 +37,23 @@ books:
 
 Sequencing is an abstract concept and takes a lot of practice to master for many kids. Learners can try these activities to understand how a series of objects and events can happen in a specific and logical order. The following activities include simple sequences that are familiar to children and are a natural part of their daily routines.
 
-* Going to bed 5 steps (Taking a bath, putting on pyjamas, brushing teeth, reading a book, going to sleep)  
+* Going to bed - 5 steps (Taking a bath, putting on pyjamas, brushing teeth, reading a book, going to sleep)  
 
   ![Going to bed sequence - 5 steps](/assets/media/going-to-sleep.jpg "Going to bed sequence")
-* Growing a plant 4 steps (Planting the seed, watering the seed, placing in the sunlight, letting it grow)
+* Growing a plant - 4 steps (Planting the seed, watering the seed, placing the pot in the sunlight, letting the plant grow)
 
   ![Growing a plant - 4 steps](/assets/media/growing-a-plant.jpg "Growing a plant")
-* Making a sand castle 3 steps (Filling a bucket with damp sand, pushing sand down with your hands, flipping the bucket)
+* Making a sand castle - 3 steps (Filling a bucket with damp sand, pushing sand down with your hands, flipping the bucket)
 
   ![Building a sand castle - 3 steps](/assets/media/building-a-sand-castle.jpg "Building a sand castle")
 
 ## Steps
 
 * Choose one of the above activities.
-* You can right click on any sets of above images, open them in a separate browser, and print them out.
+* You can right click on any sets of above images to open them in a separate browser window and print them out.
 * Ask the learner to describe the cards for each activity.
 * Use one of the activities to show the learner how to put the cards in the correct order.
-* Ask the learner to put either the digital or printed cards in order.
+* Ask the learner to put the printed cards in order.
 
 ## Tips
 
