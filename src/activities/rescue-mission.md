@@ -4,8 +4,8 @@ type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
 relatedActivities:
-  - "Mission: Visiting Animals"
-  - "Mission: Hunting the sunken treasure"
+  - Adventures in the Savannah
+  - Hunting the sunken treasure
 description: This multi-level activity challenges players to build a sequence to
   complete a mission.
 metaImage: /assets/media/mission-_rescue.jpg
