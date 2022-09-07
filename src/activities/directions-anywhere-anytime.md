@@ -57,7 +57,7 @@ In this activity, learners will start by learning directions on their own body a
 **To practice learning about our body position in relation to objects outside our bodies:**
 
 * Place similar objects (these can be animals, shapes, etc.) on the floor to the left and right of the learner.
-* Ask the learner to move to the another spot using left and right (the circle on the left, the triangle on the right, etc.). You can also play Simon Says with this part of the activity.
+* Ask the learner to move to another spot using left and right (the circle on the left, the triangle on the right, etc.). You can also play Simon Says with this part of the activity.
 
 **To practice learning about the position of objects relative to one another:**
 
