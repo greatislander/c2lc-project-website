@@ -38,18 +38,18 @@ This activity provides a combination of physical and on-screen experiences for l
 
 ## Steps
 
-* Use masking tape to build a simple maze on the floor.
-* Place some of learners’ favorite toys/treats on different spots on the maze.
-* Ask learner one to wait at the beginning of the maze and move only when the program announces an action.
-* Ask learner two to use the Weavly coding environment to build a program to move learner one through the maze.
-* Select the “Play” button and ask learner one to move based on the steps announced by the program
+* Use masking tape to build a simple grid of 12 rows and 8 columns on the floor.
+* Place some of learners’ favorite toys/treats on different grid cells.
+* Ask learner one to wait at the beginning of the second row on the left side of the grid.
+* Ask learner two to use the Weavly [coding environment](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=&c=abb&d=&s=abb) to build a program to move learner one through the grid and collect their favorite toys/treats.
+* Select the “Play” button and ask learner one to move based on the steps announced by the program.
+* At the end, compare the position of the learner on the physical grid with the on-screen character. If they match they have won, otherwise they can repeat the game. 
 
 ## Tips
 
-* Start with straight and simple paths before introducing more complex mazes.
-* You can use grid squares to build your maze as some learners may benefit from seeing the grid squares to navigate.
-* Reward both learners if they successfully finish going through the maze.
-* Moderator can pause the program and help learner two to fix (debug) the program if learner one starts to move off the maze.
+* Start with straight and simple paths before introducing more complex sequences.
+* Reward both learners if they successfully win the game.
+* Moderator can pause the program and help learner two to fix (debug) the program if learner one starts to move off the grid.
 * In addition to the audio labels spoken by the program, the moderator can speak each action block once played to reinforce the learning of directions.
 
 ## Skill Development
@@ -65,4 +65,4 @@ This activity provides a combination of physical and on-screen experiences for l
 
 ## Level Up!
 
-Once your learners are familiar with this activity, get them to make their own maze and play then play this game.
+Once your learners are familiar with this activity, get them to make their own maze and then play this game.
