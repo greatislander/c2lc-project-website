@@ -40,6 +40,7 @@ This activity provides a combination of physical and on-screen experiences for l
 * Ask learner 1 to go to a specific spot in the environment, such as a far corner in the room.
 * Ask learner 1 to act as a robot and only follow the Weavly program as it’s being spoken.
 * Select a specific destination in the same environment.
+* Open the Weavly [coding environment](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=&c=abb&d=&s=abb). 
 * Moderator works with learner 2 to build a sequence of action blocks in the Weavly coding environment to bring learner 1 to the selected destination.
 * Select the “Play” button to see whether learner 1 gets to the final destination or not.
 
