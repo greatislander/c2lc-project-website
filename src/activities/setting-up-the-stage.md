@@ -4,8 +4,8 @@ type: On-Screen
 experience: No Coding Experience
 subject: Introduction
 relatedActivities:
-  - "Mission: Rescue "
-  - "Mission: Visiting Animals"
+  - What's a robot
+  - Learning about directions with arrows
 description: This activity teaches learners to select and use a background on Weavly.
 metaImage: /assets/media/setting_up_the_stage.jpg
 metaImageAlt: Illustration of grid with curtain at right and left side and hands
@@ -39,8 +39,12 @@ In this activity, learners explore Weavly’s world selector to set the stage. D
 * Sketchpad
 * Deep Ocean
 * Space
+* Camping Trip
+* Jungle
 * Landmarks
 * Jungle
+* Haunted House
+* Marble Run
 
 The different options available can inspire learners to create plans for adventure in these digital worlds. By considering the objects and/or characters, learners can create programs to make their stories come true. For example, take the submarine in the Deep Ocean background to reach the treasure chest.
 
