@@ -1,5 +1,5 @@
 ---
-title: Explore Action Blocks
+title: Explore Weavly Action Blocks
 type: On-Screen
 experience: No Coding Experience
 subject: Introduction
