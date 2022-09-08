@@ -3,7 +3,13 @@ title: Draw Shapes
 type: On-Screen
 experience: No Coding Experience
 subject: Introduction
+relatedActivities:
+  - Explore Action Blocks
+  - Pattern Creation
 description: "This activity involves drawing a shape in the Weavly coding environment. "
+metaImage: /assets/media/draw_shapes.png
+metaImageAlt: "An illustraton showing two hands are drawing basic shapes, such
+  as a rectangle, diamond, and a triangle with action blocks. "
 whatYouNeed: |-
   ### Tools
 
