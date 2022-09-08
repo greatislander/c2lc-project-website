@@ -9,7 +9,7 @@ relatedActivities:
 description: This activity involves creating patterns with the Weavly coding environment.
 metaImage: /assets/media/pattern_creation.png
 metaImageAlt: "An illustration showing a hand creating a repeated pattern on the
-  Weavly scene. "
+  Weavly scene. Two arrows around the scene show a circular movement. "
 whatYouNeed: |-
   ### Tools
 
