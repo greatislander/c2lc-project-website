@@ -11,7 +11,7 @@ description: In this activity, learners explore various action blocks in the
 whatYouNeed: |-
   ### Tools
 
-  Internet access and a device to open Weavly coding environment
+  Device with internet access
 
   ### Skills
 
