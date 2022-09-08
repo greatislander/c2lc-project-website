@@ -1,11 +1,14 @@
 ---
-title: Telecode
+title: Explore Weavly Sounds
 type: On-Screen
 experience: Blockly Coding Experience
 subject: Introduction
 relatedActivities:
   - Dancing to the beat
 description: In this activity, learners explore sound features of Weavly.
+metaImage: /assets/media/explore_weavly_sounds.png
+metaImageAlt: "An illustration showing two hands clapping and weavly action
+  blocks with audio waves associated with each one of them. "
 whatYouNeed: |-
   ### Tools
 
