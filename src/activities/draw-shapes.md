@@ -7,7 +7,7 @@ description: "This activity involves drawing a shape in the Weavly coding enviro
 whatYouNeed: |-
   ### Tools
 
-  Internet access and a device to open the Weavly coding environment
+  Device with internet access
 
   ### Skills
 
