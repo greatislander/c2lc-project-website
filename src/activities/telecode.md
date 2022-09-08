@@ -7,8 +7,8 @@ relatedActivities:
   - Dancing to the beat
 description: In this activity, learners explore sound features of Weavly.
 metaImage: /assets/media/explore_weavly_sounds.png
-metaImageAlt: "An illustration showing two hands clapping and weavly action
-  blocks with audio waves associated with each one of them. "
+metaImageAlt: An illustration showing two hands clapping. There are four weavly
+  action blocks with audio waves associated with the block's colour.
 whatYouNeed: |-
   ### Tools
 
