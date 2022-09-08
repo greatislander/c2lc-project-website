@@ -5,7 +5,7 @@ experience: No Coding Experience
 subject: Introduction
 relatedActivities:
   - Draw Shapes
-  - Learning about patterns
+  - Explore Action Blocks
 description: This activity involves creating patterns with the Weavly coding environment.
 whatYouNeed: |-
   ### Tools
