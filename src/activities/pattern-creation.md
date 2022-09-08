@@ -6,7 +6,7 @@ subject: Introduction
 relatedActivities:
   - Draw Shapes
   - Learning about patterns
-description: This activity involves creating patterns with Weavly coding environment.
+description: This activity involves creating patterns with the Weavly coding environment.
 whatYouNeed: |-
   ### Tools
 
@@ -31,26 +31,26 @@ books:
 ---
 ## Description
 
-In this activity, learners use the Weavly scene as their virtual drawing canvas. Learners can use directional navigation in a coding environment where the action blocks and pen toggle feature enables learners to draw a design and create a patterned motif.  The process of creating various drawings and patterns on the scene encourages the use of directions and enables free-form creation. The interactive and visual component encourages learners to develop a sense of direction when using Weavly, identify cause and effect as well as inspire creativity in their coding creations.
+In this activity, learners use the Weavly scene as their virtual drawing canvas. Learners can use directional navigation in a coding environment where the action blocks and pen toggle feature enables learners to draw a design and create a patterned motif.  The process of creating various drawings and patterns on the scene encourages the use of directions and enables free-form creation. The interactive and visual component helps learners identify cause and effect as well as inspire creativity in their coding creations.
 
-Some example of drawings/designs created into patterned motif:[\
-Rose](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A2B3B&c=00b00bBbBAEAEACACbCbC0E0ECBCBABABAEAECCCC00000B0BCBCBA0A0bCbC0C0C00)[\
-Ninja star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3D2A233&c=agd00cCcCaAaAaaaaddddbbbb0b0bCeCeAcAcAaAaDBDBB0B000)\
-[Eight-sided star](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3b3&c=f0ccCf0f0i0i0iciclflfiiiiililflflcoco0l0lClClCiCiFfFfCcCcC0C00000cCcCf0)
+Some example of drawings/designs created into patterned motif[[](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=sA9sA11B111Bz&c=aabffhdhdeaeaecechchcfafacdcdededeaeaccccfffffdfdcdcdefefhchcfcfcffffhdhdea&d=&s=aab)](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=sA9sA11B111Bz&c=aabffhdhdeaeaecechchcfafacdcdededeaeaccccfffffdfdcdcdefefhchcfcfcffffhdhdea&d=&s=aab)
+
+* [Rose](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=sA9sA11B111Bz&c=aabffhdhdeaeaecechchcfafacdcdededeaeaccccfffffdfdcdcdefefhchcfcfcffffhdhdea&d=&s=aab)
+* [](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3D2A233&c=agd00cCcCaAaAaaaaddddbbbb0b0bCeCeAcAcAaAaDBDBB0B000)[Ninja Star](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=sA4sA11BB1A11z&c=abbfdhbgcgegeighfffffdhegeeeeccddfd&d=&s=abb)
+* [](https://develop-0-5--c2lc-build.netlify.app/?v=0.5&p=A3b3&c=f0ccCf0f0i0i0iciclflfiiiiililflflcoco0l0lClClCiCiFfFfCcCcC0C00000cCcCf0)[Eight-sided Star](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=sA8sA1b1z&c=abbecfbfbgcgchchchdhdieiehfhfhghgggggfhfhegegdgdgdfdfcecedddddcdcec&d=&s=abb)
 
 ## Steps
 
-* Open the drawing canvas in the Weavly coding environment. 
+* Open the Weavly [coding environment](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=&c=abb&d=&s=abb). 
 * Ensure the pen toggle feature is on.
-* Explore and use 3-5 action blocks to create a sequence for a design/shape. 
-* Refresh and move your character to the middle of the scene. 
-* Press play to draw your design/shape.
-* Ask learners to play their coded sequence 5-10 times to create a pattern.
+*   Add a loop action block to your program. Refresh and move your character to the middle of the scene. 
+*   Add a few different action blocks inside your loop. Press play to draw your design/shape.
+*   In the loop number field, adjust the number of times you want this program to be repeated. (Choose a minimum of 3 to be able to notice the effects of a repeated pattern)
 
 ## Tips
 
-* After a design or shape has been created, ask learners what the shape they would picture before playing their sequences several times.
-* Moderators demonstrating this activity first and showing learners how to use different tools to make some basic shapes can help learners with little to no coding experience.
+* Ask learners to use the arrow keys on the right panel in the Weavly coding environment to move their on-screen character to the middle of their scene (for example cell E4). So it has more room to create a drawing. 
+* Modelling this activity first and showing learners how to use different action blocks particularly the loop block can help learners with little to no coding experience to participate.
 
 ## Skill Development
 
