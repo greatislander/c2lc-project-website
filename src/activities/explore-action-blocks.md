@@ -8,7 +8,7 @@ relatedActivities:
   - Draw Shapes
 description: In this activity, learners explore various action blocks in the
   Weavly coding environment.
-metaImage: /assets/media/explore_action_blocks.png
+metaImage: /assets/media/explore_action_blocks-2.png
 metaImageAlt: "An illustration showing movement action blocks and dotted paths
   around them. There are two large question marks on this image. "
 whatYouNeed: |-
