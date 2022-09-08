@@ -6,7 +6,7 @@ subject: Introduction
 relatedActivities:
   - Draw Shapes
   - Learning about patterns
-description: This activity involves creating patterns.
+description: This activity involves creating patterns with Weavly coding environment.
 whatYouNeed: |-
   ### Tools
 
