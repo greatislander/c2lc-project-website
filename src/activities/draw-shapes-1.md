@@ -8,8 +8,8 @@ relatedActivities:
   - Pattern Creation
 description: "This activity involves drawing a shape in the Weavly coding environment. "
 metaImage: /assets/media/draw_shapes-2.png
-metaImageAlt: "An illustraton showing two hands are drawing basic shapes, such
-  as a rectangle, diamond, and a triangle with action blocks. "
+metaImageAlt: "An illustraton showing two hands and three shapes including a
+  rectangle, diamond, and a triangle with action blocks. "
 whatYouNeed: |-
   ### Tools
 
