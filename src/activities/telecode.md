@@ -1,5 +1,5 @@
 ---
-title: Explore Weavly Sounds
+title: Exploring Weavly Sounds
 type: On-Screen
 experience: Blockly Coding Experience
 subject: Introduction
