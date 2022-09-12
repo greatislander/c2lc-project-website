@@ -6,8 +6,8 @@ subject: Introduction
 relatedActivities:
   - Setting up the stage
   - Draw Shapes
-description: In this activity, learners explore various action blocks in the
-  Weavly coding environment.
+description: In this activity, learners explore the available action blocks in
+  the Weavly coding environment.
 metaImage: /assets/media/explore_action_blocks-2.png
 metaImageAlt: An illustration showing movement action blocks and dotted paths around them.
 whatYouNeed: |-
