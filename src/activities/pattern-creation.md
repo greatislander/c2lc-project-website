@@ -10,7 +10,8 @@ description: This activity involves creating patterns with the "Loop" action
   block in the Weavly coding environment.
 metaImage: /assets/media/pattern_creation.png
 metaImageAlt: "An illustration showing a hand creating a repeated pattern on the
-  Weavly scene. Two arrows around the scene show a circular movement. "
+  Weavly coding environment. Two arrows around the scene show a circular
+  movement. "
 whatYouNeed: |-
   ### Tools
 
