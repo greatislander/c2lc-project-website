@@ -69,3 +69,5 @@ The process of creating shapes on the scene applies to the use of directions, en
 
 * Ask learners to replace and/or delete action blocks in their sequence using the action panel.
 * Ask learners to use the Loop action block for any part or their sequence that is being repeated.
+
+<img src="https://code.org/api/hour/begin_weavly.png" class="visually-hidden" alt="" width="0" height="0" />
