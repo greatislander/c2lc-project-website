@@ -1,5 +1,5 @@
 ---
-title: Draw Shapes
+title: Drawing Shapes
 type: On-Screen
 experience: No Coding Experience
 subject: Introduction
