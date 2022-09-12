@@ -1,5 +1,5 @@
 ---
-title: Pattern Creation
+title: Creating Patterns
 type: On-Screen
 experience: No Coding Experience
 subject: Introduction
