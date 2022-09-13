@@ -10,7 +10,11 @@ createSection:
       link: https://youtu.be/eAG2VnmCotc
       image: /assets/media/accessible-coding.png
     - title: How to share a program
-      link: https://youtu.be/VZyaot1YL9U
+      link: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/VZyaot1YL9U" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
       image: /assets/media/accessible-coding.png
 learnSection:
   title: Educational Activities and Learning Resources
