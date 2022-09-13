@@ -24,23 +24,23 @@ Weavly offers several backgrounds that each include a different set of missions 
 
 * Beginner
 
-  * Camping trip
-  * Deep ocean
+  * [Camping trip](https://create.weavly.org/?v=1.5&t=default&w=Camping&p=&c=abb&d=&s=abb)
+  * [Deep ocean](https://create.weavly.org/?v=1.5&t=default&w=DeepOcean&p=&c=abb&d=&s=abb)
 
 ![Weavly's haunted house, space, and jungle safari's backgrounds.](/assets/media/intermediate-backgrounds.jpg "Weavly backgrounds for intermediate users")
 
 * Intermediate
 
-  * Haunted house
-  * Space
-  * Jungle
+  * [Haunted house](https://create.weavly.org/?v=1.5&t=default&w=Haunted&p=&c=abb&d=&s=abb)
+  * [Space](https://create.weavly.org/?v=1.5&t=default&w=Space&p=&c=abb&d=&s=abb)
+  * [Savannah](https://create.weavly.org/?v=1.5&t=default&w=Savannah&p=&c=abb&d=&s=abb)
 
 ![Weavly's landmark and marble run backgrounds.](/assets/media/advanced-backgrounds.jpg "Weavly backgrounds for advanced users")
 
 * Advanced
 
-  * Landmarks
-  * Marble run
+  * [Landmarks](https://create.weavly.org/?v=1.5&t=default&w=Landmarks&p=&c=abb&d=&s=abb)
+  * [Marble run](https://create.weavly.org/?v=1.5&t=default&w=Marble&p=&c=abb&d=&s=abb)
 
 **At the beginner level**, facilitators can set a specific target on a background and support learners to build a short and simple program to reach that target. At this level, most targets can be reached by using basic movement action blocks, such as ‘Move Forward 1 square’ and ‘Turn Left 90 degrees’. 
 
