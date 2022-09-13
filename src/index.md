@@ -30,8 +30,8 @@ permalink: /
 headerBg: green-85
 title: Weavly
 subtitle: Weavly is a tool designed for everyone to learn about coding. Explore
-  activities and discover new ways to turn your ideas into reality. Share your
-  ideas and creations with others.
+  activities and discover new ways to turn your ideas into reality and share
+  your creations with others.
 headerCallToActionLink: https://create.weavly.org
 aboutSection:
   title: What’s Accessible Coding?
