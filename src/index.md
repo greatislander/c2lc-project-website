@@ -5,13 +5,13 @@ createSection:
   cards:
     - link: https://youtu.be/zg-TmHyBx0E
       title: How to create a program in Weavly
-      image: /assets/media/screen-shot-2022-09-13-at-10.54.27-am.png
+      image: /assets/media/creating-a-program-in-weavly.png
     - title: How to customize Weavly
       link: https://youtu.be/eAG2VnmCotc
-      image: /assets/media/screen-shot-2022-09-13-at-10.54.12-am.png
+      image: /assets/media/customizing-weavly.png
     - title: How to share a program
       link: https://youtu.be/VZyaot1YL9U
-      image: /assets/media/screen-shot-2022-09-13-at-10.53.15-am.png
+      image: /assets/media/sharing-programs.png
 learnSection:
   title: Educational Activities and Learning Resources
   content: Check out a collection of educational activities and coding tools.
