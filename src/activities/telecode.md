@@ -34,7 +34,7 @@ books:
 ---
 ## Description
 
-In this activity learners can explore the sound features of the different action blocks. This activity provides an on-screen and sensory experience to introduce learners to discover and become familiar with the sounds on Weavly. Each action block has a unique and distinct sound. Once action blocks are selected as part of the program, Weavly can provide real-time sound for the selected action block. This activity encourages learners to use their sensory ability to identify cause and effect, and inspire creativity in their programs.
+In this activity learners can explore the sound features of the different action blocks. Each action block has a unique and distinct sound. Once action blocks are played as part of the program, Weavly can provide real-time sound for each action block. This activity encourages learners to use their sensory ability to identify cause and effect, and inspire creativity in their programs.
 
 ## Steps
 
