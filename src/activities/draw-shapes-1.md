@@ -34,7 +34,7 @@ books:
 ---
 ## Description
 
-In this activity, learners use the Weavly scene as their virtual drawing canvas. Learners can use their geometric knowledge and directional navigation in a coding environment where the action blocks and pen toggle feature enables learners to create basic shapes. 
+In this activity, learners use the Weavly scene as their virtual drawing canvas. Learners can use their geometric knowledge and directional navigation in a coding environment to create basic shapes. 
 
 * [Square](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=1b1b1b1b&c=abbabbbbbbcbcacacab&d=&s=abb)
 * [Diamond](https://create.weavly.org/?v=1.4&t=default&w=Sketchpad&p=A1b1b1b1ba&c=abbabbabacbcbbcbcab&d=&s=abb)
