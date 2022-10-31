@@ -68,4 +68,4 @@ Some example of drawings/designs created into patterned motif[](https://create.w
 
 * Ask learners to replace and/or action blocks in their sequence using the action panel
 
-<img src="https://code.org/api/hour/begin_weavly.png" class="visually-hidden" alt="" width="0" height="0" />
+<img src="https://code.org/api/hour/begin_idr_shapes.png" class="visually-hidden" alt="" width="0" height="0" />
