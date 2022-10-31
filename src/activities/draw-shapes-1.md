@@ -44,7 +44,7 @@ The process of creating shapes on the scene applies to the use of directions, en
 
 ## Steps
 
-* Open the Weavly coding environment
+* Open the [Weavly coding environment](https://create.weavly.org/?v=1.6&t=default&w=Sketchpad&p=&c=abb&d=&s=abb)
 * Ensure pen toggle is on.
 * Explore and use the action blocks  to draw a rectangle or square.
 * Explore and use the action blocks to draw a diamond.
