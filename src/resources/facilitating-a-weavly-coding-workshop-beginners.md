@@ -40,7 +40,7 @@ The skills would be: 
 
 We have developed several unplugged activities that can help you anchor these foundational skills. Please visit the [Unplugged Activities](https://weavly.org/learn/activities/?type=Unplugged) section for more details. 
 
-### <a name="codingEnvironmentOverview"></a>Coding environment overview
+<h3 id="coding-environment-overview">Coding environment overview</h3>
 
 Provide an overview of the Weavly user interface to help orient learners before they start building a program. As you describe each part, highlight that section in the Weavly coding environment. 
 
@@ -78,11 +78,11 @@ A script to say to learners:
 
 > You can choose to turn on/off different sounds in Weavly. Give the toggle a try and decide if you would like to keep this on or off. You can always come back here and turn this feature on/off. 
 
-#### World selector
+#### Scene background selector
 
-![Weavly world selector menu](/assets/media/world-selector.jpg "Weavly world selector menu")
+![Weavly scene background selector menu](/assets/media/world-selector.jpg "Weavly scene background selector menu")
 
-> You can also pick different backgrounds for your scene. Choose the World selector tool and try to select the one you would like.
+> You can also pick different backgrounds for your scene. Choose the Scene background selector button and try to select the one you would like.
 
 ### Play area
 
@@ -125,8 +125,8 @@ Learners can select one action block at a time and then add it to their program 
 
 A script to say to learners:
 
-> *If we want our character to go to any specific grid cell, we have to give it clear instructions. We can do this by choosing the correct action blocks from the actions panel. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
->
+*These actions are the building blocks for creating a program. You can think of the action panel as a fridge. If you want to make a program salad, you should come to this fridge and get any ingredients you need. There are different groups of action blocks to choose from. Here are the available actions blocks on Weavly:*
+
 > * *An action block for moving your character Forward one square*
 > * *An action block for moving your character backward one square*
 > * *An action block for turning your character Right 45 degrees (This option helps you draw diagonal lines)*
@@ -146,16 +146,9 @@ In this example, we are going to build program to make our character draw a squa
 
 A script to say to learners:
 
-> *Let’s make a square using the action blocks.*
->
-> 1. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
-> 2. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
-> 3. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
-> 4. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
-> 5. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
-> 6. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
-> 7. *Select the ‘Move Forward 1 square’ action block, and then the ‘+’ button at the end of your program.*
-> 8. *Select the ‘Turn Right 90 degrees’ action block, and then the ‘+’ button at the end of your program.*
+*Here is where you make your program. Once you get your ingredients from the action panel, you bring them here and add them in a sequence to make your program salad.* 
+
+*You can add an action to your program in two ways. You can drag them from actions and drop them where you want it in your program. Or you can select an action in the actions panel and then select any of the “+” buttons to add it to your program.*
 
 #### How to play your program
 
