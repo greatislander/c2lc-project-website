@@ -40,7 +40,7 @@ The skills would be: 
 
 We have developed several unplugged activities that can help you anchor these foundational skills. Please visit the [Unplugged Activities](https://weavly.org/learn/activities/?type=Unplugged) section for more details. 
 
-### Coding environment overview
+### <a name="codingEnvironmentOverview">Coding environment overview</a>
 
 Provide an overview of the Weavly user interface to help orient learners before they start building a program. As you describe each part, highlight that section in the Weavly coding environment. 
 
