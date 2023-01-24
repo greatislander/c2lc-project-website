@@ -31,6 +31,11 @@ whatYouNeed: |-
   ### Support
 
   Adult moderator and a minimum of two players
+books:
+  - link: https://canada.on.worldcat.org/oclc/956957043
+    coverImage: /assets/media/jabari-jumps.jpg
+    title: Jabari Jumps
+    author: Gaia Cornwall
 ---
 ## Description
 
