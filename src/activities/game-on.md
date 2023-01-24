@@ -5,6 +5,7 @@ experience: Unplugged Coding Experience
 subject: Goal Based
 relatedActivities:
   - Let's go to Europe!
+  - Adventures on the stormy sea
 description: "In this activity, learners build a program to take their character
   to their favourite sports and share personal experiences about playing those
   games. "
@@ -15,12 +16,12 @@ metaImageAlt: a An illustration of Weavly scene with several sports items on it,
 whatYouNeed: |-
   ### Tools
 
-  Device with internet access to open Weavly coding environment
+  Device with internet access to open Weavly coding environment.
 
   ### Skills
 
   * Communication
-  * debugging
+  * Debugging
   * Directional
   * Planning
   * Sequencing
@@ -32,7 +33,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and a minimum of two players
+  Adult moderator and two or more players
 books:
   - link: https://canada.on.worldcat.org/oclc/956957043
     coverImage: /assets/media/jabari-jumps.jpg
@@ -41,15 +42,15 @@ books:
 ---
 ## Description
 
-This activity consists of two main parts. In the first part, participants have a conversation about their favorite sports and how it has changed over their lifespan. Then, they can build different programs to navigate to different sports in this background and share stories and experiences related to each specific sport.  
+This activity consists of two main parts. First part, participants have a conversation about their favorite sports and how it has changed over their lifespan. Then, they can build a program to navigate to different sports in this background and share stories and experiences related to each specific sport.  
 
-Game on!: [Activity link](https://create.weavly.org/?v=1.7&t=default&w=Sports&p=&c=abb&d=&s=abb)
+Game on! [Activity link](https://create.weavly.org/?v=1.7&t=default&w=Sports&p=&c=abb&d=&s=abb)
 
 ![An illustration of a green field with several sport items on it. ](/assets/media/sports.jpg "Sports ")
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
-“This scene shows a green field with many popular sports’ icons placed on different areas. At the top from left to right, there is a badminton shuttlecock, basketball ball, running shoes, curling stone, golf ball, and a martial arts outfit. At the bottom, there is a pair of swimming goggles, a bike, table tennis racket, field hockey stick and ball, and a rowing boat. There are several items in the middle. In the top middle, there is a cricket bat and ball, a pair of skis and ski poles, an American football ball, a volleyball ball, and a bowling ball and pins. In the lower middle, there is a hockey stick and puck, soccer ball, baseball glove and ball, singlet, boxing gloves, tennis racket and ball, and a pair of ice skates.The character on this scene is a trophy”
+“This scene shows a green field with many popular sports’ icons placed on different areas. At the top from left to right, there is a badminton shuttlecock, basketball ball, running shoes, curling stone, golf ball, and a martial arts outfit. At the bottom, there is a pair of swimming goggles, a bike, table tennis racket, field hockey stick and ball, and a rowing boat. There are several items in the middle. In the top middle, there is a cricket bat and ball, a pair of skis and ski poles, an American football ball, a volleyball ball, and a bowling ball and pins. In the lower middle, there is a hockey stick and puck, soccer ball, baseball glove and ball, singlet, boxing gloves, tennis racket and ball, and a pair of ice skates. The character on this scene is a trophy”
 
 ## Steps
 
@@ -61,7 +62,7 @@ Moderators can use this blurb to describe the background for the players before 
 
 ## Tips
 
-If you don’t find your favourite sport on this field, there are several other and more generic items you can use to represent that sport. For example, if you can’t find diving in this background, you can use swimming goggles or the singlet as an icon for diving.
+If you don’t find your favourite sport on this background, there are several other and more generic items you can use to represent that sport. For example, if you can’t find diving in this background, you can use swimming goggles or the singlet as an icon for diving.
 
 ## Level Up!
 
