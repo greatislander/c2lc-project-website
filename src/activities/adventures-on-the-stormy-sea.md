@@ -6,9 +6,8 @@ subject: Goal Based
 relatedActivities:
   - Game on!
   - Let's go to Europe!
-description: "In this activity, learners are taken to the stormy seas of
-  Atlantic Canada. They have to work together to build a program to take their
-  fishing boat to a fish processing plant safely. "
+description: "In this activity, learners will build a program to save their
+  fishing boat in the stormy seas of Atlantic Canada. "
 metaImage: /assets/media/mission-_adventures_on_the_stormy_sea.png
 metaImageAlt: "An illustration of Weavly scene with a light house, stormy
   waters, a white whale tail and a fishing boat that is pushed by a hand. "
