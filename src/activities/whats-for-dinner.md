@@ -3,6 +3,8 @@ title: What's for dinner?
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
+relatedActivities:
+  - Let's go to Europe!
 description: "This activity encourages participants to plan a meal together and
   build a program to get their ingredients from a grocery store. "
 metaImage: /assets/media/mission-_what-s_for_dinner.png
