@@ -6,8 +6,8 @@ subject: Goal Based
 relatedActivities:
   - Game on!
   - Let's go to Europe!
-description: "In this activity, learners will build a program to save their
-  fishing boat in the stormy seas of Atlantic Canada. "
+description: "In this activity, learners build a program to save their fishing
+  boat in the stormy seas of Atlantic Canada. "
 metaImage: /assets/media/mission-_adventures_on_the_stormy_sea.png
 metaImageAlt: "An illustration of Weavly scene with a light house, stormy
   waters, a white whale tail and a fishing boat that is pushed by a hand. "
@@ -31,7 +31,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and minimum of two players
+  Adult moderator and two or more players
 books:
   - title: On the trapline
     author: David Robertson
@@ -40,7 +40,7 @@ books:
 ---
 ## Description
 
-This activity consists of two main parts. In the first part, participants are encouraged to have a conversation about this background and share whether they have visited a similar place before. They can talk about when and where that experience happened and how they felt about it. In the second part, they are asked to work in pairs to build multiple programs to go to different parts of this environment with their fishing boat. 
+This activity consists of two main parts. First, participants are encouraged to have a conversation about this background and share whether they have visited a similar place before. They can talk about when and where that experience happened and how they felt about it. Following that conversation, they are asked to work in pairs to build multiple programs to go to different parts of this environment with their fishing boat. 
 
 Adventures on the stormy sea: [Activity link](https://create.weavly.org/?v=1.7&t=default&w=AtlanticCanada&p=&c=abb&d=&s=abb)
 
@@ -53,7 +53,7 @@ Moderators can use this blurb to describe the background for the players before 
 ## Steps
 
 1. Select the activity link above.
-2. Talk about if you have ever been in Atlantic Canada or anywhere else that reminds you of this place?
+2. Talk about if you have ever been in Atlantic Canada or anywhere else that reminds you of this place.
 3. If you have, share stories about when and where it happened and how you felt.
 4. Work with your partner to plan a way to take your fishing boat from its current position to the school of cod fish. As you go on this path, you need to avoid hitting the village shores, the whale, the icebergs and the stormy waters.
 5. When you get to the fish, build a program to make your fishing boat take the fish to the fish processing plant, the red building in the top right corner.
@@ -64,4 +64,4 @@ As you move on this background, partners can talk about the dangers on the way. 
 
 ## Level Up!
 
-If you have not been in Atlantic Canada you are always welcome to visit. You can build a program to go whale watching, visit fish processing plants that are turned into fishery museums and restaurants, and you can ride back to the villages to find nice shops and restaurants and have freshly cooked fish or lobster.
+If you have not been in Atlantic Canada, you are always welcome to visit. You can build a program to go whale watching, visit fish processing plants that are turned into fishery museums and restaurants, and you can ride back to the village to find nice shops and restaurants and have freshly cooked fish or lobster.
