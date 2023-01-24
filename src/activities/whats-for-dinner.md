@@ -43,7 +43,7 @@ This activity consists of two main parts. In the first part, participants share 
 
 * What’s for dinner? [Activity link](https://create.weavly.org/?v=1.7&t=default&w=GroceryStore&p=&c=abb&d=&s=abb)
 
-![An illustration of a grocery store](/assets/media/grocery-store.png "Grocery store")
+![An illustration of a grocery store](/assets/media/grocery-store.jpg "Grocery store")
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
