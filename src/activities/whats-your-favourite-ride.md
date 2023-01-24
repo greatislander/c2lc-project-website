@@ -7,15 +7,14 @@ relatedActivities:
   - Game on!
   - Let's go to Europe!
 description: "In this activity, learners build a program to visit different
-  areas in an amusement park and share stories about their most and least
-  favourite rides. "
+  areas in an amusement park and share stories about their favourite rides. "
 metaImage: /assets/media/mission-_what-s_your_favourite_ride.png
 metaImageAlt: "An illustration showing Weavly scene with a ferris wheel,
   rollercoaster rides and a hand holding two cotton candies. "
 whatYouNeed: |-
   ### Tools
 
-  Device with internet access to open Weavly coding environment
+  Device with internet access to open Weavly coding environment.
 
   ### Skills
 
@@ -32,7 +31,7 @@ whatYouNeed: |-
 
   ### Support
 
-  Adult moderator and minimum of two players
+  Adult moderator and two or more players
 books:
   - link: https://canada.on.worldcat.org/oclc/1079410527
     author: Elina Ellis
@@ -41,7 +40,7 @@ books:
 ---
 ## Description
 
-This activity consists of two main parts. In the first part, participants begin with having a conversation about their experiences at an amusement park. Then, they can work in pairs to plan a path through the park to visit their favourite places and rides on this scene.  
+This activity consists of two main parts. First, participants begin with having a conversation about their experiences at an amusement park. Then, they can work in pairs to plan a path through the park to visit their favourite places and rides on this scene.  
 
 What’s your favourite ride? [Activity link](https://create.weavly.org/?v=1.7&t=default&w=AmusementPark&p=&c=abb&d=&s=abb)
 
@@ -49,7 +48,7 @@ What’s your favourite ride? [Activity link](https://create.weavly.org/?v=1.7&t
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
-“This scene shows a sunny day at an amusement park. The park entrance is at the top left corner. On the top from left to right, we have a game booth, the pirate ship ride, and the swing ride. In the middle from left to right, we have a merry go round, the water park, Ferris wheel, and the go karts. At the bottom left corner we have two roller coaster rides. At the bottom right corner, there is the food stand. Your on-screen character on this background is a park admission ticket”
+“This scene shows a sunny day at an amusement park. The park entrance is at the top left corner. On the top from left to right, we have a game booth, the pirate ship ride, and the swing ride. In the middle from left to right, we have a merry go round, the water park, Ferris wheel, and the go karts. At the bottom left corner we have two roller coaster rides. At the bottom right corner, there is the food stand. Your on-screen character is a park admission ticket.”
 
 ## Steps
 
