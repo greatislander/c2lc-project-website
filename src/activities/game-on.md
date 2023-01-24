@@ -3,6 +3,8 @@ title: Game on!
 type: On-Screen
 experience: Unplugged Coding Experience
 subject: Goal Based
+relatedActivities:
+  - Let's go to Europe!
 description: "In this activity, learners build a program to take their character
   to their favourite sports and share personal experiences about playing those
   games. "
