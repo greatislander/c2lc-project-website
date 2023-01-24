@@ -6,10 +6,10 @@ subject: Goal Based
 description: "In this activity, learners build a program to take their character
   to their favourite sports and share personal experiences about playing those
   games. "
-metaImage: /assets/media/mission-__game_on-.png
+metaImage: /assets/media/mission-__game_on-.jpg
 metaImageAlt: a An illustration of Weavly scene with several sports items on it,
   such as basketball ball, soccer ball, field hockey ball, tennis ball, hockey
-  stick, and badminton shuttlecock.
+  stick, and a badminton shuttlecock.
 whatYouNeed: |-
   ### Tools
 
