@@ -1,5 +1,5 @@
 ---
-title: "Facilitating an Intergenerational Coding Workshop "
+title: "Facilitating Intergenerational Coding Workshops "
 date: 2023-03-08T17:02:57.077Z
 author: Weavly team
 description: "This is a guide for a series of 3-5 intergenerational workshops
