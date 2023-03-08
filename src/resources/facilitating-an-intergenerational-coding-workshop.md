@@ -2,8 +2,8 @@
 title: "Facilitating Intergenerational Coding Workshops "
 date: 2023-03-08T17:02:57.077Z
 author: Weavly team
-description: "This is a guide for a series of 3-5 intergenerational workshops
-  that incorporate coding to facilitate storytelling. "
+description: "This is a guide for a series of 3-5 workshops that incorporate
+  coding to facilitate intergenerational storytelling. "
 metaImage: /assets/media/img_7198.jpg
 metaImageAlt: "Young student showing an adult how to use Weavly coding
   environment on a laptop. "
