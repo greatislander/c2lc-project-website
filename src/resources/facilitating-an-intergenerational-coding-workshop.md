@@ -66,13 +66,13 @@ Give all participants a chance to share their names, their grades, and what thei
 
 #### Let’s talk about coding (10 minutes)
 
-Before you get started, ask participants what they think coding is. Then try to provide a few examples. 
+Before you get started, ask participants what they think coding is and provide a few examples. Then, ask participants to think about a few more examples.
 
 > * We use coding to talk to computers. We have to give them clear and step by step instructions to make sure they do exactly what we want. There are many different kinds of computers around us. And we give them instructions every day. 
 > * Think about microwaves. You can use different options to adjust time and intensity on a microwave to make it heat up your food the way you want it. Then, once you press the start button, it follows your instructions and heats up your food exactly the way you want it.
 > * Think about elevators. Once you are in an elevator, you select your floor. You can also tell it to close the doors quickly or keep them open longer. Then the elevator follows your instructions, closes the doors and takes you to the floor you have selected.
 
-Ask participants to think about a few more examples.
+
 
 #### Icebreaker activity (15 minutes)
 
@@ -136,9 +136,7 @@ Engage participants in recapping different parts of Weavly. Have Weavly coding e
 > * How do you delete your entire program?
 > * How do you edit one single action block in your program?
 
-#### Weavly’s new features (10 minutes)
-
-##### Loop
+#### Weavly’s new feature: Loop (10 minutes)
 
 ![Demonstrating the loop feature on Weavly ](https://lh6.googleusercontent.com/0l0E8WeyTCWzkcH1z7RcaDlKqfkTq4UnTPqlcOGsftWkhEwCTBLAFXKNCcRpR-vmfSE6oJEDNWyF4lMXV-LnqI5H_9cnyp7TVn-YAvE5a81CsZ8rX8bkFm-7BrLeuTUHJiB-EBeqrUYyuRZtdzu5QTg "Weavly Loop Feature")
 
