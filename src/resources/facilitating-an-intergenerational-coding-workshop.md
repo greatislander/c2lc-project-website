@@ -23,8 +23,6 @@ This guide intends to support facilitators to plan and run these intergeneration
 * Distribution of sessions: Weekly
 * Required equipment: 1-2 laptop/tablet with internet connection per group
 
-
-
 ### General considerations
 
 * There is a possibility that either kids or adults miss one or more sessions. Provide ways for participants to work with other groups if their partners are not present. 
@@ -66,8 +64,6 @@ Give all participants a chance to share their names, their grades, and what thei
 
 > In this workshop, we start by talking about coding; what it is and how we use it in our lives. Then, we will play a game to learn more about coding. Later, we will show you Weavly and how you can use it. Over the next few weeks, you will have more chances to practice Weavly and try creating different programs. 
 
-
-
 #### Let’s talk about coding (10 minutes)
 
 Before you get started, ask participants what they think coding is. Then try to provide a few examples. 
@@ -79,8 +75,6 @@ Before you get started, ask participants what they think coding is. Then try to 
 > Think about elevators. Once you are in an elevator, you select your floor. You can also tell it to close the doors quickly or keep them open longer. Then the elevator follows your instructions, closes the doors and takes you to the floor you have selected.
 
 Ask participants to think about a few more examples.
-
-
 
 #### Icebreaker activity (15 minutes)
 
@@ -111,14 +105,13 @@ Please check out the “ Coding environment overview” section in this document
 
 ![](https://lh4.googleusercontent.com/jS8-qcfiWfpoVvQ00MePAxHnCaZKsQJvp-pLTWJSLav3zguZYysbPo5ROM_VNVKQzm2NQ2t7BI0qDfaajuEmlXPhoE7S-NCZrEMFFM-Wf7fnX0h1wxKneXP52d0cl2nqqBuj3ASpyr-TqFUkzGO5_0w)Assign the groups with a mission to help them practice their learning. Follow these steps: 
 
-1. Select the scene background selector button
-2. Choose the space background
-3. Delete any current program to start from scratch
-4. Press the refresh button to clean up any current drawings on their scene
-5. Change the starting position of their character to A2
-6. Build a program to take their spaceship from earth to the moon
-7. Play their program
-8. Edit their program if their spaceship did not land on the moon
+1. Select the scene background selector button and choose the space background
+2. Delete any current program to start from scratch
+3. Press the refresh button to clean up any current drawings on their scene
+4. Change the starting position of your character to A2
+5. Build a program to take your spaceship from earth to the moon
+6. Play their program
+7. Edit their program if their spaceship did not land on the moon
 
 ### Workshop 2
 
@@ -126,17 +119,11 @@ Please check out the “ Coding environment overview” section in this document
 
 Begin your session with a round of introductions and restating the workshop’s goals. 
 
-
-
-Script: 
-
-Today, we are going to start with a game. Then, we will review what we learned last week and try a few new things in Weavly. We will finish the workshop by completing a few more challenges.  
-
-
+> Today, we are going to start with a game. Then, we will review what we learned last week and try a few new things in Weavly. We will finish the workshop by completing a few more challenges.  
 
 #### Icebreaker activity (15 minutes)
 
-![](https://lh5.googleusercontent.com/wgEdwk7_Eg1MbhZzhfk0FUYr9cMutXggtGkB-C0WH0BoKcgS1QVzrnz1BFWoiYRtDSVlGeU8Xlpb5r7NkHc5zs9c3EWpHstaAVv5pUPtIgYUu9SfwxhIq5LXGstG2VuCZuZdnwkN1G6Tp1EWsl8NL7Y)
+![Several people are holding end of multiple strings arranged in a form of spider web. There is a ball in the middle of this ner. ](https://lh5.googleusercontent.com/wgEdwk7_Eg1MbhZzhfk0FUYr9cMutXggtGkB-C0WH0BoKcgS1QVzrnz1BFWoiYRtDSVlGeU8Xlpb5r7NkHc5zs9c3EWpHstaAVv5pUPtIgYUu9SfwxhIq5LXGstG2VuCZuZdnwkN1G6Tp1EWsl8NL7Y "Web of strings activity")
 
 In an intergenerational coding workshop, kids may unintentionally want to speed up the process, take control of the computer and not give equal opportunities to the adult participants to contribute. This icebreaker activity is particularly helpful to remind all participants this is a collaborative process and unless we all work together and support each other, we won’t be able to succeed. You can access a full description of this activity here: <https://guide.inclusivedesign.ca/activities/web-of-strings/> 
 
@@ -144,138 +131,104 @@ In an intergenerational coding workshop, kids may unintentionally want to speed 
 
 Engage participants in recapping different parts of Weavly. Have Weavly coding environment on a large screen and point to different sections and ask participants what they are for. Offer support if they need help:
 
-
-
-Script: 
-
-* How do you change Weavly’s contrast? 
-* How do you change the character and the background?
-* How do you change your character’s starting position?
-* Where do you go to play your program?
-* How do you delete your entire program?
-* How do you edit one single action block in your program?
-
-
+> * How do you change Weavly’s contrast? 
+> * How do you change the character and the background?
+> * How do you change your character’s starting position?
+> * Where do you go to play your program?
+> * How do you delete your entire program?
+> * How do you edit one single action block in your program?
 
 #### Weavly’s new features (10 minutes)
 
 ##### Loop
 
-![](https://lh6.googleusercontent.com/0l0E8WeyTCWzkcH1z7RcaDlKqfkTq4UnTPqlcOGsftWkhEwCTBLAFXKNCcRpR-vmfSE6oJEDNWyF4lMXV-LnqI5H_9cnyp7TVn-YAvE5a81CsZ8rX8bkFm-7BrLeuTUHJiB-EBeqrUYyuRZtdzu5QTg)
+![Demonstrating the loop feature on Weavly ](https://lh6.googleusercontent.com/0l0E8WeyTCWzkcH1z7RcaDlKqfkTq4UnTPqlcOGsftWkhEwCTBLAFXKNCcRpR-vmfSE6oJEDNWyF4lMXV-LnqI5H_9cnyp7TVn-YAvE5a81CsZ8rX8bkFm-7BrLeuTUHJiB-EBeqrUYyuRZtdzu5QTg "Weavly Loop Feature")
 
-In the last workshop, participants learned about the available movement blocks. Today, you can show them the “Loop” control and explain how it is used to repeat specific parts of their program in Weavly. The action blocks within a loop become the unit to be repeated when played. Participants can specify how many times they want a loop to be repeated. With loops. They can also create loops within other loops that are called ‘Nested loops’ in programming. With nested loops, learners can create even more complex geometric shapes in Weavly using fewer steps.
-
-
+In the last workshop, participants learned about the available movement blocks. Today, you can show them the “Loop” control and explain how it is used to repeat specific parts of their program in Weavly. The action blocks within a loop become the unit to be repeated when played. Participants can also create loops within other loops that are called ‘Nested loops’ in programming. With nested loops, learners can create more complex geometric shapes in Weavly using fewer steps.
 
 A Loop in Weavly consists of three main parts: Loop start block, Loop End Block, and the Loop content. Each loop has a label made of a combination of alphabet letters that is indicated on both its start and end blocks. On the loop start block, there is the loop counter where learners can enter the number of times they want the loop content to be repeated. 
 
-
-
 Deleting either the loop start or end block will delete both ends of the loop but it does not delete the loop content. If the learner moves the loop's start or end blocks in their program, the entire loop, including the content, will move in the sequence.
 
-
-
-Script:
-
-Sometimes you want your character to do the same thing multiple times. You can do this by adding each of those action blocks to your program one by one, which makes your program very long and repetitive. You can also use loops. With loops, you can select a part of your program and tell your character how many times to repeat that part. Let’s try building a square. First we will do it without loops and then we will use loops. 
+> Sometimes you want your character to do the samething multiple times. You can do this by adding each of those action blocks to your program one by one, which makes your program very long and repetitive. You can also use loops. With loops, you can select a part of your program and tell your character how many times to repeat that part. Let’s try building a square. First we will do it without loops and then we will use loops. 
 
 Ask participants to only use their movement blocks to build a program for drawing a square. When they are done, work with each group to identify the repeated pattern in their program. 
 
-Script: 
-
-Do you notice a pattern in this program? Which action blocks are being repeated? How many times are they repeated?
+> Do you notice a pattern in this program? Which action blocks are being repeated? How many times are they repeated?
 
 Depending on their character starting position, the repeated section of their program is possibly “Move Forward, Turn Left 90 degrees”, or “Move Forward, Turn Right 90 degrees”. Now you can ask them to delete their entire program and use Loops to draw a square. 
 
-Script: 
-
-Each side of the square has the same set of action blocks. Let's delete your program and start from scratch. This time we will use a loop to create a square. With loops, you just need to create one side of your square and then repeat it 4 times to get a square.
-
-
+> Each side of the square has the same set of action blocks. Let's delete your program and start from scratch. This time we will use a loop to create a square. With loops, you just need to create one side of your square and then repeat it 4 times to get a square.
 
 #### Coding Challenges (30 minutes)
 
-![](https://lh4.googleusercontent.com/NaFbNuxY90GswCgyLWsj6AIRvlbN0EeqU7z5a7ksO44h7IRE3YIlOM00arokyndWM_OUbH6IRxQb7tkAYzu11pV9u-as36Gyksqx8ZedPq45BMCHBiqpW5M4YnZ-lilOsns2a7Whsf-zdKYwZYfSTpc)
+![several adults and kids are working on their laptops to create a program in Weavly. ](https://lh4.googleusercontent.com/NaFbNuxY90GswCgyLWsj6AIRvlbN0EeqU7z5a7ksO44h7IRE3YIlOM00arokyndWM_OUbH6IRxQb7tkAYzu11pV9u-as36Gyksqx8ZedPq45BMCHBiqpW5M4YnZ-lilOsns2a7Whsf-zdKYwZYfSTpc "Coding challenges")
 
 You can complete the following 2 challenges in this session. Spend time with each group to support them in building their programs. 
 
 ##### Saving the squirrel 
 
-* Select the scene background selector button
-* Select the “Camping Trip” background. 
+* Select the scene background selector button to choose the “Camping Trip” background 
 * Delete any previous programs they have built
 * Select the Refresh button to clean up their scene
 * Change the character starting position to A2
-* Build a program to help the squirrel get to the ladder, climb down and go inside the tent. 
-* Remind them to refresh their scene after every time they play their program, otherwise the squirrel will start from its last destination. 
+* Build a program to help the squirrel get to the ladder, climb down and go inside the tent
+* Remind them to refresh their scene after every time they play their program, otherwise the squirrel will start from its last destination 
 
 ##### Visiting Eiffel Tower
 
-* Select the scene background selector button
-* Select the “Landmarks” background.
+* Select the scene background selector button to choose the “Landmarks” background
 * Delete any previous programs they have built
 * Select the Refresh button to clean up their scene
 * Change the character’s starting position to A1 to go on a plane
-* Build a program to take their character to the Eiffel Tower without moving over any other landmarks. 
-* Remind them to refresh their scene after every time they play their program, otherwise the squirrel will start from its last destination. 
-
-
+* Build a program to take their character to the Eiffel Tower without moving over any other landmarks 
+* Remind them to refresh their scene after every time they play their program, otherwise their character will start from its last destination 
 
 ### Workshop 3 to 5
 
-In the first two sessions, participants had a chance to learn about Weavly and practice it in a few different activities. In any workshop after those introductory sessions, the focus will be lifted from the coding aspects and moved to storytelling. In these workshops, Weavly will be used as a tool to spark storytelling between team members. 
+In the first two sessions, participants had a chance to learn about Weavly and practice it in a few different activities. In any workshop after those introductory sessions, the focus will be lifted from the coding aspects and moved to storytelling. In these workshops, Weavly will be used as a tool to spark storytelling between team members. Start each session by a round of introductions and re-stating the goals: 
 
-
-
-Start each session by a round of introductions and re-stating the goals: 
-
-Script:
-
-Now that you have learned more about Weavly, we are going to focus on using it as a way to tell our stories and share our life experiences with each other. We will be here to help you complete different activities.
-
-
+> Now that you have learned more about Weavly, we are going to focus on using it as a way to tell our stories and share our life experiences with each other. We will be here to help you complete different activities.
 
 Here is the list of available intergenerational coding activities you can mix and match for each session. Depending on your participants, you can decide how many activities you would like to try in a session. You can focus on one activity to give people more time and space to share stories. If your participants are more engaged and comfortable with Weavly, you can try up to 3 activities in a session to offer more opportunities for storytelling. 
 
 #### What’s for dinner?
 
-![](https://lh5.googleusercontent.com/GhrAiEBXAckRrKK-dp3dS5cdaYiUr2pEjQX-c-a_GFv1SNndxRRzM8IlrcVof9KeCwMMgNX1NI0QL1puUzGuhhnepuoYpwypw77zc3mNuo3RFHvUqjRnZoeVPkLBZuO_BYaBrsQho5_gzpMehlnplvY)
+![Grocery store background in Weavly](https://lh5.googleusercontent.com/GhrAiEBXAckRrKK-dp3dS5cdaYiUr2pEjQX-c-a_GFv1SNndxRRzM8IlrcVof9KeCwMMgNX1NI0QL1puUzGuhhnepuoYpwypw77zc3mNuo3RFHvUqjRnZoeVPkLBZuO_BYaBrsQho5_gzpMehlnplvY "What's for dinner?")
 
-
-
-Please check out the activity link for detailed instructions: [Activity](https://docs.google.com/document/d/1nJm_S2lMCjCNz9R7uA_JhtYcYFLY_6NLEXnQza3uV1A/edit?usp=sharing)
+Please check out the activity link for detailed instructions: [What's for dinner?](https://weavly.org/learn/activities/what-s-for-dinner/)
 
 In this activity, participants start by sharing stories and life experiences about food. They can talk about the food they like and the ones they dislike. Then, pairs can agree upon a meal and create a program to collect their required ingredients from the store. They can also move around the store and once their character lands on an item, share a special memory related to it. 
 
 #### Game on!
 
-![](https://lh3.googleusercontent.com/7yiUB4qXeeD9oImQrdNfA1RuzdCEegUz4Qb7s22KItpHS4pPwq1eExM3S3t-XUsYLDLkS6MzgTw2S8I2-AjADCTJnnWIdf0UBx5ZupQY0lmZ3G6T60rJ4VuHpOwYBO__CaIKK8e0aESESMUcXsB9Hdw)
+![Sports background in Weavly](https://lh3.googleusercontent.com/7yiUB4qXeeD9oImQrdNfA1RuzdCEegUz4Qb7s22KItpHS4pPwq1eExM3S3t-XUsYLDLkS6MzgTw2S8I2-AjADCTJnnWIdf0UBx5ZupQY0lmZ3G6T60rJ4VuHpOwYBO__CaIKK8e0aESESMUcXsB9Hdw "Game on!")
 
-Please check out the activity link for detailed instructions: [Activity](https://docs.google.com/document/d/1JrpMKNbPBF_MArguJyGaaPO9pBNtjyRSmQwWQ9kdabM/edit)
+Please check out the activity link for detailed instructions: [](https://docs.google.com/document/d/1JrpMKNbPBF_MArguJyGaaPO9pBNtjyRSmQwWQ9kdabM/edit)[Game on!](https://weavly.org/learn/activities/game-on/)
 
 In this activity, participants start to talk about the sports they have liked and played at different stages of their lives. Then, they can create a program to take their character to a special sport’s icon. Once their character is on a sport’s icon, each partner can share something related to that sport. 
 
 #### What’s your favorite ride?
 
-Please check out the activity link for detailed instructions: [Activity](https://docs.google.com/document/d/16HefvorufU1JCCjJOjm1UCA6xf0OBgR1VvakPGDJMjg/edit) 
+Please check out the activity link for detailed instructions: [](https://docs.google.com/document/d/16HefvorufU1JCCjJOjm1UCA6xf0OBgR1VvakPGDJMjg/edit)[What's your favorite ride?](https://weavly.org/learn/activities/what-s-your-favourite-ride/)
 
 In this activity, participants will share stories about amusement parks, how these parks have changed over time, the rides that make them feel sick, and the rides they enjoy most. Then, they can work together to create a path to take their character to their favorite rides and places across this park. Participants are encouraged to share a particular memory/story once they get to a ride or place in this park. 
 
 #### Adventures on the stormy sea
 
-![](https://lh4.googleusercontent.com/8jw7yn0FLr-pd7WzwJxu3IHPxTG_rB2et7Ip3VDt_hgy53_aBE2JsnepU4TU12px2hYDla-19kKhwXquIrG1uLG_PIPaaU9nq1WgeGZcjaiGaqYdcCMpv1VCdUMINuLJq1Cgergf3N7fJYGZ5iZbCCU)
+![Atlantic Canada background on Weavly](https://lh4.googleusercontent.com/8jw7yn0FLr-pd7WzwJxu3IHPxTG_rB2et7Ip3VDt_hgy53_aBE2JsnepU4TU12px2hYDla-19kKhwXquIrG1uLG_PIPaaU9nq1WgeGZcjaiGaqYdcCMpv1VCdUMINuLJq1Cgergf3N7fJYGZ5iZbCCU "Adventures on the stormy sea")
 
-Please check out the activity link for detailed instructions: [Activity](https://docs.google.com/document/d/14NmuCTRDuE07uUDc8G4mV3vD62EfdY2Lvwj3aLnWmIs/edit?usp=sharing)
+Please check out the activity link for detailed instructions: [](https://docs.google.com/document/d/14NmuCTRDuE07uUDc8G4mV3vD62EfdY2Lvwj3aLnWmIs/edit?usp=sharing)[Adventures on the stormy sea](https://weavly.org/learn/activities/adventures-on-the-stormy-sea/)
 
 In this activity, participants are taken to a world that may not be familiar to them or they may not have first hand experience with. They can begin talking about whether they have visited anywhere like this place before, or if they have ever seen whales, icebergs, lighthouses and a fish processing plant up close. If they have, they are encouraged to talk about the details of their experience and share when and where that happened. Then, partners can create a program to take their fishing boat to catch some cod fish and take them to the fish processing plant. On their path they should avoid hitting the icebergs, the whale, stormy waters and the village shores.  
 
-#### Let’s go to Europe 
+#### Let’s go to Europe! 
 
-![](https://lh6.googleusercontent.com/x7LoiK8oSS875j9TOV5r92Q-_dcB_7eKmy_3nDBnYMawsUc_1Q_y64JRqKdIxre2JfF0nH4hWXimcHPjLPQu2Ocitqx8DSuU-I1UIfW3qFpczm7-g1J_nw7q8wChXFi9UB_WJuIAfBdV4Glcjz3XS6I)
+![Europe trip background on Weavly](https://lh6.googleusercontent.com/x7LoiK8oSS875j9TOV5r92Q-_dcB_7eKmy_3nDBnYMawsUc_1Q_y64JRqKdIxre2JfF0nH4hWXimcHPjLPQu2Ocitqx8DSuU-I1UIfW3qFpczm7-g1J_nw7q8wChXFi9UB_WJuIAfBdV4Glcjz3XS6I "Let's go to Europe!")
 
-Please check out the activity link for detailed instructions: [Activity](https://docs.google.com/document/d/1hMINe9229QKpbBoK_SR27vrFnN-UFgaJQcAM8_svCkU/edit?usp=sharing)
+Please check out the activity link for detailed instructions: [](https://docs.google.com/document/d/1hMINe9229QKpbBoK_SR27vrFnN-UFgaJQcAM8_svCkU/edit?usp=sharing)[Let's go to Europe!](https://weavly.org/learn/activities/let-s-go-to-europe/)
 
-In this activity, participants begin sharing memories or stories about traveling to Europe. They can talk about which countries and cities they have visited and what they have liked most about them. If they have never been to Europe, they can share which countries they would like to visit in the future and why. Then, they can work together to build a program to take their character to places in europe. Once they land on a country, they can talk about what they’d like to do there. 
+In this activity, participants begin sharing memories or stories about travelling to Europe. They can talk about which countries and cities they have visited and what they have liked most about them. If they have never been to Europe, they can share which countries they would like to visit in the future and why. Then, they can work together to build a program to take their character to different places in Europe. Once they land on a country, they can talk about what they’d like to do there. 
 
 ### Final notes
 
