@@ -68,11 +68,9 @@ Give all participants a chance to share their names, their grades, and what thei
 
 Before you get started, ask participants what they think coding is. Then try to provide a few examples. 
 
-> We use coding to talk to computers. We have to give them clear and step by step instructions to make sure they do exactly what we want. There are many different kinds of computers around us. And we give them instructions every day. 
->
-> Think about microwaves. You can use different options to adjust time and intensity on a microwave to make it heat up your food the way you want it. Then, once you press the start button, it follows your instructions and heats up your food exactly the way you want it.
->
-> Think about elevators. Once you are in an elevator, you select your floor. You can also tell it to close the doors quickly or keep them open longer. Then the elevator follows your instructions, closes the doors and takes you to the floor you have selected.
+> * We use coding to talk to computers. We have to give them clear and step by step instructions to make sure they do exactly what we want. There are many different kinds of computers around us. And we give them instructions every day. 
+> * Think about microwaves. You can use different options to adjust time and intensity on a microwave to make it heat up your food the way you want it. Then, once you press the start button, it follows your instructions and heats up your food exactly the way you want it.
+> * Think about elevators. Once you are in an elevator, you select your floor. You can also tell it to close the doors quickly or keep them open longer. Then the elevator follows your instructions, closes the doors and takes you to the floor you have selected.
 
 Ask participants to think about a few more examples.
 
