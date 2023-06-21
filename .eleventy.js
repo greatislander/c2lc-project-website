@@ -69,7 +69,7 @@ module.exports = function (config) {
 
     config.addCollection("resources", collection => {
         return [
-            ...collection.getFilteredByGlob("./src/resources/*.md").filter(liveResources)
+            ...collection.getFilteredByGlob("./src/resources/*.md").filter(liveResources).reverse()
         ];
     });
 
