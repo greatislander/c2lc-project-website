@@ -2,6 +2,7 @@
 title: Weavly for Keyboard Users
 date: 2022-01-25T19:24:05.146Z
 author: Weavly team
+type: Getting Started
 description: This guide provides more information about how to navigate and use
   the Weavly coding environment with a keyboard.
 metaImage: /assets/media/alternate-keyboard.jpg

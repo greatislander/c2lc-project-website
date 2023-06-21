@@ -2,6 +2,7 @@
 title: Introduction to Accessible Coding
 date: 2020-06-22
 author: Weavly Team
+type: Getting Started
 description: Coding education is becoming an increasingly common and important
   part of the curriculum in elementary schools around the world. However, coding
   education is not accessible to many kids.

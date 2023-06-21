@@ -2,6 +2,7 @@
 title: Facilitating a Weavly Coding Workshop (Beginners)
 date: 2022-02-09T15:21:04.641Z
 author: Weavly team
+type: Facilitation
 description: This facilitation guide will provide scripts and guidelines for
   anyone who wants to use the Weavly coding environment to run a coding
   workshop.

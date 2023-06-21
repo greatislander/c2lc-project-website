@@ -2,8 +2,9 @@
 title: Weavly for Learners with Low Vision
 date: 2022-01-25T20:28:43.535Z
 author: Weavly team
+type: Getting Started
 description: "This guide will provide more information about how learners with
-  low vision can navigate and use Weavly.  "
+  low vision can navigate and use Weavly."
 metaImage: /assets/media/magnifier.jpg
 metaImageAlt: "A student using a on screen magnifier to access the computer. "
 ---

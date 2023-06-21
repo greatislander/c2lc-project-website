@@ -2,6 +2,7 @@
 title: Examining Coding Applications for Accessibility
 date: 2021-02-23T18:28:01.926Z
 author: Weavly Team
+type: Getting Started
 description: "Review this framework intended to support educators as they
   explore and consider appropriate activities for coding instruction with their
   learners who experience learning challenges. "

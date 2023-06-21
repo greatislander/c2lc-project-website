@@ -2,6 +2,7 @@
 title: Facilitating a Weavly coding workshop (Advanced users)
 date: 2022-03-08T19:57:22.730Z
 author: Weavly team
+type: Facilitation
 description: "This facilitation guide will provide scripts and guidelines to run
   a coding workshop with learners who have previous experience with Weavly and
   block-based coding environments. "

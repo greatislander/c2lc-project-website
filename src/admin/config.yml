@@ -237,6 +237,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", timeFormat: false}
       - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Resource Type", name: "type", widget: "relation", collection: "siteData", file: "resourceTags", value_field: types.*, display_fields: [types.*], search_fields: [types.*]}
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
       - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
@@ -388,3 +389,8 @@ collections:
         file: "src/_data/projectTags.json"
         fields:
           - {label: "Categories", name: "categories", widget: "list"}
+      - label: Resource Tags
+        name: resourceTags
+        file: "src/_data/resourceTags.json"
+        fields:
+          - {label: "Resource Types", name: "types", widget: "list"}

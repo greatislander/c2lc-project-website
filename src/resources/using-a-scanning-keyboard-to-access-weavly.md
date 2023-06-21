@@ -2,6 +2,7 @@
 title: Using a Scanning Keyboard to Access Weavly
 date: 2022-06-20T14:01:54.294Z
 author: Weavly team
+type: Getting Started
 description: "This guide will provide more information about how learners who
   use a scanning keyboard such as Grid 3 can access Weavly and use it. "
 metaImage: /assets/media/switches.jpg

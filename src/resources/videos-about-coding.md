@@ -2,6 +2,7 @@
 title: Coding Videos for Kids
 date: 2021-02-23T16:57:43.855Z
 author: Weavly Team
+type: Collections
 description: A collection of Youtube videos about coding
 ---
 Here is a collection of Youtube videos that our team has put together to assist learners in their coding education journey. These fun and engaging videos help learners to better understand some of the abstract concepts of coding.

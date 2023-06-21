@@ -2,6 +2,7 @@
 title: Annual Conferences
 date: 2021-02-23T15:55:34.708Z
 author: Weavly Team
+type: Collections
 description: Discover a list of annual conferences focused on education and
   technology for all learners.
 metaImage: /assets/media/img_0342.jpg

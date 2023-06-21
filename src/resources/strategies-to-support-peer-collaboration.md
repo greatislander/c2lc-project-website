@@ -2,6 +2,7 @@
 title: Strategies to Support Peer Collaboration
 date: 2021-02-23T18:06:14.292Z
 author: Weavly Team
+type: Facilitation
 description: Find activities that involve learning to code and coding to learn
   and create offers opportunities to develop important teamwork skills that
   prepare learners for further learning, work, and life.

@@ -2,6 +2,7 @@
 title: Picture Book List
 date: 2021-02-23T17:08:27.987Z
 author: Weavly Team
+type: Collections
 description: Discover a collection of picture books that include coding
   vocabulary and concepts or depict experiences, activities, and adventures to
   which coding concepts could be applied.
