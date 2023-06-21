@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://www.github.com/codelearncreate/weavly.org/compare/v1.2.0...v1.3.0) (2023-06-21)
+
+
+### Features
+
+* display resources in reverse chronological order ([#806](https://www.github.com/codelearncreate/weavly.org/issues/806)) ([20132fe](https://www.github.com/codelearncreate/weavly.org/commit/20132feac1e7600908ed735bfa698cf49a7caa0c))
+
 ## [1.2.0](https://www.github.com/codelearncreate/weavly.org/compare/v1.1.0...v1.2.0) (2022-06-21)
 
 
