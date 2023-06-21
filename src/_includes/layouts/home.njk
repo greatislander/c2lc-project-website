@@ -15,14 +15,15 @@
     <div class="[ switcher ]">
         <div>
           {% for card in createSection.cards %}
-            <div class="[ card card--small card--yellow-75 ]">
+            {% set isYouTube = card.link.includes('youtube') or card.link.includes('youtu.be') %}
+            <div class="[ card card--small card--yellow-75 {% if isYouTube %}card--video {% endif %}]">
                   {% if card.image %}
                 <figure class="[ card__image ]">
                   {% image card.image, "", 666, 480 %}
                 </figure>
                 {% endif %}
                 <div class="[ card__content ] [ flow center ]">
-                    <h3><a class="[ card__link ]" href="{{ card.link }}">{{ card.title }}</a></h3>
+                    <h3><a class="[ card__link ]{% if isYouTube %} [ video-card-link ]{% endif %}" href="{{ card.link }}"{% if isYouTube %} data-id="{{ card.link | getYouTubeId }}"{% endif %}>{% if isYouTube %}{% include "svg/play.svg" %}{% endif %}{{ card.title }}</a></h3>
                 </div>
             </div>
           {% endfor %}

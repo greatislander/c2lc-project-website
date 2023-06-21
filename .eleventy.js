@@ -21,6 +21,7 @@ const gridShortcode = require("./src/shortcodes/grid.js");
 const gridImageShortcode = require("./src/shortcodes/grid-image.js");
 const gridVideoShortcode = require("./src/shortcodes/grid-video.js");
 const imageShortcode = require("./src/shortcodes/image.js");
+const getYouTubeIdFilter = require("./src/utils/extract-youtube-id.js");
 
 // Import transforms
 const htmlMinTransform = require("./src/transforms/html-min-transform.js");
@@ -151,6 +152,7 @@ module.exports = function (config) {
     </svg>`;
     });
 
+    config.addFilter("getYouTubeId", getYouTubeIdFilter);
     config.addShortcode("image", imageShortcode);
     config.addPairedShortcode("gridImage", gridImageShortcode);
     config.addPairedShortcode("gridVideo", gridVideoShortcode);

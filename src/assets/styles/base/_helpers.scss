@@ -39,14 +39,28 @@
     position: relative;
     width: auto;
 
+    &:hover {
+        box-shadow: 0 0 0 var(--space-xs) var(--fl-linkColor, var(--fl-fgColor, var(--color-red-45)));
+    }
+
+    &:focus {
+        box-shadow: 0 0 0 var(--space-xs) var(--fl-linkColor, var(--fl-fgColor, var(--color-red-45)));
+        outline: none;
+    }
+
+    .resource & {
+        border-radius: var(--radius-md);
+        max-width: calc(320 / 16 * 1rem);
+    }
+}
+
+.linked-video,
+.card--video {
     .play-button {
         border-radius: 50%;
         box-shadow: 0 1rem 0 0 var(--fl-fgColor, var(--color-red-65));
         height: auto;
-        left: calc(50% - 132px / 2);
         position: absolute;
-        top: calc(50% - 132px / 2);
-        width: 132px;
         z-index: 1;
 
         .bg {
@@ -59,8 +73,6 @@
     }
 
     &:hover {
-        box-shadow: 0 0 0 var(--space-xs) var(--fl-linkColor, var(--fl-fgColor, var(--color-red-45)));
-
         .play-button {
             box-shadow: 0 1rem 0 0 var(--fl-fgColor, var(--color-red-45));
 
@@ -71,9 +83,6 @@
     }
 
     &:focus {
-        box-shadow: 0 0 0 var(--space-xs) var(--fl-linkColor, var(--fl-fgColor, var(--color-red-45)));
-        outline: none;
-
         .play-button {
             box-shadow: 0 1rem 0 0 var(--fl-fgColor, var(--color-red-45));
 
@@ -86,13 +95,44 @@
     &:active {
         .play-button {
             box-shadow: 0 12px 0 0 var(--fl-fgColor, var(--color-red-45));
+        }
+    }
+}
+
+.linked-video {
+    .play-button {
+        left: calc(50% - 132px / 2);
+        top: calc(50% - 132px / 2);
+        width: 132px;
+    }
+
+    &:active {
+        .play-button {
             top: calc(50% - 62px);
         }
     }
+}
 
-    .resource & {
-        border-radius: var(--radius-md);
-        max-width: calc(320 / 16 * 1rem);
+.card--video {
+    .play-button {
+        box-shadow: 0 0.5rem 0 0 var(--fl-fgColor, var(--color-red-45));
+        left: calc(50% - 64px / 2);
+        top: calc(35% - 64px / 2);
+        width: 64px;
+    }
+
+    &:hover,
+    &:focus {
+        .play-button {
+            box-shadow: 0 0.5rem 0 0 var(--fl-fgColor, var(--color-red-45));
+        }
+    }
+
+    &:active {
+        .play-button {
+            box-shadow: 0 6px 0 0 var(--fl-fgColor, var(--color-red-45));
+            top: calc(35% - 30px);
+        }
     }
 }
 
