@@ -57,6 +57,12 @@ class VideoOverlay {
         this.closeButton.onclick = () => {
             this.dismissOverlay();
         };
+
+        document.onclick = (event) => {
+            if (!this.overlay.contains(event.target) && !this.link.contains(event.target)) {
+                this.dismissOverlay();
+            }
+        };
     }
 
     dismissOverlay() {
