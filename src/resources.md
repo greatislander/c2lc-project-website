@@ -7,10 +7,9 @@ eleventyNavigation:
   parent: Learn
   key: Accessible Coding Resources
   order: 1
-permalink: /learn/resources/{% if pagination.pageNumber > 0 %}page/{{
-  pagination.pageNumber + 1 }}/{% endif %}
-pagination:
-  data: collections.resources
-  size: 10
-  alias: resources
+permalink: /learn/resources/
+# pagination:
+#   data: collections.resources
+#   size: 10
+#   alias: resources
 ---

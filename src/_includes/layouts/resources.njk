@@ -3,31 +3,50 @@
 {% set bodyClass = "resources" %}
 
 {% block content %}
-{% if resources.length %}
+{% if collections.resources.length %}
 <div class="[ wrapper ]">
-  <div class="[ flow ] [ flow-md ]">
-      {% for item in resources %}
-      <article class="[ resource ] [ two:three ]">
-          <div class="[ two:three__two ]">
-              {% if item.data.metaImage %}
-              {% image item.data.metaImage, item.data.metaImageAlt, "570", "380" %}
-              {% else %}
-              {% image "/assets/media/design-activity_hua7f35ba46080e3314a834735ed95f389_2828843_1000x0_resize_q75_box.jpg", "", "570", "380" %}
-              {% endif %}
-          </div>
-          <div class="[ two:three__three ] [ flow ]">
-              <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
-              <p class="metadata">{% if item.data.author %}By <span class="[ author ]">{{ item.data.author }}</span> / {% endif %}Posted <time datetime="{{ item.data.date | isoDate }}" class="[ dt-published ]">{{ item.data.date | formatDate }}</time></p>
-              {% if item.data.description %}
-              <p>{{ item.data.description | safe }}</p>
-              {% endif %}
-          </div>
-      </article>
-      {% endfor %}
-  </div>
-  {% if pagination.pages.length > 1 %}
-  {% include "partials/components/pagination.njk" %}
-  {% endif %}
+    <div id="resources">
+        <div class="[ flow-lg ]">
+            <filter-container class="[ filter ] [ flow ]" oninit>
+                <h2 class="[ h3 ]">Filter Resources</h2>
+                <form class="[ filters ]">
+                    <label class="[ label ]" for="type">
+                        Type:
+                        <select class="[ select ]" name="type" id="type" data-filter-key="type">
+                            <option value="">Any Type</option>
+                            {% for type in resourceTags.types %}
+                            <option value="{{ type }}" data-slug="{{ type | slugify }}">{{ type }}</option>
+                            {% endfor %}
+                        </select>
+                    </label>
+                    {# <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button> #}
+                </form>
+                <div class="[ alert ]" role="alert" aria-live="polite">
+                    <p>Showing <strong data-filter-results="resource/resources">{{ collections.resources.length }} resources</strong>.</p>
+                </div>
+                <div class="[ flow ] [ flow-md ]">
+                    {% for item in collections.resources %}
+                    <article class="[ resource ] [ two:three ]" data-filter-type="{{ item.data.type }}">
+                        <div class="[ two:three__two ]">
+                            {% if item.data.metaImage %}
+                            {% image item.data.metaImage, item.data.metaImageAlt, "570", "380" %}
+                            {% else %}
+                            {% image "/assets/media/design-activity_hua7f35ba46080e3314a834735ed95f389_2828843_1000x0_resize_q75_box.jpg", "", "570", "380" %}
+                            {% endif %}
+                        </div>
+                        <div class="[ two:three__three ] [ flow ]">
+                            <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+                            <p class="metadata">{% if item.data.author %}By <span class="[ author ]">{{ item.data.author }}</span> / {% endif %}Posted <time datetime="{{ item.data.date | isoDate }}" class="[ dt-published ]">{{ item.data.date | formatDate }}</time></p>
+                            {% if item.data.description %}
+                            <p>{{ item.data.description | safe }}</p>
+                            {% endif %}
+                        </div>
+                    </article>
+                    {% endfor %}
+                </div>
+            </filter-container>
+        </div>
+    </div>
 </div>
 {% endif %}
 {% endblock %}
