@@ -53,7 +53,7 @@
                         <li><a data-page="{{ i + 1 }}" href="{{ page.url }}?page={{ i + 1 }}"{% if i === 0 %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
                         {%- endfor %}
                         <li><a rel="next" href="{{ page.url }}?page=2"><span class="[ visually-hidden ]">next</span><span aria-hidden="true">&rarr;</span></a></li>
-                        <template id="pagination-link">
+                        <template data-pagination-link>
                             <li><a data-page href=""></a></li>
                         </template>
                     </ul>
