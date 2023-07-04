@@ -1,0 +1,73 @@
+{% extends "layouts/page.njk" %}
+
+{% block content %}
+<div class="[ bg bg--yellow-85 ]">
+  <svg class="[ wave wave--top ]" viewBox="0 0 1437 52" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M612.315 52C400.697 52 111.495 20.667-4 0h1440.92c-81.96 0-560.084 52-824.605 52z" fill="var(--color-orange-75)" /></svg>
+  <div class="[ wrapper ]">
+    <div class="[ two:three ]">
+        <div class="[ two:three__two ] [ flow ]">
+            <h2 class="h3">{{ aboutSection.title }}</h2>
+            {{ aboutSection.content | markdown | safe }}
+        </div>
+        <div class="[ two:three__three ] ">
+          <a class="[ linked-video ]" data-id="6tdjStCo3oM" rel="external" href="https://www.youtube.com/watch?v=6tdjStCo3oM">
+          {% include "svg/play.svg" %}
+          <span class="visually-hidden">Check out our accessible coding prototype</span>
+          {% image aboutSection.image, aboutSection.imageAlt, 640, 520 %}
+          </a>
+        </div>
+    </div>
+  </div>
+</div>
+<div>
+  <div class="[ wrapper ]">
+    <div class="[ flow ]">
+      <h2 class="[ center ]">{{ outcomesSection.title }}</h2>
+      {{ outcomesSection.intro | markdown | safe }}
+    </div>
+    <div class="[ switcher ]">
+        <div>
+          {% for card in outcomesSection.cards %}
+            <div class="[ card card--small ]">
+                <div class="[ card__content ] [ flow ]">
+                    <h3><a class="[ card__link ]" href="{{ card.link }}">{{ card.title }}</a></h3>
+                </div>
+            </div>
+          {% endfor %}
+        </div>
+    </div>
+  </div>
+</div>
+<div class="[ bg bg--green-85 ]">
+  <div class="[ wrapper ]">
+    <div class="[ center flow ]">
+      <h2>{{ whoSection.title }}</h2>
+      {{ whoSection.intro | markdown | safe }}
+    </div>
+  </div>
+</div>
+<div class="[ bg ]">
+  <div class="[ wrapper ]">
+    <div class="[ switcher ]">
+      <div>
+        {% for partner in whoSection.partners %}
+        <div class="[ flow ]">
+          <h3>{{ partner.name }}{% if partner.acronym %} ({{ partner.acronym }}){% endif %}</h3>
+          {{ partner.content | markdown | safe }}
+          <p><a rel="external" href="{{ partner.link }}">Visit {{ partner.acronym if partner.acronym else partner.name }} website</a></p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <svg class="[ wave wave--bottom ]" viewBox="0 0 1437 52" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M824.685 0C1036.3 0 1325.5 31.333 1441 52H.078C82.042 52 560.164 0 824.685 0z" fill="var(--color-red-75)"/></svg>
+</div>
+<div class="[ bg bg--red-75 ]">
+  <div class="[ wrapper ]">
+    <div class="[ center flow ]">
+      <h2><a rel="external" href="{{ connectSection.titleLink }}">{{ connectSection.title }}</a></h2>
+      {{ connectSection.content | markdown | safe }}
+    </div>
+  </div>
+</div>
+{% endblock%}
