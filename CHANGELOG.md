@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/codelearncreate/weavly.org/compare/v1.2.0...v1.3.0) (2023-07-04)
+
+
+### Features
+
+* add resource types and related CMS configuration ([#810](https://github.com/codelearncreate/weavly.org/issues/810)) ([7b48105](https://github.com/codelearncreate/weavly.org/commit/7b4810580d1fd40cefb8d29c5510d2399590939c))
+* allow resources to be filtered by type ([#815](https://github.com/codelearncreate/weavly.org/issues/815)) ([96518eb](https://github.com/codelearncreate/weavly.org/commit/96518eb0c2a54f1fb040e9f789b43d8278f25cd2))
+* create overlay video players for small YouTube links on homepage ([#809](https://github.com/codelearncreate/weavly.org/issues/809)) ([c0deea0](https://github.com/codelearncreate/weavly.org/commit/c0deea062b48c0ff1b59f602a288059fe128390c))
+* display resources in reverse chronological order ([#806](https://github.com/codelearncreate/weavly.org/issues/806)) ([20132fe](https://github.com/codelearncreate/weavly.org/commit/20132feac1e7600908ed735bfa698cf49a7caa0c))
+
 ## [1.2.0](https://www.github.com/codelearncreate/weavly.org/compare/v1.1.0...v1.2.0) (2022-06-21)
 
 
