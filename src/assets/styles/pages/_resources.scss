@@ -2,11 +2,15 @@
 // This file contains styles that are specific to the resources page.
 // -----------------------------------------------------------------------------
 
+.no-js .resources #resources {
+    display: none;
+}
+
 .resources .resource picture img {
     border-inline-start: var(--space-lg) solid var(--color-orange-75);
 }
 
-.resources .resource + .resource {
+.resources .resource:not([class*="--hide"]) ~ .resource {
     border-block-start: var(--border-hairline) solid var(--color-black-05);
     margin-block-start: var(--space-lg);
     padding-block-start: var(--space-lg);

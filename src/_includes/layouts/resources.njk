@@ -7,7 +7,7 @@
 <div class="[ wrapper ]">
     <div id="resources">
         <div class="[ flow-lg ]">
-            <filter-container class="[ filter ] [ flow ]" oninit>
+            <filter-container class="[ filter ] [ flow ]" oninit data-paginate-results="10">
                 <h2 class="[ h3 ]">Filter Resources</h2>
                 <form class="[ filters ]">
                     <label class="[ label ]" for="type">
@@ -21,9 +21,11 @@
                     </label>
                     {# <button type="reset" class="[ button ] [ button--sm ]" id="reset">{% include "svg/reset.svg" %}Clear Filters</button> #}
                 </form>
-                <div class="[ alert ]" role="alert" aria-live="polite">
-                    <p>Showing <strong data-filter-results="resource/resources">{{ collections.resources.length }} resources</strong>.</p>
+                <div class="[ alert ]" role="alert" aria-live="polite" data-filter-results="matching resource./matching resources.">
+                    {{ collections.resources.length }} matching resources.</p>
                 </div>
+                <div class="[ visually-hidden ]" role="alert" aria-live="polite" data-pagination-results="showing page"></div>
+                
                 <div class="[ flow ] [ flow-md ]">
                     {% for item in collections.resources %}
                     <article class="[ resource ] [ two:three ]" data-filter-type="{{ item.data.type }}">
@@ -44,9 +46,46 @@
                     </article>
                     {% endfor %}
                 </div>
+                <nav class="[ pagination ]" aria-label="pagination" data-pagination-navigation>
+                    <ul role="list">
+                        <li hidden><a rel="prev"><span aria-hidden="true">&larr;</span><span class="[ visually-hidden ]">previous</span></a></li>
+                        {%- for i in range(0, collections.resources.length / 5) %}
+                        <li><a data-page="{{ i + 1 }}" href="{{ page.url }}?page={{ i + 1 }}"{% if i === 0 %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+                        {%- endfor %}
+                        <li><a rel="next" href="{{ page.url }}?page=2"><span class="[ visually-hidden ]">next</span><span aria-hidden="true">&rarr;</span></a></li>
+                        <template id="pagination-link">
+                            <li><a data-page href=""></a></li>
+                        </template>
+                    </ul>
+                </nav>
             </filter-container>
         </div>
     </div>
+    <noscript>
+      <div class="[ flow ] [ flow-md ]">
+        {% for item in resources %}
+        <article class="[ resource ] [ two:three ]">
+            <div class="[ two:three__two ]">
+                {% if item.data.metaImage %}
+                {% image item.data.metaImage, item.data.metaImageAlt, "570", "380" %}
+                {% else %}
+                {% image "/assets/media/design-activity_hua7f35ba46080e3314a834735ed95f389_2828843_1000x0_resize_q75_box.jpg", "", "570", "380" %}
+                {% endif %}
+            </div>
+            <div class="[ two:three__three ] [ flow ]">
+                <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+                <p class="metadata">{% if item.data.author %}By <span class="[ author ]">{{ item.data.author }}</span> / {% endif %}Posted <time datetime="{{ item.data.date | isoDate }}" class="[ dt-published ]">{{ item.data.date | formatDate }}</time></p>
+                {% if item.data.description %}
+                <p>{{ item.data.description | safe }}</p>
+                {% endif %}
+            </div>
+        </article>
+        {% endfor %}
+      </div>
+      {% if pagination.pages.length > 1 %}
+      {% include "partials/components/pagination.njk" %}
+      {% endif %}
+    </noscript>
 </div>
 {% endif %}
 {% endblock %}
