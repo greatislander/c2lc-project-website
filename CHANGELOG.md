@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.1](https://github.com/codelearncreate/weavly.org/compare/v1.3.0...v1.3.1) (2023-07-07)
+
+
+### Bug Fixes
+
+* resolve issue with activity filters ([050c2bb](https://github.com/codelearncreate/weavly.org/commit/050c2bb9fc9bd3cc56e5861cee27e2008e5cfbac))
+
 ## [1.3.0](https://github.com/codelearncreate/weavly.org/compare/v1.2.0...v1.3.0) (2023-07-04)
 
 
