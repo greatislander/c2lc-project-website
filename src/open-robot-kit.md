@@ -25,7 +25,7 @@ whoSection:
       link: https://idrc.ocadu.ca
     - name: Tetra TMU
       content: Tetra TMU is a student chapter under the Tetra Society of North America
-        operating at Ryerson University. We focus on bridging students and
+        operating at Toronto Metropolitan University. We focus on bridging students and
         people with disabilities to create new innovative assistive devices that
         can improve their quality of life. We strive to make our communities
         more inclusive through initiatives that consist of hands-on learning,
