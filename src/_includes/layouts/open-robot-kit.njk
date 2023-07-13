@@ -38,7 +38,15 @@
     </div>
   </div>
 </div>
-<div class="[ bg bg--green-85 ]">
+<div class="[ bg bg--purple-75 ]">
+  <div class="[ wrapper ]">
+    <div class="[ flow ]">
+      <h2 class="[ center ]">{{ nextStepsSection.title }}</h2>
+      {{ nextStepsSection.content | markdown | safe }}
+    </div>
+  </div>
+</div>
+<div class="[ bg ]">
   <div class="[ wrapper ]">
     <div class="[ center flow ]">
       <h2>{{ whoSection.title }}</h2>
@@ -46,7 +54,7 @@
     </div>
   </div>
 </div>
-<div class="[ bg ]">
+<div class="[ bg bg--green-85 ]">
   <div class="[ wrapper ]">
     <div class="[ switcher ]">
       <div>
@@ -60,9 +68,9 @@
       </div>
     </div>
   </div>
-  <svg class="[ wave wave--bottom ]" viewBox="0 0 1437 52" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M824.685 0C1036.3 0 1325.5 31.333 1441 52H.078C82.042 52 560.164 0 824.685 0z" fill="var(--color-red-75)"/></svg>
+  <svg class="[ wave wave--bottom ]" viewBox="0 0 1437 52" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M824.685 0C1036.3 0 1325.5 31.333 1441 52H.078C82.042 52 560.164 0 824.685 0z" fill="var(--color-yellow-85)"/></svg>
 </div>
-<div class="[ bg bg--red-75 ]">
+<div class="[ bg bg--yellow-85 ]">
   <div class="[ wrapper ]">
     <div class="[ center flow ]">
       <h2><a rel="external" href="{{ connectSection.titleLink }}">{{ connectSection.title }}</a></h2>

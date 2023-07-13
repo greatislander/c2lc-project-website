@@ -3,12 +3,24 @@ outcomesSection:
   title: Initial Outcomes
   intro: TODO.
   cards:
-    - title: Creating an Art Bot
-      link: https://raw.githubusercontent.com/sbates-idrc/c2lc-coding-environment/open-robot-kit/open_robot_kit/ProjectBot_Tetra/Mini%20NEW%20Design%20Team%203_%20Art%20Bot%20Manual.docx.pdf
-    - title: Robot Configurations
-      link: https://docs.google.com/spreadsheets/d/1g1x5Lx5D3IRC3cqVqaD-vcIoANQOCTycnybP3_ujOcg/edit
-    - title: Robot Parts
-      link: https://docs.google.com/spreadsheets/d/1rzzoIVxB1vWEtb6K4pBV2sTjEjv4h5f9pPbwAr1S0vM/edit
+    - title: "Team 1: Sound Bot"
+      link: "#TODO"
+    - title: "Team 2: Theatre Bot"
+      link: "#TODO"
+    - title: "Team 3: Art Bot"
+      link: "#TODO"
+nextStepsSection:
+  title: Next Steps
+  content: |
+    * We don’t have a robot that is moving reliably yet
+    * Outstanding challenges
+      * To get feedback on the rotation that the robot has made and the distance that it has moved so that we can move precisely
+        * For example, commonly available “hobby” motors vary in their performance from motor instance to motor instance, and such variation must be managed if these parts are to be used
+      * To identify parts that are
+        * Easy to get and are affordable
+        * Easy to work with
+        * Ideally offer some amount of customization (“one-size-fits-one”)
+    * Most of the work so far has been with continuous servo motors and DC motors; some exploration of stepper motors has been made, but more work is needed here to understand the feasibility of using stepper motors
 whoSection:
   title: Who We Are
   intro: The **Open Robot Kit** is a collaborative effort between the Inclusive
