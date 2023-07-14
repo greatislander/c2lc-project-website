@@ -1,14 +1,17 @@
 ---
 outcomesSection:
   title: Initial Outcomes
-  intro: TODO.
+  intro: |
+    The Tetra TMU students worked in teams to prototype designs for three robots: a Sound Bot, a Theatre Bot, and an Art Bot.
+  content: |
+    After the initial design and prototype work by Tetra TMU students, the IDRC team continued to iterate on the Tetra TMU Art Bot, focusing on a dual motor design. During these iterations, two microcontroller platforms, multiple DC motors and multiple chassis were tested.
   cards:
     - title: "Team 1: Sound Bot"
-      link: "#TODO"
+      link: /assets/media/sound-bot.pdf
     - title: "Team 2: Theatre Bot"
-      link: "#TODO"
+      link: /assets/media/theatre-bot.pdf
     - title: "Team 3: Art Bot"
-      link: "#TODO"
+      link: /assets/media/art-bot.pdf
 nextStepsSection:
   title: Next Steps
   content: |
@@ -52,9 +55,8 @@ subtitle: Off the shelf robots are often inaccessible for many learners. The Ope
 aboutSection:
   content: The Open Robot Kit has been working to create a guide for building a robot that can be used with Weavly, moving under the control of the program in Weavly and in synch with the character on the Weavly display. The robot will incorporate components that are affordable and easy to acquire, and can be built without extensive specialist knowledge or skills; for example, using just a screwdriver instead of soldering. 
   title: About
-  image: /assets/media/20122485921_8dfcf134e3_o.jpg
-  imageAlt: "Image of several kids talking. One of the kids is seated on a powered
-    wheelchair and using a single switch."
+  image: /assets/media/art-bot.jpg
+  imageAlt: "Image of a blue robot with four black wheels and a blue marker mounted on the front of the chassis. Next to it, a black laptop computer on an orange desk is running Weavly in a web browser."
 connectSection:
   title: Connect
   titleLink: mailto:idrc@ocadu.ca

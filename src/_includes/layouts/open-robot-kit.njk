@@ -20,7 +20,7 @@
   </div>
 </div>
 <div>
-  <div class="[ wrapper ]">
+  <div class="[ wrapper flow flow-lg ]">
     <div class="[ flow ]">
       <h2 class="[ center ]">{{ outcomesSection.title }}</h2>
       {{ outcomesSection.intro | markdown | safe }}
@@ -35,6 +35,9 @@
             </div>
           {% endfor %}
         </div>
+    </div>
+    <div class="[ flow ]">
+      {{ outcomesSection.content | markdown | safe }}
     </div>
   </div>
 </div>
