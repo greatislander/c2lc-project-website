@@ -8,10 +8,13 @@ outcomesSection:
   cards:
     - title: "Team 1: Sound Bot"
       link: /assets/media/sound-bot.pdf
+      download: true
     - title: "Team 2: Theatre Bot"
       link: /assets/media/theatre-bot.pdf
+      download: true
     - title: "Team 3: Art Bot"
       link: /assets/media/art-bot.pdf
+      download: true
 nextStepsSection:
   title: Next Steps
   content: |
