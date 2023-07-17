@@ -1,0 +1,5 @@
+{
+    "robot": "{{ tags[0] }}",
+    "permalink": "/learn/robots/{{ tags[0] | slugify }}/{{ title | slugify }}/",
+    "layout": "layouts/robot-activity"
+}

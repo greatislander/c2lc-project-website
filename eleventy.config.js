@@ -24,14 +24,12 @@ const imageShortcode = require("./src/shortcodes/image.js");
 const getYouTubeIdFilter = require("./src/utils/extract-youtube-id.js");
 
 // Import transforms
-const htmlMinTransform = require("./src/transforms/html-min-transform.js");
 const parseTransform = require("./src/transforms/parse-transform.js");
 
 module.exports = function (config) {
     config.setUseGitIgnore(false);
 
     // Transforms
-    config.addTransform("htmlmin", htmlMinTransform);
     config.addTransform("parse", parseTransform);
 
     // Passthrough copy
@@ -145,7 +143,11 @@ module.exports = function (config) {
     });
 
     // Plugins
-    config.addPlugin(fluidPlugin);
+    config.addPlugin(fluidPlugin, {
+        css: {
+            enabled: false
+        }
+    });
     config.addPlugin(navigationPlugin);
 
     config.addShortcode("svgPlaceholder", function (width, height) {
