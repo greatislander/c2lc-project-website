@@ -1,5 +1,5 @@
 ---
-title: " Project TACTIC"
+title: "Project TACTIC"
 type: Research
 category: Computational Thinking
 link: http://ctrl.education.illinois.edu/TACTICal.html

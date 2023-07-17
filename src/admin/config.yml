@@ -216,7 +216,70 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Title Link", name: "titleLink", widget: "string"}
           - {label: "Content", name: "content", widget: "text"}
+      - label: Open Robot Kit
+        name: open-robot-kit
+        file: "src/open-robot-kit.md"
+        editor:
+          preview: false
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Subtitle", name: "subtitle", widget: "text"}
+        - label: About Section
+          name: aboutSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "content", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
+          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
+          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
+        - label: Outcomes Section
+          name: outcomesSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+          - label: Cards
+            name: cards
+            widget: list
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Link", name: "link", widget: "string"}
+              - {label: "Download", name: "download", widget: "boolean", default: false}
+          - {label: "Content", name: "content", widget: "markdown"}
+        - label: Next Steps Section
+          name: nextStepsSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Column A", name: "columnA", widget: "markdown"}
+          - {label: "Column B", name: "columnB", widget: "markdown"}
+        - label: Who We Are Section
+          name: whoSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+          - label: Partners
+            name: partners
+            widget: list
+            fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Acronym", name: "acronym", widget: "string", required: false}
+            - {label: "Content", name: "content", widget: "text"}
+            - {label: "Link", name: "link", widget: "string"}
+            - {label: "Image", name: "image", widget: "image"}
+            - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
+        - label: Connect Section
+          name: connectSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title Link", name: "titleLink", widget: "string"}
+          - {label: "Content", name: "content", widget: "text"}
       - label: Share Learning Resources
+
         name: share-learning-resources
         file: "src/share-learning-resources.md"
         editor:

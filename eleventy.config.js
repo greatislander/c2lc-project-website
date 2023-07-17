@@ -138,7 +138,9 @@ module.exports = function (config) {
 
     config.addCollection("projects", collection => {
         return [
-            ...collection.getFilteredByGlob("./src/projects/*.md")
+            ...collection
+                .getFilteredByGlob("./src/projects/*.md")
+                .sort((a, b) => a.data.title.localeCompare(b.data.title))
         ];
     });
 
