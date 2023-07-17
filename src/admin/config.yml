@@ -248,6 +248,13 @@ collections:
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Download", name: "download", widget: "boolean", default: false}
           - {label: "Content", name: "content", widget: "markdown"}
+        - label: Next Steps Section
+          name: nextStepsSection
+          widget: object
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Column A", name: "columnA", widget: "markdown"}
+          - {label: "Column B", name: "columnB", widget: "markdown"}
         - label: Who We Are Section
           name: whoSection
           widget: object

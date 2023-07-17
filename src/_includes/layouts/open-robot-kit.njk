@@ -45,7 +45,16 @@
   <div class="[ wrapper ]">
     <div class="[ flow ]">
       <h2 class="[ center ]">{{ nextStepsSection.title }}</h2>
-      {{ nextStepsSection.content | markdown | safe }}
+      <div class="[ switcher ]">
+        <div>
+          <div>
+            {{ nextStepsSection.columnA | markdown | safe }}
+          </div>
+          <div>
+            {{ nextStepsSection.columnB | markdown | safe }}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

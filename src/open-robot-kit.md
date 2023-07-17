@@ -17,16 +17,18 @@ outcomesSection:
       download: true
 nextStepsSection:
   title: Next Steps
-  content: |
-    * We don’t have a robot that is moving reliably yet
-    * Outstanding challenges
-      * To get feedback on the rotation that the robot has made and the distance that it has moved so that we can move precisely
-        * For example, commonly available “hobby” motors vary in their performance from motor instance to motor instance, and such variation must be managed if these parts are to be used
-      * To identify parts that are
-        * Easy to get and are affordable
-        * Easy to work with
-        * Ideally offer some amount of customization (“one-size-fits-one”)
-    * Most of the work so far has been with continuous servo motors and DC motors; some exploration of stepper motors has been made, but more work is needed here to understand the feasibility of using stepper motors
+  columnA: |
+    ### We need a robot that moves reliably
+    * With the motors that we have worked with so far, we can move the robot in the general direction that we want, but it isn’t exact enough and currently causes too much confusion for students
+    * Most of the work so far has been with continuous servo motors and DC motors; we’ve started some exploration of stepper motors, but more work is needed here to understand the feasibility of using stepper motors
+  columnB: |
+    ### Outstanding challenges
+    * Getting feedback on the rotation that the robot has made and the distance that it has moved so that we can move precisely
+      * For example, commonly available “hobby” motors vary in their performance from motor instance to motor instance, and such variation must be managed if these parts are to be used
+    * Finding parts that are
+      * Easy to get and are affordable
+      * Easy to work with
+      * Ideally offer some amount of customization (“one-size-fits-one”)
 whoSection:
   title: Who We Are
   intro: The **Open Robot Kit** is a collaborative effort between the Inclusive
@@ -49,6 +51,9 @@ whoSection:
         more inclusive through initiatives that consist of hands-on learning,
         community awareness events, and skill development workshops.
       link: https://tetraryerson.ca
+    - name: Hewlett Foundation
+      content: ""
+      link: https://hewlett.org/
 layout: layouts/open-robot-kit
 permalink: /open-robot-kit/
 headerBg: orange-75
