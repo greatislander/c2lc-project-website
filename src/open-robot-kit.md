@@ -34,7 +34,7 @@ whoSection:
   intro: The **Open Robot Kit** is a collaborative effort between the Inclusive
     Design Research Centre and Tetra TMU. This project is funded by the
     Innovation, Science and Economic Development Canada’s Accessible Technology
-    Program.
+    Program and the Hewlett Foundation.
   partners:
     - name: Inclusive Design Research Centre
       acronym: IDRC
@@ -51,9 +51,6 @@ whoSection:
         more inclusive through initiatives that consist of hands-on learning,
         community awareness events, and skill development workshops.
       link: https://tetraryerson.ca
-    - name: Hewlett Foundation
-      content: ""
-      link: https://hewlett.org/
 layout: layouts/open-robot-kit
 permalink: /open-robot-kit/
 headerBg: orange-75
