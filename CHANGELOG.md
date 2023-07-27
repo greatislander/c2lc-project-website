@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.1](https://github.com/codelearncreate/weavly.org/compare/v1.4.0...v1.4.1) (2023-07-27)
+
+
+### Bug Fixes
+
+* assets bug ([94163da](https://github.com/codelearncreate/weavly.org/commit/94163da24b35e264e4d6abcdfe3e2ed99b106ee7))
+* resolve CSS build issue ([11eacc9](https://github.com/codelearncreate/weavly.org/commit/11eacc9340727f4eb0f46a248799064168791b96))
+* resolve JS build issue ([12115fd](https://github.com/codelearncreate/weavly.org/commit/12115fd223520523e9135962f2c129240f209aa6))
+* resolve syntax error ([70df46e](https://github.com/codelearncreate/weavly.org/commit/70df46ea7d56230cac837d38ff6a7f79bf483b91))
+
 ## [1.4.0](https://github.com/codelearncreate/weavly.org/compare/v1.3.1...v1.4.0) (2023-07-17)
 
 
