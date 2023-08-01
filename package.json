@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "17.6.6",
-    "@commitlint/config-conventional": "17.6.6",
+    "@commitlint/config-conventional": "17.6.7",
     "cross-env": "7.0.3",
     "eleventy-plugin-fluid": "github:fluid-project/eleventy-plugin-fluid#main",
     "fluid-lint-all": "1.2.9",
