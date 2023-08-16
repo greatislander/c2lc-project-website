@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm-run-all -l clean build:eleventy",
     "build:eleventy": "ELEVENTY_ENV=production eleventy",
-    "clean": "rimraf dist",
+    "clean": "rimraf _site",
     "cms": "netlify-cms-proxy-server",
     "dev": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "lint": "fluid-lint-all",
@@ -37,7 +37,7 @@
     "@commitlint/cli": "17.6.6",
     "@commitlint/config-conventional": "17.6.6",
     "cross-env": "7.0.3",
-    "eleventy-plugin-fluid": "github:fluid-project/eleventy-plugin-fluid#main",
+    "eleventy-plugin-fluid": "2.4.0",
     "fluid-lint-all": "1.2.9",
     "husky": "^7.0.0",
     "image-size": "1.0.2",

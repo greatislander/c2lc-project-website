@@ -12,8 +12,6 @@ https://github.com/codelearncreate/weavly.org/raw/main/LICENSE.md.
 
 "use strict";
 
-const fs = require("fs");
-
 const fluidPlugin = require("eleventy-plugin-fluid");
 const navigationPlugin = require("@11ty/eleventy-navigation");
 const blockquoteShortcode = require("./src/shortcodes/blockquote.js");
@@ -149,7 +147,8 @@ module.exports = function (eleventyConfig) {
         },
         sass: {
             enabled: true
-        }
+        },
+        i18n: false
     });
     eleventyConfig.addPlugin(navigationPlugin);
 
@@ -166,27 +165,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPairedShortcode("blockquote", blockquoteShortcode);
     eleventyConfig.addPairedShortcode("grid", gridShortcode);
 
-    // 404
-    eleventyConfig.setBrowserSyncConfig({
-        callbacks: {
-            ready: function (err, bs) {
-
-                bs.addMiddleware("*", (req, res) => {
-                    const content_404 = fs.readFileSync("dist/404.html");
-                    // Provides the 404 content without redirect.
-                    res.write(content_404);
-                    res.writeHead(404);
-                    res.end();
-                });
-            }
-        }
-    });
-
     return {
         dir: {
-            input: "src",
-            output: "dist",
-            includes: "_includes"
+            input: "src"
         },
         markdownTemplateEngine: "njk",
         passthroughFileCopy: true

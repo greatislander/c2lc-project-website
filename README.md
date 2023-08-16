@@ -15,9 +15,9 @@ The website will be available at [http://localhost:8080](http://localhost:8080).
 
 ## Notes
 
-Modifications can be made to any source file or directory except for the contents of the `./dist/` directory. The
-`./dist/` directory is not versioned since it contains the built website that Eleventy generates from the source files,
-and  files in `dist` are overwritten at build time.
+Modifications can be made to any source file or directory except for the contents of the `./_site/` directory. The
+`./_site/` directory is not versioned since it contains the built website that Eleventy generates from the source files,
+and  files in `_site` are overwritten at build time.
 
 ## License
 
