@@ -7,7 +7,7 @@
     <div class="[ two:three ]">
         <div class="[ two:three__two ] [ flow ]">
             <h2>{{ resourcesSection.title }}</h2>
-            {{ resourcesSection.content | markdown | safe }}
+            {% renderString resourcesSection.content, "md" %}
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ resourcesSection.callToActionLink }}">{{ resourcesSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] ">
@@ -28,7 +28,7 @@
                 </figure>
                 <div class="[ card__content ] [ flow ]">
                     <h3><a class="[ card__link ]" href="{{ card.link }}">{{ card.title }}</a></h3>
-                    {{ card.content | markdown | safe }}
+                    {% renderString card.content, "md" %}
                 </div>
             </div>
           {% endfor %}
@@ -41,7 +41,7 @@
     <div class="[ two:three ]">
         <div class="[ two:three__two ] [ flow ]">
             <h2>{{ robotActivitiesSection.title }}</h2>
-            {{ robotActivitiesSection.content | markdown | safe }}
+            {% renderString robotActivitiesSection.content, "md" %}
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ robotActivitiesSection.callToActionLink }}">{{ robotActivitiesSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
@@ -55,7 +55,7 @@
     <div class="[ two:three ]">
         <div class="[ two:three__two ] [ flow ]">
             <h2>{{ trainingsSection.title }}</h2>
-            {{ trainingsSection.content | markdown | safe }}
+            {% renderString trainingsSection.content, "md" %}
             <p class="[ sm:center ]"><a class="call-to-action" rel="external" href="{{ trainingsSection.callToActionLink }}">{{ trainingsSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
@@ -69,7 +69,7 @@
   <div class="[ wrapper ]">
     <div class="[ center flow ]">
       <h2><a rel="external" href="{{ shareSection.titleLink }}">{{ shareSection.title }}</a></h2>
-      {{ shareSection.content | markdown | safe }}
+      {% renderString shareSection.content, "md" %}
     </div>
   </div>
 </div>

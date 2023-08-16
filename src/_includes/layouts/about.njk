@@ -7,7 +7,7 @@
     <div class="[ two:three ]">
         <div class="[ two:three__two ] [ flow ]">
             <h2 class="h3">{{ goalSection.title }}</h2>
-            {{ goalSection.content | markdown | safe }}
+            {% renderString goalSection.content, "md" %}
             <p class="[ sm:center ]"><a class="call-to-action" rel="external" href="{{ goalSection.callToActionLink }}">{{ goalSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] ">
@@ -36,7 +36,7 @@
   <div class="[ wrapper ]">
     <div class="[ center flow ]">
       <h2>{{ whoSection.title }}</h2>
-      {{ whoSection.intro | markdown | safe }}
+      {% renderString whoSection.intro, "md" %}
     </div>
   </div>
 </div>
@@ -48,7 +48,7 @@
         <div class="[ flow ]">
           {% image partner.image, partner.imageAlt, 640, 520 %}
           <h3>{{ partner.name }}{% if partner.acronym %} ({{ partner.acronym }}){% endif %}</h3>
-          {{ partner.content | markdown | safe }}
+          {% renderString partner.content, "md" %}
           <p><a rel="external" href="{{ partner.link }}">Visit {{ partner.acronym if partner.acronym else partner.name }} website</a></p>
         </div>
         {% endfor %}
@@ -61,7 +61,7 @@
   <div class="[ wrapper ]">
     <div class="[ center flow ]">
       <h2><a rel="external" href="{{ connectSection.titleLink }}">{{ connectSection.title }}</a></h2>
-      {{ connectSection.content | markdown | safe }}
+      {% renderString connectSection.content, "md" %}
     </div>
   </div>
 </div>

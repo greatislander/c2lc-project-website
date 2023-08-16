@@ -35,7 +35,7 @@
     <div class="[ sidebar ] [ flow ] [ bg bg--cream-95 ]">
         <div id="what-you-need" class="[ callout ] [ flow ]">
             <h2>What you need</h2>
-            {{ whatYouNeed | markdown | safe }}
+            {% renderString whatYouNeed, "md" %}
         </div>
         {% if books %}
         <div id="books" class="[ callout ] [ flow ]">
