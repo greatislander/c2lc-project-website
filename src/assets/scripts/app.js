@@ -13,7 +13,7 @@ https://github.com/codelearncreate/weavly.org/raw/master/LICENSE.md.
 import "@zachleat/filter-container";
 import "wicg-inert";
 
-import VideoOverlay from "./overlay.module.js";
+import VideoOverlay from "./_overlay.module.js";
 
 const linkedVideos = [...document.querySelectorAll(".linked-video, .video-card-link")];
 
