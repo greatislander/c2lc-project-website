@@ -36,7 +36,7 @@
     <div class="[ two:three ]">
         <div class="[ two:three__two ] [ flow ]">
             <h2>{{ learnSection.title }}</h2>
-            {{ learnSection.content | markdown | safe }}
+            {% renderString learnSection.content, "md" %}
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ learnSection.callToActionLink }}">{{ learnSection.callToActionText }}</a></p>
         </div>
         <div class="[ two:three__three ] [ flow ]">
@@ -57,7 +57,7 @@
         </div>
         <div class="[ three:two__two ] [ flow ]">
           <h2>{{ aboutSection.title }}</h2>
-            {{ aboutSection.content | markdown | safe }}
+            {% renderString aboutSection.content, "md" %}
             <p class="[ sm:center ]"><a class="call-to-action" href="{{ aboutSection.callToActionLink }}">{{ aboutSection.callToActionText }}</a></p>
         </div>
     </div>
@@ -68,7 +68,7 @@
   <div class="[ wrapper ]">
     <div class="[ center flow ]">
       <h2><a rel="external" href="{{ trySection.titleLink }}">{{ trySection.title }}</a></h2>
-      {{ trySection.content | markdown | safe }}
+      {% renderString trySection.content, "md" %}
     </div>
   </div>
 </div>
