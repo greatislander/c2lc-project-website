@@ -34,7 +34,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({"src/assets/icons": "/"});
     eleventyConfig.addPassthroughCopy({"src/assets/images": "assets/images"});
     eleventyConfig.addPassthroughCopy({"src/assets/media": "assets/media"});
-    eleventyConfig.addPassthroughCopy("src/admin/eleventyConfig.yml");
+    eleventyConfig.addPassthroughCopy("src/admin/config.yml");
     eleventyConfig.addPassthroughCopy("src/admin/*.js");
 
     const now = new Date();
@@ -66,14 +66,14 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addCollection("resources", collection => {
         return [
-            ...collection.getFilteredByGlob("./src/resources/*.md").filter(liveResources).reverse()
+            ...collection.getFilteredByGlob("./src/collections/resources/*.md").filter(liveResources).reverse()
         ];
     });
 
     eleventyConfig.addCollection("activities", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/activities/*.md")
+                .getFilteredByGlob("./src/collections/activities/*.md")
                 .sort(sortByLevel)
         ];
     });
@@ -81,14 +81,14 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("robotActivities", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/robot-activities/*.md")
+                .getFilteredByGlob("./src/collections/robot-activities/*.md")
                 .sort(sortByLevel)
         ];
     });
 
     eleventyConfig.addCollection("guides", collection => {
         return [
-            ...collection.getFilteredByGlob("./src/guides/*.md")
+            ...collection.getFilteredByGlob("./src/collections/guides/*.md")
                 .sort((a, b) => a.data.title.localeCompare(b.data.title))
         ];
     });
@@ -96,7 +96,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("unpluggedActivities", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/activities/*.md")
+                .getFilteredByGlob("./src/collections/activities/*.md")
                 .filter(
                     function (activity) {
                         return activity.data.type === "Unplugged";
@@ -109,7 +109,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("onscreenActivities", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/activities/*.md")
+                .getFilteredByGlob("./src/collections/activities/*.md")
                 .filter(
                     function (activity) {
                         return activity.data.type === "On-Screen";
@@ -122,7 +122,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("hybridActivities", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/activities/*.md")
+                .getFilteredByGlob("./src/collections/activities/*.md")
                 .filter(
                     function (activity) {
                         return activity.data.type === "Hybrid";
@@ -135,7 +135,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("projects", collection => {
         return [
             ...collection
-                .getFilteredByGlob("./src/projects/*.md")
+                .getFilteredByGlob("./src/collections/projects/*.md")
                 .sort((a, b) => a.data.title.localeCompare(b.data.title))
         ];
     });

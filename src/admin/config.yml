@@ -290,7 +290,7 @@ collections:
   - name: resources
     label: Coding Resources
     label_singular: Coding Resource
-    folder: "src/resources"
+    folder: "src/collections/resources"
     slug: "{{slug}}"
     preview_path: "/learn/resources/{{slug}}"
     editor:
@@ -316,7 +316,7 @@ collections:
   - name: activities
     label: Activities at Home
     label_singular: Home Activity
-    folder: "src/activities"
+    folder: "src/collections/activities"
     slug: "{{slug}}"
     preview_path: "/learn/activities/{{slug}}"
     editor:
@@ -352,7 +352,7 @@ collections:
   - name: robotActivities
     label: Activities with Robots
     label_singular: Robot Activity
-    folder: "src/robot-activities"
+    folder: "src/collections/robot-activities"
     slug: "{{slug}}"
     preview_path: "/learn/robots/"
     editor:
@@ -396,7 +396,7 @@ collections:
   - name: projects
     label: Projects
     label_singular: Project
-    folder: "src/projects"
+    folder: "src/collections/projects"
     preview_path: "/community/projects/"
     editor:
       preview: false
@@ -412,7 +412,7 @@ collections:
   - name: guides
     label: "Manufacturer’s Guides"
     label_singular: "Manufacturer’s Guide"
-    folder: "src/guides"
+    folder: "src/collections/guides"
     preview_path: "/learn/robots/"
     editor:
       preview: false

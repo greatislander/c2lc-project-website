@@ -24,10 +24,7 @@
                 "*.gif",
                 "*.zip",
                 "./src/_data/*.json",
-                "./src/activities/*.md",
-                "./src/robot-activities/*.md",
-                "./src/projects/*.md",
-                "./src/resources/*.md",
+                "./src/collections/**/*.md",
                 "./src/*.md",
                 "./CHANGELOG.md"
             ]
@@ -35,10 +32,7 @@
     },
     "markdownlint": {
         "excludes": [
-            "./src/activities/*.md",
-            "./src/robot-activities/*.md",
-            "./src/projects/*.md",
-            "./src/resources/*.md",
+            "./src/collections/**/*.md",
             "./src/*.md",
             "./CHANGELOG.md"
         ]
