@@ -14,15 +14,15 @@ https://github.com/codelearncreate/weavly.org/raw/main/LICENSE.md.
 
 const fluidPlugin = require("eleventy-plugin-fluid");
 const navigationPlugin = require("@11ty/eleventy-navigation");
-const blockquoteShortcode = require("./src/shortcodes/blockquote.js");
-const gridShortcode = require("./src/shortcodes/grid.js");
-const gridImageShortcode = require("./src/shortcodes/grid-image.js");
-const gridVideoShortcode = require("./src/shortcodes/grid-video.js");
-const imageShortcode = require("./src/shortcodes/image.js");
-const getYouTubeIdFilter = require("./src/utils/extract-youtube-id.js");
+const blockquoteShortcode = require("./src/_shortcodes/blockquote.js");
+const gridShortcode = require("./src/_shortcodes/grid.js");
+const gridImageShortcode = require("./src/_shortcodes/grid-image.js");
+const gridVideoShortcode = require("./src/_shortcodes/grid-video.js");
+const imageShortcode = require("./src/_shortcodes/image.js");
+const getYouTubeIdFilter = require("./src/_utils/extract-youtube-id.js");
 
 // Import transforms
-const parseTransform = require("./src/transforms/parse-transform.js");
+const parseTransform = require("./src/_transforms/parse-transform.js");
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.setUseGitIgnore(false);

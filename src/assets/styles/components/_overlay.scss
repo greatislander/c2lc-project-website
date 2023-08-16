@@ -1,70 +1,70 @@
 [role="dialog"] {
-    align-items: flex-end;
-    background: var(--fl-bgColor, var(--color-white));
-    border: var(--border-thin) solid;
+  align-items: flex-end;
+  background: var(--fl-bgColor, var(--color-white));
+  border: var(--border-thin) solid;
+  display: flex;
+  flex-direction: column;
+  inline-size: calc(100% - var(--space-md) * 2);
+  left: 50%;
+  max-inline-size: var(--max-content-width);
+  padding: var(--space-md);
+  position: fixed;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+
+  .close {
+    align-items: center;
+    appearance: none;
+    block-size: var(--step-2);
+    border: 0;
+    border-radius: 50%;
     display: flex;
-    flex-direction: column;
-    left: 50%;
-    max-width: var(--max-content-width);
-    padding: var(--space-md);
-    position: fixed;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: calc(100% - var(--space-md) * 2);
-    z-index: 99;
+    inline-size: var(--step-2);
+    justify-content: center;
+    padding: 0;
 
-    .close {
-        align-items: center;
-        appearance: none;
-        border: 0;
-        border-radius: 50%;
-        display: flex;
-        height: var(--step-2);
-        justify-content: center;
-        padding: 0;
-        width: var(--step-2);
-
-        &:hover,
-        &:focus {
-            box-shadow: 0 0 0 var(--border-thin) var(--fl-fgColor, var(--color-red-45));
-            outline: none;
-        }
-
-        &:active {
-            background-color: var(--color-red-45);
-            color: var(--color-white);
-        }
+    &:hover,
+    &:focus {
+      box-shadow: 0 0 0 var(--border-thin) var(--fl-fgColor, var(--color-red-45));
+      outline: none;
     }
 
-    .iframe-container {
-        overflow: hidden;
-        position: relative;
-        width: 100%;
-
-        &::after {
-            content: '';
-            display: block;
-            padding-block-start: 56.25%;
-        }
+    &:active {
+      background-color: var(--color-red-45);
+      color: var(--color-white);
     }
+  }
 
-    iframe {
-        height: 100%;
-        left: 0;
-        position: absolute;
-        top: 0;
-        width: 100%;
+  .iframe-container {
+    inline-size: 100%;
+    overflow: hidden;
+    position: relative;
+
+    &::after {
+      content: "";
+      display: block;
+      padding-block-start: 56.25%;
     }
+  }
+
+  iframe {
+    block-size: 100%;
+    inline-size: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
 }
 
 .has-overlay::after {
-    background-color: rgba(0, 0, 0, 0.8);
-    content: "";
-    display: block;
-    height: 100vh;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100vw;
-    z-index: 1;
+  background-color: rgb(0 0 0 / 80%);
+  block-size: 100vh;
+  content: "";
+  display: block;
+  inline-size: 100vw;
+  left: 0;
+  position: fixed;
+  top: 0;
+  z-index: 1;
 }

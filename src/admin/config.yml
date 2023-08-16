@@ -12,448 +12,448 @@ backend:
 local_backend: true
 publish_mode: editorial_workflow
 site_url: "https://weavly.org"
-media_folder: "src/assets/media"
-public_folder: "/assets/media"
+media_folder: src/assets/media
+public_folder: /assets/media
 collections:
   - name: pages
     label: Pages
     files:
       - label: Home
         name: home
-        file: "src/index.md"
+        file: src/index.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
-        - {label: "Header Call to Action Text", name: "headerCallToActionText", widget: "string"}
-        - {label: "Header Call to Action Link", name: "headerCallToActionLink", widget: "string"}
-        - label: Create Section
-          name: createSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - label: Cards
-            name: cards
-            widget: list
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
+          - {label: Header Call to Action Text, name: headerCallToActionText, widget: string}
+          - {label: Header Call to Action Link, name: headerCallToActionLink, widget: string}
+          - label: Create Section
+            name: createSection
+            widget: object
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Link", name: "link", widget: "string"}
-              - {label: "Image", name: "image", widget: "image"}
-        - label: Learn Section
-          name: learnSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: About Section
-          name: aboutSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: Try Section
-          name: trySection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Title Link", name: "titleLink", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
+              - {label: Title, name: title, widget: string}
+              - label: Cards
+                name: cards
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Image, name: image, widget: image}
+          - label: Learn Section
+            name: learnSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: About Section
+            name: aboutSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: Try Section
+            name: trySection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Title Link, name: titleLink, widget: string}
+              - {label: Content, name: content, widget: text}
       - label: Learn
         name: learn
-        file: "src/learn.md"
+        file: src/learn.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
-        - label: Resources Section
-          name: resourcesSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: Activities Section
-          name: activitiesSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - label: Cards
-            name: cards
-            widget: list
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
+          - label: Resources Section
+            name: resourcesSection
+            widget: object
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Link", name: "link", widget: "string"}
-              - {label: "Image", name: "image", widget: "image"}
-              - {label: "Content", name: "content", widget: "text"}
-        - label: Activities with Robots Section
-          name: robotActivitiesSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: Trainings & Workshops Section
-          name: trainingsSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: Share Section
-          name: shareSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Title Link", name: "titleLink", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: Activities Section
+            name: activitiesSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - label: Cards
+                name: cards
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Content, name: content, widget: text}
+          - label: Activities with Robots Section
+            name: robotActivitiesSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: Trainings & Workshops Section
+            name: trainingsSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: Share Section
+            name: shareSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Title Link, name: titleLink, widget: string}
+              - {label: Content, name: content, widget: text}
       - label: Resources
         name: resources
-        file: "src/resources.md"
+        file: src/resources.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
       - label: Activities at Home
         name: activities
-        file: "src/activities.md"
+        file: src/activities.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
       - label: Activities with Robots
         name: robotActivities
-        file: "src/robots.md"
+        file: src/robots.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
       - label: Activities with Specific Robots
         name: specificRobotActivities
-        file: "src/robot-activities.md"
+        file: src/robot-activities.md
         editor:
           preview: false
         fields:
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: Subtitle, name: subtitle, widget: text}
       - label: Community
         name: community
-        file: "src/community.md"
+        file: src/community.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
       - label: About
         name: about
-        file: "src/about.md"
+        file: src/about.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
-        - label: Goal Section
-          name: goalSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: What We Do Section
-          name: whatWeDoSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - label: Cards
-            name: cards
-            widget: list
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
+          - label: Goal Section
+            name: goalSection
+            widget: object
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Link", name: "link", widget: "string"}
-        - label: Who We Are Section
-          name: whoSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Intro", name: "intro", widget: "markdown"}
-          - label: Partners
-            name: partners
-            widget: list
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: What We Do Section
+            name: whatWeDoSection
+            widget: object
             fields:
-            - {label: "Name", name: "name", widget: "string"}
-            - {label: "Acronym", name: "acronym", widget: "string", required: false}
-            - {label: "Content", name: "content", widget: "text"}
-            - {label: "Link", name: "link", widget: "string"}
-            - {label: "Image", name: "image", widget: "image"}
-            - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-        - label: Connect Section
-          name: connectSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Title Link", name: "titleLink", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
+              - {label: Title, name: title, widget: string}
+              - label: Cards
+                name: cards
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Link, name: link, widget: string}
+          - label: Who We Are Section
+            name: whoSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Intro, name: intro, widget: markdown}
+              - label: Partners
+                name: partners
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Acronym, name: acronym, widget: string, required: false}
+                  - {label: Content, name: content, widget: text}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Image Alt Text, name: imageAlt, widget: string}
+          - label: Connect Section
+            name: connectSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Title Link, name: titleLink, widget: string}
+              - {label: Content, name: content, widget: text}
       - label: Open Robot Kit
         name: open-robot-kit
-        file: "src/open-robot-kit.md"
+        file: src/open-robot-kit.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Subtitle", name: "subtitle", widget: "text"}
-        - label: About Section
-          name: aboutSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-          - {label: "Call to Action Text", name: "callToActionText", widget: "string"}
-          - {label: "Call to Action Link", name: "callToActionLink", widget: "string"}
-        - label: Outcomes Section
-          name: outcomesSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Intro", name: "intro", widget: "markdown"}
-          - label: Cards
-            name: cards
-            widget: list
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
+          - label: About Section
+            name: aboutSection
+            widget: object
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Link", name: "link", widget: "string"}
-              - {label: "Download", name: "download", widget: "boolean", default: false}
-          - {label: "Content", name: "content", widget: "markdown"}
-        - label: Next Steps Section
-          name: nextStepsSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Column A", name: "columnA", widget: "markdown"}
-          - {label: "Column B", name: "columnB", widget: "markdown"}
-        - label: Who We Are Section
-          name: whoSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Intro", name: "intro", widget: "markdown"}
-          - label: Partners
-            name: partners
-            widget: list
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Image Alt Text, name: imageAlt, widget: string}
+              - {label: Call to Action Text, name: callToActionText, widget: string}
+              - {label: Call to Action Link, name: callToActionLink, widget: string}
+          - label: Outcomes Section
+            name: outcomesSection
+            widget: object
             fields:
-            - {label: "Name", name: "name", widget: "string"}
-            - {label: "Acronym", name: "acronym", widget: "string", required: false}
-            - {label: "Content", name: "content", widget: "text"}
-            - {label: "Link", name: "link", widget: "string"}
-            - {label: "Image", name: "image", widget: "image"}
-            - {label: "Image Alt Text", name: "imageAlt", widget: "string"}
-        - label: Connect Section
-          name: connectSection
-          widget: object
-          fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Title Link", name: "titleLink", widget: "string"}
-          - {label: "Content", name: "content", widget: "text"}
+              - {label: Title, name: title, widget: string}
+              - {label: Intro, name: intro, widget: markdown}
+              - label: Cards
+                name: cards
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Download, name: download, widget: boolean, default: false}
+              - {label: Content, name: content, widget: markdown}
+          - label: Next Steps Section
+            name: nextStepsSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Column A, name: columnA, widget: markdown}
+              - {label: Column B, name: columnB, widget: markdown}
+          - label: Who We Are Section
+            name: whoSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Intro, name: intro, widget: markdown}
+              - label: Partners
+                name: partners
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Acronym, name: acronym, widget: string, required: false}
+                  - {label: Content, name: content, widget: text}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Image Alt Text, name: imageAlt, widget: string}
+          - label: Connect Section
+            name: connectSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Title Link, name: titleLink, widget: string}
+              - {label: Content, name: content, widget: text}
       - label: Share Learning Resources
 
         name: share-learning-resources
-        file: "src/share-learning-resources.md"
+        file: src/share-learning-resources.md
         editor:
           preview: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Body", name: "body", widget: "markdown"}
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
   - name: resources
     label: Coding Resources
     label_singular: Coding Resource
-    folder: "src/collections/resources"
+    folder: src/collections/resources
     slug: "{{slug}}"
     preview_path: "/learn/resources/{{slug}}"
     editor:
       preview: false
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", timeFormat: false}
-      - {label: "Author", name: "author", widget: "string", required: false}
-      - {label: "Resource Type", name: "type", widget: "relation", collection: "siteData", file: "resourceTags", value_field: types.*, display_fields: [types.*], search_fields: [types.*]}
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
-      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Supportive Material"
-        name: "supportiveMaterial"
-        widget: "list"
+      - {label: Title, name: title, widget: string}
+      - {label: Date, name: date, widget: datetime, timeFormat: false}
+      - {label: Author, name: author, widget: string, required: false}
+      - {label: Resource Type, name: type, widget: relation, collection: siteData, file: resourceTags, value_field: types.*, display_fields: [types.*], search_fields: [types.*]}
+      - {label: Description, name: description, widget: text, required: false}
+      - {label: Preview Image, name: metaImage, widget: image, required: false}
+      - {label: Preview Image Alt Text, name: metaImageAlt, widget: string, required: false}
+      - {label: Body, name: body, widget: markdown}
+      - label: Supportive Material
+        name: supportiveMaterial
+        widget: list
         summary: "{{fields.label}}"
         required: false
         fields:
-        - {label: "Label", name: "label", widget: "string"}
-        - {label: "File", name: "file", widget: "file"}
+          - {label: Label, name: label, widget: string}
+          - {label: File, name: file, widget: file}
   - name: activities
     label: Activities at Home
     label_singular: Home Activity
-    folder: "src/collections/activities"
+    folder: src/collections/activities
     slug: "{{slug}}"
     preview_path: "/learn/activities/{{slug}}"
     editor:
       preview: false
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Type", name: "type", widget: "relation", collection: "siteData", file: "activityTags", value_field: types.*, display_fields: [types.*], search_fields: [types.*]}
-      - {label: "Coding Experience Level", name: "experience", widget: "relation", collection: "siteData", file: "activityTags", value_field: experience.*, display_fields: [experience.*], search_fields: [experience.*]}
-      - {label: "Subject", name: "subject", widget: "relation", collection: "siteData", file: "activityTags", value_field: subjects.*, display_fields: [subjects.*], search_fields: [subjects.*]}
-      - {label: "Related Activities", name: "relatedActivities", widget: "relation", collection: "activities", search_fields: ["title"], value_field: "title", display_fields: ["title"], multiple: true, required: false}
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
-      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
-      - label: "What You Need"
-        name: "whatYouNeed"
-        widget: "markdown"
+      - {label: Title, name: title, widget: string}
+      - {label: Type, name: type, widget: relation, collection: siteData, file: activityTags, value_field: types.*, display_fields: [types.*], search_fields: [types.*]}
+      - {label: Coding Experience Level, name: experience, widget: relation, collection: siteData, file: activityTags, value_field: experience.*, display_fields: [experience.*], search_fields: [experience.*]}
+      - {label: Subject, name: subject, widget: relation, collection: siteData, file: activityTags, value_field: subjects.*, display_fields: [subjects.*], search_fields: [subjects.*]}
+      - {label: Related Activities, name: relatedActivities, widget: relation, collection: activities, search_fields: [title], value_field: title, display_fields: [title], multiple: true, required: false}
+      - {label: Description, name: description, widget: text, required: false}
+      - {label: Preview Image, name: metaImage, widget: image, required: false}
+      - {label: Preview Image Alt Text, name: metaImageAlt, widget: string, required: false}
+      - label: What You Need
+        name: whatYouNeed
+        widget: markdown
         default: "### Tools\n\n### Skills\n\n### Environment\n\n### Support\n\n"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - label: Body
+        name: body
+        widget: markdown
         default: "## Objectives\n\n## Description\n\n## Steps\n\n## Tips\n\n## Skill Development\n\n## Level Up!\n\n"
-      - label: "Book suggestions"
-        name: "books"
-        widget: "list"
+      - label: Book suggestions
+        name: books
+        widget: list
         summary: "{{fields.title}}"
         required: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Author", name: "author", widget: "string"}
-        - {label: "Cover Image", name: "coverImage", widget: "image"}
-        - {label: "Link", name: "link", widget: "string"}
+          - {label: Title, name: title, widget: string}
+          - {label: Author, name: author, widget: string}
+          - {label: Cover Image, name: coverImage, widget: image}
+          - {label: Link, name: link, widget: string}
   - name: robotActivities
     label: Activities with Robots
     label_singular: Robot Activity
-    folder: "src/collections/robot-activities"
+    folder: src/collections/robot-activities
     slug: "{{slug}}"
-    preview_path: "/learn/robots/"
+    preview_path: /learn/robots/
     editor:
       preview: false
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Robot", name: "tags", widget: "relation", multiple: true, max: 1, collection: "guides", value_field: title, display_fields: [title], search_fields: [title]}
-      - {label: "Coding Experience Level", name: "experience", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: experience.*, display_fields: [experience.*], search_fields: [experience.*]}
-      - {label: "Topic", name: "topic", widget: "relation", collection: "siteData", file: "robotActivityTags", value_field: topics.*, display_fields: [topics.*], search_fields: [topics.*]}
-      - {label: "Related Activities with Robots", name: "relatedRobotActivities", widget: "relation", collection: "robotActivities", search_fields: ["title"], value_field: "title", display_fields: ["title"], multiple: true, required: false}
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
-      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
-      - label: "What You Need"
-        name: "whatYouNeed"
-        widget: "markdown"
+      - {label: Title, name: title, widget: string}
+      - {label: Robot, name: tags, widget: relation, multiple: true, max: 1, collection: guides, value_field: title, display_fields: [title], search_fields: [title]}
+      - {label: Coding Experience Level, name: experience, widget: relation, collection: siteData, file: robotActivityTags, value_field: experience.*, display_fields: [experience.*], search_fields: [experience.*]}
+      - {label: Topic, name: topic, widget: relation, collection: siteData, file: robotActivityTags, value_field: topics.*, display_fields: [topics.*], search_fields: [topics.*]}
+      - {label: Related Activities with Robots, name: relatedRobotActivities, widget: relation, collection: robotActivities, search_fields: [title], value_field: title, display_fields: [title], multiple: true, required: false}
+      - {label: Description, name: description, widget: text, required: false}
+      - {label: Preview Image, name: metaImage, widget: image, required: false}
+      - {label: Preview Image Alt Text, name: metaImageAlt, widget: string, required: false}
+      - label: What You Need
+        name: whatYouNeed
+        widget: markdown
         default: "### Tools\n\n### Skills\n\n### Environment\n\n### Support\n\n"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - label: Body
+        name: body
+        widget: markdown
         default: "## Lesson Objectives\n\n## Description\n\n## Steps\n\n## Curriculum Connections\n\n## Accessibility Considerations\n\n## Skill Development"
-      - label: "Book suggestions"
-        name: "books"
-        widget: "list"
+      - label: Book suggestions
+        name: books
+        widget: list
         summary: "{{fields.title}}"
         required: false
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Author", name: "author", widget: "string"}
-        - {label: "Cover Image", name: "coverImage", widget: "image"}
-        - {label: "Link", name: "link", widget: "string"}
-      - label: "Supportive Material"
-        name: "supportiveMaterial"
-        widget: "list"
+          - {label: Title, name: title, widget: string}
+          - {label: Author, name: author, widget: string}
+          - {label: Cover Image, name: coverImage, widget: image}
+          - {label: Link, name: link, widget: string}
+      - label: Supportive Material
+        name: supportiveMaterial
+        widget: list
         summary: "{{fields.label}}"
         required: false
         fields:
-        - {label: "Label", name: "label", widget: "string"}
-        - {label: "File", name: "file", widget: "file"}
+          - {label: Label, name: label, widget: string}
+          - {label: File, name: file, widget: file}
   - name: projects
     label: Projects
     label_singular: Project
-    folder: "src/collections/projects"
-    preview_path: "/community/projects/"
+    folder: src/collections/projects
+    preview_path: /community/projects/
     editor:
       preview: false
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Type", name: "type", widget: "relation", collection: "siteData", file: "projectTags", value_field: types.*, display_fields: [types.*], search_fields: [types.*], required: false}
-      - {label: "Category", name: "category", widget: "relation", collection: "siteData", file: "projectTags", value_field: categories.*, display_fields: [categories.*], search_fields: [categories.*]}
-      - {label: "Link", name: "link", widget: "string"}
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
-      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
+      - {label: Title, name: title, widget: string}
+      - {label: Type, name: type, widget: relation, collection: siteData, file: projectTags, value_field: types.*, display_fields: [types.*], search_fields: [types.*], required: false}
+      - {label: Category, name: category, widget: relation, collection: siteData, file: projectTags, value_field: categories.*, display_fields: [categories.*], search_fields: [categories.*]}
+      - {label: Link, name: link, widget: string}
+      - {label: Description, name: description, widget: text, required: false}
+      - {label: Preview Image, name: metaImage, widget: image, required: false}
+      - {label: Preview Image Alt Text, name: metaImageAlt, widget: string, required: false}
   - name: guides
-    label: "Manufacturer’s Guides"
-    label_singular: "Manufacturer’s Guide"
-    folder: "src/collections/guides"
-    preview_path: "/learn/robots/"
+    label: Manufacturer’s Guides
+    label_singular: Manufacturer’s Guide
+    folder: src/collections/guides
+    preview_path: /learn/robots/
     editor:
       preview: false
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Manufacturer", name: "manufacturer", widget: "string"}
-      - {label: "Manufacturer Link", name: "manufacturerLink", widget: "string"}
-      - {label: "Preview Image", name: "metaImage", widget: "image", required: false}
-      - {label: "Preview Image Alt Text", name: "metaImageAlt", widget: "string", required: false}
-      - label: "Learning Resources"
-        name: "resources"
-        widget: "list"
+      - {label: Title, name: title, widget: string}
+      - {label: Manufacturer, name: manufacturer, widget: string}
+      - {label: Manufacturer Link, name: manufacturerLink, widget: string}
+      - {label: Preview Image, name: metaImage, widget: image, required: false}
+      - {label: Preview Image Alt Text, name: metaImageAlt, widget: string, required: false}
+      - label: Learning Resources
+        name: resources
+        widget: list
         summary: "{{fields.description}}"
         required: false
         fields:
-        - {label: "Description", name: "description", widget: "string"}
-        - {label: "Link", name: "link", widget: "string"}
+          - {label: Description, name: description, widget: string}
+          - {label: Link, name: link, widget: string}
   - name: siteData
     label: Site Data
     files:
       - label: Activity Tags
         name: activityTags
-        file: "src/_data/activityTags.json"
+        file: src/_data/activityTags.json
         fields:
-          - {label: "Types", name: "types", widget: "list"}
-          - {label: "Experience Levels", name: "experience", widget: "list"}
-          - {label: "Subjects", name: "subjects", widget: "list"}
+          - {label: Types, name: types, widget: list}
+          - {label: Experience Levels, name: experience, widget: list}
+          - {label: Subjects, name: subjects, widget: list}
       - label: Robot Activity Tags
         name: robotActivityTags
-        file: "src/_data/robotActivityTags.json"
+        file: src/_data/robotActivityTags.json
         fields:
-          - {label: "Experience Levels", name: "experience", widget: "list"}
-          - {label: "Topics", name: "topics", widget: "list"}
+          - {label: Experience Levels, name: experience, widget: list}
+          - {label: Topics, name: topics, widget: list}
       - label: Project Tags
         name: projectTags
-        file: "src/_data/projectTags.json"
+        file: src/_data/projectTags.json
         fields:
-          - {label: "Categories", name: "categories", widget: "list"}
+          - {label: Categories, name: categories, widget: list}
       - label: Resource Tags
         name: resourceTags
-        file: "src/_data/resourceTags.json"
+        file: src/_data/resourceTags.json
         fields:
-          - {label: "Resource Types", name: "types", widget: "list"}
+          - {label: Resource Types, name: types, widget: list}

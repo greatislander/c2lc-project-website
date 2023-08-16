@@ -3,10 +3,10 @@
 // -----------------------------------------------------------------------------
 
 .radio-group > * + * {
-    margin-inline-start: 0.5rem;
+  margin-inline-start: 0.5rem;
 }
 
 .radio-group .button[aria-checked="true"] {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }

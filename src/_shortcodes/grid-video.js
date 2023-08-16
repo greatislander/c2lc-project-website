@@ -1,6 +1,6 @@
 "use strict";
 
-const extractId = require("../utils/extract-youtube-id.js");
+const extractId = require("../_utils/extract-youtube-id.js");
 
 module.exports = (caption, url) => {
     const id = extractId(url);
