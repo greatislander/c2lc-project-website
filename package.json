@@ -44,7 +44,7 @@
     "wicg-inert": "3.1.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.6.6",
+    "@commitlint/cli": "17.7.1",
     "@commitlint/config-conventional": "17.7.0",
     "cross-env": "7.0.3",
     "eslint": "8.47.0",
