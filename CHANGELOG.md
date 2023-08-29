@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/codelearncreate/weavly.org/compare/v1.5.0...v1.6.0) (2023-08-29)
+
+
+### Features
+
+* replace Netlify CMS with Decap CMS ([#843](https://github.com/codelearncreate/weavly.org/issues/843)) ([504bafd](https://github.com/codelearncreate/weavly.org/commit/504bafd6ac4cb3d90bcec0479d7311f812f2e22f))
+
 ## [1.5.0](https://github.com/codelearncreate/weavly.org/compare/v1.4.0...v1.5.0) (2023-08-24)
 
 
