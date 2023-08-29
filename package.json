@@ -35,7 +35,7 @@
     "@11ty/eleventy-navigation": "0.3.5",
     "@babel/standalone": "7.22.11",
     "@zachleat/filter-container": "greatislander/filter-container#feat/paginated-results",
-    "decap-cms": "3.0.0",
+    "decap-cms": "3.0.5",
     "eleventy-plugin-fluid": "2.5.0",
     "infusion": "4.6.0",
     "modern-css-reset": "1.4.0",
