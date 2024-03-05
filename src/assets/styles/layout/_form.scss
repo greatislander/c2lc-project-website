@@ -47,7 +47,7 @@ form {
       margin-block-end: var(--space-sm);
     }
 
-    div + div {
+    div + div:not(.fl-choice) {
       margin-block-start: var(--space-md);
     }
   }
