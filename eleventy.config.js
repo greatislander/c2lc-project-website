@@ -31,6 +31,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addTransform("parse", parseTransform);
 
     // Passthrough copy
+    eleventyConfig.addPassthroughCopy("src/_redirects");
     eleventyConfig.addPassthroughCopy({"src/assets/icons": "/"});
     eleventyConfig.addPassthroughCopy({"src/assets/images": "assets/images"});
     eleventyConfig.addPassthroughCopy({"src/assets/media": "assets/media"});
