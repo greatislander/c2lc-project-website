@@ -6,7 +6,7 @@ subtitle: Discover new and inspiring ideas being explored around the world to
 headerBg: purple-75
 eleventyNavigation:
   key: Community
-  order: 4
+  order: 5
 permalink: /community/{% if pagination.pageNumber > 0 %}page/{{
   pagination.pageNumber + 1 }}/{% endif %}
 pagination:

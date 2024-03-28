@@ -50,7 +50,7 @@ subtitle: We’re designing educational coding tools for kids who have been left
   out of learning—especially those with complex needs.
 eleventyNavigation:
   key: About
-  order: 5
+  order: 6
 connectSection:
   title: Connect
   titleLink: mailto:idrc@ocadu.ca
