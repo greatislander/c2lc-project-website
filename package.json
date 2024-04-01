@@ -36,7 +36,7 @@
     "@babel/standalone": "7.22.14",
     "@zachleat/filter-container": "greatislander/filter-container#feat/paginated-results",
     "decap-cms": "3.0.5",
-    "eleventy-plugin-fluid": "2.5.0",
+    "eleventy-plugin-fluid": "2.7.1",
     "infusion": "4.6.0",
     "modern-css-reset": "1.4.0",
     "prop-types": "15.8.1",
