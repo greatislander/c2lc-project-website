@@ -34,19 +34,9 @@ books:
 ---
 ## Description
 
-In this activity, learners explore Weavly’s world selector to set the stage. Different scenes/backgrounds set the scene for stories and adventures:
+In this activity, learners explore Weavly’s "background selector" and "Custom background design" to set the scene for their programs. 
 
-* Sketchpad
-* Deep Ocean
-* Space
-* Camping Trip
-* Jungle
-* Landmarks
-* Jungle
-* Haunted House
-* Marble Run
-
-The different options available can inspire learners to create plans for adventure in these digital worlds. By considering the objects and/or characters, learners can create programs to make their stories come true. For example, take the submarine in the Deep Ocean background to reach the treasure chest.
+The different options available can inspire learners to create plans for adventure in these digital worlds. By considering the objects and/or characters, learners can create programs to make their stories come true. For example, take the submarine in the Deep Ocean background to reach the treasure chest. Or use the wall tiles to draw a maze on your scene and then build a program to help your character escape the maze. 
 
 Here are a few stories that you can use as a starter to get learners thinking of adventures: <https://www.education.com/game/the-missing-dragon-level-i/>\
 You can find more books for this activity here: <https://www.education.com/stories/>
@@ -56,8 +46,8 @@ You can find more books for this activity here: <https://www.education.com/stori
 * Work with the learner to pick a story and read the story together.
 * Engage the learner in a conversation about identifying a beginning, a middle and an end.
 * Engage the learner in creating a story and start by opening the world selector to pick a background and set the scene.
-* Find items in the background that can be used to create some context for the story.
-* Repeat with another background to continue or create another story.
+* Find items in the available backgrounds, or use the custom design background feature to modify these backgrounds, or create a whole new background from scratch for your story.
+* Build a program to move your character on your background. 
 
 ## Tips
 
