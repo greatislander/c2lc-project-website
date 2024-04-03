@@ -50,7 +50,7 @@ Game on! [Activity link](https://create.weavly.org/?v=1.7&t=default&w=Sports&p=&
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
-“This scene shows a green field with many popular sports’ icons placed on different areas. At the top from left to right, there is a badminton shuttlecock, basketball ball, running shoes, curling stone, golf ball, and a martial arts outfit. At the bottom, there is a pair of swimming goggles, a bike, table tennis racket, field hockey stick and ball, and a rowing boat. There are several items in the middle. In the top middle, there is a cricket bat and ball, a pair of skis and ski poles, an American football ball, a volleyball ball, and a bowling ball and pins. In the lower middle, there is a hockey stick and puck, soccer ball, baseball glove and ball, singlet, boxing gloves, tennis racket and ball, and a pair of ice skates. The character on this scene is a trophy”
+“This scene shows a green field with many popular sports’ icons placed on different areas. At the top from left to right, there is a badminton shuttlecock, basketball ball, running shoes, curling stone, golf ball, and a martial arts outfit. At the bottom, there is a pair of swimming goggles, a bike, table tennis racket, field hockey stick and ball, and a rowing boat. There are several items in the middle. In the top middle, there is a cricket bat and ball, a pair of skis and ski poles, an American football ball, a volleyball ball, and a bowling ball and pins. In the lower middle, there is a hockey stick and puck, soccer ball, baseball glove and ball, singlet, boxing gloves, tennis racket and ball, and a pair of ice skates. The character on this scene is a golf cart”
 
 ## Steps
 
