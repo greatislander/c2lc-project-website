@@ -48,7 +48,7 @@ What’s your favourite ride? [Activity link](https://create.weavly.org/?v=1.7&t
 
 Moderators can use this blurb to describe the background for the players before they start their adventure:
 
-“This scene shows a sunny day at an amusement park. The park entrance is at the top left corner. On the top from left to right, we have a game booth, the pirate ship ride, and the swing ride. In the middle from left to right, we have a merry go round, the water park, Ferris wheel, and the go karts. At the bottom left corner we have two roller coaster rides. At the bottom right corner, there is the food stand. Your on-screen character is a park admission ticket.”
+“This scene shows a sunny day at an amusement park. The park entrance is at the top left corner. On the top from left to right, we have a game booth, the pirate ship ride, and the swing ride. In the middle from left to right, we have a merry go round, the water park, Ferris wheel, and the go karts. At the bottom left corner we have two roller coaster rides. At the bottom right corner, there is the food stand. Your on-screen character is a train.”
 
 ## Steps
 
