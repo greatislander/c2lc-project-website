@@ -12,6 +12,9 @@ createSection:
     - title: How to share a program
       link: https://youtu.be/VZyaot1YL9U
       image: /assets/media/sharing-programs.png
+    - title: How to make a custom background
+      link: https://www.youtube.com/watch?v=3c5YW8N_Gdg
+      image: /assets/media/customizing-weavly.png
 learnSection:
   title: Educational Activities and Learning Resources
   content: Check out a collection of educational activities and coding tools.
