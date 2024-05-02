@@ -3,13 +3,16 @@ headerCallToActionText: Create
 createSection:
   title: Let's check out Weavly!
   cards:
-    - link: https://youtu.be/zg-TmHyBx0E
-      title: How to create a program in Weavly
-      image: /assets/media/creating-a-program-in-weavly.png
-    - title: How to customize Weavly
+    - title: Customize Weavly
       link: https://youtu.be/eAG2VnmCotc
       image: /assets/media/customizing-weavly.png
-    - title: How to share a program
+    - link: https://youtu.be/zg-TmHyBx0E
+      title: Create a program
+      image: /assets/media/creating-a-program-in-weavly.png
+    - title: Customize backgrounds
+      link: https://www.youtube.com/watch?v=3c5YW8N_Gdg
+      image: /assets/media/customizing-weavly.png
+    - title: Share a program
       link: https://youtu.be/VZyaot1YL9U
       image: /assets/media/sharing-programs.png
 learnSection:

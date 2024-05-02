@@ -116,7 +116,7 @@
     box-shadow: 0 0.5rem 0 0 var(--fl-fgColor, var(--color-red-45));
     inline-size: 64px;
     left: calc(50% - 64px / 2);
-    top: calc(35% - 64px / 2);
+    top: calc(25% - 64px / 2);
   }
 
   &:hover,
@@ -129,7 +129,7 @@
   &:active {
     .play-button {
       box-shadow: 0 6px 0 0 var(--fl-fgColor, var(--color-red-45));
-      top: calc(35% - 30px);
+      top: calc(25% - 30px);
     }
   }
 }
@@ -177,8 +177,8 @@
   margin: calc(var(--space) / 2);
 }
 
-.switcher > * > :nth-last-child(n+4),
-.switcher > * > :nth-last-child(n+4) ~ * {
+.switcher > * > :nth-last-child(n+5),
+.switcher > * > :nth-last-child(n+5) ~ * {
   flex-basis: 100%;
 }
 
