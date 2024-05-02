@@ -4,7 +4,7 @@ createSection:
   title: Let's check out Weavly!
   cards:
     - link: https://youtu.be/zg-TmHyBx0E
-      title: Create a program in Weavly
+      title: Create a program
       image: /assets/media/creating-a-program-in-weavly.png
     - title: Customize Weavly
       link: https://youtu.be/eAG2VnmCotc
@@ -12,7 +12,7 @@ createSection:
     - title: Share a program
       link: https://youtu.be/VZyaot1YL9U
       image: /assets/media/sharing-programs.png
-    - title: Make a custom background
+    - title: Customize backgrounds
       link: https://www.youtube.com/watch?v=3c5YW8N_Gdg
       image: /assets/media/customizing-weavly.png
 learnSection:
