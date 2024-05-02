@@ -4,14 +4,17 @@ createSection:
   title: Let's check out Weavly!
   cards:
     - link: https://youtu.be/zg-TmHyBx0E
-      title: How to create a program in Weavly
+      title: Create a program in Weavly
       image: /assets/media/creating-a-program-in-weavly.png
-    - title: How to customize Weavly
+    - title: Customize Weavly
       link: https://youtu.be/eAG2VnmCotc
       image: /assets/media/customizing-weavly.png
-    - title: How to share a program
+    - title: Share a program
       link: https://youtu.be/VZyaot1YL9U
       image: /assets/media/sharing-programs.png
+    - title: Make a custom background
+      link: https://www.youtube.com/watch?v=3c5YW8N_Gdg
+      image: /assets/media/customizing-weavly.png
 learnSection:
   title: Educational Activities and Learning Resources
   content: Check out a collection of educational activities and coding tools.
