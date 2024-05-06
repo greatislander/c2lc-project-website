@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/codelearncreate/weavly.org/compare/v1.6.0...v1.7.0) (2024-05-06)
+
+
+### Features
+
+* add co-design to menu (resolves [#874](https://github.com/codelearncreate/weavly.org/issues/874)) ([#876](https://github.com/codelearncreate/weavly.org/issues/876)) ([03e10d9](https://github.com/codelearncreate/weavly.org/commit/03e10d9668a43f846c4e1083819718fafe53d091))
+* add phone number and display IDRC project lead email on footer ([#872](https://github.com/codelearncreate/weavly.org/issues/872)) ([55df1a4](https://github.com/codelearncreate/weavly.org/commit/55df1a41149d5096074a521c7c28508100e733ba))
+* add redirects ([#873](https://github.com/codelearncreate/weavly.org/issues/873)) ([de10652](https://github.com/codelearncreate/weavly.org/commit/de106524d58f76c64bd5a14ae84c7a88a206effd))
+* remove analytics (resolves [#863](https://github.com/codelearncreate/weavly.org/issues/863)) ([#864](https://github.com/codelearncreate/weavly.org/issues/864)) ([b65bdcd](https://github.com/codelearncreate/weavly.org/commit/b65bdcdc3d36e1b0a1f91357246786658d42837a))
+* remove large media ([#875](https://github.com/codelearncreate/weavly.org/issues/875)) ([79c43f4](https://github.com/codelearncreate/weavly.org/commit/79c43f46d1da3f19150cc3f3c3b4fa8862b2d0b5))
+* support four cards on home page ([#893](https://github.com/codelearncreate/weavly.org/issues/893)) ([bf1f472](https://github.com/codelearncreate/weavly.org/commit/bf1f47294819ad2c31d1d8b775ee98c667871bcf))
+* update footer content ([#853](https://github.com/codelearncreate/weavly.org/issues/853)) ([0f393a9](https://github.com/codelearncreate/weavly.org/commit/0f393a9960c817233ed6456005f8551c9320b8a0))
+* update footer layout and content for supports ([#871](https://github.com/codelearncreate/weavly.org/issues/871)) ([67a6b00](https://github.com/codelearncreate/weavly.org/commit/67a6b00cffa8961d4f34b48658c3301732ffb3b9))
+
+
+### Bug Fixes
+
+* idrc email address ([#870](https://github.com/codelearncreate/weavly.org/issues/870)) ([525a658](https://github.com/codelearncreate/weavly.org/commit/525a6587862ba313ba51f8b451e69710f8f2a3d8))
+* issue with form field style applying to UIO options ([#869](https://github.com/codelearncreate/weavly.org/issues/869)) ([3b14652](https://github.com/codelearncreate/weavly.org/commit/3b146528c1d337bab50aa7ec413874fba5b06e60))
+* use Netlify redirects file ([045218c](https://github.com/codelearncreate/weavly.org/commit/045218c27596dc4c36453647f67a10891e8f98df))
+
 ## [1.6.0](https://github.com/codelearncreate/weavly.org/compare/v1.5.0...v1.6.0) (2023-08-29)
 
 
