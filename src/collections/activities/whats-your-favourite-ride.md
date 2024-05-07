@@ -14,7 +14,7 @@ metaImageAlt: "An illustration showing Weavly scene with a ferris wheel,
 whatYouNeed: |-
   ### Tools
 
-  Device with internet access to open Weavly coding environment.
+  Device with internet access
 
   ### Skills
 
