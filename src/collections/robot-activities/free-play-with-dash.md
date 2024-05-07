@@ -1,5 +1,5 @@
 ---
-title: Free Play with Dash
+title: Play with Dash
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
@@ -11,27 +11,20 @@ description: This activity explores features of Dash.
 metaImage: /assets/media/free_play_with_dash.jpg
 metaImageAlt: Illustration of markers taped to Dash creating arcs and surrounded
   by action blocks
-whatYouNeed: >-
+whatYouNeed: |-
   ### Tools
 
-
-  Large sheet of paper, tape, markers, a device to access Weavly and/or Block.ly, Dash
-
+  Large sheet of paper, tape, markers, a device to access Block.ly, Dash
 
   ### Skills
 
-
   Logical skills to understand basic directions and repetition
-
 
   ### Environment
 
-
   Indoor area with space for Dash to move around
 
-
   ### Support
-
 
   Depends on the learner, assistance may be required to guide or facilitate
 books:
@@ -51,9 +44,8 @@ Watch the activity video: [Video Link](https://www.youtube.com/watch?v=PfgcanzYu
 * Place a large sheet of paper on a hard and flat surface and tape its edges.
 * Tape a marker on each side of Dash. Make sure the marker tips can touch the paper.
 * Turn on Dash.
-* Connect Weavly to Dash.
-* Use different action blocks in Weavly to build a program sequence.
-* Select the Play button to make Dash move on the paper and draw different shapes.
+* Connect Block.ly to Dash.
+* Build your program in Block.ly. to make Dash move on the paper and draw different shapes.
 
 ## Tips
 
