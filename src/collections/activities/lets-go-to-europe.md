@@ -13,7 +13,7 @@ metaImageAlt: "This illustration show a map of Europe and backpack. "
 whatYouNeed: |-
   ### Tools
 
-  Device with internet access to open Weavly coding environment.
+  Device with internet access
 
   ### Skills
 
