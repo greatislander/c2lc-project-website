@@ -1,5 +1,5 @@
 ---
-title: Play with Dash
+title: Draw with Dash
 tags:
   - Dash & Dot
 experience: Blockly Coding Experience
