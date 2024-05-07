@@ -15,7 +15,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Device to access Weavly and/or Block.ly, Dash, and Dot
+  Device to access Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -46,7 +46,7 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 ## Steps
 
-* Open Block.ly or Weavly and connect with Dash or Dot robot.
+* Open Block.ly and connect with Dash or Dot robot.
 * Find the setting panel for animation.
 * Select three different animation options to see on Dash or Dot.
 * Find the setting panel for drive.
@@ -62,7 +62,7 @@ In this activity, learners can explore different visual and kinesthetic options 
 
 ## Change it up 
 
-* Complete this activity again with different setting options for animation, drive and look options that were not chosen before, if any remain.
+Complete this activity again with different setting options for animation, drive and look options that were not chosen before, if any remain.
 
 ## Skill Development
 
