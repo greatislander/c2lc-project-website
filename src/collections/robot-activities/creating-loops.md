@@ -14,7 +14,7 @@ metaImageAlt: Pink background with illustration of Dash robot that is following
 whatYouNeed: |-
   ### Tools
 
-  Device to access Weavly and/or Block.ly, Dash and Dot
+  Device to access Block.ly, Dash, and Dot
 
   ### Skills
 
@@ -41,8 +41,8 @@ Dash and Dot robots will demonstrate the short simple loop sequences in real-tim
 
 ## Steps
 
-* Create a loop sequence of three blocks for your robot on Weavly or Block.ly.
-* Connect Weavly or Block.ly to your robot.
+* Create a loop sequence of three blocks for your robot on Block.ly.
+* Connect Block.ly to your robot.
 * Play your sequence.
 * If the loop sequence was not what you hoped, debug by changing the sequence to what you hoped.
 * Test your loop on Dash or Dot.
@@ -56,11 +56,11 @@ Dash and Dot robots will demonstrate the short simple loop sequences in real-tim
 
 ## Change it up
 
-* Incorporate three different action blocks (e.g. light, sound, animation, look, drive, directions) in the loop sequence.
+Incorporate three different action blocks (e.g. light, sound, animation, look, drive, directions) in the loop sequence.
 
 ## Level Up 
 
-* Complete this activity again with a longer loop sequence (e.g. four or five blocks).
+Complete this activity again with a longer loop sequence (e.g. four or five blocks).
 
 ## Skill Development
 
