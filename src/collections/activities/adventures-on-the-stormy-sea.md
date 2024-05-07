@@ -14,7 +14,7 @@ metaImageAlt: "An illustration of Weavly scene with a light house, stormy
 whatYouNeed: |-
   ### Tools
 
-  Device with internet connection to open Weavly coding environment.
+  Device with internet access
 
   ### Skills
 
