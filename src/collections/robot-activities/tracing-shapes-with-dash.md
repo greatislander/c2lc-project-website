@@ -15,7 +15,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Large sheet of paper, tape, markers, [](https://resources.codelearncreate.org/PDF/Shapes.pdf)shapes for tracing, device to access Weavly and/or Block.ly, Dash 
+  Large sheet of paper, tape, markers, [](https://resources.codelearncreate.org/PDF/Shapes.pdf)shapes for tracing, device to access Block.ly, Dash, and Dot 
 
 
   ### Skills
