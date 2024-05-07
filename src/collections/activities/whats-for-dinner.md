@@ -15,7 +15,7 @@ metaImageAlt: "An illustration showing the Weavll grid with different food otems
 whatYouNeed: |-
   ### Tools
 
-  Device with internet access to open Weavly coding environment.
+  Device with internet access
 
   ### Skills
 
