@@ -14,7 +14,7 @@ metaImageAlt: Illustration of Dot holding orange ball with dashed line to clock
 whatYouNeed: |-
   ### Tools
 
-  Device with access to internet, Dash and Dot, adapted materials
+  Device to access Block.ly, Dash and Dot adapted materials
 
   ### Skills
 
@@ -36,7 +36,7 @@ supportiveMaterial: []
 ---
 ## Description
 
-Conditions can affect what the robot does, such as pause programming until that condition is met. In this activity, Dash and Dot will stop and wait for a specific event to happen before they can finish the program. Learners are introduced to conditional blocks that help Dash and Dot make decisions.  Learners will explore the 'Wait for' and 'Wait for “x” seconds blocks' on Weavly or Block.ly in the Control category with Repeat blocks. Learners will learn to recognize the events that can prompt the wait for conditions to take place until an event occurs or a set amount of time has passed.
+Conditions can affect what the robot does, such as pause programming until that condition is met. In this activity, Dash and Dot will stop and wait for a specific event to happen before they can finish the program. Learners are introduced to conditional blocks that help Dash and Dot make decisions.  Learners will explore the 'Wait for' and 'Wait for “x” seconds blocks' on Block.ly in the Control category with Repeat blocks. Learners will learn to recognize the events that can prompt the wait for conditions to take place until an event occurs or a set amount of time has passed.
 
 ## Steps
 
@@ -82,7 +82,7 @@ Conditions can affect what the robot does, such as pause programming until that 
 
 ## Tips
 
-* Test program and count the seconds for the "Wait for" out loud.
+Test program and count the seconds for the "Wait for" out loud.
 
 ## Skill Development
 
