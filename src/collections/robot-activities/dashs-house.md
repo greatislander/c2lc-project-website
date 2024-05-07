@@ -14,7 +14,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Device to access the Weavly and/or Block.ly, Dash
+  Device to access Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -50,7 +50,7 @@ In this activity, learners try building very simple programs to move Dash in and
   * Build them with Lego/cardboard 
   * Draw two pictures of different houses
 * Place the two houses three feet apart and place Dash in front of its house.
-* Open Weavly or Block.ly. and connect with Dash robot.
+* Open Block.ly. and connect with Dash robot.
 * Use the coding environment to make Dash move outside of its house (possibly two Forwards).
 * Use the coding environment to take Dash back inside its house (possibly two 90 degree turns and two forwards).
 * Next, try taking Dash out of its house and move it to the neighbor’s house for tea!
@@ -70,4 +70,4 @@ In this activity, learners try building very simple programs to move Dash in and
 
 ## Level Up
 
-Add other objects or toys in the environment that are farther from Dash’s house and instruct learners to take Dash to those items and return it to its house afterward.
+Add other objects or toys in the environment that are farther from Dash’s house and instruct learners to take Dash to those items and return it to its house afterwards.
