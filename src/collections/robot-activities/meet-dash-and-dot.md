@@ -16,7 +16,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Device to access the Weavly and/or Blockly, and Dash and Dot
+  Device to access Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -43,13 +43,13 @@ books:
 ---
 ## Description
 
-In this activity, learners can explore different movements and visual and audio options for Dash and Dot. As they try its different features, learners will become familiar with the block-based coding environment, such as Blockly or Weavly.
+In this activity, learners can explore different movements and visual and audio options for Dash and Dot. As they try its different features, learners will become familiar with Block.ly that is a block-based coding environment.
 
 ## Steps
 
-* Open Block.ly or Weavly.
-* Connect Block.ly or Weavly to Dash or Dot.
-* Use the Block.ly or Weavly blocks to create a sequence for the robot you have connected.
+* Open Block.ly.
+* Connect Block.ly to Dash or Dot.
+* Use Block.ly to create a sequence for the robot you have connected.
 * Find the setting panel for light.
 * Select three different light options to see on Dash or Dot.
 * Find the setting panel for sound.
