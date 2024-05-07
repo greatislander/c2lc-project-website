@@ -15,7 +15,7 @@ whatYouNeed: >-
   [](https://create.weavly.org/?v=0.9&t=mixed&w=Space&p=&c=abb&a=123456ABDabd)Tools
 
 
-  Internet access and a device to open Weavly coding environment
+  Device with internet access
 
 
   ### Skills
