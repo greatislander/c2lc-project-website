@@ -85,8 +85,6 @@ A script to say to learners:
 
 Learners can use loops to repeat a specific part of their program in Weavly. The action blocks within a loop become the unit to be repeated when played. Learners can specify how many times they want a loop to be repeated without needing to add each action block unit repeatedly. With loops, learners can create repeated patterns and geometric shapes efficiently. They can also create loops within other loops that are called ‘Nested loops’ in programming. With nested loops, learners can create even more complex geometric shapes in Weavly using less steps. 
 
-![Different parts of loops in Weavly](/assets/media/loop.jpg "Loop ")
-
 A Loop in Weavly consists of three main parts: Loop start block, Loop End Block, and the Loop content. Each loop has a label made of a combination of alphabet letters that is indicated on both its start and end blocks. On the loop start block, there is the loop counter where learners can enter the number of times they want the loop content to be repeated. Deleting either the loop start or end block will delete both ends of the loop but it does not delete the loop content. If the learner moves the loop's start or end blocks in their program, the entire loop, including the content, will move in the sequence. 
 
 A script to say to learners:
