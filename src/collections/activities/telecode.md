@@ -13,7 +13,7 @@ metaImageAlt: An illustration showing two hands clapping. There are four weavly
 whatYouNeed: |-
   ### Tools
 
-  Device to play music and access to the Weavly coding environment
+  Device with internet access
 
   ### Skills
 
