@@ -16,7 +16,7 @@ metaImageAlt: a An illustration of Weavly scene with several sports items on it,
 whatYouNeed: |-
   ### Tools
 
-  Device with internet access to open Weavly coding environment.
+  Device with internet access
 
   ### Skills
 
