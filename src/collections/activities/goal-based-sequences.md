@@ -14,7 +14,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Device to access 'Weavly coding environment'
+  Device with internet access
 
 
   ### Skills
