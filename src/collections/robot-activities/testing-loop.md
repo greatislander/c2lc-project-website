@@ -15,7 +15,7 @@ whatYouNeed: >-
   ### Tools
 
 
-  Device to access Weavly and/or Block.ly, Dash, and Dot
+  Device to access Block.ly, Dash, and Dot
 
 
   ### Skills
@@ -42,15 +42,15 @@ books:
 ---
 ## Description
 
-In this activity, learners will use Weavly to apply their knowledge of directions, sequencing, and loop creation. Learners will use their familiarity with Weavly or Block.ly and Dash and Dot robots to create loop sequences in real-time. The kinesthetic output from the robots will encourage sequence tracking, an early task necessary for debugging and correction. This activity incorporates a social component to encourage demonstration and collaboration.
+In this activity, learners will use Block.ly to apply their knowledge of directions, sequencing, and loop creation. Learners will use their familiarity with Block.ly and Dash and Dot robots to create loop sequences in real-time. The kinesthetic output from the robots will encourage sequence tracking, an early task necessary for debugging and correction. This activity incorporates a social component to encourage demonstration and collaboration.
 
 ## Steps
 
 Select one individual to be Learner 1 and another to be Learner 2.
 
 * Using only words, Learner 1 tells Learner 2 a simple sequence of 3-5 blocks you would like to repeat. This will be your ‘loop’ sequence.
-* Learner 2 creates the loop sequence that Learner 1 has described in Weavly or Block.ly. (Do not let Learner 1 see your program until you are finished.)
-* Learner 2 connects Weavly or Block.ly to Dash.
+* Learner 2 creates the loop sequence that Learner 1 has described in Block.ly. (Do not let Learner 1 see your program until you are finished.)
+* Learner 2 connects Block.ly to Dash.
 * Learner 2 plays their program to move Dash.
 * Discuss with the other learner if the played sequence what Learner 1 had described.
 * If it was not the sequence as Learner 1 described, try to find where the sequence did not match what and fix the sequence.
