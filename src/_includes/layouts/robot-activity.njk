@@ -1,6 +1,9 @@
 {% extends "layouts/base.njk" %}
 
 {% set bodyClass = "robot-activity" %}
+
+{% set robot = tags[0] %}
+
 {% if (topic === "Sequencing") or (topic === "Conditions") or (topic === "Debugging") %}
   {% set headerBg = "yellow-75" %}
 {% elif topic === "Sorting & Patterns" %}
