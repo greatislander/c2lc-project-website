@@ -1,4 +1,5 @@
         {% set headingLevel = "h2" %}
+        {% set robot = item.data.tags[0] %}
         <article class=" [ card ]" data-filter-topic="{{ item.data.topic }}" data-filter-experience="{{ item.data.experience }}">
             <div class="[ card__image ]">
                   {% image item.data.metaImage, item.data.metaImageAlt, 570, 393 %}
@@ -16,7 +17,7 @@
             {% else %}
             </h3>
             {% endif %}
-            <p class="metadata">{{ item.data.robot }} &middot; {{ item.data.experience }} &middot; {{ item.data.topic }}</p>
+            <p class="metadata">{{ robot }} &middot; {{ item.data.experience }} &middot; {{ item.data.topic }}</p>
             {% if item.data.description %}
             <p>{{ item.data.description | safe }}</p>
             {% endif %}
