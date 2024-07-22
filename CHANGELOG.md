@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.1](https://github.com/codelearncreate/weavly.org/compare/v1.7.0...v1.7.1) (2024-07-22)
+
+
+### Bug Fixes
+
+* robot activity tags ([#920](https://github.com/codelearncreate/weavly.org/issues/920)) ([2de5d6f](https://github.com/codelearncreate/weavly.org/commit/2de5d6f2334258ea3038751895da52762f274103))
+
 ## [1.7.0](https://github.com/codelearncreate/weavly.org/compare/v1.6.0...v1.7.0) (2024-05-06)
 
 
